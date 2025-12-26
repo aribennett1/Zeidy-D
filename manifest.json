@@ -10,23 +10,34 @@
     },
     "02 - Noach": {
       "5784": "Noach 5784",
-      "5785": "Noach 5785"
+      "5785": "Noach 5785",
+      "5786": "Noach 5786"
     },
     "03 - Lech Lecha": {
       "5784": "Lech Lecha 5784",
-      "5785": "Lech Lecha 5785"
+      "5785": "Lech Lecha 5785",
+      "5786": {
+        " Lech Lecha (1)": "Lech Lecha 5786 (1)",
+        " Lech Lecha (2)": "Lech Lecha 5786 (2)"
+      }
     },
     "04 - Vayairah": {
       "5784": "Vayairah 5784",
-      "5785": "Vayairah 5785"
+      "5785": "Vayairah 5785",
+      "5786": {
+        "Vayairah (1)": "Vayairah 5786 (1)",
+        "Vayairah (2)": "Vayairah 5786 (2)"
+      }
     },
     "05 - Chayai Sara": {
       "5784": "Chayai Sara 5784",
-      "5785": "Chayai Sara 5785"
+      "5785": "Chayai Sara 5785",
+      "5786": "Chayai Sara 5786"
     },
     "06 - Toldos": {
       "5784": "Toldos 5784",
-      "5785": "Toldos 5785"
+      "5785": "Toldos 5785",
+      "5786": "Toldos 5786"
     },
     "07 - Vayaitzei": {
       "5783": "Vayaitzei 5783",
@@ -36,7 +47,8 @@
     "08 - Vayishlach": {
       "5783": "Vayishlach 5783",
       "5784": "Vayishlach 5784",
-      "5785": "Vayishlach 5785"
+      "5785": "Vayishlach 5785",
+      "5786": "Vayishlach 5786"
     },
     "09 - Vayaishev": {
       "5783": "Vayaishev 5783",
@@ -376,14 +388,17 @@
       "5784": "Chanukah 5784",
       "5785": "Chanukah 5785"
     },
-    "16 - Tu Beshvat": {
+    "16 - 10 Teves": {
+      "5785": "10 Teves 5785"
+    },
+    "17 - Tu Beshvat": {
       "5784": "Tu Beshvat 5784",
       "5785": "Tu Beshvat 5785"
     },
-    "17 - Purim Katon": {
+    "18 - Purim Katon": {
       "5784": "Purim Katon 5784"
     },
-    "18 - Purim": {
+    "19 - Purim": {
       "5783": {
         "Krovitz": "Krovitz",
         "Purim Dvar Torah 5783": "Purim Dvar Torah 5783",
