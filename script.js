@@ -39,6 +39,33 @@ async function loadMeta(relativePath) {
 
 const CONTENT_KEY = "__content";
 
+function normalizeMetaList(value) {
+  if (!value) return [];
+  const items = Array.isArray(value) ? value : [value];
+  return items.filter((item) => typeof item === "string" && item.trim() !== "");
+}
+
+function getMediaEmbeds(meta) {
+  const youtubeVideos = normalizeMetaList(meta.youtube).map((videoId, index) => ({
+    src: `https://www.youtube.com/embed/${videoId.trim()}`,
+    title: `YouTube player ${index + 1}`,
+    allow:
+      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+    allowfullscreen: "",
+  }));
+
+  const driveVideos = normalizeMetaList(meta.googleDrive || meta.drive).map(
+    (fileId, index) => ({
+      src: `https://drive.google.com/file/d/${fileId.trim()}/preview`,
+      title: `Google Drive player ${index + 1}`,
+      allow: "autoplay",
+      allowfullscreen: "",
+    })
+  );
+
+  return [...youtubeVideos, ...driveVideos];
+}
+
 function el(tag, props = {}, ...children) {
   const node = document.createElement(tag);
   Object.entries(props).forEach(([k, v]) => {
@@ -276,50 +303,32 @@ async function showContent(relativePath, baseFilename) {
   // Create embeds container for YouTube + Audio
   const embedsContainer = el("div", { class: "embeds-container" });
 
-  // Meta (YouTube)
+  // Meta (YouTube and Google Drive)
   try {
     const meta = await loadMeta(relativePath);
     let hasEmbeds = false;
+    const mediaEmbeds = getMediaEmbeds(meta);
 
-    if (!meta.youtube || meta.youtube === "") {
-      const youtubeError = el(
+    if (mediaEmbeds.length === 0) {
+      const mediaError = el(
         "div",
         { class: "media-error" },
-        "📺 No YouTube video found"
+        "📺 No video found"
       );
-      statusContainer.appendChild(youtubeError);
+      statusContainer.appendChild(mediaError);
     } else {
-      const youtubeVideos = Array.isArray(meta.youtube)
-        ? meta.youtube
-        : [meta.youtube];
+      // Create container for all videos
+      const videosContainer = el("div", { class: "videos-container" });
 
-      // Filter out empty video IDs
-      const validVideos = youtubeVideos.filter(
-        (videoId) => videoId && videoId.trim() !== ""
-      );
+      mediaEmbeds.forEach((embed) => {
+        const ytWrapper = el("div", { class: "youtube-wrapper" });
+        const yt = el("iframe", embed);
+        ytWrapper.appendChild(yt);
+        videosContainer.appendChild(ytWrapper);
+      });
 
-      if (validVideos.length > 0) {
-        // Create container for all videos
-        const videosContainer = el("div", { class: "videos-container" });
-
-        validVideos.forEach((videoId, index) => {
-          let embedUrl = `https://www.youtube.com/embed/${videoId}`;
-
-          const ytWrapper = el("div", { class: "youtube-wrapper" });
-          const yt = el("iframe", {
-            src: embedUrl,
-            title: `YouTube player ${index + 1}`,
-            allow:
-              "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
-            allowfullscreen: "",
-          });
-          ytWrapper.appendChild(yt);
-          videosContainer.appendChild(ytWrapper);
-        });
-
-        embedsContainer.appendChild(videosContainer);
-        hasEmbeds = true;
-      }
+      embedsContainer.appendChild(videosContainer);
+      hasEmbeds = true;
     }
 
     // Try to show audio player using base filename

@@ -12,6 +12,19 @@ const FALLBACK_FILE = "./404.html";
 const GENERATED_FALLBACK_MARKER = "<!-- Generated fallback page: do not edit directly. -->";
 const CONTENT_KEY = "__content";
 
+function hasMetaVideos(metaContent) {
+  return [metaContent.youtube, metaContent.googleDrive, metaContent.drive].some(
+    (value) => {
+      if (!value) return false;
+      if (Array.isArray(value)) {
+        return value.some((id) => typeof id === "string" && id.trim() !== "");
+      }
+
+      return typeof value === "string" && value.trim() !== "";
+    }
+  );
+}
+
 // Helper function to prompt user for confirmation
 function promptUser(question) {
   return new Promise((resolve) => {
@@ -107,16 +120,12 @@ async function buildManifest() {
                 const metaContent = JSON.parse(
                   fs.readFileSync(metaJsonPath, "utf8")
                 );
-                const hasYoutube =
-                  metaContent.youtube &&
-                  (Array.isArray(metaContent.youtube)
-                    ? metaContent.youtube.some((id) => id && id.trim() !== "")
-                    : metaContent.youtube.trim() !== "");
+                const hasVideos = hasMetaVideos(metaContent);
 
-                if (hasYoutube) {
-                  // Has YouTube content, no file-based content
+                if (hasVideos) {
+                  // Has embeddable video content, no file-based content
                   contentValue = null;
-                  console.log(`${indent}${icon} ✅ ${entry} (YouTube only)`);
+                  console.log(`${indent}${icon} ✅ ${entry} (video only)`);
                 } else {
                   warnings.push("no content files");
                   status = "⚠️";
