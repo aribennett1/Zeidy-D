@@ -1426,6 +1426,10 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
       "$1: "
     )
     .replace(
+      new RegExp(`(${LTR_ISOLATE}\\([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*\\)${POP_DIRECTIONAL_ISOLATE})(?=${RTL_ISOLATE})`, "gu"),
+      "$1 "
+    )
+    .replace(
       new RegExp(`(${POP_DIRECTIONAL_ISOLATE}[.?!])(?=[${LTR_ISOLATE}${RTL_ISOLATE}])`, "gu"),
       "$1 "
     )

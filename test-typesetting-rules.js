@@ -1457,7 +1457,7 @@ test("docx: Shmini Atzeres 5784 keeps semicolon between Hebrew phrases in Englis
 
   assertContains(
     typst,
-    `does their ${RTL_ISOLATE}רצון${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE};${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}וְאֶת שַׁוְעָתָם יִשְׁמַע וְיוֹשִׁיעֵם${POP_DIRECTIONAL_ISOLATE} - Hashem hears`,
+    `their ${RTL_ISOLATE}רצון${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE};${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}וְאֶת שַׁוְעָתָם יִשְׁמַע וְיוֹשִׁיעֵם${POP_DIRECTIONAL_ISOLATE} - Hashem hears`,
     "semicolon between Shmini Atzeres Hebrew phrases"
   );
   assertNotContains(

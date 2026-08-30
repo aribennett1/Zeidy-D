@@ -1441,19 +1441,19 @@
       ],
       "createdAt": "2026-07-24T04:27:34.965Z"
     },
-    "the-short-vort": {
-      "displayName": "The Short Vort",
-      "aliases": [
-        "The Short Vort"
-      ],
-      "createdAt": "2026-07-24T04:28:01.782Z"
-    },
     "the-weekly-vort": {
       "displayName": "The Weekly Vort",
       "aliases": [
         "The Weekly Vort"
       ],
       "createdAt": "2026-07-24T04:28:19.203Z"
+    },
+    "shem-mishmuel": {
+      "displayName": "Shem Mishmuel",
+      "aliases": [
+        "שם משמואל"
+      ],
+      "createdAt": "2026-07-24T04:29:02.378Z"
     },
     "the-yid-hakodosh": {
       "displayName": "Yid Hakodosh",
