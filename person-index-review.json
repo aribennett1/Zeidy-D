@@ -177,15 +177,10 @@
       ],
       "createdAt": "2026-07-24T01:50:33.385Z"
     },
-    "gerrer-rebbe": {
-      "displayName": "Gerrer Rebbe (R' Avraham Mordechai, Chidushi HaRim)",
+    "gerrer-rebbe-r-avraham-mordechai": {
+      "displayName": "Gerrer Rebbe (R' Avraham Mordechai)",
       "aliases": [
-        "Gerrer Rebbe",
-        "Avraham Mordechai",
-        "R' Avraham Mordechai",
-        "The Gerrer Rebbe",
-        "הרי\"ם",
-        "הרי״ם"
+        "Avraham Mordechai"
       ],
       "createdAt": "2026-07-24T01:50:53.501Z"
     },
@@ -1844,8 +1839,9 @@
       "createdAt": "2026-07-24T05:48:16.041Z"
     },
     "chidushei-harim": {
-      "displayName": "Chidushei HaRim",
+      "displayName": "Gerrer Rebbe (Chidushei HaRim, R' Yitzchak Meir Alter)",
       "aliases": [
+        "Chidushi Harim",
         "Chidushei HaRim",
         "חידושי הרי״ם"
       ],
@@ -2006,10 +2002,18 @@
       "createdAt": "2026-07-24T06:03:58.236Z"
     },
     "sfas-emes": {
-      "displayName": "Sfas Emes",
+      "displayName": "Gerrer Rebbe (Sfas Emes, R' Yehudah Aryeh Leib Alter)",
       "aliases": [
         "Sfas Emes",
         "שפת אמת"
+      ],
+      "createdAt": "2026-07-24T06:04:15.839Z"
+    },
+    "imrei-emes": {
+      "displayName": "Gerrer Rebbe (Imrei Emes, R' Avraham Mordechai Alter)",
+      "aliases": [
+        "Imrei Emes",
+        "אמרי אמת"
       ],
       "createdAt": "2026-07-24T06:04:15.839Z"
     },

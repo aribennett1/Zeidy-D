@@ -1652,11 +1652,11 @@ test("docx: Sukkos 5786 keeps comma after mitzvah before closing quote", () => {
 
   assertContains(
     typst,
-    `we would have had a ${RTL_ISOLATE}מצוה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} we would have done it`
+    `we would have had a\n${RTL_ISOLATE}מצוה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} we would have done it`
   );
   assertContains(
     typst,
-    `I'll give you a ${RTL_ISOLATE}מצוה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE}”`
+    `I'll give you an\neasy ${RTL_ISOLATE}מצוה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE}”`
   );
   assertNotContains(
     typst,
