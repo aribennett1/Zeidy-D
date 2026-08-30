@@ -9046,7 +9046,7 @@ hand”, and he did it with two hands; ⁧וַעֲשָׂאוֹ כִכְלִי מ
 gave was as if he was filling a vessel to full and overflowing. What
 does ⁦רש״י⁩#metadata(none) <person-index-rashi-664> mean by ⁧מָלֵא וְגָדוּשׁ⁩⁦?⁩
 
-R’ Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-658> brings down that the Dubno Maggid#metadata(none) <person-index-dubna-maggid-656> asked the Vilna
+R’ Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-658> brings down that the Dubno Maggid#metadata(none) <person-index-dubno-maggid-656> asked the Vilna
 Gaon, #metadata(none) <person-index-vilna-gaon-666> how is it that a ⁧צדיק⁩ positively influences the people around him?
 The Gaon#metadata(none) <person-index-vilna-gaon-667> explained: imagine you have a becher surrounded by a whole
 series of smaller bechers, with little conduits from the big becher to
@@ -12518,7 +12518,7 @@ summer months, has a beautiful essay on the phrase ⁧בְּיוֹם חֲתֻנ�
 ⁧כלה⁩ of ⁧שיר השירים⁩. He mentions a fascinating ⁧מדרש⁩ based on a pasuk in
 (⁧מלכים א⁩ (⁧ה⁩: ⁦י״ב⁩, describing the vastness of ⁦שלמה המלך'⁩s wisdom. The ⁧נביא⁩
 says, ⁧וַיְדַבֵּר שְׁלֹשֶׁת אֲלָפִים מָשָׁל⁩ - he spoke 3,000 ⁧משלים⁩. So what if ⁧שלמה המלך⁩
-was able to come up with 3,000 ⁧משלים⁩? The Dubno Maggid#metadata(none) <person-index-dubna-maggid-921> might have had
+was able to come up with 3,000 ⁧משלים⁩? The Dubno Maggid#metadata(none) <person-index-dubno-maggid-921> might have had
 almost as many, if not more. What is the pasuk really telling us?
 
 The ⁧נביא⁩ isn't just saying that ⁧שלמה המלך⁩ came up with a lot of ⁧משלים⁩.
@@ -14158,71 +14158,65 @@ has for us, and we should reciprocate and have the ⁧חיבה⁩ back.
   ))
 = Shmini Atzeres (2) 5786
 
-The ⁧יום טוב⁩ of ⁧שמיני עצרת⁩ is an extraordinarily unusual ⁧יום טוב⁩. No
-⁧לולב⁩⁦,⁩ no ⁧מצה⁩⁦,⁩ no ⁧שופר⁩⁦,⁩ no fasting, no particular ⁧מצות היום⁩. It is a day
-devoted to one thing amongst others, but the main concept that ⁧שמיני עצרת⁩ is famous for is the concept of ⁧דביקות⁩. ⁧דביקות⁩ is a word that was
-is bandied about quite a bit. We talk about it, there's an enormous
-amount of ⁧תורה⁩ on the word ⁧דביקות⁩. But we really don't know what ⁧דביקות⁩
-is and what it encompasses. ⁧דביקות⁩ means closeness, attachment. How can
-we explain or understand the concept of ⁧דביקות⁩⁦,⁩ of being close to
-Hashem, of bringing ourselves close?
+The ⁧יום טוב⁩ of ⁧שמיני עצרת⁩ is an extraordinary ⁧יום טוב⁩. No ⁧לולב⁩⁦,⁩ no ⁧מצה⁩⁦,⁩ no ⁧שופר⁩⁦,⁩ no fasting, no particular ⁧מצות היום⁩. It is a day devoted to the
+concept of ⁧דביקות⁩. ⁧דביקות⁩ is a word that is bandied about quite a bit.
+We talk about it, there's an enormous amount of ⁧תורה⁩ on the word ⁧דביקות⁩.
+But we really don't know what ⁧דביקות⁩ is and what it encompasses. ⁧דביקות⁩
+means closeness, attachment. How can we explain or understand the
+concept of ⁧דביקות⁩⁦,⁩ of being close to Hashem, of bringing ourselves
+close?
 
-I have a ⁧משל⁩ here from the Dubna Maggid, #metadata(none) <person-index-dubna-maggid-1035> brought in to Torah Tavlin#metadata(none) <person-index-torah-tavlin-1037> from
-5785, who in his inimitable style is able to show us little people what
-⁧דביקות⁩ is all about. Here is the ⁧משל⁩:
+A ⁧משל⁩ from the Dubno Maggid, #metadata(none) <person-index-dubno-maggid-1035> brought in Torah Tavlin#metadata(none) <person-index-torah-tavlin-1037> 5785, is able to
+show us little people what ⁧דביקות⁩ is all about:
 
-A very well-to-do individual made frequent business trips far and wide.
-He tried his best to make them as short as possible so as not to go away
+A swell-to-do individual made frequent business trips far and wide. He
+tried his best to make them as short as possible so as not to be away
 from his family too much, but sometimes he didn't have a choice. On one
 such particular trip, he had an opportunity to become extremely wealthy.
 It would require a much longer stay abroad. He mulled over his options
-but ultimately decided it was worth it. He mulled over his options and
-ultimately decided it would be worth it. After packing the necessary
+but ultimately decided it was worth it. After packing the necessary
 provisions for his long journey, he bid farewell to his wife, his
 children, and his wife's children from a previous marriage who lived
 with them, and went off to a far away land.
 
 Weeks turned into months, but thanks to the flurry of letters back and
 forth, they were able to keep in touch. How they longed to see each
-other once again. It was only after many months he was finally able to
-wrap up his business dealings and begin heading home. Naturally, he
-notified his family of his upcoming arrival, and they were delighted
-that their father was at long last coming home. Finally the day arrived.
-The entire house was draped with adornments and each of the kids
-prepared signs of excitement and love, welcoming home their beloved
-father. A surge of exuberance capitulated the air. The excitement was
-tangible. As soon as he walked through the front door, a crowd of young
-little faces jumped at him with exhilaration. Their mother watched with
-tears of joy streaming from her face. He was finally home. When everyone
-calmed down a bit, the father unpacked many presents he brought back for
-the kids. First he presented his wife's kids with some of the amazing
-things he picked up in the faraway land, befitting for such a profoundly
-wealthy individual as himself. Then he presented his own kids with
-souvenirs he brought back.
+other once again. Only after many months was he finally able to wrap up
+his business dealings and begin heading home. Naturally, he notified his
+family of his upcoming arrival, and they were delighted that their
+father was at long last coming home. Finally the day arrived. The entire
+house was draped with adornments and each of the kids prepared signs of
+excitement and love, welcoming home their beloved father. A surge of
+exuberance filled the air. The excitement was tangible. As soon as he
+walked through the front door, a crowd of young little faces jumped at
+him with exhilaration. Their mother watched with tears of joy streaming
+down her face. He was finally home. When everyone calmed down a bit, the
+father unpacked many presents he brought back for the kids. First he
+presented his wife's kids with some of the amazing things he picked up
+in the faraway land, befitting such a profoundly wealthy individual as
+himself. Then he presented his own kids with souvenirs he brought back.
 
 Later that night his wife questioned why he gave such elaborate presents
 to her children whereas their children received much smaller ones. “I'll
-explain the discrepancy,” he explained to her. “Your children need
-larger presents because they don't have a natural father of their own.
-However, our kids are thrilled that I am back.”
+explain the discrepancy,” he said to her. “Your children need larger
+presents because they don't have a natural father of their own. However, our kids are thrilled that I am back.”
 
-The Dubna Maggid#metadata(none) <person-index-dubna-maggid-1036> explains that this is the reason for the discrepancy
-that we find throughout the duration of the ⁧יום טוב⁩ of ⁧סוכות⁩. Each day, many offerings are brought corresponding to the 70 nations of the world.
-But on the eighth day, corresponding to the Jewish nation, only one ⁧קרבן⁩
-was brought. We are lucky to be home with our Father, our King, the
-Creator of heaven and earth. For this reason, we ought to treasure the
-day and utilize it to draw closer to Him. Hashem has much to offer to
-those close and intimate with Him.
+The Dubno Maggid#metadata(none) <person-index-dubno-maggid-1036> explains that this is the reason for the discrepancy
+that we find for the duration of the ⁧יום טוב⁩ of ⁧סוכות⁩. Each day, many
+offerings are brought corresponding to the 70 nations of the world. But
+on the eighth day, corresponding to the Jewish nation, only one ⁧קרבן⁩ was
+brought. We are lucky to be home with our Father, our King, the Creator
+of heaven and earth. For this reason, we ought to treasure the day and
+utilize it to draw closer to Him. Hashem has much to offer to those
+close and intimate with Him.
 
 We are far away from the concept of ⁧דביקות⁩⁦,⁩ but we can understand the
-closeness and the intimate relationship a man has with his family, children, wife, whole family. We are connected to them. That type of
-relationship is only a very small example of the type of relationship we
-should have with Hashem. That is what ⁧שמיני עצרת⁩ represents. After all
-of the ⁧ימים טובים⁩⁦,⁩ after all of the ⁧תפילות⁩⁦,⁩ after all of the ⁧כפרה⁩⁦,⁩ after
-all of the ⁧שמחה⁩ of ⁧סוכות⁩⁦,⁩ ⁧זמן שמחתנו⁩⁦,⁩ our closeness to Hashem is at its
-peak. As is well known, brought down by many of the ⁧רבנים⁩ and the
-rebbishe ⁧גדולים⁩⁦,⁩ ⁧שמיני עצרת⁩ is the peak of all of our efforts of the
-year.
+closeness and the intimate relationship a man has with his wife and
+children. We are connected to them. That type of relationship is only a
+very small example of the type of relationship we should have with
+Hashem. That is what ⁧שמיני עצרת⁩ represents. After all of the ⁧ימים טובים⁩⁦,⁩ after all of the ⁧תפילות⁩⁦,⁩ after all of the ⁧כפרה⁩⁦,⁩ after all of the ⁧שמחה⁩ of
+⁧סוכות⁩⁦,⁩ ⁧זמן שמחתנו⁩⁦,⁩ our closeness to Hashem is at its peak. B’ezras
+Hashem, we hope that closeness should continue the whole year.
 
 #pagebreak()
 
@@ -16057,7 +16051,7 @@ in fact ⁧צדיק כתמר יפרח להגד כי ישר ה׳ צורי ולא 
 
 #index-row(("Dr. Allen Goldstein",), (label("person-index-dr-allen-goldstein-145"), label("person-index-dr-allen-goldstein-146"), label("person-index-dr-allen-goldstein-147"), label("person-index-dr-allen-goldstein-148"), label("person-index-dr-allen-goldstein-149"), label("person-index-dr-allen-goldstein-150"), label("person-index-dr-allen-goldstein-151"), label("person-index-dr-allen-goldstein-152")))
 
-#index-row(("Dubna Maggid",), (label("person-index-dubna-maggid-656"), label("person-index-dubna-maggid-921"), label("person-index-dubna-maggid-1035"), label("person-index-dubna-maggid-1036")))
+#index-row(("Dubno Maggid",), (label("person-index-dubno-maggid-656"), label("person-index-dubno-maggid-921"), label("person-index-dubno-maggid-1035"), label("person-index-dubno-maggid-1036")))
 
 #index-row(("Ellie Bennett",), (label("person-index-ellie-bennett-613"),))
 
