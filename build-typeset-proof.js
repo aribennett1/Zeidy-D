@@ -165,6 +165,10 @@ const HEBREW_TRAILING_PARSHAS_NAME_RE = new RegExp(
   `(^|[^\\u0590-\\u05FF\\uFB1D-\\uFB4F])(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){0,3})\\s+פרשת(?=\\s*(?:[,.;:?!-]|[A-Za-z]|$))`,
   "gu"
 );
+const HEBREW_FROM_PLACE_BEFORE_RABBI_NAME_RE = new RegExp(
+  `(^|[^\\u0590-\\u05FF\\uFB1D-\\uFB4F])((?:מ${HEBREW_LETTERS}+))\\s+(ר[׳']\\s+${HEBREW_TOKEN})(?=\\s*(?:[,.;:?!()\\-]|[A-Za-z]|$))`,
+  "gu"
+);
 const HEBREW_DAF_BEFORE_MASECHTA_RE = new RegExp(
   `\\(דף\\s+(${HEBREW_TOKEN})\\)\\s+מסכת\\s+(${HEBREW_TOKEN})`,
   "gu"
@@ -1060,6 +1064,7 @@ function normalizePunctuationSpacing(typstContent) {
     .replace(HEBREW_LOOSE_CITATION_CLOSE_RE, "$1($2)")
     .replace(MISSING_OPEN_HEBREW_CITATION_PAREN_RE, "$1 ($2):")
     .replace(HEBREW_TRAILING_PARSHAS_NAME_RE, "$1פרשת $2")
+    .replace(HEBREW_FROM_PLACE_BEFORE_RABBI_NAME_RE, "$1$3 $2")
     .replace(HEBREW_DAF_BEFORE_MASECHTA_RE, "מסכת $2 (דף $1)")
     .replace(HEBREW_PASUK_BEFORE_PEREK_RE, "פרק $2 פסוק $1")
     .replace(SHORT_HEBREW_PREFIX_DASH_RE, "$1$2 - $3")
@@ -1279,6 +1284,10 @@ function repairQuotedHebrewRuns(typstContent) {
     .replace(
       new RegExp(`${RTL_ISOLATE}[“"]([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}(\\\\?[.?!])”`, "gu"),
       `“${RTL_ISOLATE}$1${POP_DIRECTIONAL_ISOLATE}$2”`
+    )
+    .replace(
+      new RegExp(`${RTL_ISOLATE}[“"]([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}(${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE})(?=\\s+[A-Za-z])`, "gu"),
+      `“${RTL_ISOLATE}$1${POP_DIRECTIONAL_ISOLATE}$2`
     );
 }
 

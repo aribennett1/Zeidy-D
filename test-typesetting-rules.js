@@ -711,6 +711,13 @@ test("keeps English quotes outside a quoted Hebrew phrase", () => {
   );
 });
 
+test("keeps opening quote outside inline quoted Hebrew before English continuation", () => {
+  assert.equal(
+    applyTextRules('made the following proclamation: "ריבונו של עולם, you told us'),
+    `made the following proclamation: “${RTL_ISOLATE}ריבונו של עולם${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} you told us`
+  );
+});
+
 test("moves extracted leading comma to the end of the Hebrew phrase", () => {
   assert.equal(
     normalizeMisplacedHebrewCommas("to משה, ,אֱחוֹז בְּכִסֵּא כְבוֹדִי symbolizes"),
@@ -1457,6 +1464,21 @@ test("docx: Shmini Atzeres 5784 keeps semicolon between Hebrew phrases in Englis
     typst,
     `${RTL_ISOLATE}רצון; וְאֶת שַׁוְעָתָם`,
     "single RTL Shmini Atzeres semicolon phrase"
+  );
+});
+
+test("docx: Shmini Atzeres 5784 keeps opening quote before Hebrew proclamation", () => {
+  const typst = convertedDocx("/shmini-atzeres/5784/");
+
+  assertContains(
+    typst,
+    `made the following proclamation: “${RTL_ISOLATE}ריבונו של עולם${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} you told us`,
+    "opening quote before Ribon Shel Olam proclamation"
+  );
+  assertNotContains(
+    typst,
+    `made the following proclamation: ${RTL_ISOLATE}“ריבונו של עולם${POP_DIRECTIONAL_ISOLATE}`,
+    "opening quote should not remain inside the Hebrew isolate"
   );
 });
 
