@@ -4680,7 +4680,7 @@ did ⁦רש״י⁩#metadata(none) <person-index-rashi-322> do this? At first gla
 words.
 
 He cites ⁦רב דוד אלעווסקי שליט״א⁩, a ⁧ראש ישיבה⁩ of ⁧בית ישראל⁩ of Ger in
-Brooklyn, who shared a beautiful insight from the ⁧שם משמואל⁩.#metadata(none) <person-index-shel-mishmuel-326> The ⁧שם משמואל⁩⁦,⁩ #metadata(none) <person-index-shel-mishmuel-327> quoting the ⁦חידושי הרי״ם⁩, #metadata(none) <person-index-chidushei-harim-310> explains that every language reflects
+Brooklyn, who shared a beautiful insight from the ⁧שם משמואל⁩.#metadata(none) <person-index-shem-mishmuel-326> The ⁧שם משמואל⁩⁦,⁩ #metadata(none) <person-index-shem-mishmuel-327> quoting the ⁦חידושי הרי״ם⁩, #metadata(none) <person-index-chidushei-harim-310> explains that every language reflects
 the essence of the nation that speaks it. The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-311> states: ⁧לשון צרפת היא משחת לניאוף⁩ - The French language, he argues, is inherently
 associated with immorality, reflecting the culture of France, which is
 often steeped in ⁧טומאה⁩ and ⁧ניאוף⁩. The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-312> says, this is ⁧פּונקט פאַרקערט⁩ from ⁧לשון הקודש⁩. ⁧לשון הקודש⁩ can transform dirt into clean, ⁧הפכת את הרע לטובה⁩⁦,⁩ from the ⁧כח⁩ of the ⁧קדושה⁩ of the ⁧תורה⁩⁦,⁩ and from the
@@ -14056,47 +14056,45 @@ worthy of.
 
 We are now approaching the ⁧יום טוב⁩ of ⁧שמיני עצרת⁩. Throughout the ⁧יום טוב⁩
 of ⁧סוכות⁩⁦,⁩ if you count all the ⁧קרבנות⁩ each day, they total 70. Each ⁧קרבן⁩
-corresponds to the one of the 70 ⁧גוים⁩ of the world. Our job was to bring
+corresponds to one of the 70 ⁧גוים⁩ of the world. Our job was to bring
 down ⁧ברכה⁩ to the entire world. When the ⁧גוים⁩ destroyed the ⁧בית המקדש⁩⁦,⁩ they were only poking themselves in the eye and hurting themselves. When
 we come to ⁧שמיני עצרת⁩⁦,⁩ we've finished with all the ⁧גוים⁩. If you look in
 the leining, there's only one ⁧קרבן⁩ brought on ⁧שמיני עצרת⁩⁦,⁩ and that
-corresponds to ⁧כלל ישראל⁩. It is therefore a very special day in the
-Yiddish ⁧לוח⁩. In the sefer A Short Vort, #metadata(none) <person-index-a-short-vort-1028> he brings down that ⁧שמיני עצרת⁩
-signifies a deep connection that we have with ⁧הקדוש ברוך הוא⁩. It's a
-⁧גמרא⁩ in ⁧סוכה, דף נה עמוד ב⁩.
+corresponds to ⁧כלל ישראל⁩. It is therefore a special day in the Yiddish
+⁧לוח⁩. The sefer A Short Vort#metadata(none) <person-index-a-short-vort-1028> brings down that ⁧שמיני עצרת⁩ signifies a deep
+connection that we have with ⁧הקדוש ברוך הוא⁩. It's a ⁧גמרא⁩ in ⁧סוכה, דף נה עמוד ב⁩.
 
-⁦רש״י⁩#metadata(none) <person-index-rashi-1029> writes that after all the days of ⁧סוכות⁩⁦,⁩ after all the ⁧ימים טובים⁩⁦,⁩ Hashem says to ⁧כלל ישראל⁩⁦,⁩ stay here for one more day because ⁧קשה עלי פרידתכם⁩ - Leaving you is so difficult for me. The ⁧שם משמואל⁩#metadata(none) <person-index-shel-mishmuel-1031> asks two
-very excellent ⁧קשיות⁩ on this ⁦רש״י⁩.#metadata(none) <person-index-rashi-1030> If the reason it's so difficult to
-part ways is because of this close connection, even if we stay one more
-day, how is that going to make leaving any easier? ⁧פונקט פארקערט⁩⁦,⁩ it
-gets even more difficult to leave, so what has Hashem derived and
-benefited from staying with one more day with us? The second ⁧קשיא⁩ is, there's no such extra day at the end of ⁧פסח⁩ or ⁧שבועות⁩. Are they that
-much different? What's so special about ⁧סוכות⁩ that causes this
-relationship with Hashem to flower into another ⁧יום טוב⁩ day?
+⁦רש״י⁩#metadata(none) <person-index-rashi-1029> writes that after all the days of ⁧סוכות⁩⁦,⁩ after all the ⁧ימים טובים⁩⁦,⁩ Hashem says to ⁧כלל ישראל⁩⁦,⁩ stay here for one more day because ⁧קשה עלי פרידתכם⁩ - Leaving you is so difficult for me. The ⁧שם משמואל⁩#metadata(none) <person-index-shem-mishmuel-1031> asks two
+excellent ⁧קשיות⁩ on ⁦רש״י⁩.#metadata(none) <person-index-rashi-1030> If the reason it's so difficult to part ways is
+because of this close connection, even if we stay one more day, how is
+that going to make leaving any easier? ⁧פונקט פארקערט⁩⁦,⁩ it gets even more
+difficult to leave, so what has Hashem derived and benefited from
+staying one more day with us? The second ⁧קשיא⁩ is, there's no such extra
+day at the end of ⁧פסח⁩ or ⁧שבועות⁩. Are they that much different? What's so
+special about ⁧סוכות⁩ that causes this relationship with Hashem to flower
+into another ⁧יום טוב⁩ day?
 
-The ⁧שם משמואל⁩#metadata(none) <person-index-shel-mishmuel-1032> brings down a very ⁧למדישע תירוץ⁩. Any time that you give
-something, there's two types of giving. There's a regular transaction
-where somebody wants to buy something and he pays money to get the item.
-If you want to buy a car, you pay the money and you get the car. If you
-want to buy a container of milk, you give the money and you get a
-container of milk. The entire relationship between the buyer and a
-seller is strictly a business deal, and it depends only on what is being
-sold and what is being bought. After the deal, goodbye, the buyer and
-seller have nothing to do with each other anymore. That's one type of
-giving.
+The ⁧שם משמואל⁩#metadata(none) <person-index-shem-mishmuel-1032> brings down a ⁧למדישע תירוץ⁩. Any time you give something, it can be done in two ways. There's a regular transaction where somebody
+wants to buy something and he pays money to get the item. If you want to
+buy a car, you pay the money and you get the car. If you want to buy a
+container of milk, you give the money and you get a container of milk.
+The entire relationship between the buyer and seller is strictly a
+business deal, and it depends only on what is being sold and what is
+being bought. After the deal, goodbye, the buyer and seller have nothing
+to do with each other anymore. That's one type of giving.
 
 There's another type of giving where the entire purpose of the giving is
 to create a connection. What's the best example of that? A ⁧חתונה⁩⁦,⁩ a
-marriage. The ⁧חתן⁩ gives the ⁧כלה⁩ the ring, and that is for one reason and
+marriage. The ⁧חתן⁩ gives the ⁧כלה⁩ a ring, and that is for one reason and
 one reason only, to create a relationship between the two of them. In
 the case of a business deal, they have nothing to do with each other
 after the deal. But this giving is a sign of a commitment, for a
-relationship ⁧ביז הונדערט און צוואנציק⁩⁦,⁩ whether or not the ring is there
-or not. The ring is not the ⁧עיקר⁩⁦,⁩ the relationship is. This answers both
-of our questions. On ⁧סוכות⁩ the whole world gets ⁧שפע ברכה והצלחה⁩ and
-keeps existing through our ⁧ברכות⁩ and our ⁧קרבנות⁩. But they rejected the
-⁧תורה⁩. They rejected Hashem. They only want the means for the sale, simply to exist. They're not interested in a lasting relationship with
-⁧הקדוש ברוך הוא⁩. That's all they get.
+relationship ⁧ביז הונדערט און צוואנציק⁩⁦,⁩ whether or not the ring is there.
+The ring is not the ⁧עיקר⁩⁦,⁩ the relationship is. This answers both of our
+questions. On ⁧סוכות⁩ the whole world gets ⁧שפע ברכה והצלחה⁩ and keeps
+existing through our ⁧ברכות⁩ and our ⁧קרבנות⁩. But they rejected the ⁧תורה⁩.
+They rejected Hashem. They only want the means for the sale, simply to
+exist. They're not interested in a lasting relationship with ⁧הקדוש ברוך הוא⁩. That's all they get.
 
 However, when Hashem sees that ⁧כלל ישראל⁩ want a deeper connection and an
 eternal relationship with Him, He says, “Please stay with me for one
@@ -14104,14 +14102,14 @@ more day. It is difficult for me to just go away from you.” We don't
 just want this deal, to get brachos and leave; we want a relationship
 with Hashem, to stay with Him forever. That extra day of ⁧שמיני עצרת⁩
 represents that forever lasting relationship. So why only on ⁧סוכות⁩?
-Because by all the other ⁧ימים טובים⁩ we're not doing anything for the
+Because with all the other ⁧ימים טובים⁩ we're not doing anything for the
 ⁧גוים⁩⁦,⁩ it's strictly for us. The ⁧ברכה⁩ that we're getting from ⁧פסח⁩ and
 ⁧שבועות⁩⁦,⁩ the entire ⁧יום טוב⁩ is for us, it's not for them. We are the ones
 that ⁧הקדוש ברוך הוא⁩ is showering with ⁧ברכה⁩ and ⁧הצלחה⁩. Everything we're
 looking for is in the ⁧יום טוב⁩ itself. We don't need an extra day. But on
 ⁧סוכות⁩⁦,⁩ the ⁧גוים⁩ are getting what we daven for them to have. Believe it
 or not, we do daven for their existence, and we wish that they be happy
-with their lot and leave us alone. ⁧סוכות⁩ is culminated by ⁧שמיני עצרת⁩
+with their lot and leave us alone. ⁧סוכות⁩ culminates in ⁧שמיני עצרת⁩
 because that is our special day. We have that special day so we can have
 ⁧נצחיות⁩.
 
@@ -16444,7 +16442,7 @@ in fact ⁧צדיק כתמר יפרח להגד כי ישר ה׳ צורי ולא 
 
 #index-row(("Sharei Yesodos",), (label("person-index-sharei-yesodos-559"),))
 
-#index-row(("Shel MiShmuel",), (label("person-index-shel-mishmuel-326"), label("person-index-shel-mishmuel-327"), label("person-index-shel-mishmuel-1031"), label("person-index-shel-mishmuel-1032")))
+#index-row(("Shem Mishmuel",), (label("person-index-shem-mishmuel-326"), label("person-index-shem-mishmuel-327"), label("person-index-shem-mishmuel-1031"), label("person-index-shem-mishmuel-1032")))
 
 #index-row(("Shiniver Rebbe", "(R’ Yechezkel Shraga)",), (label("person-index-shiniver-rebbe-471"), label("person-index-shiniver-rebbe-472"), label("person-index-shiniver-rebbe-886"), label("person-index-shiniver-rebbe-887"), label("person-index-shiniver-rebbe-896"), label("person-index-shiniver-rebbe-897"), label("person-index-shiniver-rebbe-898"), label("person-index-shiniver-rebbe-899")))
 
