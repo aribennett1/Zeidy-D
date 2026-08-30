@@ -8893,18 +8893,16 @@ come up with a reasonable explanation. That's not the case with other
 that explanation isn't the real reason and that it's still a ⁧חוק⁩.
 
 Now, many ⁧אפיקורסים⁩⁦,⁩ which he brings down and I know about this from
-experience, want to find a ⁧טעם⁩ for a ⁧מצוה⁩. The best example was what one
-of my rabbeim told me, I think it was Rav Moshe Tendler#metadata(none) <person-index-rav-moshe-tendler-640> ⁦זצ״ל⁩, he said
-the ⁧אפיקורסים⁩ or the or Reform Jews said Moses was a great hygienist, and he said you shouldn't eat pig because the pigs of those days all had
-trichinosis, a particular kind of worm that pigs are known to carry. So
-therefore today, when we raise the pigs hygienically, now we can eat
-pig. So the ⁧אפיריון⁩ brings this down exactly, he says, they try to find
-a ⁧טעם⁩ for a ⁧מצוה⁩⁦,⁩ they knock off the ⁧טעם⁩⁦,⁩ they knock off the ⁧מצוה⁩. But
-he says, the ⁧הבל יפצה פיהם⁩⁦,⁩ Hashem should shut their mouths. We are
-⁧מחויב⁩ to keep all of the mitzvos of the torah, whether or not we
-understand them, whether or not there's a reason for it, even those we
-think we understand the reason, we have to believe that each and every
-⁧מצוה⁩ is a ⁧חוק⁩.
+experience, want to find a ⁧טעם⁩ for a ⁧מצוה⁩. The best example was what my
+rebbi Rav Moshe Tendler#metadata(none) <person-index-rav-moshe-tendler-640> ⁦זצ״ל⁩ told me, he said the ⁧אפיקורסים⁩ or the
+Reform Jews said Moses was a great hygienist, and he said you shouldn't
+eat pig because the pigs of those days all had trichinosis, a particular
+kind of worm that pigs are known to carry. So therefore today, when we
+raise the pigs hygienically, now we can eat pig. So the ⁧אפיריון⁩ brings
+this down exactly, he says, they try to find a ⁧טעם⁩ for a ⁧מצוה⁩⁦,⁩ they
+knock off the ⁧טעם⁩⁦,⁩ they knock off the ⁧מצוה⁩. But he says, the ⁧הבל יפצה פיהם⁩⁦,⁩ Hashem should shut their mouths. We are ⁧מחויב⁩ to keep all of the
+mitzvos of the torah, whether or not we understand them, whether or not
+there's a reason for them, even those we think we understand the reason, we have to believe that each and every ⁧מצוה⁩ is a ⁧חוק⁩.
 
 We have to learn this from ⁧פרה אדומה⁩. It's intellectually impossible to
 figure out the reason for the ⁧פרה אדומה⁩. So therefore that is a teaching
@@ -13687,52 +13685,52 @@ at the ⁧סדר⁩⁦,⁩ and he gets an ⁧אפיקומן⁩. So ⁧פסח⁩ 
 ⁧שבועות⁩ isn't bad either, kids. We have blintzes, and we have milchigs, and it's a great time. ⁧סוכות⁩⁦,⁩ you have to go outside in a ⁧סוכה⁩⁦,⁩ it's a
 lot of work. The truth of the matter is we'd rather be in the house. The
 Torah puts us on our heads and says, “You guys think you know what ⁧שמחה⁩
-is?” Hashem says “I'll teach you what ⁧שמחה⁩ is”. The real ⁧שמחה⁩ is the
+is?” Hashem says “I'll teach you what ⁧שמחה⁩ is.” The real ⁧שמחה⁩ is the
 ⁧שמחה⁩ Hashem shows us, not the one that we think is a real ⁧שמחה⁩. The
-following vort is from the sefer ⁧חיים שיש בהם⁩⁦,⁩ #metadata(none) <person-index-chaim-shyesh-bahem-995> which quotes the ⁧משך חכמה⁩⁦,⁩ #metadata(none) <person-index-meshech-chochma-996> written by Meir Simcha from Dvinsk. He has fascinating insights
+following vort is from the sefer ⁧חיים שיש בהם⁩⁦,⁩ #metadata(none) <person-index-chaim-shyesh-bahem-995> which quotes the ⁧משך חכמה⁩⁦,⁩ #metadata(none) <person-index-meshech-chochma-996> written by R’ Meir Simcha from Dvinsk. He has fascinating insights
 into all the ⁧מצוות⁩ in the Torah, which we can divide in many different
-ways, but he says one way of dividing all of the ⁧מצוות⁩ of the Torah is
-those ⁧מצוות⁩ which go against our ⁧טבע⁩⁦,⁩ and those ⁧מצוות⁩ which we do ⁧בדרך הטבע⁩.
+ways, but he says one way of dividing them is those ⁧מצוות⁩ which go
+against our ⁧טבע⁩⁦,⁩ and those ⁧מצוות⁩ which we do ⁧בדרך הטבע⁩.
 
 What is the ⁧מצוה⁩ of ⁧סוכה⁩? What happens? It's the end of the summer
 season. The man spent his entire summer working diligently, plowing, planting, furrowing, watering, collecting, harvesting. At the end of the
-whole summer exhausting experience, he's able to finally gather in all
+whole exhausting summer experience, he's able to finally gather in all
 that which he produced. His heart is bursting with happiness when he
 sees the fruits of his labor. What is he looking forward to doing now?
 The sweetness of taking a break. How can he take a break? By going to
 his house and sitting down and relaxing in his house. The Torah comes
 and tells him nope, ⁧צֵא מִדִּירַת קֶבַע וְשֵׁב בְּדִירַת עֲרַאי⁩ - Go out of your house
-and go into a temporary lodging. That is exactly against his ⁧טבע⁩. And
-why does the Torah say to do that? So that he can take his all of his
-efforts for worldly pursuits and swing it over and change it into a
-⁦רוחניות׳דיקע⁩ perspective. You take everything physical, all this effort
-and labor, and you say, “No, I'm dropping all of that, that's not what's
-⁧עיקר⁩ to me, that's not what's important. I'm going to go into a ⁧סוכה⁩\.”
-So much so that the walls of the ⁧סוכה⁩ become ⁧מוקצה⁩⁦,⁩ they're ⁧אסור בהנאה⁩⁦,⁩ this is pure ⁧רוחניות⁩. There's no ⁧הנאה⁩ from the ⁧גשמיות⁩ of the ⁧סוכה⁩ and
-from all of your labors. If you can take all of that effort and
-transform it - much as ⁧יעקב אבינו⁩ took the ⁧שמחה⁩ when he met his son ⁧יוסף⁩
-after all those years and was ⁧מקבל שם שמים⁩⁦,⁩ he said ⁧שמע⁩ - in the same
-way we can do that every year in the ⁧סוכה⁩. Don't look at the ⁧סוכה⁩ as
-going out and it's annoying. Go into the ⁧סוכה⁩ and say, “I'm leaving ⁧עולם הזה⁩ and I'm going into ⁧עולם הבא⁩\.”
+and go into a temporary lodging. That is exactly against his ⁧טבע⁩. Why
+does the Torah say to do that? So that he can take all of his efforts
+for worldly pursuits and swing it over and change it into a ⁦רוחניות׳דיקע⁩
+perspective. You take everything physical, all this effort and labor, and you say, “No, I'm dropping all of that, that's not what's ⁧עיקר⁩ to
+me, that's not what's important. I'm going to go into a ⁧סוכה⁩\.” So much
+so that the walls of the ⁧סוכה⁩ become ⁧מוקצה⁩⁦,⁩ they're ⁧אסור בהנאה⁩⁦,⁩ this is
+pure ⁧רוחניות⁩. There's no ⁧הנאה⁩ from the ⁧גשמיות⁩ of the ⁧סוכה⁩ and from all
+of your labors. If you can take all of that effort and transform it -
+much as ⁧יעקב אבינו⁩ took the ⁧שמחה⁩ when he met his son ⁧יוסף⁩ after all
+those years and was ⁧מקבל שם שמים⁩⁦,⁩ he said ⁧שמע⁩ - in the same way we can
+do that every year in the ⁧סוכה⁩. Don't look at the ⁧סוכה⁩ as going out and
+it's annoying. Go into the ⁧סוכה⁩ and say, “I'm leaving ⁧עולם הזה⁩ and I'm
+going into ⁧עולם הבא⁩\.”
 
 However, there are other ⁧מצוות⁩ which do not require us to leave ⁧טבע⁩.
 After all of this work, sweat, effort and results, we want to show ⁧הקדוש ברוך הוא⁩ that we are so grateful for all of the things that we're able
-to do by our efforts. Hashem says, you, “That's good. I'll give you a
-way to show your gratitude. Take ⁧ארבע מינים⁩. Take a ⁧לולב⁩⁦,⁩ and you should
-be ⁧משמח⁩. ⁧וּשְׂמַחְתֶּם לִפְנֵי ה׳ אֱלֹקֵיכֶם שִׁבְעַת יָמִים ⁦(ויקרא כ״ג:מ׳)⁩⁩. They are not
+to do by our efforts. Hashem says, “That's good. I'll give you a way to
+show your gratitude. Take ⁧ארבע מינים⁩. Take a ⁧לולב⁩⁦,⁩ and you should be
+⁧משמח⁩. ⁧וּשְׂמַחְתֶּם לִפְנֵי ה׳ אֱלֹקֵיכֶם שִׁבְעַת יָמִים ⁦(ויקרא כ״ג:מ׳)⁩⁩. They are not
 ⁧מוקצה⁩. The ⁧אסרוג⁩ is not ⁧מוקצה⁩. There's no ⁧שם שמים⁩ on the ⁧אסרוג⁩ as there
 is on the walls of the ⁧סוכה⁩.
 
-So we see that we have ⁧מצוות⁩ which are ⁧נגד הטבע⁩⁦,⁩ which gives us a ⁧חיזוק⁩⁦,⁩ which gives us an opportunity to raise ourselves out, ⁧חג הסוכות תעשה לך⁩⁦,⁩ you have to put in an effort to do that. That doesn't come by itself.
-That comes with ⁧שוויץ⁩ and with using your mind to propel yourself, to
-raise yourself to something which is ⁧כנגד הטבע⁩. In fact, the ⁧סוכה⁩ has to
-be made fresh, ⁧תעשה ולא מן העשוי⁩. But at the same time we also have the
-opportunity to thank Hashem with ⁧טבע⁩⁦,⁩ and that's done with the ⁧ארבע מינים⁩. They're ⁧כשר⁩⁦,⁩ no matter how you got them. You have to pay for them
-of course. But you don't have to have any ⁧הכנה⁩. You just have to go out
-and take your ⁧ארבע מינים⁩ and utilize that ⁧טבע⁩ in a way of thanking
-Hashem. So we're able to do both ⁧מצוות⁩ simultaneously, both the ⁧סוכה⁩ and
-the ⁧ארבע מינים⁩ in the same ⁧יום טוב⁩. And if we do them properly, they
-will give us the true ⁧שמחה⁩ that the Torah wants us to enjoy.
+So we see that we have ⁧מצוות⁩ which are ⁧נגד הטבע⁩⁦,⁩ which give us a ⁧חיזוק⁩⁦,⁩ an opportunity to raise ourselves, ⁧חג הסוכות תעשה לך⁩⁦,⁩ you have to put in
+an effort to do that. That doesn't come by itself. That comes with ⁧שוויץ⁩
+and with using your mind to propel yourself, to raise yourself to
+something which is ⁧כנגד הטבע⁩. In fact, the ⁧סוכה⁩ has to be made fresh, ⁧תעשה ולא מן העשוי⁩. At the same time we also have the opportunity to
+thank Hashem with ⁧טבע⁩⁦,⁩ and that's done with the ⁧ארבע מינים⁩. They're ⁧כשר⁩⁦,⁩ no matter how you got them. You have to pay for them of course. But you
+don't have to have any ⁧הכנה⁩. You just have to go out and take your ⁧ארבע מינים⁩ and utilize that ⁧טבע⁩ in a way of thanking Hashem. So we're able to
+do both ⁧מצוות⁩ simultaneously, the ⁧סוכה⁩ and the ⁧ארבע מינים⁩ in the same
+⁧יום טוב⁩. If we do them properly, they will give us the true ⁧שמחה⁩ that
+the Torah wants us to enjoy.
 
 #pagebreak()
 
