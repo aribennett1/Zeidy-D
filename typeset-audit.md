@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 35 (2 high, 33 medium)
+Findings: 27 (2 high, 25 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -61,7 +61,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0394.png](typeset-audit-pages/page-0394.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 458, Purim 5785, line 15125
+- Typst source, page 458, Purim 5785, line 15130
   - visual: [page-0458.png](typeset-audit-pages/page-0458.png), [page-0459.png](typeset-audit-pages/page-0459.png)
   - does this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩. What is ⁦אהרן'⁩s ⁧מידה⁩? We all know abou...
   - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
@@ -107,50 +107,18 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
 - PDF visual text, page 2, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 6
   - visual: [page-0002.png](typeset-audit-pages/page-0002.png)
   - “Hakadosh Boruch Hu Y’shalem S’charam .….”
-- PDF visual text, page 31, who knew, hummed along with me. This went on for a few moments. After, line 11
-  - visual: [page-0031.png](typeset-audit-pages/page-0031.png)
-  - words ⁧‫ ⁩לכבוד‬the ⁧,‫ ”⁩שמחה‬he again urged me.
-  - normalized: words  לכבודthe , ”שמחהhe again urged me.
 - PDF visual text, page 108, witnessed the oil flowing over    ’ַאֲהֹרן s head, down his face, and onto his beard., line 7
   - visual: [page-0108.png](typeset-audit-pages/page-0108.png)
   - to ⁧‫ ⁩כהן גדול‬was entirely genuine. From this ⁧,‫⁩’רבי יהושע בן קרחה⁦ ⁩מדרש‬s position
   - normalized: to  כהן גדולwas entirely genuine. From this ,’רבי יהושע בן קרחה מדרשs position
-- PDF visual text, page 127, Yisro 5783, line 27
-  - visual: [page-0127.png](typeset-audit-pages/page-0127.png)
-  - “I accept upon myself to become ⁦ ‫⁩’ראובן‬s ⁧ ,‫ ”⁩עבד‬he automatically assumes
-  - normalized: “I accept upon myself to become  ’ראובןs  , ”עבדhe automatically assumes
-- PDF visual text, page 138, - Don’t rush to     דן him to    מיתה . Just as ascending the     מזבח requires deliberate, line 24
-  - visual: [page-0138.png](typeset-audit-pages/page-0138.png)
-  - is driving on ⁧,‫ ”⁩שבת‬the child exclaimed. The father calmly responded, “He’s
-  - normalized: is driving on , ”שבתthe child exclaimed. The father calmly responded, “He’s
-- PDF visual text, page 145, is     מקדים the     רפואה before the  ,  ” מכה He creates the     רפואה before He creates the, line 4
-  - visual: [page-0145.png](typeset-audit-pages/page-0145.png)
-  - is ⁧‫ ⁩מקדים‬the ⁧‫ ⁩רפואה‬before the ⁧,‫ ”⁩מכה‬He creates the ⁧‫ ⁩רפואה‬before He creates the
-  - normalized: is  מקדיםthe  רפואהbefore the , ”מכהHe creates the  רפואהbefore He creates the
-- PDF visual text, page 217, Bechukosai 5784, line 11
-  - visual: [page-0217.png](typeset-audit-pages/page-0217.png)
-  - keep the ⁧,‫ ”⁩תורה‬which we are about to reaccept on ⁧‫שבועות‬,⁩ “then I will give
-  - normalized: keep the , ”תורהwhich we are about to reaccept on שבועות, “then I will give
-- PDF visual text, page 281, R’ Chaim immediately responded,     “חולה doesn’t mean sick in this context., line 5
-  - visual: [page-0281.png](typeset-audit-pages/page-0281.png)
-  - It means dancing, as in ⁧ ,‫ ”⁩מחול‬as the ⁧ ‫ ⁩משנה‬in ⁧ ‫ ⁩תענית‬says: ⁧ ‫יוצאות במחולות‬
-  - normalized: It means dancing, as in  , ”מחולas the   משנהin   תעניתsays:  יוצאות במחולות
-- PDF visual text, page 283, מותר ,  is now     אסור to me, it’s a     הזיק to his     נשמה in exactly the same way as     חזיר, line 16
-  - visual: [page-0283.png](typeset-audit-pages/page-0283.png)
-  - “This is ⁧,‫ ”⁩תרומה‬it’s now ⁧‫⁩תרומה‬. If a ⁧‫ ⁩זר‬eats that, he’s ⁧‫⁩חייב כרת‬. So you...
-  - normalized: “This is , ”תרומהit’s now תרומה. If a  זרeats that, he’s חייב כרת. So you can take
 - PDF visual text, page 296, to start filling in this    בור . It’s too big. I’ll never be able to finish it. Might as, line 26
   - visual: [page-0296.png](typeset-audit-pages/page-0296.png)
   - are you not coming to give a ⁧‫ ⁩שלום עליכם‬to my father-in-law the ⁦‫ ?” ב״ח‬The
   - normalized: are you not coming to give a  שלום עליכםto my father-in-law the  ?” ב״חThe
-- PDF visual text, page 415, Sukkos 5786, line 18
-  - visual: [page-0415.png](typeset-audit-pages/page-0415.png)
-  - will say, “Okay, I’ll give you a ⁧,‫ ”⁩מצוה‬and He’ll give them the ⁧‫ ⁩מצוה‬of ⁧‫סוכה‬,⁩
-  - normalized: will say, “Okay, I’ll give you a , ”מצוהand He’ll give them the  מצוהof סוכה,
 - PDF visual text, page 415, Sukkos 5786, line 21
   - visual: [page-0415.png](typeset-audit-pages/page-0415.png)
-  - this “easy ⁧‫?”⁩מצוה‬
-  - normalized: this “easy ?”מצוה
+  - Why specifically this “easy ⁧‫?”⁩מצוה‬
+  - normalized: Why specifically this “easy ?”מצוה
 - PDF visual text, page 456, A rav named R’ Mordechai Sabato explains that since each event in the first, line 28
   - visual: [page-0456.png](typeset-audit-pages/page-0456.png)
   - What are the central words of this ⁧‫ !⁩ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י⁧ ?⁩פסוק‬Until ⁦‫⁩’מרדכי‬s name is

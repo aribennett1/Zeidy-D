@@ -1395,6 +1395,10 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
     .replace(/([,;:.!?])(?:\\?["”])(#metadata\(none\)\s*<[^>\n]+>)/g, "$1”$2")
     .replace(/(\\?["”])(#metadata\(none\)\s*<[^>\n]+>):/g, "$1:$2")
     .replace(
+      new RegExp(`${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*),${POP_DIRECTIONAL_ISOLATE}([”"])`, "gu"),
+      `${RTL_ISOLATE}$1${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE}$2`
+    )
+    .replace(
       new RegExp(`${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}:\\s*${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
       (match, beforeColon, afterColon, offset, fullText) => {
         const hebrewTokenCount = (beforeColon.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;

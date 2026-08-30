@@ -760,6 +760,13 @@ test("keeps comma after Hebrew phrase before quoted English", () => {
   );
 });
 
+test("keeps comma after quoted Hebrew phrase before closing quote", () => {
+  assert.equal(
+    applyTextRules("Hashem will say, “Okay, I'll give you a מצוה,” and He'll"),
+    `Hashem will say, “Okay, I'll give you a ${RTL_ISOLATE}מצוה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE}” and He'll`
+  );
+});
+
 test("keeps comma after Hebrew phrase before index marker and English", () => {
   assert.equal(
     applyTextRules("According to the אוצר פלאות התורה, #metadata(none) <person-index-1> who bentchs"),
@@ -1637,6 +1644,24 @@ test("docx: Tetzaveh 5783 keeps quote sources after the Hebrew quotes", () => {
     typst,
     `${RTL_ISOLATE}וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ${POP_DIRECTIONAL_ISOLATE}\n${LTR_ISOLATE}(ויקרא י״ט:י״ח)${POP_DIRECTIONAL_ISOLATE}`,
     "Ben Nanas quote and source should not be separate bidi runs"
+  );
+});
+
+test("docx: Sukkos 5786 keeps comma after mitzvah before closing quote", () => {
+  const typst = convertedDocx("/sukkos/5786/");
+
+  assertContains(
+    typst,
+    `we would have had a ${RTL_ISOLATE}מצוה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} we would have done it`
+  );
+  assertContains(
+    typst,
+    `I'll give you a ${RTL_ISOLATE}מצוה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE}”`
+  );
+  assertNotContains(
+    typst,
+    `I'll give you a ${RTL_ISOLATE}מצוה,${POP_DIRECTIONAL_ISOLATE}”`,
+    "comma should not remain inside the Hebrew isolate before the closing quote"
   );
 });
 
