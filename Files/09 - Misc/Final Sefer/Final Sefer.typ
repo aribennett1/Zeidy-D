@@ -14419,39 +14419,40 @@ the ⁧שמחה⁩ of love and compassion, the ⁧שמחה⁩ of performing a �
   ))
 = Simchas Torah 5786 (2)
 
-A ⁧דבר תורה⁩ for ⁧שמחת תורה⁩⁦,⁩ a beautiful story which I'm sure you will
-appreciate. This is from Rav Kormornick's#metadata(none) <person-index-r-kormornick-1069> second sefer of A Short Vort.#metadata(none) <person-index-a-short-vort-1066>
-The Homiler rav#metadata(none) <person-index-homiler-rav-1067> was dancing in shul on ⁧שמחת תורה⁩. He noticed a group of
-boys outside, watching through the window, envy obvious on their face.
-This sight distressed him because he knew that these boys had never
-received a Torah education because they came from extremely poor
-families. Their days were spent working in order to put food on their
-family table. \[We said this before and I'll say it again, we don't know
-how lucky we are to live here. We take our ⁧ישיבה⁩ education for granted.
-We take our parents able to supply our needs for granted. ⁧אוי⁩. We should
-only appreciate it for one moment.\]
+A ⁧דבר תורה⁩ for ⁧שמחת תורה⁩⁦,⁩ a beautiful story from Rav Kormornick's#metadata(none) <person-index-r-kormornick-1069> second
+sefer of A Short Vort.#metadata(none) <person-index-a-short-vort-1066> The Homiler Rav#metadata(none) <person-index-homiler-rav-1067> was dancing in shul on ⁧שמחת תורה⁩.
+He noticed a group of boys outside, watching through the window, envy
+obvious on their faces. This sight distressed him because he knew that
+these boys had never received a Torah education because they came from
+extremely poor families. Their days were spent working in order to put
+food on their family table. \[We said this before and I'll say it again:
+we don't know how lucky we are to live here. We take our ⁧ישיבה⁩ education
+for granted. We take our parents' ability to supply our needs for
+granted. ⁧אוי⁩. We should only appreciate it for one moment.\]
 
-With joy, the ⁧רב⁩ came out of the shul to speak to the boys and he said, “Did you know that on ⁧שמחת תורה⁩⁦,⁩ there are two ⁧חתנים⁩? There's a ⁧חתן תורה⁩⁦,⁩ and there's a ⁧חתן בראשית⁩. The ⁧חתן תורה⁩ makes the last ⁧ברכה⁩ of the
-entire Torah because we're finishing it. The ⁧חתן בראשית⁩ makes the first
-⁧ברכה⁩ on the Torah because we're starting the Torah again. We understand
-why we celebrate with the ⁧חתן תורה⁩. He just finished the whole Torah, and we're joining him in his happiness after a year of learning. But
-what is the ⁧חתן בראשית⁩ celebrating? What is he happy about? The answer
-is, even though he has finished nothing, he has made a resolution to
-start, and that is worth celebrating just as joyously.” The Homiler rav#metadata(none) <person-index-homiler-rav-1068>
-then asked these boys if they would be willing to start learning Torah
-and start their Torah journey. They said, “Yes!” Listen to this.
+With joy, the ⁧רב⁩ came out of the shul to speak to the boys and he said, “Did you know that on ⁧שמחת תורה⁩ there are two ⁧חתנים⁩? There's a ⁧חתן תורה⁩
+and there's a ⁧חתן בראשית⁩. The ⁧חתן תורה⁩ makes the last ⁧ברכה⁩ of the entire
+Torah because we're finishing it. The ⁧חתן בראשית⁩ makes the first ⁧ברכה⁩ on
+the Torah because we're starting the Torah again. We understand why we
+celebrate with the ⁧חתן תורה⁩. He just finished the whole Torah, and we're
+joining him in his happiness after a year of learning. But what is the
+⁧חתן בראשית⁩ celebrating? What is he happy about? The answer is, even
+though he has finished nothing, he has made a resolution to start, and
+that is worth celebrating just as joyously.” The Homiler Rav#metadata(none) <person-index-homiler-rav-1068> then asked
+these boys if they would be willing to start learning Torah and start
+their Torah journey. They said, “Yes!” Listen to this.
 
 The rav learned with these boys every day from 3:00 a.m. until 7:00 a.m.
-Pause. Think about that. After which time they went off to work. And
-that was the beginning of a ⁧ישיבה⁩ known as ⁧תפארת בחורים⁩.
+Pause. Think about that. After which time they went off to work. That
+was the beginning of a ⁧ישיבה⁩ known as ⁧תפארת בחורים⁩.
 
 As we approach ⁧שמחת תורה⁩⁦,⁩ we should certainly feel great delight over
 the Torah we have learned over the past year. But we too should be
 excited over what we are committing ourselves to learn for the year to
 come. Even if we know we could have achieved more with our time this
 past year, we can and should commit on this very special day to push
-ourselves harder. And with that determination, we will have even more
-reason to celebrate.
+ourselves harder. With that determination, we will have even more reason
+to celebrate.
 
 #pagebreak()
 
