@@ -7255,13 +7255,9 @@ these ⁧מצוות⁩ very quickly when ⁧משיח⁩ will come ⁧במהרה 
   ))
 = Bamidbar 5783
 
-⁧פרשת במדבר⁩ always is the ⁧שבת⁩ before the ⁧יום טוב⁩ of ⁧שבועות⁩. Just as an
-aside, not the main part of this talk, my quiz question for everyone
-I've come into contact with for the last two weeks is, if the ⁧שבת⁩ before
-⁧פסח⁩ is ⁧שבת הגדול⁩ and the ⁧שבת⁩ before ⁧יום כיפור⁩ is ⁧שבת שובה⁩⁦,⁩ what is the
-name of the ⁧שבת⁩ before ⁧שבועות⁩? And everyone looks at me with a glazed
-look and I answer them ⁧שבת דרך ארץ⁩ because ⁧דרך ארץ קדמה לתורה⁩. It's in
-the ⁦חידושי הרי״ם⁩.#metadata(none) <person-index-chidushei-harim-501>
+⁧פרשת במדבר⁩ always is the ⁧שבת⁩ before the ⁧יום טוב⁩ of ⁧שבועות⁩. As an aside, my quiz question for everyone I've come into contact with for the last
+two weeks is, if the ⁧שבת⁩ before ⁧פסח⁩ is ⁧שבת הגדול⁩ and the ⁧שבת⁩ before ⁧יום כיפור⁩ is ⁧שבת שובה⁩⁦,⁩ what is the name of the ⁧שבת⁩ before ⁧שבועות⁩? Everyone
+looks at me with a glazed look and I answer them ⁧שבת דרך ארץ⁩ because ⁧דרך ארץ קדמה לתורה⁩. It's in the ⁦חידושי הרי״ם⁩.#metadata(none) <person-index-chidushei-harim-501>
 
 But that is not the thrust of this week's talk. Many of the ⁧מפרשים⁩⁦,⁩ from
 ⁧ראשונים⁩ to ⁧אחרונים⁩⁦,⁩ as prominently as ⁧תוספות⁩ in ⁧מגילה⁩⁦,⁩ up to and
