@@ -1036,8 +1036,10 @@ function normalizeEditorialReplacements(typstContent) {
 function normalizePunctuationSpacing(typstContent) {
   return smartenStraightDoubleQuotes(normalizeEditorialReplacements(keepIndexMarkersAfterPunctuation(typstContent)
     .replace(/\u2014/g, "-")
-    .replace(new RegExp(`(${HEBREW_LETTERS})['’‘](?!s\\b)`, "gu"), "$1׳")
+    .replace(new RegExp(`(${HEBREW_LETTERS})['‘](?=\\s*[,.;:!?])`, "gu"), "$1’")
+    .replace(new RegExp(`(${HEBREW_LETTERS})['’‘](?=\\s*(?:-|$))`, "gu"), "$1׳")
     .replace(/R'/g, "R’")
+    .replace(/(\\?[.?!])'(?=\\?["”])/g, "$1’")
     .replace(/([A-Za-z])'"\./g, "$1.'\"")
     .replace(/([,;:.!?])(#metadata\(none\)\s*<[^>\n]+>)(\\?["”])/g, "$1$3$2")
     .replace(/([,;:.!?])\s+"(?=\s+(?:said|asked|answered|responded|replied)\b)/giu, "$1\"")

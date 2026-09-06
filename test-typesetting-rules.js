@@ -379,6 +379,13 @@ test("converts Hebrew trailing straight apostrophe to geresh", () => {
   );
 });
 
+test("keeps closing single quote after Hebrew word as quote", () => {
+  assert.equal(
+    normalizePunctuationSpacing("I replied 'You should have Yiddish נחת', and I gave"),
+    "I replied 'You should have Yiddish נחת’, and I gave"
+  );
+});
+
 test("keeps person index markers after adjacent punctuation", () => {
   assert.equal(
     normalizePunctuationSpacing(
@@ -1683,6 +1690,26 @@ test("docx: Vayailech 5786 keeps Avos quote in one RTL run", () => {
     typst,
     `rule (4:5): ${RTL_ISOLATE}הַלּוֹמֵד תּוֹרָה עַל מְנָת לְלַמֵּד, מַסְפִּיקִין בְּיָדוֹ לִלְמֹד וּלְלַמֵּד. וְהַלּוֹמֵד עַל מְנָת לַעֲשׂוֹת, מַסְפִּיקִין בְּיָדוֹ לִלְמֹד וּלְלַמֵּד לִשְׁמֹר וְלַעֲשׂוֹת${POP_DIRECTIONAL_ISOLATE}. One of`,
     "Avos quote stays in one RTL isolate"
+  );
+});
+
+test("docx: Simchas Torah 5785 keeps closing quote after Yiddish nachas", () => {
+  const typst = convertedDocx("/simchas-torah/5785/");
+
+  assertContains(
+    typst,
+    `I replied 'You should have Yiddish ${RTL_ISOLATE}נחת${POP_DIRECTIONAL_ISOLATE}’, and I gave`,
+    "single quote after nachas stays a closing English quote"
+  );
+  assertNotContains(
+    typst,
+    `Yiddish\n${LTR_ISOLATE}נחת׳${POP_DIRECTIONAL_ISOLATE}`,
+    "single quote after nachas should not become a Hebrew geresh"
+  );
+  assertContains(
+    typst,
+    `And\ntomorrow we're making a ${RTL_ISOLATE}ברית${POP_DIRECTIONAL_ISOLATE}\\.’”`,
+    "final nested single quote after bris stays a closing English quote"
   );
 });
 

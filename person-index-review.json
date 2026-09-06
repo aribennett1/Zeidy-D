@@ -503,7 +503,8 @@
         "גר\"א",
         "גר״א",
         "הגר\"א",
-        "הגר״א"
+        "הגר״א",
+        "ווילנא גאון"
       ],
       "createdAt": "2026-07-24T03:16:18.099Z"
     },
@@ -1122,17 +1123,6 @@
         "ב״ח"
       ],
       "createdAt": "2026-07-24T04:04:18.189Z"
-    },
-    "satmar-rebbe": {
-      "displayName": "Satmar Rebbe",
-      "aliases": [
-        "Satmar Rebbe",
-        "R’ Yoel Teitelbaum",
-        "R’ Yoelish",
-        "Satmar Rebbe’s",
-        "The Satmar Rebbe"
-      ],
-      "createdAt": "2026-07-24T04:04:24.882Z"
     },
     "r-yonasan-eibschutz": {
       "displayName": "R’ Yonasan Eibschutz",
@@ -1774,7 +1764,18 @@
       "displayName": "R’ Yoel Teitelbaum (Satmar Rebbe)",
       "aliases": [
         "R’ Yoel Teitelbaum",
-        "Satmar Rebbe"
+        "Satmar Rebbe",
+        "R’ Yoel Teitelbaum",
+        "R’ Yoelish",
+        "Satmar Rebbe’s"
+      ],
+      "createdAt": "2026-07-24T05:33:44.031Z"
+    },
+    "yismach-yisrael": {
+      "displayName": "Yismach Yisrael",
+      "aliases": [
+        "Yismach Yisrael",
+        "ישמח ישראל"
       ],
       "createdAt": "2026-07-24T05:33:44.031Z"
     },

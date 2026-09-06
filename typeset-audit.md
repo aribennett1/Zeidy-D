@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 28 (3 high, 25 medium)
+Findings: 29 (3 high, 26 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -17,8 +17,8 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: hardly fathom.) , ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר סה,...
 - PDF visual text, page 462, Shabbos - The Gift of Olam Haba in This World, line 17
   - visual: [page-0462.png](typeset-audit-pages/page-0462.png)
-  - The ⁧‫ ⁩גמרא‬says, ⁧,‫ אמר להם הקדוש ברוך הוא למשה‬,‫ כי אני ה׳ מקדשכם‬,‫ לדעת‬,‫תני נמי הכי‬
-  - normalized: The  גמראsays, , אמר להם הקדוש ברוך הוא למשה, כי אני ה׳ מקדשכם, לדעתת,ני נמי הכי
+  - The ⁧‫ ⁩גמרא‬says, ⁧,‫ אמר להם הקדוש ברוך הוא למשה‬,‫ כי אני ה’ מקדשכם‬,‫ לדעת‬,‫תני נמי הכי‬
+  - normalized: The  גמראsays, , אמר להם הקדוש ברוך הוא למשה, כי אני ה’ מקדשכם, לדעתת,ני נמי הכי
 - PDF visual text, page 474, לטובה - the same way, also all of the     גלות and all of the     גלות in the Yidden, line 6
   - visual: [page-0474.png](typeset-audit-pages/page-0474.png)
   - ,‫ גלות יוון‬,‫ ⁩אך בהווה⁧ ⁩;גלות אדום⁧ ⁩גלות בבל‬- but in the present time, ⁦‫לא י...
@@ -65,7 +65,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0393.png](typeset-audit-pages/page-0393.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 457, Purim 5785, line 15112
+- Typst source, page 457, Purim 5785, line 15107
   - visual: [page-0457.png](typeset-audit-pages/page-0457.png), [page-0458.png](typeset-audit-pages/page-0458.png)
   - does this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩. What is ⁦אהרן'⁩s ⁧מידה⁩? We all know abou...
   - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
@@ -115,6 +115,10 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0108.png](typeset-audit-pages/page-0108.png)
   - to ⁧‫ ⁩כהן גדול‬was entirely genuine. From this ⁧,‫⁩’רבי יהושע בן קרחה⁦ ⁩מדרש‬s position
   - normalized: to  כהן גדולwas entirely genuine. From this ,’רבי יהושע בן קרחה מדרשs position
+- PDF visual text, page 214, should not be     מבזה or make fun of anyone, and you should certainly be very, line 12
+  - visual: [page-0214.png](typeset-audit-pages/page-0214.png)
+  - a ⁧ ‫ ⁩כהן‬go to the ⁧ ‫ ⁩קבר‬of ⁧ ‫ ⁩?ר’ שמעון בר יוחאי‬It’s a very interesting ⁧ ‫⁩קשיא‬. We
+  - normalized: a   כהןgo to the   קברof   ?ר’ שמעון בר יוחאיIt’s a very interesting  קשיא. We
 - PDF visual text, page 296, to start filling in this    בור . It’s too big. I’ll never be able to finish it. Might as, line 26
   - visual: [page-0296.png](typeset-audit-pages/page-0296.png)
   - are you not coming to give a ⁧‫ ⁩שלום עליכם‬to my father-in-law the ⁦‫ ?” ב״ח‬The
