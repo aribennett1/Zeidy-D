@@ -1397,6 +1397,41 @@ function repairHebrewIsolateContinuations(typstContent) {
   return repaired;
 }
 
+function mergeAdjacentHebrewPunctuatedIsolates(typstContent) {
+  const rtlRun = `([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*)`;
+  const softSpace = `[\\t \\u00A0\\u202F]*(?:\\n(?!\\n)[\\t \\u00A0\\u202F]*)?`;
+
+  let repaired = typstContent;
+  let previous;
+  do {
+    previous = repaired;
+    repaired = repaired
+      .replace(
+        new RegExp(`${RTL_ISOLATE}${rtlRun}${POP_DIRECTIONAL_ISOLATE}([.?!])${softSpace}${RTL_ISOLATE}${rtlRun}${POP_DIRECTIONAL_ISOLATE}`, "gu"),
+        (match, left, punctuation, right) => {
+          const leftHebrewTokenCount = (left.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;
+          const rightHebrewTokenCount = (right.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;
+          if (leftHebrewTokenCount < 3 || rightHebrewTokenCount < 3) {
+            return match;
+          }
+          return `${RTL_ISOLATE}${left}${punctuation} ${right}${POP_DIRECTIONAL_ISOLATE}`;
+        }
+      )
+      .replace(
+        new RegExp(`${RTL_ISOLATE}${rtlRun}${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE}${softSpace}${RTL_ISOLATE}${rtlRun}${POP_DIRECTIONAL_ISOLATE}`, "gu"),
+        (match, left, right) => {
+          const leftHebrewTokenCount = (left.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;
+          if (leftHebrewTokenCount < 3) {
+            return match;
+          }
+          return `${RTL_ISOLATE}${left}, ${right}${POP_DIRECTIONAL_ISOLATE}`;
+        }
+      );
+  } while (repaired !== previous);
+
+  return repaired;
+}
+
 function normalizeIsolatedPunctuationSpacing(typstContent) {
   return typstContent
     .replace(/(#metadata\(none\)\s*<[^>\n]+>)(?:\\?["”])\s*:/g, "”:$1")
@@ -1442,6 +1477,7 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
 function applyTextRules(typstContent) {
   return repairQuotedHebrewRuns(
     normalizeIsolatedPunctuationSpacing(
+      mergeAdjacentHebrewPunctuatedIsolates(
       repairIntraWordStyledHebrew(
         repairHebrewIsolateContinuations(
           repairStyledHebrewContinuations(
@@ -1468,6 +1504,7 @@ function applyTextRules(typstContent) {
             )
           )
         )
+      )
       )
     )
   );
@@ -1938,6 +1975,7 @@ module.exports = {
   normalizeNumberedSoftBreaks,
   normalizePunctuationSpacing,
   protectMixedLtrParentheticals,
+  mergeAdjacentHebrewPunctuatedIsolates,
   normalizeIsolatedPunctuationSpacing,
   repairEscapedHebrewParagraphCitations,
   repairSplitGemaraSources,

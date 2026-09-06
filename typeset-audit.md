@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 27 (2 high, 25 medium)
+Findings: 28 (3 high, 25 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -15,8 +15,12 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0210.png](typeset-audit-pages/page-0210.png)
   - hardly fathom.)⁩ ⁧,‫ ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר...
   - normalized: hardly fathom.) , ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר סה,...
-- PDF visual text, page 475, לטובה - the same way, also all of the     גלות and all of the     גלות in the Yidden, line 6
-  - visual: [page-0475.png](typeset-audit-pages/page-0475.png)
+- PDF visual text, page 462, Shabbos - The Gift of Olam Haba in This World, line 17
+  - visual: [page-0462.png](typeset-audit-pages/page-0462.png)
+  - The ⁧‫ ⁩גמרא‬says, ⁧,‫ אמר להם הקדוש ברוך הוא למשה‬,‫ כי אני ה׳ מקדשכם‬,‫ לדעת‬,‫תני נמי הכי‬
+  - normalized: The  גמראsays, , אמר להם הקדוש ברוך הוא למשה, כי אני ה׳ מקדשכם, לדעתת,ני נמי הכי
+- PDF visual text, page 474, לטובה - the same way, also all of the     גלות and all of the     גלות in the Yidden, line 6
+  - visual: [page-0474.png](typeset-audit-pages/page-0474.png)
   - ,‫ גלות יוון‬,‫ ⁩אך בהווה⁧ ⁩;גלות אדום⁧ ⁩גלות בבל‬- but in the present time, ⁦‫לא י...
   - normalized: , גלות יוון, אך בהווה ;גלות אדום גלות בבל- but in the present time, לא יוכל האדם
 ## MEDIUM - missing space after colon before Hebrew in Typst source
@@ -53,16 +57,16 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0300.png](typeset-audit-pages/page-0300.png), [page-0301.png](typeset-audit-pages/page-0301.png)
   - א׳:ב׳)⁩⁩, and then it says ⁧אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם ⁦(ישעיהו נ״א:י״ב)⁩⁩ lat...
   - normalized: א׳:ב׳), and then it says אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם                  later on
-- Typst source, page 377, Shavuos 5784, line 12459
-  - visual: [page-0377.png](typeset-audit-pages/page-0377.png), [page-0378.png](typeset-audit-pages/page-0378.png)
+- Typst source, page 376, Shavuos 5784, line 12450
+  - visual: [page-0376.png](typeset-audit-pages/page-0376.png), [page-0377.png](typeset-audit-pages/page-0377.png)
   - א:נ״ו)⁩ that at ⁧הר סיני⁩⁦,⁩ ⁧כלל ישראל⁩ was sleeping. They went to sleep that
   - normalized: א:נ״ו) that at הר סיני, כלל ישראל was sleeping. They went to sleep that
-- Typst source, page 394, Elul 5785, line 13001
-  - visual: [page-0394.png](typeset-audit-pages/page-0394.png)
+- Typst source, page 393, Elul 5785, line 12992
+  - visual: [page-0393.png](typeset-audit-pages/page-0393.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 458, Purim 5785, line 15125
-  - visual: [page-0458.png](typeset-audit-pages/page-0458.png), [page-0459.png](typeset-audit-pages/page-0459.png)
+- Typst source, page 457, Purim 5785, line 15116
+  - visual: [page-0457.png](typeset-audit-pages/page-0457.png), [page-0458.png](typeset-audit-pages/page-0458.png)
   - does this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩. What is ⁦אהרן'⁩s ⁧מידה⁩? We all know abou...
   - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
 ## MEDIUM - quote surrounded by spaces
@@ -98,8 +102,8 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0263.png](typeset-audit-pages/page-0263.png)
   - one ever said, ⁧”‫ ⁩“צר לי המקום‬- meaning Hashem, who is ⁧‫⁩המקום‬. No one ever
   - normalized: one ever said, ” “צר לי המקום- meaning Hashem, who is המקום. No one ever
-- PDF visual text, page 353, Dvar Torah Pesach 5783, line 7
-  - visual: [page-0353.png](typeset-audit-pages/page-0353.png)
+- PDF visual text, page 352, Dvar Torah Pesach 5783, line 7
+  - visual: [page-0352.png](typeset-audit-pages/page-0352.png)
   - is ⁧‫נח‬,⁩ so he called the sefer ⁧‫” “מנחת חן‬, ⁧‫ ⁩חן‬is ⁧‫ ⁩ח‬- ⁧‫ ⁩נ‬and ⁧‫ ⁩נח‬is ⁧‫ ⁩נ‬- ⁧‫]⁩ח‬, asked us...
   - normalized: is נח, so he called the sefer ” “מנחת חן,  חןis  ח-  נand  נחis  נ- ]ח, asked us a
 ## MEDIUM - space before sentence punctuation
@@ -115,11 +119,11 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0296.png](typeset-audit-pages/page-0296.png)
   - are you not coming to give a ⁧‫ ⁩שלום עליכם‬to my father-in-law the ⁦‫ ?” ב״ח‬The
   - normalized: are you not coming to give a  שלום עליכםto my father-in-law the  ?” ב״חThe
-- PDF visual text, page 415, Sukkos 5786, line 21
-  - visual: [page-0415.png](typeset-audit-pages/page-0415.png)
+- PDF visual text, page 414, Sukkos 5786, line 21
+  - visual: [page-0414.png](typeset-audit-pages/page-0414.png)
   - Why specifically this “easy ⁧‫?”⁩מצוה‬
   - normalized: Why specifically this “easy ?”מצוה
-- PDF visual text, page 456, A rav named R’ Mordechai Sabato explains that since each event in the first, line 28
-  - visual: [page-0456.png](typeset-audit-pages/page-0456.png)
+- PDF visual text, page 455, A rav named R’ Mordechai Sabato explains that since each event in the first, line 28
+  - visual: [page-0455.png](typeset-audit-pages/page-0455.png)
   - What are the central words of this ⁧‫ !⁩ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י⁧ ?⁩פסוק‬Until ⁦‫⁩’מרדכי‬s name is
   - normalized: What are the central words of this  !ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י פסוק?Until ’מרדכיs name is

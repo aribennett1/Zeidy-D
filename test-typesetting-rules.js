@@ -502,6 +502,13 @@ test("keeps semicolon between Hebrew phrases in English sentence order", () => {
   );
 });
 
+test("keeps multi-sentence Hebrew quote in one RTL run", () => {
+  assert.equal(
+    applyTextRules("rule: הלומד תורה על מנת ללמד, מספיקין בידו ללמוד וללמד. והלומד על מנת לעשות, מספיקין בידו ללמוד וללמד לשמור ולעשות. One of"),
+    `rule: ${RTL_ISOLATE}הלומד תורה על מנת ללמד, מספיקין בידו ללמוד וללמד. והלומד על מנת לעשות, מספיקין בידו ללמוד וללמד לשמור ולעשות${POP_DIRECTIONAL_ISOLATE}. One of`
+  );
+});
+
 test("keeps gerushin mizbeach phrase in English sentence order", () => {
   assert.equal(
     applyTextRules("if חס ושלום there's a גירושין, מזבח מוריד דמעות - the מזבח cries"),
@@ -1666,6 +1673,16 @@ test("docx: Tetzaveh 5783 keeps quote sources after the Hebrew quotes", () => {
     typst,
     `${RTL_ISOLATE}וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ${POP_DIRECTIONAL_ISOLATE}\n${LTR_ISOLATE}(ויקרא י״ט:י״ח)${POP_DIRECTIONAL_ISOLATE}`,
     "Ben Nanas quote and source should not be separate bidi runs"
+  );
+});
+
+test("docx: Vayailech 5786 keeps Avos quote in one RTL run", () => {
+  const typst = convertedDocx("/vayailech/5786/");
+
+  assertContains(
+    typst,
+    `rule (4:5): ${RTL_ISOLATE}הַלּוֹמֵד תּוֹרָה עַל מְנָת לְלַמֵּד, מַסְפִּיקִין בְּיָדוֹ לִלְמֹד וּלְלַמֵּד. וְהַלּוֹמֵד עַל מְנָת לַעֲשׂוֹת, מַסְפִּיקִין בְּיָדוֹ לִלְמֹד וּלְלַמֵּד לִשְׁמֹר וְלַעֲשׂוֹת${POP_DIRECTIONAL_ISOLATE}. One of`,
+    "Avos quote stays in one RTL isolate"
   );
 });
 
