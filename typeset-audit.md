@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 29 (3 high, 26 medium)
+Findings: 28 (2 high, 26 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -19,10 +19,6 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0462.png](typeset-audit-pages/page-0462.png)
   - The ⁧‫ ⁩גמרא‬says, ⁧,‫ אמר להם הקדוש ברוך הוא למשה‬,‫ כי אני ה’ מקדשכם‬,‫ לדעת‬,‫תני נמי הכי‬
   - normalized: The  גמראsays, , אמר להם הקדוש ברוך הוא למשה, כי אני ה’ מקדשכם, לדעתת,ני נמי הכי
-- PDF visual text, page 474, לטובה - the same way, also all of the     גלות and all of the     גלות in the Yidden, line 6
-  - visual: [page-0474.png](typeset-audit-pages/page-0474.png)
-  - ,‫ גלות יוון‬,‫ ⁩אך בהווה⁧ ⁩;גלות אדום⁧ ⁩גלות בבל‬- but in the present time, ⁦‫לא י...
-  - normalized: , גלות יוון, אך בהווה ;גלות אדום גלות בבל- but in the present time, לא יוכל האדם
 ## MEDIUM - missing space after colon before Hebrew in Typst source
 
 - Typst source, page 61, Chayai Sara 5787, line 1864
@@ -111,10 +107,6 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
 - PDF visual text, page 2, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 6
   - visual: [page-0002.png](typeset-audit-pages/page-0002.png)
   - “Hakadosh Boruch Hu Y’shalem S’charam .….”
-- PDF visual text, page 108, witnessed the oil flowing over    ’ַאֲהֹרן s head, down his face, and onto his beard., line 7
-  - visual: [page-0108.png](typeset-audit-pages/page-0108.png)
-  - to ⁧‫ ⁩כהן גדול‬was entirely genuine. From this ⁧,‫⁩’רבי יהושע בן קרחה⁦ ⁩מדרש‬s position
-  - normalized: to  כהן גדולwas entirely genuine. From this ,’רבי יהושע בן קרחה מדרשs position
 - PDF visual text, page 214, should not be     מבזה or make fun of anyone, and you should certainly be very, line 12
   - visual: [page-0214.png](typeset-audit-pages/page-0214.png)
   - a ⁧ ‫ ⁩כהן‬go to the ⁧ ‫ ⁩קבר‬of ⁧ ‫ ⁩?ר’ שמעון בר יוחאי‬It’s a very interesting ⁧ ‫⁩קשיא‬. We
@@ -131,3 +123,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0455.png](typeset-audit-pages/page-0455.png)
   - What are the central words of this ⁧‫ !⁩ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י⁧ ?⁩פסוק‬Until ⁦‫⁩’מרדכי‬s name is
   - normalized: What are the central words of this  !ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י פסוק?Until ’מרדכיs name is
+- PDF visual text, page 464, In addition also, we find something very interesting, According to   נוסח אשכנז ,, line 22
+  - visual: [page-0464.png](typeset-audit-pages/page-0464.png)
+  - ‫ ⁩הקדוש ברוך הוא‬explained it to ⁧‫⁩משה‬. ⁧‫ ⁩ָאַמר ְלָפָניו‬- ⁧‫ ⁩משה רבינו‬says ⁧!‫ִר ּבֹונֹו ֶׁשל עֹוָלם‬
+  - normalized: הקדוש ברוך הואexplained it to משה.  ָאַמר ְלָפָניו-  משה רבינוsays !ִר ּבֹונֹו ֶׁשל עֹוָלם

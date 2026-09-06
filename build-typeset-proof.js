@@ -1373,9 +1373,22 @@ function repairStyledHebrewContinuations(typstContent) {
   return repairIntraWordStyledHebrew(repaired);
 }
 
+function isInsideDirectionalIsolate(text, offset) {
+  let depth = 0;
+  for (const char of text.slice(0, offset)) {
+    if (char === LTR_ISOLATE || char === RTL_ISOLATE) {
+      depth += 1;
+    } else if (char === POP_DIRECTIONAL_ISOLATE && depth > 0) {
+      depth -= 1;
+    }
+  }
+  return depth > 0;
+}
+
 function repairHebrewIsolateContinuations(typstContent) {
   const hebrewIsolate = `[${RTL_ISOLATE}${LTR_ISOLATE}]([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}`;
   const softSeparator = `(["”]?)[\\t \\u00A0\\u202F]*(?:\\n(?!\\n)[\\t \\u00A0\\u202F]*)?`;
+  const requiredSoftSpace = `[\\t \\u00A0\\u202F]+|[\\t \\u00A0\\u202F]*\\n(?!\\n)[\\t \\u00A0\\u202F]*`;
 
   let repaired = typstContent;
   let previous;
@@ -1402,10 +1415,29 @@ function repairHebrewIsolateContinuations(typstContent) {
           }
           return `${RTL_ISOLATE}${left}${quote} ${right}${POP_DIRECTIONAL_ISOLATE}`;
         }
+      )
+      .replace(
+        new RegExp(`${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}(?:${requiredSoftSpace})[${RTL_ISOLATE}${LTR_ISOLATE}]([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
+        (match, left, right, offset, fullText) => {
+          if (isInsideDirectionalIsolate(fullText, offset) || /^\s*\(/.test(right)) {
+            return match;
+          }
+          return `${RTL_ISOLATE}${left} ${right}${POP_DIRECTIONAL_ISOLATE}`;
+        }
       );
   } while (repaired !== previous);
 
   return repaired;
+}
+
+function normalizeHebrewListHardBreaks(typstContent) {
+  return typstContent.replace(
+    new RegExp(
+      `${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*),${POP_DIRECTIONAL_ISOLATE}\\s*\\\\\\s*(?=${RTL_ISOLATE}[^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS})`,
+      "gu"
+    ),
+    `${RTL_ISOLATE}$1${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} `
+  );
 }
 
 function mergeAdjacentHebrewPunctuatedIsolates(typstContent) {
@@ -1489,20 +1521,22 @@ function applyTextRules(typstContent) {
   return smartenNestedSingleQuotes(repairQuotedHebrewRuns(
     normalizeIsolatedPunctuationSpacing(
       mergeAdjacentHebrewPunctuatedIsolates(
-      repairIntraWordStyledHebrew(
-        repairHebrewIsolateContinuations(
-          repairStyledHebrewContinuations(
-            protectMixedLtrParentheticals(
-              repairTwoPartHebrewCommaDashPhrases(
-                repairSplitMasechtaDafQuestions(
-                  repairSplitGemaraSources(
-                    repairQuotedHebrewRuns(
-                      isolateHebrewRuns(
-                        moveLeadingHebrewSourceAfterQuote(
-                          repairEscapedHebrewParagraphCitations(
-                            normalizeMisplacedHebrewCommas(
-                              normalizePunctuationSpacing(
-                                normalizeColonHebrewSoftBreaks(normalizeNumberedSoftBreaks(typstContent))
+      normalizeHebrewListHardBreaks(
+        repairIntraWordStyledHebrew(
+          repairHebrewIsolateContinuations(
+            repairStyledHebrewContinuations(
+              protectMixedLtrParentheticals(
+                repairTwoPartHebrewCommaDashPhrases(
+                  repairSplitMasechtaDafQuestions(
+                    repairSplitGemaraSources(
+                      repairQuotedHebrewRuns(
+                        isolateHebrewRuns(
+                          moveLeadingHebrewSourceAfterQuote(
+                            repairEscapedHebrewParagraphCitations(
+                              normalizeMisplacedHebrewCommas(
+                                normalizePunctuationSpacing(
+                                  normalizeColonHebrewSoftBreaks(normalizeNumberedSoftBreaks(typstContent))
+                                )
                               )
                             )
                           )

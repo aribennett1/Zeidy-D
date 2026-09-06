@@ -1363,6 +1363,21 @@ test("docx: Chanukah 5785 keeps indexed quote marker after quote colon", () => {
   );
 });
 
+test("docx: Chanukah 5785 keeps inline Hebrew bracha list on one line", () => {
+  const typst = convertedDocx("/chanukah/5785/");
+
+  assertContains(
+    typst,
+    `our enemies, grant us ${RTL_ISOLATE}גזונט${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}פרנסה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} and ${RTL_ISOLATE}נחת${POP_DIRECTIONAL_ISOLATE}`,
+    "inline Hebrew list items should not be separated by a hard break"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}גזונט,${POP_DIRECTIONAL_ISOLATE} \\ ${RTL_ISOLATE}פרנסה${POP_DIRECTIONAL_ISOLATE}`,
+    "hard break should not be preserved inside inline Hebrew bracha list"
+  );
+});
+
 test("docx: Shavuos 5783 keeps Hebrew colon quote phrase in one RTL run", () => {
   const typst = convertedDocx("/shavuos/5783/");
 

@@ -3410,7 +3410,7 @@ R’ Chaim Shmuelevitz#metadata(none) <person-index-r-chaim-shmuelevitz-222> off
 witnessed the oil flowing over ⁦אַהֲרֹן'⁩s head, down his face, and onto his
 beard. The ⁧מדרש⁩ describes how ⁧משה⁩ was so thrilled and joyous that it was
 as if the oil was being poured on his own head. ⁦משה'⁩s joy at his
-brother's elevation to ⁧כהן גדול⁩ was entirely genuine. From this ⁧מדרש,⁩ ⁦רבי יהושע בן קרחה'⁩s position becomes clear. Even though ⁧משה⁩ lost the
+brother's elevation to ⁧כהן גדול⁩ was entirely genuine. From this ⁧מדרש, רבי יהושע בן קרחה'⁩s position becomes clear. Even though ⁧משה⁩ lost the
 opportunity to become ⁧כהן גדול⁩⁦,⁩ it wasn't considered a punishment. His
 ⁧שמחה⁩ for his brother's accomplishment was so deep and sincere that it
 was as if he himself had been appointed ⁧כהן גדול⁩. This is a tremendous
@@ -5644,7 +5644,7 @@ The ⁧פסוק⁩ says in ⁧פסוק ב⁩: ⁧דַּבֵּר אֶל בְּנ�
 from stolen property (as he owned everything), so too, you are not
 allowed to steal an animal and offer it as a ⁧קרבן⁩\; it must be your own.
 
-The ⁧ספר אפריון⁩⁦,⁩ written by ⁦ר' שלמה גנצפריד זצ״ל⁩ - a tremendous ⁧גאון⁩ - offers an additional perspective. The ⁧פסוק⁩ could have simply said: ⁧דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם⁩ ⁦כִּי יַקְרִיב מִכֶּם קׇרְבָּן לַה׳⁩. What is the word ⁧אדם⁩
+The ⁧ספר אפריון⁩⁦,⁩ written by ⁦ר' שלמה גנצפריד זצ״ל⁩ - a tremendous ⁧גאון⁩ - offers an additional perspective. The ⁧פסוק⁩ could have simply said: ⁧דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם כִּי יַקְרִיב מִכֶּם קׇרְבָּן לַה׳⁩. What is the word ⁧אדם⁩
 coming to teach us that we would not have otherwise known?
 
 The ⁧אפריון⁩ presents a fascinating insight involving many ⁧גמטריות⁩ and
@@ -7884,7 +7884,7 @@ that it says the words ⁧בְּנֵי יִשְׂרָאֵל⁩ five times in thi
 ⁧חיבתן⁩⁦,⁩ that Hashem loves all of ⁧כלל ישראל⁩:
 
 #align(right)[
-⁧חֲמִשָּׁה פְעָמִים נֶאֶמְרוּ בְנֵי יִשְׂרָאֵל בְּמִקְרָא זֶה, לְהוֹדִיעַ חִבָּתָן, שֶׁנִּכְפַּל אַזְכְּרוֹתֵיהֶן בְּמִקְרָא אֶחָד כְּמִנְיַן חֲמִשָּׁה חֻמְשֵׁי תוֹרָה, ⁩ ⁦וְכָךְ רָאִיתִי בִּבְ״רַ⁩]
+⁧חֲמִשָּׁה פְעָמִים נֶאֶמְרוּ בְנֵי יִשְׂרָאֵל בְּמִקְרָא זֶה, לְהוֹדִיעַ חִבָּתָן, שֶׁנִּכְפַּל אַזְכְּרוֹתֵיהֶן בְּמִקְרָא אֶחָד כְּמִנְיַן חֲמִשָּׁה חֻמְשֵׁי תוֹרָה,  וְכָךְ רָאִיתִי בִּבְ״רַ⁩]
 
 Hashem looks at us just like the ⁧חמישה חומשי תורה⁩. What is the
 implication of that? R’ Goldstein explains that it says in ⁧פרשת יתרו⁩
@@ -14592,7 +14592,7 @@ merited that day. If we do this properly, we can extend the spirit of
   ))
 = Chanukah 5785
 
-⁧לכבוד חנוכה⁩⁦,⁩ and ⁧לעילוי נשמת רב⁩ ⁦צבי בן אלכסנדר הכהן הי״ד⁩, the man who
+⁧לכבוד חנוכה⁩⁦,⁩ and ⁧לעילוי נשמת רב צבי בן אלכסנדר הכהן הי״ד⁩, the man who
 was tragically killed in Abu Dhabi, we are learning now ⁧לעילוי נשמתו⁩⁦,⁩ and also for all those who need a ⁧רפואה שלמה⁩ and a big ⁧ישועה⁩.
 
 ⁧חנוכה⁩ is a joyous ⁧יום טוב⁩⁦,⁩ one that many of us cherish from childhood.
@@ -14618,7 +14618,7 @@ and accessible only through the ⁧גמרא⁩⁦,⁩ ⁧רב יהודה הנש�
 ⁧חנוכה⁩ remains a celebration of ⁧תורה שבעל פה⁩.
 
 In the zechus of learning ⁧תורה⁩⁦,⁩ may ⁧הקדוש ברוך הוא⁩ protect us from all
-our enemies, grant us ⁧גזונט,⁩ \ ⁧פרנסה⁩⁦,⁩ and ⁧נחת⁩⁦,⁩ and most importantly, ⁧הצלחה⁩ in ⁧עבודת הבורא⁩. And as we look at the wonderful light of the
+our enemies, grant us ⁧גזונט,⁩ ⁧פרנסה⁩⁦,⁩ and ⁧נחת⁩⁦,⁩ and most importantly, ⁧הצלחה⁩ in ⁧עבודת הבורא⁩. And as we look at the wonderful light of the
 ⁧מנורה⁩⁦,⁩ let us try to imagine - We can't see it - the ⁧אור הגנוז⁩. We
 little people can't see it, but it's there. If we focus on the light of
 ⁧חנוכה⁩⁦,⁩ it can penetrate deep into our ⁧נשמות⁩⁦,⁩ and give us a tremendous
@@ -15315,7 +15315,7 @@ mentioned already in ⁧עשרת הדיברות⁩. If so, what was ⁧נתחד�
 that I'm giving them a ⁧מתנה⁩”, ⁧לכאורה⁩ this is already an old ⁧מתנה⁩?
 
 In addition to that, we find a very fascinating ⁧תוספות⁩ in ⁧מסכת סנהדרין לז ב׃⁩ on the pasuk in ⁧ישעיהו⁩⁦,⁩ ⁧מכנף הארץ זמירות שמענו⁩⁦,⁩ that from the end
-of the earth we hear ⁧זמירות⁩⁦,⁩ we hear ⁧שירים⁩⁦,⁩ and ⁧תושבחות⁩⁦,⁩ to ⁧הקדוש ברוך הוא⁩. ⁧תוספות⁩ quotes, ⁧כתוב בתשובת הגאונים⁩ it is written in the ⁧תשובת הגאונים,⁩ ⁦שאין בני א״י⁩ ⁧אומרים קדושה אלא בשבת⁩⁦,⁩ that the ⁧בני ארץ ישראל⁩ do
+of the earth we hear ⁧זמירות⁩⁦,⁩ we hear ⁧שירים⁩⁦,⁩ and ⁧תושבחות⁩⁦,⁩ to ⁧הקדוש ברוך הוא⁩. ⁧תוספות⁩ quotes, ⁧כתוב בתשובת הגאונים⁩ it is written in the ⁧תשובת הגאונים, שאין בני א״י אומרים קדושה אלא בשבת⁩⁦,⁩ that the ⁧בני ארץ ישראל⁩ do
 not say ⁧קדושה⁩ only on ⁧שבת⁩⁦,⁩ ⁧דכתיב⁩ because there's a ⁧פסוק⁩ in ⁧ישעיה⁩
 concerning the ⁧חיות הקודש⁩⁦,⁩ the heavenly ⁧מלאכים⁩ that are called the ⁧חיות⁩⁦,⁩ it says ⁧שש כנפים לאחד⁩⁦,⁩ that each ⁧מלאך⁩ has six wings, ⁧וכל כנף הוא אומר שירה אחת ביום בששת ימי החול⁩⁦,⁩ and each wing says ⁧שירה⁩ to ⁧הקדוש ברוך הוא⁩
 during the six days of the ⁧ימי החול⁩⁦,⁩ six wings for six days.⁧כשיגיע שבת⁩
@@ -15360,7 +15360,7 @@ every person. And one, on account of this ⁧קושיה⁩⁦,⁩ from time imme
 the ⁧אמונה⁩ of ⁧הקדוש ברוך הוא⁩⁦,⁩ And not the question of ⁧הקדוש ברוך הוא⁩. And
 that is an old age question, which the ⁧גמרא⁩ tells us is a question that
 was already raised by ⁧משה רבינו⁩⁦,⁩ as we find in the ⁧גמרא⁩ ⁦מסכת ברכות דף ז
-ע״א⁩ brings the pasuk in ⁧פרשת כי⁩ ⁦תשא ״הוֹדִיעֵנִי נָא אֶת דְּרָכֶיךָ״⁩ - “⁧ריבונו של עולם⁩⁦,⁩ Show Me Your Ways. And the ⁧גמרא⁩ in ⁧ברכות⁩⁦,⁩ interprets this phrase, ⁦משה רבינו'⁩s question, to mean: ⁧בִּקֵּשׁ לְהוֹדִיעוֹ דְּרָכָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, וְנָתַן לוֹ⁩. -That ⁧הקדוש ברוך הוא⁩ explained it to ⁧משה⁩. ⁧אָמַר לְפָנָיו⁩ - ⁧משה רבינו⁩
+ע״א⁩ brings the pasuk in ⁧פרשת כי תשא ״הוֹדִיעֵנִי נָא אֶת דְּרָכֶיךָ״⁩ - “⁧ריבונו של עולם⁩⁦,⁩ Show Me Your Ways. And the ⁧גמרא⁩ in ⁧ברכות⁩⁦,⁩ interprets this phrase, ⁦משה רבינו'⁩s question, to mean: ⁧בִּקֵּשׁ לְהוֹדִיעוֹ דְּרָכָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, וְנָתַן לוֹ⁩. -That ⁧הקדוש ברוך הוא⁩ explained it to ⁧משה⁩. ⁧אָמַר לְפָנָיו⁩ - ⁧משה רבינו⁩
 says ⁧רִבּוֹנוֹ שֶׁל עוֹלָם! מִפְּנֵי מָה יֵשׁ צַדִּיק וְטוֹב לוֹ, וְיֵשׁ צַדִּיק וְרַע לוֹ, יֵשׁ רָשָׁע וְטוֹב לוֹ, וְיֵשׁ רָשָׁע וְרַע לוֹ⁩⁦?⁩. How are we to understand that the ⁧דרך⁩ of
 ⁧רשעים⁩⁦,⁩ that many, many ⁧רשעים⁩⁦,⁩ that they are ⁧מצליח⁩ and they have a good
 life, they have a peaceful life, they have a tranquil life. Yet on the
@@ -15404,7 +15404,7 @@ However, ⁧מקרא הלכה⁩⁦,⁩ we know and we're well aware from the �
 begins with ⁧מזמור שיר ליום השבת⁩. The source of this ⁧קפיטל⁩⁦,⁩ of course, was said by ⁧אדם הראשון⁩. He was really the ⁧מחבר⁩ of ⁧מִזְמוֹר שִׁיר⁩ ⁦לְיוֹם הַשַּׁבָּת
 טוֹב לְהֹדוֹת לַה׳⁩, as ⁧אגדת רבה⁩ points this out, in ⁧פרשת בראשית⁩. However, what we are going to address ourselves is to a very simple question:
 that if, in fact, ⁧מִזְמוֹר שִׁיר לְיוֹם הַשַּׁבָּת⁩⁦,⁩ the title of this ⁧קפיטל⁩ purports
-to sing a song, ⁧לכבוד⁩ ⁦יום השבת טוֹב לְהֹדוֹת לַה׳⁩, what is very, very evident
+to sing a song, ⁧לכבוד יום השבת טוֹב לְהֹדוֹת לַה׳⁩, what is very, very evident
 and cries out in front of us when we read the various ⁧פסוקים⁩ of this
 ⁧קפיטל⁩⁦,⁩ glaringly, staring us in the face, is the fact that there is not
 one mention at all about ⁧שבת⁩ throughout the entire ⁧קפיטל⁩. So what, ⁧בכלל⁩⁦,⁩ has this got to do with ⁧שבת⁩? ⁧מזמור שיר ליום השבת⁩ - Where? What do we
@@ -15434,7 +15434,7 @@ out, in the same way that in the human body we have a ⁧גוף⁩ and we have a
 ⁧נשמה⁩⁦,⁩ and the ⁧גוף⁩ certainly cannot live without the ⁧נשמה⁩. The ⁧נשמה⁩ is
 which gives ⁧חיות⁩ and vitality to the ⁧גוף⁩. So too, regarding the
 seven-day week, the ⁧ששת ימי החול⁩ are the ⁧גוף⁩ of the week, represents the
-body of the week, and ⁧שבת⁩ is the ⁧נפש,⁩ \ ⁧שָבַת וינפש⁩⁦,⁩ without ⁧שבת⁩ there's
+body of the week, and ⁧שבת⁩ is the ⁧נפש,⁩ ⁧שָבַת וינפש⁩⁦,⁩ without ⁧שבת⁩ there's
 no life in the ⁧ששת ימי החול⁩ at all. So in order to have a viable world, to have a world that is alive, we need ⁧שבת⁩⁦,⁩ ⁧שבת⁩ is the ⁧השלמה⁩⁦,⁩ ⁧שבת⁩ was
 ⁧משלים⁩ the ⁧נפש⁩ to the ⁧בריאה⁩.
 
@@ -15667,14 +15667,13 @@ understand it before, ⁦עז״נ⁩ - on this it says ⁧ופני לא יראו
 be able to see it ahead of time. ⁦וזה שת״א⁩ - And this in fact now we
 understand what the ⁧תרגום אונקלוס⁩ says, ⁧ותחזי ית דבתרי⁩ - You'll be able
 to see that which is behind me, ⁧ודקדמי לא יתחזון⁩ - But that which is
-before me you will not see. ⁧דהיינו⁩⁦,⁩ the intent of that is, ⁧להבין מקודם⁩
-⁦שהוא גם כן לטובה עכ״ד⁩ ⁦הק׳⁩ - That you will not be able to see.
+before me you will not see. ⁧דהיינו⁩⁦,⁩ the intent of that is, ⁧להבין מקודם שהוא גם כן לטובה עכ״ד הק׳⁩ - That you will not be able to see.
 
 Says ⁧ר' צדוק⁩ that the truth is ⁧וכן בגלות מצרים⁩ - ⁧הקדוש ברוך הוא⁩ showed
 ⁧משה רבינו⁩ the hidden ⁧טוב⁩ that there was in ⁧גלות מצרים⁩. Of course when we
 look at ⁧גלות מצרים⁩ and we see of all of the ⁧צער⁩ and all of the ⁧צרות⁩ that
 the Yidden went through in ⁧מצרים⁩ 210 years, which the ⁧תורה⁩ says really
-amounts in fact to being in ⁧גלות⁩ 400 years, how are we to understand, how can we see, how can we find any good hidden in ⁧גלות מצרים⁩⁦?⁩ Says ⁧ר' צדוק⁩: ⁧וכן⁩ ⁦בגלות מצרים הראה לו השי״ת⁩ ⁧איך כל שלות המצריים להאבידם היה לטובה⁩ - That all of the ⁧מצריים⁩ that he intended to do and to destroy the
+amounts in fact to being in ⁧גלות⁩ 400 years, how are we to understand, how can we see, how can we find any good hidden in ⁧גלות מצרים⁩⁦?⁩ Says ⁧ר' צדוק: וכן בגלות מצרים הראה לו השי״ת איך כל שלות המצריים להאבידם היה לטובה⁩ - That all of the ⁧מצריים⁩ that he intended to do and to destroy the
 Yidden, that all the attempted to do ⁧למעשה⁩ it turns out it was a ⁧טובים⁩
 because ⁦שע״י כן היו בשם⁩ ⁧כל החכמות מצרים⁩ - ⁧מצריים⁩ living ⁧בשלווה⁩⁦,⁩ living
 in comfort and in tranquility, that allowed ⁧מצרים⁩ to prosper and become
@@ -15688,7 +15687,7 @@ had a center place where the ⁧ניצוצות קדושה⁩ were trapped from a
 were found in ⁧מצרים⁩⁦,⁩ and the Yidden therefore had the opportunity to
 release and to redeem and to elevate all of these ⁧ניצוצות קדושים⁩. ⁧והיה הכנה למתן תורה⁩ - In addition, this being a ⁧הכנה⁩ for ⁧מתן תורה⁩. Says ⁧ר' צדוק⁩ I want you to know that ⁧וכן הוא באמת כל הגליות לטובה⁩ - the same
 way, also all of the ⁧גלות⁩ and all of the ⁧גלות⁩ in the Yidden went
-through, we know that there are four ⁧גלות⁩ besides ⁧מצרים⁩: the ⁧גלות מדי, גלות בבל, גלות יוון, ⁩ ⁧גלות אדום⁩⁦;⁩ ⁧אך בהווה⁩ - but in the present time, ⁦לא
+through, we know that there are four ⁧גלות⁩ besides ⁧מצרים⁩: the ⁧גלות מדי, גלות בבל, גלות יוון,  גלות אדום⁩⁦;⁩ ⁧אך בהווה⁩ - but in the present time, ⁦לא
 יוכל האדם לעמוד ע״ז⁩ - we're not able to fathom it, we cannot comprehend
 it, we can't understand it, ⁦ועז״נ⁩ - and therefore it says ⁧ופני לא יראו⁩ - ahead of time we're not able to see it, but it'll become a time ⁧וְרָאִיתָ אֶת אֲחֹרָי⁩ - we will look behind and then we'll see the total picture, and
 we'll have a, ⁧הבנה⁩ and we'll be able to see the hidden good that is in
@@ -15776,7 +15775,7 @@ treasure house, because ⁧עולם הבא⁩⁦,⁩ truly speaking, is not down
 a ⁧שטיקל עולם הבא⁩ from his ⁧בית גנוזה⁩⁦,⁩ he took out a ⁧שטיקל עולם הבא⁩ from
 the ⁧עולמות עליונים⁩ and brought it down here in the form of ⁧שבת⁩⁦,⁩ because
 ⁦שא״א שירגיש אותו האדם⁩ ⁧בחייו⁩ - a person can't experience ⁧עולם הבא⁩ when
-he's alive, ⁧ואני מבקש לתנו לישראל שהם⁩ ⁦יירשו השבת הגנוז הזה לעוה״ב⁩ - a
+he's alive, ⁧ואני מבקש לתנו לישראל שהם יירשו השבת הגנוז הזה לעוה״ב⁩ - a
 little bit, says the ⁧הקדוש ברוך הוא⁩⁦,⁩ I want to give ⁧כל ישראל⁩ a little
 bit of ⁧עולם הבא⁩ in this world as well, I want to give a little bit of
 ⁧עולם הבא⁩ that I have stashed away up in the ⁧עולמות העליונים⁩\; the ⁧שבת⁩
@@ -15832,8 +15831,7 @@ all is ⁧צדיק כתמר יפרח⁩ and the ⁧לְהַגִּיד כִּי �
 that when ⁧שבת⁩ comes all the ⁧קושיות⁩ get answered. All the ⁧קושיות⁩ that a
 Yid has on the ⁧הנהגה⁩ of ⁧הקדוש ברוך הוא⁩⁦,⁩ they all become answered. And
 when it comes to ⁧שבת⁩ by ⁧מנחה⁩⁦,⁩ ⁦(⁧אגב⁩ I did not mention this in the shiur
-on ⁧שבת⁩),⁩ and therefore when he begins Friday night, he says ⁧מִזְמוֹר שִׁיר⁩
-⁦לְיוֹם הַשַּׁבָּת טוֹב לְהֹדוֹת לַה׳⁩ and he works his way through ⁧שבת⁩ to come to the
+on ⁧שבת⁩),⁩ and therefore when he begins Friday night, he says ⁧מִזְמוֹר שִׁיר לְיוֹם הַשַּׁבָּת טוֹב לְהֹדוֹת לַה׳⁩ and he works his way through ⁧שבת⁩ to come to the
 ⁧שבת מֵעֵין עוֹלָם הַבָּא⁩ experience, to come to the realization that ⁧הכל יודוך והכל ישבחוך⁩ - that the entire world are not different ⁧חלקים⁩ but rather
 they're all ⁧חלקים⁩ of one big picture. And he comes to the realization of
 ⁧לְהַגִּיד כִּי יָשָׁר ה׳⁩⁦,⁩ so when he comes already ultimately to ⁧שבת⁩ by ⁧מנחה⁩ then
