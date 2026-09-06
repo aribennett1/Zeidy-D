@@ -10921,18 +10921,16 @@ maintain you ⁧לעולם ועד⁩.
   ))
 = Ki Savo 5786
 
-We've brought the concept that everything needs ⁧מזל⁩⁦,⁩ including a ⁧ספר תורה בהיכל⁩⁦,⁩ quite a number of times before. I particularly bring that
-idea up with the order and the position of all the ⁧פסוקים⁩ in the ⁧פרשיות⁩.
-In ⁧פרשת כי תבוא⁩⁦,⁩ the last ⁧פסוק⁩ is ⁧וּשְׁמַרְתֶּם אֶת דִּבְרֵי הַבְּרִית הַזֹּאת וַעֲשִׂיתֶם אֹתָם לְמַעַן תַּשְׂכִּילוּ אֵת כָּל אֲשֶׁר תַּעֲשׂוּן⁩.
+We've noted the concept that everything needs ⁧מזל⁩⁦,⁩ including a ⁧ספר תורה בהיכל⁩⁦,⁩ quite a number of times before. I particularly bring that idea up
+with the order and the position of all the ⁧פסוקים⁩ in the ⁧פרשיות⁩. In ⁧פרשת כי תבוא⁩⁦,⁩ the last ⁧פסוק⁩ is ⁧וּשְׁמַרְתֶּם אֶת דִּבְרֵי הַבְּרִית הַזֹּאת וַעֲשִׂיתֶם אֹתָם לְמַעַן תַּשְׂכִּילוּ אֵת כָּל אֲשֶׁר תַּעֲשׂוּן⁩.
 
 I wanted to bring a particular ⁧מעשה⁩ which I found in the sefer ⁧אחת שאלתי⁩
 brought down by R’ Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-808> in the name of a sefer called ⁧אגן הסהר⁩
-which I can honestly say I never heard of, but this is such a ⁧געוואלדיגע⁩
-example of this pasuk that I felt it was worthy of inclusion.
-
+which I can honestly say I have never heard of, but this is such a
+⁧געוואלדיגע⁩ example of this pasuk that I felt it was worthy of inclusion.
 It is brought down in the name of R’ Avraham Genachowski#metadata(none) <person-index-r-avraham-genachowski-803> ⁦זצ״ל⁩, and it
 says here that he was very fond of the following story which he would
-retell often, drawing important lessons from it.
+often retell, drawing important lessons from it.
 
 Years ago, there was a pious and God-fearing ⁧תלמיד חכם⁩ who lived in
 Kiryat Arba, a small city near Haifa. He toiled in Torah day and night.
@@ -10975,10 +10973,11 @@ costly and would disrupt the entire factory's production.
 
 As soon as our ⁧תלמיד חכם⁩ heard the problem, he had a brilliant idea.
 “Please take me to the factory manager,” he requested. No one took him
-quite seriously. They wondered what could this frum guy possibly have to
+quite seriously. They wondered what this frum guy could possibly have to
 tell the manager. But when he repeated his request, they pointed him in
-the right direction. He was in the main room inside the pit. He rushed
-over to the manager and found him in a state of utter despair. “Listen, I have a simple solution to your problem,” he told the manager. The
+the right direction. The manager was in the main room inside the pit. He
+rushed over to him and found him in a state of utter despair. “Listen, I
+have a simple solution to your problem,” he told the manager. The
 manager looked at him in disbelief. The problem had stumped all of the
 top experts. What simple solution could this worker offer him?
 
@@ -11014,11 +11013,10 @@ Number three: R’ Genachowski#metadata(none) <person-index-r-avraham-genachowsk
 as a ⁧משל⁩. Every person has ice in his heart. This ice causes his heart
 to be unsettled. He lacks true joy, inner peace, and satisfaction.
 However, a person can slowly melt this ice by thinking about his own
-insignificance. When a person internalizes the fact he is but a tiny
-speck in Hashem's enormous universe, and if he acts with true humility, the ice surrounding his heart will gradually melt and his heart will
-settle itself securely into its proper place.
-
-That story has tremendous lessons to teach us all.
+insignificance. When a person internalizes the fact that he is but a
+tiny speck in Hashem's enormous universe, and if he acts with true
+humility, the ice surrounding his heart will gradually melt and his
+heart will settle itself securely into its proper place.
 
 As a P.S., many of you have heard of the name Rabbi Menachem Genack.#metadata(none) <person-index-r-menachem-genack-807>
 He's the head of the OU and a chavrusa of mine from our school days. He
