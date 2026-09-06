@@ -14596,19 +14596,19 @@ merited that day. If we do this properly, we can extend the spirit of
 was tragically killed in Abu Dhabi, we are learning now ⁧לעילוי נשמתו⁩⁦,⁩ and also for all those who need a ⁧רפואה שלמה⁩ and a big ⁧ישועה⁩.
 
 ⁧חנוכה⁩ is a joyous ⁧יום טוב⁩⁦,⁩ one that many of us cherish from childhood.
-The following is an idea found in “A Short Vort”:#metadata(none) <person-index-a-short-vort-1080> The ⁧בני יששכר⁩#metadata(none) <person-index-r-tzvi-elimelech-of-dinov-1082> and many
-other ⁧גדולי ישראל⁩ describe ⁧חנוכה⁩ as the ⁧יום טוב⁩ of ⁧תורה שבעל פה⁩. This
-leads to a very obvious and straightforward question: Why are there no
-⁧משניות⁩ in ⁦ש״ס⁩ that discuss ⁧חנוכה⁩? We have a whole ⁧מסכת⁩ for ⁧פורים⁩⁦,⁩ a
-whole ⁧מסכת⁩ for ⁧פסח⁩⁦,⁩ and another for ⁧סוכות⁩⁦,⁩ filled with ⁧משניות⁩. But for
-⁧חנוכה⁩⁦,⁩ there is nothing. Why is that?
+The following is an idea found in A Short Vort: #metadata(none) <person-index-a-short-vort-1080> The ⁧בני יששכר⁩#metadata(none) <person-index-r-tzvi-elimelech-of-dinov-1082> and other
+⁧גדולי ישראל⁩ describe ⁧חנוכה⁩ as the ⁧יום טוב⁩ of ⁧תורה שבעל פה⁩. This leads to
+an obvious and straightforward question: Why are there no ⁧משניות⁩ in ⁦ש״ס⁩
+that discuss ⁧חנוכה⁩? We have a whole ⁧מסכת⁩ for ⁧פורים⁩⁦,⁩ a whole ⁧מסכת⁩ for
+⁧פסח⁩⁦,⁩ and another for ⁧סוכות⁩⁦,⁩ filled with ⁧משניות⁩. But for ⁧חנוכה⁩⁦,⁩ there is
+nothing. Why is that?
 
 R’ Nissan Kaplan#metadata(none) <person-index-r-nissan-kaplan-1081> offers a fascinating explanation. He suggests that ⁧רב יהודה הנשיא⁩ deliberately chose not to write down ⁧משניות⁩ for ⁧חנוכה⁩ in
 order to beat the ⁧יוונים⁩ at their own game. The ⁧יוונים⁩ did not seek to
 annihilate us physically, as ⁧המן⁩ did. Their war was ideological; they
 sought to erase ⁧תורה⁩ and ⁧מצוות⁩⁦,⁩ the very essence of what makes us Jews.
-As we say in ⁧על הנסים⁩⁦,⁩ both in ⁧שמונה עשרה⁩ and ⁧ברכת המזון⁩⁦,⁩ their goal was
-to cause the Yidden to forget the ⁧תורה⁩.
+As we say in ⁧על הנסים⁩ their goal was to cause the Yidden to forget the
+⁧תורה⁩.
 
 ⁧רב יהודה הנשיא⁩ wrote down parts of ⁧תורה שבעל פה⁩ when he recognized that
 it was at risk of being forgotten. However, when it came to ⁧חנוכה⁩⁦,⁩ a ⁧יום טוב⁩ that commemorates our ⁧ניצחון⁩ over the Greeks and their attempt to
@@ -14618,11 +14618,10 @@ and accessible only through the ⁧גמרא⁩⁦,⁩ ⁧רב יהודה הנש�
 ⁧חנוכה⁩ remains a celebration of ⁧תורה שבעל פה⁩.
 
 In the zechus of learning ⁧תורה⁩⁦,⁩ may ⁧הקדוש ברוך הוא⁩ protect us from all
-our enemies, grant us ⁧גזונט,⁩ ⁧פרנסה⁩⁦,⁩ and ⁧נחת⁩⁦,⁩ and most importantly, ⁧הצלחה⁩ in ⁧עבודת הבורא⁩. And as we look at the wonderful light of the
-⁧מנורה⁩⁦,⁩ let us try to imagine - We can't see it - the ⁧אור הגנוז⁩. We
-little people can't see it, but it's there. If we focus on the light of
-⁧חנוכה⁩⁦,⁩ it can penetrate deep into our ⁧נשמות⁩⁦,⁩ and give us a tremendous
-⁧ישועה⁩ and tremendous ⁧עליה⁩.
+our enemies, grant us ⁧גזונט⁩⁦,⁩ ⁧פרנסה⁩⁦,⁩ and ⁧נחת⁩⁦,⁩ and most importantly, ⁧הצלחה⁩ in ⁧עבודת הבורא⁩. And as we look at the wonderful light of the
+⁧מנורה⁩⁦,⁩ let us try to imagine the ⁧אור הגנוז⁩. We little people can't see
+it, but it's there. If we focus on the light of ⁧חנוכה⁩⁦,⁩ it can penetrate
+deep into our ⁧נשמות⁩⁦,⁩ and give us a tremendous ⁧ישועה⁩ and ⁧עליה⁩.
 
 #pagebreak()
 
@@ -15434,7 +15433,7 @@ out, in the same way that in the human body we have a ⁧גוף⁩ and we have a
 ⁧נשמה⁩⁦,⁩ and the ⁧גוף⁩ certainly cannot live without the ⁧נשמה⁩. The ⁧נשמה⁩ is
 which gives ⁧חיות⁩ and vitality to the ⁧גוף⁩. So too, regarding the
 seven-day week, the ⁧ששת ימי החול⁩ are the ⁧גוף⁩ of the week, represents the
-body of the week, and ⁧שבת⁩ is the ⁧נפש,⁩ ⁧שָבַת וינפש⁩⁦,⁩ without ⁧שבת⁩ there's
+body of the week, and ⁧שבת⁩ is the ⁧נפש⁩⁦,⁩ ⁧שָבַת וינפש⁩⁦,⁩ without ⁧שבת⁩ there's
 no life in the ⁧ששת ימי החול⁩ at all. So in order to have a viable world, to have a world that is alive, we need ⁧שבת⁩⁦,⁩ ⁧שבת⁩ is the ⁧השלמה⁩⁦,⁩ ⁧שבת⁩ was
 ⁧משלים⁩ the ⁧נפש⁩ to the ⁧בריאה⁩.
 
