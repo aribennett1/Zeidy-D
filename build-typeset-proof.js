@@ -500,6 +500,24 @@ function applyDocxParagraphAlignments(typstContent, paragraphAlignments) {
     .join("");
 }
 
+function normalizeRtlBulletLists(typstContent) {
+  const rtlBulletBlock = new RegExp(
+    `#align\\(right\\)\\[\\n- ([^\\]\\n]*[${RTL_ISOLATE}${LTR_ISOLATE}][^\\]\\n]*${HEBREW_LETTERS}[^\\]\\n]*)\\]`,
+    "gu"
+  );
+
+  return typstContent.replace(
+    new RegExp(`(?:${rtlBulletBlock.source}\\n\\n){1,}${rtlBulletBlock.source}`, "gu"),
+    (match) => {
+      const items = Array.from(match.matchAll(rtlBulletBlock), (itemMatch) => itemMatch[1]);
+      return `#align(right)[
+#set text(dir: rtl)
+${items.map((item) => `- ${item}`).join("\n")}
+]`;
+    }
+  );
+}
+
 function shiftedParagraphAlignments(paragraphAlignments, removedParagraphCount) {
   if (removedParagraphCount <= 0) {
     return paragraphAlignments;
@@ -1058,7 +1076,8 @@ function normalizeEditorialReplacements(typstContent) {
     .replace(/\bparshah\b/giu, preserveInitialCase("parsha"))
     .replace(/\bbezras\b/giu, preserveInitialCase("b’ezras"))
     .replace(/\bmidrash\b/giu, preserveInitialCase("medrash"))
-    .replace(/\bArtscroll\b/g, "ArtScroll");
+    .replace(/\bArtscroll\b/g, "ArtScroll")
+    .replace(/קושיה/g, "קשיא");
 }
 
 function normalizePunctuationSpacing(typstContent) {
@@ -1504,6 +1523,10 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
       `${RTL_ISOLATE}$1${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE}$2`
     )
     .replace(
+      new RegExp(`${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*),${POP_DIRECTIONAL_ISOLATE}(\\s*#metadata\\(none\\)\\s*<[^>\\n]+>)(?=\\s*${RTL_ISOLATE})`, "gu"),
+      `${RTL_ISOLATE}$1${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE}$2`
+    )
+    .replace(
       new RegExp(`${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}:\\s*${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
       (match, beforeColon, afterColon, offset, fullText) => {
         const hebrewTokenCount = (beforeColon.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;
@@ -1712,7 +1735,7 @@ function convertDocxToTypst(entry, indexState = null) {
     )
   );
   const indexedBody = indexState ? tagPersonIndexMentions(body, indexState) : body;
-  return applyTextRules(indexedBody);
+  return normalizeRtlBulletLists(applyTextRules(indexedBody));
 }
 
 function renderPdfPage(entry) {

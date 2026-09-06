@@ -1353,13 +1353,13 @@ test("docx: Chanukah 5785 keeps indexed quote marker after quote colon", () => {
 
   assertContains(
     typst,
-    `in “A Short Vort”:#metadata(none) <person-index-a-short-vort-1> The`,
-    "colon stays tight after closing quote before indexed A Short Vort marker"
+    `in A Short Vort: #metadata(none) <person-index-a-short-vort-1> The`,
+    "colon stays tight before indexed A Short Vort marker"
   );
   assertNotContains(
     typst,
-    `in “A Short Vort”#metadata(none) <person-index-a-short-vort-1>: The`,
-    "index marker should not separate closing quote from colon"
+    `in A Short Vort #metadata(none) <person-index-a-short-vort-1>: The`,
+    "index marker should not separate A Short Vort from colon"
   );
 });
 
@@ -1375,6 +1375,42 @@ test("docx: Chanukah 5785 keeps inline Hebrew bracha list on one line", () => {
     typst,
     `${RTL_ISOLATE}גזונט,${POP_DIRECTIONAL_ISOLATE} \\ ${RTL_ISOLATE}פרנסה${POP_DIRECTIONAL_ISOLATE}`,
     "hard break should not be preserved inside inline Hebrew bracha list"
+  );
+});
+
+test("docx: Tu Beshvat 5784 keeps Hebrew bullets on the RTL side", () => {
+  const typst = convertedDocx("/tu-beshvat/5784/");
+
+  assertContains(
+    typst,
+    `#align(right)[\n#set text(dir: rtl)\n- ${RTL_ISOLATE}ראש חודש אדר${POP_DIRECTIONAL_ISOLATE}\n- ${RTL_ISOLATE}פורים${POP_DIRECTIONAL_ISOLATE}`,
+    "Hebrew-only bullet list should be grouped into an RTL list"
+  );
+  assertNotContains(
+    typst,
+    `#align(right)[\n- ${RTL_ISOLATE}ראש חודש אדר${POP_DIRECTIONAL_ISOLATE}]`,
+    "Hebrew-only bullet list should not keep LTR-side markers"
+  );
+});
+
+test("docx: Tu Beshvat 5784 keeps comma after Bnei Yissaschar before zechuso", () => {
+  const typst = convertedDocxWithIndex("/tu-beshvat/5784/", [
+    {
+      id: "r-tzvi-elimelech-of-dinov",
+      displayName: "R’ Tzvi Elimelech of Dinov",
+      aliases: ["בני יששכר"],
+    },
+  ]);
+
+  assertContains(
+    typst,
+    `the ${RTL_ISOLATE}בני יששכר${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-1> ${RTL_ISOLATE}זכותו יגן עלינו${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} explains`,
+    "comma should follow indexed Bnei Yissaschar before zechuso"
+  );
+  assertNotContains(
+    typst,
+    `the ${RTL_ISOLATE}בני יששכר,${POP_DIRECTIONAL_ISOLATE} #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-1> ${RTL_ISOLATE}זכותו יגן עלינו${POP_DIRECTIONAL_ISOLATE}`,
+    "comma should not remain inside Bnei Yissaschar RTL isolate"
   );
 });
 
