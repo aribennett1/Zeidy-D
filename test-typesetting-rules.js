@@ -1304,7 +1304,7 @@ test("docx: Rosh Hashana 5785 keeps closing quotes before said attribution", () 
 
   assertContains(
     typst,
-    `help me marry off my daughters.'” “My friend,” said Reb Levi`,
+    `help me marry off my daughters.’” “My friend,” said Reb Levi`,
     "closing quote before My friend attribution"
   );
   assertNotContains(typst, `daughters'\". \"My friend, \" said`, "raw quote punctuation");

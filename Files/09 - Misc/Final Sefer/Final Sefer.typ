@@ -13185,7 +13185,7 @@ performing this awesome ⁧מצוה⁩. “Rebbe,” said the newcomer, “I'm a
 fellow. I don't understand too much about the hidden things of the ⁧תורה⁩.
 But I have four daughters of marriageable age, and when I blow the ⁧שופר⁩⁦,⁩ this is what I have in mind: '⁧רבונו של עולם⁩⁦,⁩ right now I'm carrying out
 your will. I'm doing your ⁧מצוה⁩⁦,⁩ I'm blowing the ⁧שופר⁩. Please You do what
-I want and help me marry off my daughters.'” “My friend,” said Reb Levi
+I want and help me marry off my daughters.’” “My friend,” said Reb Levi
 Yitzchok, #metadata(none) <person-index-r-levi-yitzchok-of-berditchev-966> “you will blow the ⁧שופר⁩ in my shul.”
 
 This man meant it. That's the bottom line of all the stories. We have to
@@ -14564,7 +14564,7 @@ approached his ⁧ראש ישיבה⁩⁦,⁩ the Manchester ⁧צדיק⁩⁦,�
 guidance. R’ Segal#metadata(none) <person-index-r-yehuda-zev-segal-1077> advised him to go to work but gave him a ⁧תנאי⁩ - a
 condition to carry with him.
 
-“Every night in ⁧מעריב⁩⁦,⁩ when you say the words in davening, ⁧וְעַל נִסֶּיךָ שֶׁבְּכָל יוֹם עִמָּנוּ⁩⁦,⁩ 'the miracles You perform for us every day, '” he instructed, “think of one ⁧נס⁩ that you merited that day.”
+“Every night in ⁧מעריב⁩⁦,⁩ when you say the words in davening, ⁧וְעַל נִסֶּיךָ שֶׁבְּכָל יוֹם עִמָּנוּ⁩⁦,⁩ 'the miracles You perform for us every day,’” he instructed, “think of one ⁧נס⁩ that you merited that day.”
 
 The Yid told R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1075> that 40 years have passed since that moment, and not a single day has gone by where he struggled to find a ⁧נס⁩ to
 reflect upon. This simple condition given by R’ Segal#metadata(none) <person-index-r-yehuda-zev-segal-1078> not only helped

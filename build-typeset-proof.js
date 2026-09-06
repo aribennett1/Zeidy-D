@@ -1020,6 +1020,12 @@ function smartenStraightDoubleQuotes(typstContent) {
     .replace(new RegExp(`([^\\s${hebrewClass}])\\\\?"(?=\\s|$|[,.;:!?)}\\]])`, "gu"), "$1”");
 }
 
+function smartenNestedSingleQuotes(typstContent) {
+  return typstContent
+    .replace(/([,;:.!?])\s+'(?=\\?["”])/g, "$1’")
+    .replace(/(\\?[.?!])'(?=\\?["”])/g, "$1’");
+}
+
 function preserveInitialCase(replacement) {
   return (match) => {
     if (match[0] === match[0].toUpperCase()) {
@@ -1043,7 +1049,6 @@ function normalizePunctuationSpacing(typstContent) {
     .replace(new RegExp(`(${HEBREW_LETTERS})['‘](?=\\s*[,.;:!?])`, "gu"), "$1’")
     .replace(new RegExp(`(${HEBREW_LETTERS})['’‘](?=\\s*(?:-|$))`, "gu"), "$1׳")
     .replace(/R'/g, "R’")
-    .replace(/(\\?[.?!])'(?=\\?["”])/g, "$1’")
     .replace(/([A-Za-z])'"\./g, "$1.'\"")
     .replace(/([,;:.!?])(#metadata\(none\)\s*<[^>\n]+>)(\\?["”])/g, "$1$3$2")
     .replace(/([,;:.!?])\s+"(?=\s+(?:said|asked|answered|responded|replied)\b)/giu, "$1\"")
@@ -1481,7 +1486,7 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
 }
 
 function applyTextRules(typstContent) {
-  return repairQuotedHebrewRuns(
+  return smartenNestedSingleQuotes(repairQuotedHebrewRuns(
     normalizeIsolatedPunctuationSpacing(
       mergeAdjacentHebrewPunctuatedIsolates(
       repairIntraWordStyledHebrew(
@@ -1513,7 +1518,7 @@ function applyTextRules(typstContent) {
       )
       )
     )
-  );
+  ));
 }
 
 function pageSettings(size) {
