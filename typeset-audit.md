@@ -94,7 +94,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
 - PDF visual text, page 215, Behar 5784, line 17
   - visual: [page-0215.png](typeset-audit-pages/page-0215.png)
   - “The Weekly Vort ” is relevant.
-- PDF visual text, page 258, The pitiful plight of my brethren is too much to bear.”     רב ברוך was surprised., line 14
+- PDF visual text, page 258, “What brings you here?”     רב ברוך asked. “Well,” the     אלטע Rebbe replied, “I, line 16
   - visual: [page-0258.png](typeset-audit-pages/page-0258.png)
   - collect ⁧‫“ ?⁩צדקה‬But why didn’t you just teach them the meaning of the word
   - normalized: collect “ ?צדקהBut why didn’t you just teach them the meaning of the word

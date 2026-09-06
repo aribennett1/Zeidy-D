@@ -8419,22 +8419,22 @@ person in the entire history of the world to whom Hashem revealed the
 rationale of the ⁧פרה אדומה⁩.
 
 When the people of Yisroel would later prepare other ⁧פרה אדומות⁩⁦,⁩ they
-had to have in mind the ⁧כוונות⁩ and the fundamental meaning that Moshe
-had when he made the first ⁧פרה אדומה⁩. That is what Rashi#metadata(none) <person-index-rashi-604> is saying. The
-⁧פרה אדומה⁩ will always be named after Moshe because we're always going to
-have to depend on his ⁧כוונות⁩⁦,⁩ the intentions that Moshe had when he had
-prepared the first ⁧פרה⁩ in the ⁧מדבר⁩\. This leads me to a fascinating story
-from the Lubavitcher ⁧חסידות⁩ literature, which I'd like to share with
-you. It's rather long, but you will see at the end that it's
-extraordinarily worthwhile.
+had to have in mind that the ⁧כוונות⁩ and the fundamental meaning that
+Moshe had when he made the first ⁧פרה אדומה⁩ be included in them as well.
+That is what Rashi#metadata(none) <person-index-rashi-604> is saying. The ⁧פרה אדומה⁩ will always be named after
+Moshe because we're always going to have to depend on his ⁧כוונות⁩⁦,⁩ the
+intentions that Moshe had when he had prepared the first ⁧פרה⁩ in the
+⁧מדבר⁩\. This leads me to a fascinating story from the Lubavitcher ⁧חסידות⁩
+literature, which I'd like to share with you. It's rather long, but you
+will see at the end that it's extraordinarily worthwhile.
 
-During the time of the ⁧אלטע⁩ Rebbe, who was Rebbe ⁧שניאור זלמן⁩#metadata(none) <person-index-rebbe-shnayar-zalman-of-liadi-605> from Liadi, who was the founder of ⁦חב״ד⁩ chasidus, a law was passed that forcibly
-moved the Jews from rural villages to larger towns. They had to leave
-where they lived and congregate in bigger towns. This particularly harsh
-decree left many Jews destitute, they had no ⁧פרנסה⁩. A great deal of
-money was required to alleviate their plight. Not only were many poor
-families without basic necessities, but they had to bribe officials to
-leave the Jews alone.
+During the time of the ⁧אלטע⁩ Rebbe, who was Rebbe ⁧שניאור זלמן⁩#metadata(none) <person-index-rebbe-shnayar-zalman-of-liadi-605> from Liadi, the founder of ⁦חב״ד⁩ chasidus, a law was passed that forcibly moved the
+Jews from rural villages to larger towns. They had to leave where they
+lived and congregate in bigger towns. This particularly harsh decree
+left many Jews destitute, they had no ⁧פרנסה⁩. A great deal of money was
+required to alleviate their plight. Not only were many poor families
+without basic necessities, but they had to bribe officials to leave the
+Jews alone.
 
 To this end, the ⁧אלטע⁩ Rebbe began traveling extensively through the
 region asking people for donations. On one such mission, it took him to
@@ -8500,7 +8500,7 @@ were expelled from their villages.
 direct result of your grandfather's ⁧אחד⁩. That is why money is once again
 needed to avert the harsh decree.”
 
-Having read this story, I approached Rabbi Oelbuam#metadata(none) <person-index-r-noach-isaac-oelbaum-600> and I said, “What is
+Having read this story, I approached Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-600> and I said, “What is
 the proper ⁧כוונה⁩ for ⁧אחד⁩?” He replied, “What do you think?” I said, ⁧“קבלת עול מלכות שמים⁩” which is, of course, a very proper ⁧כוונה⁩. My
 second ⁧כוונה⁩ is ⁧מסירות נפש⁩ for ⁧קבלת עול מלכות שמים⁩. The third ⁧כוונה⁩
 which I had said until that point was to be ⁧מקיים⁩ the ⁧מצוה⁩ of ⁧קריאת שמע שחרית וערבית⁩.
