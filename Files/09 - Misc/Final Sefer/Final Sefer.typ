@@ -492,8 +492,7 @@ me every step of the way.
 The contents of this sefer are drawn from many sources; they all have
 something to teach. ⁧יהי רצון⁩ that my words bring ⁧שמחה⁩ to the ⁧רבונו של עולם⁩ and joy to all who read them.
 
-#align(center)[
-Dedicated to the grandchildren ⁧שיחיו⁩.]
+Dedicated to the grandchildren ⁧שיחיו⁩.
 
 #align(center)[
 #underline[⁧לעילוי נשמת⁩]]
@@ -524,6 +523,27 @@ Dedicated to the grandchildren ⁧שיחיו⁩.]
 
 #align(center)[
 ⁧בן אחותי מרדכי צבי בן יצחק אלימלך⁩]
+
+#divider()
+
+#align(center)[
+I would like to acknowledge permission graciously extended by the
+following writers to include selections of their work in this sefer: ]
+
+#align(center)[
+Rabbi Dovid Hoffman - Torah Tavlin]
+
+#align(center)[
+Rabbi Moshe Komornick - A Short Vort]
+
+#align(center)[
+Rabbi Pesach Krohn - The Maggid Series]
+
+#align(center)[
+Rabbi Noach Isaac Oelbaum - Divrei Torah]
+
+#align(center)[
+Rabbi Gedalia Zlotowitz - ArtScroll/Mesorah]
 
 #pagebreak()
 

@@ -464,6 +464,10 @@ function applyDocxParagraphAlignments(typstContent, paragraphAlignments) {
         return part;
       }
 
+      if (part.trim() === "#divider()") {
+        return part;
+      }
+
       const alignment = typstAlignmentForDocxParagraph(
         paragraphAlignments.get(visibleParagraphIndex)
       ) || (isHebrewOnlyText(part) ? "right" : null);

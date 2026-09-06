@@ -256,6 +256,18 @@ test("wraps selected typst paragraphs in docx alignment", () => {
   );
 });
 
+test("does not count typst divider as docx paragraph for alignment", () => {
+  const alignments = new Map([
+    [0, { align: "center", text: "before" }],
+    [1, { align: "center", text: "after" }],
+  ]);
+
+  assert.equal(
+    applyDocxParagraphAlignments("before\n\n#divider()\n\nafter", alignments),
+    "#align(center)[\nbefore\n]\n\n#divider()\n\n#align(center)[\nafter\n]"
+  );
+});
+
 test("right-aligns Hebrew-only paragraphs without explicit docx alignment", () => {
   assert.equal(
     applyDocxParagraphAlignments("English paragraph\n\nשלום וברכה", new Map()),
@@ -1710,6 +1722,21 @@ test("docx: Simchas Torah 5785 keeps closing quote after Yiddish nachas", () => 
     typst,
     `And\ntomorrow we're making a ${RTL_ISOLATE}ברית${POP_DIRECTIONAL_ISOLATE}\\.’”`,
     "final nested single quote after bris stays a closing English quote"
+  );
+});
+
+test("docx: Zeidy foreword keeps final acknowledgment centered after divider", () => {
+  const typst = convertedDocx("/zeidy/");
+
+  assertContains(
+    typst,
+    `#divider()\n\n#align(center)[\nI would like to acknowledge permission graciously extended by the\nfollowing writers to include selections of their work in this sefer: ]`,
+    "acknowledgment paragraph stays centered after divider"
+  );
+  assertContains(
+    typst,
+    `#align(center)[\nRabbi Noach Isaac Oelbaum - Divrei Torah]\n\n#align(center)[\nRabbi Gedalia Zlotowitz - ArtScroll/Mesorah]`,
+    "final acknowledgment line stays centered"
   );
 });
 
