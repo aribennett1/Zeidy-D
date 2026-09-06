@@ -302,6 +302,14 @@ function typstString(value) {
   return JSON.stringify(value);
 }
 
+function typstHeadingContent(title) {
+  return String(title || "")
+    .split(/\n+/)
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .join(" \\\n");
+}
+
 function decodeDocxXmlText(value) {
   return value
     .replace(/&lt;/g, "<")
@@ -325,6 +333,16 @@ function titleFromRouteSegment(segment) {
     .replace(/[-_]+/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function titleFromRouteDetails(details, baseTitle) {
+  return details.title
+    ? details.title.replace(/\r\n/g, "\n").replace(/[ \t]+/g, " ").trim()
+    : baseTitle;
+}
+
+function normalizedTitleForMatching(title) {
+  return String(title || "").replace(/\s+/g, " ").trim();
 }
 
 function normalizeContentPathPrefix(value) {
@@ -1621,9 +1639,7 @@ async function loadEntries(options) {
     }
 
     const baseTitle = titleFromBaseFilename(details.baseFilename);
-    const title = details.title
-      ? details.title.replace(/\s+/g, " ").trim()
-      : baseTitle;
+    const title = titleFromRouteDetails(details, baseTitle);
     const directory = path.join(FILES_DIR, details.contentPath);
     const pdfPagePath = details.pdfPage
       ? path.join(directory, details.pdfPage)
@@ -1643,7 +1659,7 @@ async function loadEntries(options) {
       isHaskama,
       isFrontMatter: frontMatterRouteSet.has(route),
       isPdfPage: Boolean(pdfPagePath),
-      sourceTitles: [title, baseTitle, ...routeSegmentTitles],
+      sourceTitles: [normalizedTitleForMatching(title), baseTitle, ...routeSegmentTitles],
       docxPath: path.join(directory, `${details.baseFilename}.docx`),
       pdfPagePath,
       qrPath: path.join(directory, `${details.baseFilename}.png`),
@@ -1947,11 +1963,14 @@ function renderTypstDocument(entries, options, indexState = null) {
     const footer = entry.hasFooter
       ? `article-footer(${typstString(entry.url)}, ${typstString(qrRelativePath)})`
       : "none";
+    const headingTitle = typstHeadingContent(entry.title);
     const heading = entry.isPdfPage || entry.isHaskama
       ? ""
       : isFrontMatter
-      ? `#heading(level: 1, outlined: false)[${entry.title}]`
-      : `= ${entry.title}`;
+      ? `#heading(level: 1, outlined: false)[${headingTitle}]`
+      : entry.title.includes("\n")
+      ? `#heading(level: 1)[${headingTitle}]`
+      : `= ${headingTitle}`;
     const margin = entry.isPdfPage ? "0in" : typstPageMargin(settings);
 
     parts.push(`#set page(header: ${header}, footer: ${footer}, margin: ${margin})

@@ -1572,7 +1572,8 @@
       "displayName": "Chasam Sofer",
       "aliases": [
         "Chasam Sofer",
-        "חת״ם סופר"
+        "חת״ם סופר",
+        "חתם סופר"
       ],
       "createdAt": "2026-07-24T04:45:49.845Z"
     },
@@ -1897,6 +1898,14 @@
         "כלי יקר"
       ],
       "createdAt": "2026-07-24T05:52:55.740Z"
+    },
+    "avudraham": {
+      "displayName": "Avudraham",
+      "aliases": [
+        "Avudraham",
+        "אבודרהם"
+      ],
+      "createdAt": "2026-07-24T05:53:06.735Z"
     },
     "mabit": {
       "displayName": "Mabit",
