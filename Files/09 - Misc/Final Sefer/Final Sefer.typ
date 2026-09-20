@@ -12941,12 +12941,13 @@ true reason for ⁧ביאת גואל צדק⁩.
   ))
 = Elul 5784
 
-My vort for ⁧אלול⁩ was inspired by a number of people, including Rabbi
-Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-979> is as follows: We know that the month of ⁧אלול⁩ is distinctive in
-that every day we say ⁧לְדָוִד ה׳ אוֹרִי וְיִשְׁעִי⁩. In that ⁧קאַפּיטל⁩ there's the
-pasuk ⁧אַחַת שָׁאַלְתִּי מֵאֵת ה׳⁩ - there is only one thing that I'm asking for.
-Then we go home and we wash and we have a nice fresh roll and a little
-scrambled egg or whatever, and then we bentch. In bentching we say: \
+My vort for ⁧אלול⁩⁦,⁩ which was inspired by a number of people including
+Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-979> is as follows: We know that the month of ⁧אלול⁩ is
+distinctive in that every day we say ⁧לְדָוִד ה׳ אוֹרִי וְיִשְׁעִי⁩. In that ⁧קאַפּיטל⁩
+there's the pasuk ⁧אַחַת שָׁאַלְתִּי מֵאֵת ה׳⁩ - there is only one thing that I'm
+asking for. Then we go home and we wash and we have a nice fresh roll
+and a little scrambled egg or whatever, and then we bentch. In bentching
+we say: \
 ⁧הקדוש ברוך הוא⁩⁦,⁩ I need -⁧לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרֶוַח הַצָּלָה וְהַצְלָחָה בְּרָכָה וִישׁוּעָה, נֶחָמָה, פַּרְנָסָה וְכַלְכָּלָה, וְרַחֲמִים, וְחַיִּים וְשָׁלוֹם, וְכָל טוֹב⁩. And ⁧הקדוש ברוך הוא⁩⁦,⁩ in
 case I left anything out, ⁧וּמִכָּל טוּב לְעוֹלָם אַל יְחַסְּרֵנוּ⁩ - If I forgot
 something, please throw in all the other good stuff that you can do.

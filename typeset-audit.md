@@ -57,11 +57,11 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0376.png](typeset-audit-pages/page-0376.png), [page-0377.png](typeset-audit-pages/page-0377.png)
   - א:נ״ו)⁩ that at ⁧הר סיני⁩⁦,⁩ ⁧כלל ישראל⁩ was sleeping. They went to sleep that
   - normalized: א:נ״ו) that at הר סיני, כלל ישראל was sleeping. They went to sleep that
-- Typst source, page 393, Elul 5785, line 13003
+- Typst source, page 393, Elul 5785, line 13004
   - visual: [page-0393.png](typeset-audit-pages/page-0393.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 457, Purim 5785, line 15130
+- Typst source, page 457, Purim 5785, line 15131
   - visual: [page-0457.png](typeset-audit-pages/page-0457.png), [page-0458.png](typeset-audit-pages/page-0458.png)
   - does this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩. What is ⁦אהרן'⁩s ⁧מידה⁩? We all know abou...
   - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
