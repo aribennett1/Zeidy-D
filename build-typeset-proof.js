@@ -298,6 +298,16 @@ async function optimizePdfForWeb(pdfPath) {
   return true;
 }
 
+function getPdfPageCount(pdfPath) {
+  if (!commandExists("pdfinfo")) {
+    return 1;
+  }
+
+  const info = run("pdfinfo", [pdfPath]);
+  const pagesMatch = info.match(/^Pages:\s+(\d+)\s*$/m);
+  return pagesMatch ? Number.parseInt(pagesMatch[1], 10) : 1;
+}
+
 function typstString(value) {
   return JSON.stringify(value);
 }
@@ -1682,6 +1692,8 @@ async function loadEntries(options) {
       isHaskama,
       isFrontMatter: frontMatterRouteSet.has(route),
       isPdfPage: Boolean(pdfPagePath),
+      pdfPageSpread: Boolean(details.pdfPageSpread),
+      pdfPageCount: 1,
       sourceTitles: [normalizedTitleForMatching(title), baseTitle, ...routeSegmentTitles],
       docxPath: path.join(directory, `${details.baseFilename}.docx`),
       pdfPagePath,
@@ -1695,6 +1707,7 @@ async function ensureEntryFiles(entries) {
   for (const entry of entries) {
     if (entry.isPdfPage) {
       await fs.access(entry.pdfPagePath);
+      entry.pdfPageCount = getPdfPageCount(entry.pdfPagePath);
       continue;
     }
 
@@ -1740,12 +1753,16 @@ function convertDocxToTypst(entry, indexState = null) {
 
 function renderPdfPage(entry) {
   const pdfRelativePath = path.relative(OUTPUT_DIR, entry.pdfPagePath).split(path.sep).join("/");
+  const pageCount = Math.max(1, entry.pdfPageCount || 1);
 
-  return `#block(width: 100%, height: 100%)[
+  return Array.from({ length: pageCount }, (_unused, index) => {
+    const pageOption = pageCount > 1 ? `, page: ${index + 1}` : "";
+    return `#block(width: 100%, height: 100%)[
   #align(center + horizon)[
-    #image(${typstString(pdfRelativePath)}, width: 100%, height: 100%, fit: "contain")
+    #image(${typstString(pdfRelativePath)}${pageOption}, width: 100%, height: 100%, fit: "contain")
   ]
 ]`;
+  }).join("\n#pagebreak()\n");
 }
 
 function typstPageMargin(settings) {
@@ -1978,6 +1995,8 @@ function renderTypstDocument(entries, options, indexState = null) {
 #counter(page).update(1)
 `);
       insertedTableOfContents = true;
+    } else if (entry.pdfPageSpread && (index > 0 || options.all)) {
+      parts.push("#pagebreak(to: \"even\")\n");
     } else if (index > 0) {
       parts.push("#pagebreak()\n");
     }

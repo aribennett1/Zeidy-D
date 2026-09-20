@@ -100,6 +100,25 @@
   it
 }
 
+#pagebreak(to: "even")
+
+#set page(header: none, footer: none, margin: 0in)
+
+
+#block(width: 100%, height: 100%)[
+  #align(center + horizon)[
+    #image("../../07 - Haskamos/Biale Rebbe/Biale Rebbe.pdf", page: 1, width: 100%, height: 100%, fit: "contain")
+  ]
+]
+#pagebreak()
+#block(width: 100%, height: 100%)[
+  #align(center + horizon)[
+    #image("../../07 - Haskamos/Biale Rebbe/Biale Rebbe.pdf", page: 2, width: 100%, height: 100%, fit: "contain")
+  ]
+]
+
+#pagebreak()
+
 #set page(header: none, footer: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
@@ -1856,11 +1875,12 @@ train themselves to do that, and take my word for it, it's worth it.
   ))
 = Chayai Sara 5787
 
-⁧לכאורה⁩⁦,⁩ to my mind, the first ⁧שבעה⁩ that was ever alluded to in the Torah
-is in ⁧פרשת חיי שרה⁩. ⁧שרה אמנו⁩ passed away, and it says (23:2) ⁧וַתָּמָת שָׂרָה⁩⁦,⁩ and the next ⁧פסוק⁩ says ⁧וַיָּקָם אַבְרָהָם מֵעַל פְּנֵי מֵתוֹ⁩. So what does it mean
-⁧וַיָּקָם⁩? It means he got up from ⁧שבעה⁩.
+⁧לכאורה⁩⁦,⁩ to my mind, the first reference to sitting ⁧שבעה⁩ ever alluded to
+in the Torah is in ⁧פרשת חיי שרה⁩. ⁧שרה אמנו⁩ passed away, and it says (23:2)
+⁧וַתָּמָת שָׂרָה⁩⁦,⁩ and the next ⁧פסוק⁩ says ⁧וַיָּקָם אַבְרָהָם מֵעַל פְּנֵי מֵתוֹ⁩. So what does it
+mean ⁧וַיָּקָם⁩? It means he got up from ⁧שבעה⁩.
 
-The famous ⁧קאפיטל⁩ we say in ⁧תהלים⁩ of ⁧למנצח⁩ has within it a pasuk ⁦(תהילים
+The ⁧קאפיטל⁩ in ⁧תהלים⁩ of ⁧למנצח⁩ for ⁧שבעה⁩ has within it a pasuk ⁦(תהילים
 מ״ט:י״ז)⁩: ⁧אַל תִּירָא כִּי יַעֲשִׁר אִישׁ כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ⁩ - Don't be afraid if a
 person is wealthy, that the ⁧כבוד⁩⁦,⁩ the honor of his house, has become
 magnified; ⁧כִּי לֹא בְמוֹתוֹ יִקַּח הַכֹּל⁩ - As they say in English, “You can't take
@@ -1869,18 +1889,17 @@ it with you.” In Yiddish they say, “There are no pockets in ⁧תכריכי�
 
 Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-106> quoting the Satmar Rebbe#metadata(none) <person-index-r-yoel-teitelbaum-107> ⁦זצ״ל⁩, has a completely different
 take on this pasuk, which I have used in many, many ⁧שבעה⁩ calls, and it
-has been a ⁧נחמה⁩ for, if not hundreds of people, dozens of people.
+has been a ⁧נחמה⁩ for hundreds of people.
 
-⁧אַל תִּירָא כִּי יַעֲשִׁר אִישׁ⁩ - Don't be afraid if a person has ⁧עשירות⁩. What after
-all is ⁧ריכטיגע עשירות⁩⁦?⁩ ⁧עשירות⁩ is ⁧תורה⁩⁦,⁩ ⁧מצוות⁩⁦,⁩ ⁧ומעשים טובים⁩. That is
-⁧עשירות⁩⁦,⁩ that is the true ⁧עשירות⁩. ⁧כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ⁩ - that his house has
-become magnified, that's a ⁦תורה׳דיגע⁩ house, a ⁧שטיב⁩ full of Torah, full
-of people who are following in the footsteps of their ⁧עלטערן⁩. ⁧כִּי לֹא בְמוֹתוֹ יִקַּח הַכֹּל⁩ - the ⁧מיתה⁩ cannot take that away from you, ⁧ממש⁩ exact
+⁧אַל תִּירָא כִּי יַעֲשִׁר אִישׁ⁩ - Don't be afraid if a person has ⁧עשירות⁩. After all, what is ⁧ריכטיגע עשירות⁩⁦?⁩ ⁧עשירות⁩ is ⁧תורה⁩⁦,⁩ ⁧מצוות⁩⁦,⁩ ⁧ומעשים טובים⁩. That is
+the true ⁧עשירות⁩. ⁧כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ⁩ - that his house has become
+magnified, that's a ⁦תורה׳דיגע⁩ house, a ⁧שטיב⁩ full of Torah, full of
+people who are following in the footsteps of their ⁧עלטערן⁩. ⁧כִּי לֹא בְמוֹתוֹ יִקַּח הַכֹּל⁩ - the ⁧מיתה⁩ cannot take that away from you, ⁧ממש⁩ the exact
 opposite of how we ⁧טייטשט פשוט פשט⁩. The ⁧מיתה⁩ cannot possibly hurt that.
 ⁧לֹא יֵרֵד אַחֲרָיו כְּבוֹדוֹ⁩ - the ⁧כבוד⁩ will not go down, the ⁧כבוד⁩ will go up with
 the person.
 
-It's a tremendous ⁧נחמה⁩ for a person to hear such a word, that he knows
+It's a tremendous ⁧נחמה⁩ for a person to hear such a vort, that he knows
 that he is carrying on the tradition, the ⁧מסורה⁩ of the one who has
 passed away, and that ⁧מסורה⁩ will be ongoing as a ⁧שלשלת⁩⁦,⁩ as a link in the
 chain until ⁧ביאת גואל צדק במהרה בימינו אמן⁩.
@@ -14231,35 +14250,37 @@ Hashem, we hope that closeness should continue the whole year.
   ))
 = Simchas Torah 5784
 
-⁧שישו ושמחו בשמחת תורה, ותנו כבוד לתורה⁩. This is a splendid and very
-wonderful story written by R’ Chaim Dahan#metadata(none) <person-index-r-chaim-dahan-1075> in the Torah Tavlin#metadata(none) <person-index-torah-tavlin-1077> a number
-of years ago. You may have heard it before, but it's so beautiful, it's
-worth repeating. The morning of ⁧שמחת תורה⁩⁦,⁩ R’ Baruch Rabinowitz#metadata(none) <person-index-r-baruch-rabinowitz-1074> and his
-son Nota Shloima, who had Down's syndrome, headed off to their Yeshiva
-Torah Vodaath to dance, sing, and revel in the completion of yet another
-cycle of the annual Torah reading. Young Nota Shloima was as happy as
-they could be. He carried along his own beautiful little ⁧ספר תורה⁩ made
-out of paper, which his parents had bought him. It was by no means a
-real ⁧ספר תורה⁩ which you could lein from, but to little Nota Shloima, it
-was as real as could be. After the dancing and singing concluded, it was
-time to read from the ⁧תורה⁩ and call each and every individual up for his
-⁧עליה⁩⁦,⁩ as we do on ⁧שמחת תורה⁩. Numerous ⁧ספרי תורה⁩ were now out to be read
-simultaneously in various sections of the shul. As Nota Shloima looked
-at all the many ⁧ספרי תורה⁩⁦,⁩ he began to wonder what would happen with his
-little ⁧ספר תורה⁩. He approached one of the ⁧גבאים⁩ and he said, “Are you
-going to read from my ⁧ספר תורה⁩⁦?⁩” The ⁧גבאי⁩ looked at little Nota Shloima, knowing what his answer was but not knowing or not having the heart to
-tell him that this little paper ⁧ספר תורה⁩ was beautiful, but you couldn't
-lein from it. Looking over at Nota Shloima and the ⁧גבאי⁩ was R’ Avraham
-Pam#metadata(none) <person-index-r-avraham-pam-1066> ⁦זצ״ל⁩, the ⁧ראש ישיבה⁩ of Torah Vodaath. He overheard what Nota Shloima
-had said and realized what the issue was. Without hesitating, Rav Pam#metadata(none) <person-index-r-avraham-pam-1067>
-got up and walked over to Nota Shloima who still stood beside the ⁧גבאי⁩⁦,⁩ waiting for the answers to why his ⁧ספר תורה⁩ could not be used. Rav Pam#metadata(none) <person-index-r-avraham-pam-1068>
-bent down and whispered something into Nota Shloima's ear. All that
-could be heard was Nota Shloima's soft, compliant reply, “Okay.” And
-with that, Nota Shloima quietly went back to his seat. Everyone watched
-in surprise. Rav Pam#metadata(none) <person-index-r-avraham-pam-1069> had appeared to have said the perfect words to ease
-Nota Shloima, but no one had any idea what they were. Nota Shloima
-remained peacefully seated throughout the remainder of the davening, periodically asking his father when everyone would begin going home. By
-the time davening was over, it was close to two o'clock in the
+⁧שישו ושמחו בשמחת תורה, ותנו כבוד לתורה⁩. This is a splendid story written
+by R’ Chaim Dahan#metadata(none) <person-index-r-chaim-dahan-1075> in the Torah Tavlin#metadata(none) <person-index-torah-tavlin-1077> a number of years ago. You may
+have heard it before, but it's so beautiful, it's worth repeating.
+
+The morning of ⁧שמחת תורה⁩⁦,⁩ R’ Baruch Rabinowitz#metadata(none) <person-index-r-baruch-rabinowitz-1074> and his son Nota Shloima, who had Down's syndrome, headed off to Yeshiva Torah Vodaath to dance, sing, and revel in the completion of yet another cycle of the annual
+Torah reading. Young Nota Shloima was as happy as could be. He carried
+along his own beautiful little ⁧ספר תורה⁩ made out of paper, which his
+parents had bought him. It was by no means a real ⁧ספר תורה⁩⁦,⁩ but to
+little Nota Shloima, it was as real as could be.
+
+After the dancing and singing concluded, it was time to read from the
+⁧תורה⁩ and call each individual up for his ⁧עליה⁩⁦,⁩ as we do on ⁧שמחת תורה⁩.
+Numerous ⁧ספרי תורה⁩ were taken out to be read simultaneously in various
+sections of the shul. As Nota Shloima looked at all the many ⁧ספרי תורה⁩⁦,⁩ he began to wonder what would happen with his little ⁧ספר תורה⁩. He
+approached one of the ⁧גבאים⁩ and he said, “Are you going to read from my
+⁧ספר תורה⁩⁦?⁩” The ⁧גבאי⁩ looked at little Nota Shloima, knowing what his
+answer was but not having the heart to tell him that this little paper
+⁧ספר תורה⁩ was beautiful, but you couldn't lein from it. Looking over at
+Nota Shloima and the ⁧גבאי⁩ was R’ Avraham Pam#metadata(none) <person-index-r-avraham-pam-1066> ⁦זצ״ל⁩, the ⁧ראש ישיבה⁩ of
+Torah Vodaath. He overheard what Nota Shloima had said and realized what
+the issue was. Without hesitating, Rav Pam#metadata(none) <person-index-r-avraham-pam-1067> got up and walked over to
+Nota Shloima, who still stood beside the ⁧גבאי⁩⁦,⁩ waiting for an answer.
+Rav Pam#metadata(none) <person-index-r-avraham-pam-1068> bent down and whispered something into Nota Shloima's ear. All
+that could be heard was Nota Shloima's soft, compliant reply, “Okay.”
+And with that, Nota Shloima quietly went back to his seat. Everyone
+watched in surprise. Rav Pam#metadata(none) <person-index-r-avraham-pam-1069> had apparently said the perfect words to
+ease Nota Shloima, but no one had any idea what they were.
+
+Nota Shloima remained peacefully seated throughout the remainder of
+davening, periodically asking his father when everyone would begin going
+home. By the time davening was over, it was close to two o'clock in the
 afternoon, as is usual on ⁧שמחת תורה⁩. While everyone else began to exit
 the shul, Rav Pam#metadata(none) <person-index-r-avraham-pam-1070> walked over to Nota Shloima, who was eagerly waiting.
 “Do you remember what I told you, Nota Shloima?” Rav Pam#metadata(none) <person-index-r-avraham-pam-1071> said. “Now it's
@@ -14268,17 +14289,17 @@ out of the shul, Rav Pam#metadata(none) <person-index-r-avraham-pam-1072> remain
 singing. The two of them enjoyed their own little ⁧הקפות⁩⁦,⁩ and then Nota
 Shloima was given a make-believe ⁧עליה⁩ from his ⁧תורה⁩. Now everyone
 understood what Rav Pam#metadata(none) <person-index-r-avraham-pam-1073> had whispered to Nota Shloima. He had said, “Nota Shloima, right now it is the time for the older people in shul to
-use their ⁧ספר תורה⁩. After we finish davening, we'll use your ⁧ספר תורה⁩⁦,⁩ will receive an ⁧עליה⁩⁦,⁩ and we will dance together.” And that's exactly
-what they did. The great ⁧ראש ישיבה⁩ made time for young Nota Shloima and
-showed him that he mattered and was just as important as everyone else.
-Such is the true joy of ⁧שמחת תורה⁩ and the mark of a great ⁧תורה⁩ leader.
-That to me is such a wonderful story about ⁧שמחת תורה⁩⁦,⁩ how we can be
-sensitive to everybody.
+use their ⁧ספר תורה⁩. After we finish davening, we'll use your ⁧ספר תורה⁩⁦,⁩ you will receive an ⁧עליה⁩⁦,⁩ and we will dance together.” And that's
+exactly what they did. The great ⁧ראש ישיבה⁩ made time for young Nota
+Shloima and showed him that he mattered and was just as important as
+everyone else. Such is the true joy of ⁧שמחת תורה⁩ and the mark of a great
+⁧תורה⁩ leader.
 
 I'm going to tell you a different story about sensitivity, which R’
 Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-1076> told us right before ⁧שופר⁩ blowing this last ⁧ראש השנה⁩. Many years
 ago, a plane was hijacked. There were ⁧תפילות⁩ all over the world for the
-people on that plane, and Baruch Hashem, this story has a happy ending, they were all released and got out safely. On that particular plane, there was a young woman who got back to New York and was doubly thrilled
+people on that plane, and Baruch Hashem, this story has a happy ending.
+They were all released and got out safely. On that particular plane, there was a young woman who got back to New York and was doubly thrilled
 because her best friend's ⁧חתונה⁩ was the next day. She came home and told
 her mother, “I made it; I can be home in time for my friend's ⁧חתונה⁩\.”
 Her mother responded, “You can't go to that ⁧חתונה⁩\.” The daughter was
@@ -14744,23 +14765,20 @@ we cannot see, renews our ⁧אמונה⁩⁦,⁩ and brings us to the ultimate 
   ))
 = Tu Beshvat 5785
 
-In preparing this ⁧דבר תורה⁩ for ⁦ט״ו בשבט⁩, a fascinating question arose, which I did not see in the ⁧ספרים⁩⁦,⁩ but which is answered in the ⁧ספרים⁩.
-And that question is, we celebrate all of life's milestones. We
-celebrate a ⁧ברית⁩⁦,⁩ we celebrate a birth, we make a kiddush for a girl, we
-celebrate ⁧בר מצוות⁩⁦,⁩ ⁧בת מצוות⁩⁦,⁩ we celebrate ⁧חתונות⁩. But how do we
-celebrate the conception of a new human being, the very outset of their
+We celebrate a ⁧ברית⁩⁦,⁩ we celebrate a birth, we make a kiddush for a girl, we celebrate ⁧בר מצוות⁩⁦,⁩ ⁧בת מצוות⁩⁦,⁩ we celebrate ⁧חתונות⁩. But how do we
+celebrate the conception of a new human being, the very outset of
 creation? It's an intriguing question that I had never really considered
 before.
 
-R’ Moshe Kormornick, #metadata(none) <person-index-r-kormornick-1121> in his essay on ⁦ט״ו בשבט⁩, addresses a similar idea.
-He explains that the ⁧משנה⁩ regarding the ⁧ראש השנה⁩ for ⁧אילנות⁩ is connected
-to the month of ⁧שבט⁩⁦,⁩ where we find the famous ⁧מחלוקת⁩ between ⁧בית שמאי⁩
-and ⁧בית הלל⁩. While we paskin like ⁧בית הלל⁩ that it falls on ⁦ט״ו בשבט⁩, the
-timing is still notable. ⁧שבט⁩ comes right in the heart of winter when
-everything is black, empty, and seemingly lifeless. The branches are
-bare, the ground is frozen, and the trees appear barren. Is this really
-the time to celebrate the ⁧ראש השנה⁩ for trees? On the surface, it doesn't
-seem fitting.
+R’ Moshe Kormornick, #metadata(none) <person-index-r-kormornick-1121> in his essay on ⁦ט״ו בשבט⁩, addresses this thought.
+He explains that the ⁧משנה⁩ assigns the ⁧ראש השנה⁩ for ⁧אילנות⁩ to the month
+of ⁧שבט⁩⁦,⁩ where we find the famous ⁧מחלוקת⁩ between ⁧בית שמאי⁩ and ⁧בית הלל⁩.
+While we paskin like ⁧בית הלל⁩ that it falls on ⁦ט״ו בשבט⁩, the timing is
+still notable. ⁧שבט⁩ comes right in the heart of winter when everything is
+black, empty, and seemingly lifeless. The branches are bare, the ground
+is frozen, and the trees appear barren. Is this really the time to
+celebrate the ⁧ראש השנה⁩ for trees? On the surface, it doesn't seem
+fitting.
 
 Yet, R’ Kormornick#metadata(none) <person-index-r-kormornick-1122> argues that ⁧שבט⁩ is actually the perfect time to
 celebrate the life of trees. As the ⁧גמרא⁩ points out, this is when the
@@ -14768,15 +14786,15 @@ sap begins to rise within the trees, marking the very beginning of their
 new growth cycle, even though nothing visible is happening yet. This
 represents the “conception” of the tree's life for the coming year.
 
-He deepens this concept by connecting it to the ⁧פסוק⁩ ⁦(דברים כ׳:י״ט)⁩ ⁧כִּי הָאָדָם עֵץ הַשָּׂדֶה⁩. Just as man is compared to a tree, we too often face
+He deepens this concept by connecting it to the pasuk ⁦(דברים כ׳:י״ט)⁩ ⁧כִּי הָאָדָם עֵץ הַשָּׂדֶה⁩. Just as man is compared to a tree, we too often face
 moments of great darkness and despair, times when life feels barren, bleak, and hopeless. But just like the tree, the beginnings of ⁧ישועה⁩
 often emerge precisely from such times of difficulty. When the
 challenges seem overwhelming, when we see nothing but obstacles, that is
 often when true growth begins - if only we keep pushing forward, putting
 in our efforts, and staying committed to our goals.
 
-R’ Heitman, who recently published a ⁧ספר⁩ on the so-called “minor” ⁧ימים טובים⁩⁦,⁩ emphasizes that ⁦ט״ו בשבט⁩ is far from minor. If we “listen” to
-the trees on this day, they can teach us profound lessons. One ⁧קנייטש⁩ he
+R’ Feitman, who recently published a sefer on the so-called “minor” ⁧ימים טובים⁩⁦,⁩ emphasizes that ⁦ט״ו בשבט⁩ is far from minor. If we “listen” to the
+trees on this day, they can teach us profound lessons. One ⁧קנייטש⁩ he
 shares, quoting Rabbi Dr. Avraham Twerski, #metadata(none) <person-index-rabbi-dr-abraham-twerski-1120> relates to the unique
 characteristics of trees. A tree stands tall and majestic, yet it
 humbles itself by providing fruit and shade. It offers humanity
@@ -14784,12 +14802,10 @@ tremendous benefits, teaching us that majesty and humility can coexist, enabling
 
 This apparent contradiction - standing tall while lowering oneself to
 serve others - can be personified by the tree. From it, we learn a
-crucial life lesson.
-
-The tree, though a physical object, fulfills a profound ⁧רוחניות⁩ purpose.
-It helps others without complaint, year after year. Just as the famous
-saying teaches that your friend's ⁧גשמיות⁩ should be your ⁧רוחניות⁩⁦,⁩ the
-tree embodies this idea naturally and selflessly.
+crucial life lesson. The tree, though a physical object, fulfills a
+profound ⁧רוחניות⁩ purpose. It helps others without complaint, year after
+year. Just as the famous saying teaches that your friend's ⁧גשמיות⁩ should
+be your ⁧רוחניות⁩⁦,⁩ the tree embodies this idea naturally and selflessly.
 
 We should strive to adopt this same approach in life - standing strong
 while providing ⁧חסד⁩ without complaint. In this ⁧זכות⁩⁦,⁩ may we all merit

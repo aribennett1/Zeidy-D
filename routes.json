@@ -883,6 +883,11 @@
       "contentPath": "06 - Yom Tov/20 - Rosh Chodesh",
       "baseFilename": "Rosh Chodesh"
     },
+    "/biale-rebbe/": {
+      "contentPath": "07 - Haskamos/Biale Rebbe",
+      "baseFilename": "Biale Rebbe",
+      "pdfPage": "Biale Rebbe.pdf"
+    },
     "/rabbi-dovid-hoffman/": {
       "contentPath": "07 - Haskamos/Rabbi Dovid Hoffman",
       "baseFilename": "Rabbi Dovid Hoffman"
@@ -1169,6 +1174,7 @@
     "06 - Yom Tov/19 - Purim/5784": "/purim/5784/",
     "06 - Yom Tov/19 - Purim/5785": "/purim/5785/",
     "06 - Yom Tov/20 - Rosh Chodesh": "/rosh-chodesh/",
+    "07 - Haskamos/Biale Rebbe": "/biale-rebbe/",
     "07 - Haskamos/Rabbi Dovid Hoffman": "/rabbi-dovid-hoffman/",
     "07 - Haskamos/Rabbi Eliyahu Safran": "/rabbi-eliyahu-safran/",
     "07 - Haskamos/Rabbi Menachem Genack": "/rabbi-menachem-genack/",
