@@ -892,6 +892,11 @@
       "contentPath": "07 - Haskamos/Rabbi Dovid Hoffman",
       "baseFilename": "Rabbi Dovid Hoffman"
     },
+    "/rabbi-dovid-menachem-weinberger/": {
+      "contentPath": "07 - Haskamos/Rabbi Dovid Menachem Weinberger",
+      "baseFilename": "Rabbi Dovid Menachem Weinberger",
+      "pdfPage": "Rabbi Dovid Menachem Weinberger.pdf"
+    },
     "/rabbi-eliyahu-safran/": {
       "contentPath": "07 - Haskamos/Rabbi Eliyahu Safran",
       "baseFilename": "Eliyahu Safran Haskama"
@@ -1176,6 +1181,7 @@
     "06 - Yom Tov/20 - Rosh Chodesh": "/rosh-chodesh/",
     "07 - Haskamos/Biale Rebbe": "/biale-rebbe/",
     "07 - Haskamos/Rabbi Dovid Hoffman": "/rabbi-dovid-hoffman/",
+    "07 - Haskamos/Rabbi Dovid Menachem Weinberger": "/rabbi-dovid-menachem-weinberger/",
     "07 - Haskamos/Rabbi Eliyahu Safran": "/rabbi-eliyahu-safran/",
     "07 - Haskamos/Rabbi Menachem Genack": "/rabbi-menachem-genack/",
     "07 - Haskamos/Rabbi Oelbaum": "/rabbi-oelbaum/",

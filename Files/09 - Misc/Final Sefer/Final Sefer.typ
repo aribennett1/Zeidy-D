@@ -100,8 +100,6 @@
   it
 }
 
-#pagebreak(to: "even")
-
 #set page(header: none, footer: none, margin: 0in)
 
 
@@ -180,6 +178,23 @@ altruistically - with the public service he so capably demonstrates.
 #linebreak()
 With great admiration and affection, #linebreak()
 Dovid Yoel Hoffman
+
+#pagebreak()
+
+#set page(header: none, footer: none, margin: 0in)
+
+
+#block(width: 100%, height: 100%)[
+  #align(center + horizon)[
+    #image("../../07 - Haskamos/Rabbi Dovid Menachem Weinberger/Rabbi Dovid Menachem Weinberger.pdf", page: 1, width: 100%, height: 100%, fit: "contain")
+  ]
+]
+#pagebreak()
+#block(width: 100%, height: 100%)[
+  #align(center + horizon)[
+    #image("../../07 - Haskamos/Rabbi Dovid Menachem Weinberger/Rabbi Dovid Menachem Weinberger.pdf", page: 2, width: 100%, height: 100%, fit: "contain")
+  ]
+]
 
 #pagebreak()
 
