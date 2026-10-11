@@ -100,6 +100,57 @@
   it
 }
 
+#set page(header: none, footer: article-footer("https://zeidyd.com/rabbi-oelbaum/", "../../07 - Haskamos/01 - Rabbi Oelbaum/Rabbi Oelbaum.png"), margin: (
+    inside: 0.78in,
+    outside: 0.62in,
+    top: 0.68in,
+    bottom: 0.82in,
+  ))
+
+
+⁧ר' יששכר בנימין⁩⁦,⁩ I'm here with your ⁧אייניקל⁩ Ari, who is being ⁧מקיים כיבוד אב⁩. \[Even though there's a whole ⁧שאלה⁩ about ⁧כיבוד⁩ for a
+grandfather, but according to most ⁧פוסקים⁩ there is such a ⁧חיוב⁩⁦,⁩ and
+Baruch Hashem he's being ⁧מקיים⁩ it in the best way.\]
+
+It gives me tremendous pleasure, ⁧באמת⁩⁦,⁩ to see that he's taking care of
+all the beautiful ⁧וורטלעך⁩ that you like to say. Let me tell you, as a
+⁧רב⁩⁦,⁩ and someone involved in saying a lot of ⁧שיעורים⁩⁦,⁩ the greatest
+satisfaction a ⁧רב⁩ has is when people not only hear a ⁧דבר תורה⁩ but are
+genuinely excited by it. And I'm very happy to say that you, ⁧יששכר בנימין⁩⁦,⁩ when you hear a good vort, you get very excited about it. Not
+only that, but you take every opportunity to share it with others, to
+give it over, and to be ⁧מרביץ תורה⁩.
+
+I'll give you one ⁧משל⁩⁦,⁩ and I'm sure this is something you've heard many, many times, though not from me. Every ⁧פסח⁩ season, when you encounter
+someone who's a ⁧שטיקל תלמיד חכם⁩⁦,⁩ you always ask the ⁧שאלה⁩: What happens
+when a ⁧רב⁩ sells ⁧חמץ⁩ to a ⁧גוי⁩⁦,⁩ and then that ⁧גוי⁩ becomes ⁧מתגייר⁩? Now, I've heard you repeat this vort over in my name so many times, but I've
+long forgotten it myself. But you - you relive it. When you enjoy
+something, you grab hold of it and make sure to be ⁧מזכה את הרבים⁩.
+
+Baruch Hashem, I have here in my hand just a few papers of ⁧חידושי תורה⁩
+and ⁧וורטלעך⁩⁦,⁩ some of which I'm familiar with. I want to wish you a lot
+of ⁧ברכה⁩ and ⁧הצלחה⁩⁦,⁩ and to continue to be a ⁧מרביץ תורה⁩. Every Yid has the
+opportunity to be a ⁧מרביץ תורה⁩. What's the ⁧ראיה⁩? ⁧ר' משה פיינשטיין⁩ says
+in ⁧דרש משה⁩ that in the ⁧ברכה⁩ of ⁧אַהֲבָה רַבָּה⁩⁦,⁩ we daven: ⁧וְתֵן בְּלִבֵּנוּ לְהָבִין וּלְהַשְׂכִּיל לִשְׁמֹעַ לִלְמֹד וּלְלַמֵּד⁩. What does it mean, “to teach”? Are we all
+⁧רבנים⁩⁦,⁩ ⁧ראשי ישיבה⁩⁦,⁩ or ⁧מלמדים⁩? Some of us are doctors, lawyers, or
+involved in other professions.
+
+The ⁧תירוץ⁩ is that to teach, you don't have to be ⁧דווקא⁩ a ⁧רב⁩. In any
+capacity, you have the opportunity to teach. When you hear a good vort, a good ⁧הנהגה⁩⁦,⁩ a good ⁧מנהג⁩⁦,⁩ or a meaningful ⁧מעשה⁩⁦,⁩ you can pass it along
+to others.
+
+And of course, everyone knows that you distribute many papers filled
+with ⁧חידושי תורה⁩ from all over. This is a tremendous ⁧זכות⁩ and a ⁧סיעתא דשמיא⁩ that you have.
+
+My ⁧ברכה⁩ for you is that you should continue with the same excitement and
+⁧זריזות⁩ in being ⁧מרביץ תורה⁩⁦,⁩ performing ⁧מצוות⁩⁦,⁩ and serving as a teacher
+and role model for your family and friends. May you be blessed with good
+health and ⁧אריכות ימים ושנים⁩⁦,⁩ and may you merit to see the ⁧המשך המסורה⁩
+continue through your children, your ⁧אייניקלעך⁩⁦,⁩ and your ⁧עיר אייניקלעך⁩⁦,⁩ all following ⁧בדרך השם, בנים ובני בנים עוסקים בתורה ובמצוות, להגדיל תורה ולהאדירה, עד עולם⁩!
+
+R’ Noach Isaac Oelbaum, \ Mora D'Asra of Khal Nachlas Yitzchok
+
+#pagebreak()
+
 #set page(header: none, footer: none, margin: 0in)
 
 
@@ -186,13 +237,13 @@ Dovid Yoel Hoffman
 
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
-    #image("../../07 - Haskamos/Rabbi Dovid Menachem Weinberger/Rabbi Dovid Menachem Weinberger.pdf", page: 1, width: 100%, height: 100%, fit: "contain")
+    #image("../../07 - Haskamos/Rabbi Dovid Weinberger/Rabbi Dovid Weinberger.pdf", page: 1, width: 100%, height: 100%, fit: "contain")
   ]
 ]
 #pagebreak()
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
-    #image("../../07 - Haskamos/Rabbi Dovid Menachem Weinberger/Rabbi Dovid Menachem Weinberger.pdf", page: 2, width: 100%, height: 100%, fit: "contain")
+    #image("../../07 - Haskamos/Rabbi Dovid Weinberger/Rabbi Dovid Weinberger.pdf", page: 2, width: 100%, height: 100%, fit: "contain")
   ]
 ]
 
@@ -245,57 +296,6 @@ Eliyahu Safran
     #image("../../07 - Haskamos/Rabbi Menachem Genack/Rabbi Menachem Genack.pdf", width: 100%, height: 100%, fit: "contain")
   ]
 ]
-
-#pagebreak()
-
-#set page(header: none, footer: article-footer("https://zeidyd.com/rabbi-oelbaum/", "../../07 - Haskamos/Rabbi Oelbaum/Rabbi Oelbaum.png"), margin: (
-    inside: 0.78in,
-    outside: 0.62in,
-    top: 0.68in,
-    bottom: 0.82in,
-  ))
-
-
-⁧ר' יששכר בנימין⁩⁦,⁩ I'm here with your ⁧אייניקל⁩ Ari, who is being ⁧מקיים כיבוד אב⁩. \[Even though there's a whole ⁧שאלה⁩ about ⁧כיבוד⁩ for a
-grandfather, but according to most ⁧פוסקים⁩ there is such a ⁧חיוב⁩⁦,⁩ and
-Baruch Hashem he's being ⁧מקיים⁩ it in the best way.\]
-
-It gives me tremendous pleasure, ⁧באמת⁩⁦,⁩ to see that he's taking care of
-all the beautiful ⁧וורטלעך⁩ that you like to say. Let me tell you, as a
-⁧רב⁩⁦,⁩ and someone involved in saying a lot of ⁧שיעורים⁩⁦,⁩ the greatest
-satisfaction a ⁧רב⁩ has is when people not only hear a ⁧דבר תורה⁩ but are
-genuinely excited by it. And I'm very happy to say that you, ⁧יששכר בנימין⁩⁦,⁩ when you hear a good vort, you get very excited about it. Not
-only that, but you take every opportunity to share it with others, to
-give it over, and to be ⁧מרביץ תורה⁩.
-
-I'll give you one ⁧משל⁩⁦,⁩ and I'm sure this is something you've heard many, many times, though not from me. Every ⁧פסח⁩ season, when you encounter
-someone who's a ⁧שטיקל תלמיד חכם⁩⁦,⁩ you always ask the ⁧שאלה⁩: What happens
-when a ⁧רב⁩ sells ⁧חמץ⁩ to a ⁧גוי⁩⁦,⁩ and then that ⁧גוי⁩ becomes ⁧מתגייר⁩? Now, I've heard you repeat this vort over in my name so many times, but I've
-long forgotten it myself. But you - you relive it. When you enjoy
-something, you grab hold of it and make sure to be ⁧מזכה את הרבים⁩.
-
-Baruch Hashem, I have here in my hand just a few papers of ⁧חידושי תורה⁩
-and ⁧וורטלעך⁩⁦,⁩ some of which I'm familiar with. I want to wish you a lot
-of ⁧ברכה⁩ and ⁧הצלחה⁩⁦,⁩ and to continue to be a ⁧מרביץ תורה⁩. Every Yid has the
-opportunity to be a ⁧מרביץ תורה⁩. What's the ⁧ראיה⁩? ⁧ר' משה פיינשטיין⁩ says
-in ⁧דרש משה⁩ that in the ⁧ברכה⁩ of ⁧אַהֲבָה רַבָּה⁩⁦,⁩ we daven: ⁧וְתֵן בְּלִבֵּנוּ לְהָבִין וּלְהַשְׂכִּיל לִשְׁמֹעַ לִלְמֹד וּלְלַמֵּד⁩. What does it mean, “to teach”? Are we all
-⁧רבנים⁩⁦,⁩ ⁧ראשי ישיבה⁩⁦,⁩ or ⁧מלמדים⁩? Some of us are doctors, lawyers, or
-involved in other professions.
-
-The ⁧תירוץ⁩ is that to teach, you don't have to be ⁧דווקא⁩ a ⁧רב⁩. In any
-capacity, you have the opportunity to teach. When you hear a good vort, a good ⁧הנהגה⁩⁦,⁩ a good ⁧מנהג⁩⁦,⁩ or a meaningful ⁧מעשה⁩⁦,⁩ you can pass it along
-to others.
-
-And of course, everyone knows that you distribute many papers filled
-with ⁧חידושי תורה⁩ from all over. This is a tremendous ⁧זכות⁩ and a ⁧סיעתא דשמיא⁩ that you have.
-
-My ⁧ברכה⁩ for you is that you should continue with the same excitement and
-⁧זריזות⁩ in being ⁧מרביץ תורה⁩⁦,⁩ performing ⁧מצוות⁩⁦,⁩ and serving as a teacher
-and role model for your family and friends. May you be blessed with good
-health and ⁧אריכות ימים ושנים⁩⁦,⁩ and may you merit to see the ⁧המשך המסורה⁩
-continue through your children, your ⁧אייניקלעך⁩⁦,⁩ and your ⁧עיר אייניקלעך⁩⁦,⁩ all following ⁧בדרך השם, בנים ובני בנים עוסקים בתורה ובמצוות, להגדיל תורה ולהאדירה, עד עולם⁩!
-
-R’ Noach Isaac Oelbaum, \ Mora D'Asra of Khal Nachlas Yitzchok
 
 #pagebreak()
 

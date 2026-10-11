@@ -67,8 +67,8 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
 ## MEDIUM - quote surrounded by spaces
 
-- PDF visual text, page 1, יעקב מנחם רבינוביץ, line 14
-  - visual: [page-0001.png](typeset-audit-pages/page-0001.png)
+- PDF visual text, page 3, יעקב מנחם רבינוביץ, line 14
+  - visual: [page-0003.png](typeset-audit-pages/page-0003.png)
   - ‫נ"י‪ ,‬אחדשכ"ט החו"ש‪ ,‬מאוד שמח ליבי בעת שקבלתי העלים מספר אשר יכונה " הדבר בי"‬
   - normalized: נ"י א,חדשכ"ט החו"ש מ,אוד שמח ליבי בעת שקבלתי העלים מספר אשר יכונה " הדבר בי"
 - PDF visual text, page 16, About the Name, line 27
@@ -108,8 +108,8 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: is נח, so he called the sefer ” “מנחת חן,  חןis  ח-  נand  נחis  נ- ]ח, asked us a
 ## MEDIUM - space before sentence punctuation
 
-- PDF visual text, page 4, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 6
-  - visual: [page-0004.png](typeset-audit-pages/page-0004.png)
+- PDF visual text, page 6, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 6
+  - visual: [page-0006.png](typeset-audit-pages/page-0006.png)
   - “Hakadosh Boruch Hu Y’shalem S’charam .….”
 - PDF visual text, page 218, should not be     מבזה or make fun of anyone, and you should certainly be very, line 12
   - visual: [page-0218.png](typeset-audit-pages/page-0218.png)

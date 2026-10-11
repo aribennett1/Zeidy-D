@@ -883,6 +883,10 @@
       "contentPath": "06 - Yom Tov/20 - Rosh Chodesh",
       "baseFilename": "Rosh Chodesh"
     },
+    "/rabbi-oelbaum/": {
+      "contentPath": "07 - Haskamos/01 - Rabbi Oelbaum",
+      "baseFilename": "Rabbi Oelbaum"
+    },
     "/biale-rebbe/": {
       "contentPath": "07 - Haskamos/Biale Rebbe",
       "baseFilename": "Biale Rebbe",
@@ -892,10 +896,10 @@
       "contentPath": "07 - Haskamos/Rabbi Dovid Hoffman",
       "baseFilename": "Rabbi Dovid Hoffman"
     },
-    "/rabbi-dovid-menachem-weinberger/": {
-      "contentPath": "07 - Haskamos/Rabbi Dovid Menachem Weinberger",
-      "baseFilename": "Rabbi Dovid Menachem Weinberger",
-      "pdfPage": "Rabbi Dovid Menachem Weinberger.pdf"
+    "/rabbi-dovid-weinberger/": {
+      "contentPath": "07 - Haskamos/Rabbi Dovid Weinberger",
+      "baseFilename": "Rabbi Dovid Weinberger",
+      "pdfPage": "Rabbi Dovid Weinberger.pdf"
     },
     "/rabbi-eliyahu-safran/": {
       "contentPath": "07 - Haskamos/Rabbi Eliyahu Safran",
@@ -905,10 +909,6 @@
       "contentPath": "07 - Haskamos/Rabbi Menachem Genack",
       "baseFilename": "Rabbi Menachem Genack",
       "pdfPage": "Rabbi Menachem Genack.pdf"
-    },
-    "/rabbi-oelbaum/": {
-      "contentPath": "07 - Haskamos/Rabbi Oelbaum",
-      "baseFilename": "Rabbi Oelbaum"
     },
     "/rabbi-peretz-steinberg/": {
       "contentPath": "07 - Haskamos/Rabbi Peretz Steinberg",
@@ -1179,12 +1179,12 @@
     "06 - Yom Tov/19 - Purim/5784": "/purim/5784/",
     "06 - Yom Tov/19 - Purim/5785": "/purim/5785/",
     "06 - Yom Tov/20 - Rosh Chodesh": "/rosh-chodesh/",
+    "07 - Haskamos/01 - Rabbi Oelbaum": "/rabbi-oelbaum/",
     "07 - Haskamos/Biale Rebbe": "/biale-rebbe/",
     "07 - Haskamos/Rabbi Dovid Hoffman": "/rabbi-dovid-hoffman/",
-    "07 - Haskamos/Rabbi Dovid Menachem Weinberger": "/rabbi-dovid-menachem-weinberger/",
+    "07 - Haskamos/Rabbi Dovid Weinberger": "/rabbi-dovid-weinberger/",
     "07 - Haskamos/Rabbi Eliyahu Safran": "/rabbi-eliyahu-safran/",
     "07 - Haskamos/Rabbi Menachem Genack": "/rabbi-menachem-genack/",
-    "07 - Haskamos/Rabbi Oelbaum": "/rabbi-oelbaum/",
     "07 - Haskamos/Rabbi Peretz Steinberg": "/rabbi-peretz-steinberg/",
     "07 - Haskamos/Rabbi Pesach Krohn": "/rabbi-pesach-krohn/",
     "07 - Haskamos/Rabbi Yaakov Gibber": "/rabbi-yaakov-gibber/",
