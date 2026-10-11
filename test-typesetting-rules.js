@@ -666,10 +666,21 @@ test("normalizes Hebrew perek before pasuk references", () => {
   );
 });
 
-test("normalizes reversed ein bein month phrase", () => {
+test("normalizes reversed ein bein first-second phrase", () => {
   assert.equal(
     applyTextRules("that we have is לאדר שני אין בין אדר ראשון, that the פורים"),
     `that we have is ${RTL_ISOLATE}אין בין אדר ראשון לאדר שני${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} that the ${RTL_ISOLATE}פורים${POP_DIRECTIONAL_ISOLATE}`
+  );
+  assert.equal(
+    applyTextRules("the line says ליום טוב שני אין בין יום טוב ראשון."),
+    `the line says ${RTL_ISOLATE}אין בין יום טוב ראשון ליום טוב שני${POP_DIRECTIONAL_ISOLATE}.`
+  );
+});
+
+test("normalizes reversed Hebrew title compounds", () => {
+  assert.equal(
+    applyTextRules("I'm married to a חכם תלמיד who's going to kollel"),
+    `I'm married to a ${RTL_ISOLATE}תלמיד חכם${POP_DIRECTIONAL_ISOLATE} who's going to kollel`
   );
 });
 
@@ -741,6 +752,20 @@ test("keeps English quotes outside a quoted Hebrew phrase", () => {
   assert.equal(
     applyTextRules('we both said simultaneously, "סַבּוּנִי גַם סְבָבוּנִי."'),
     `we both said simultaneously, “${RTL_ISOLATE}סַבּוּנִי גַם סְבָבוּנִי${POP_DIRECTIONAL_ISOLATE}.”`
+  );
+});
+
+test("keeps opening quote before Hebrew word when quoted sentence continues in English", () => {
+  assert.equal(
+    applyTextRules('They would answer "קרובץ is קרובץ לפורים"'),
+    `They would answer “${RTL_ISOLATE}קרובץ${POP_DIRECTIONAL_ISOLATE} is ${RTL_ISOLATE}קרובץ לפורים${POP_DIRECTIONAL_ISOLATE}”`
+  );
+});
+
+test("repairs curly opening quote after Hebrew word to closing quote", () => {
+  assert.equal(
+    applyTextRules("They would answer קרובץ“ is קרובץ לפורים"),
+    `They would answer ${RTL_ISOLATE}קרובץ${POP_DIRECTIONAL_ISOLATE}” is ${RTL_ISOLATE}קרובץ לפורים${POP_DIRECTIONAL_ISOLATE}`
   );
 });
 
@@ -1433,7 +1458,7 @@ test("docx: Purim Katon 5784 keeps ein bein Mishnah phrase in logical order", ()
 
   assertContains(
     typst,
-    `that we have is ${RTL_ISOLATE}אין בין אדר ראשון לאדר שני${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} that the ${RTL_ISOLATE}פורים${POP_DIRECTIONAL_ISOLATE} in ${RTL_ISOLATE}אדר ראשון${POP_DIRECTIONAL_ISOLATE}`,
+    `${RTL_ISOLATE}אין בין אדר ראשון לאדר שני${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} that the ${RTL_ISOLATE}פורים${POP_DIRECTIONAL_ISOLATE} in ${RTL_ISOLATE}אדר ראשון${POP_DIRECTIONAL_ISOLATE}`,
     "ein bein Adar phrase"
   );
   assertNotContains(
@@ -1448,13 +1473,43 @@ test("docx: Purim Katon 5784 keeps Avos source after Hebrew quote", () => {
 
   assertContains(
     typst,
-    `credit is\ndue, ${RTL_ISOLATE}הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם ${LTR_ISOLATE}(אבות ו:ו)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}. So I wanted`,
+    `${RTL_ISOLATE}הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם ${LTR_ISOLATE}(אבות ו:ו)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}. So I wanted`,
     "Avos source after Hebrew quote"
   );
   assertNotContains(
     typst,
     `(אבות ו${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}ו${POP_DIRECTIONAL_ISOLATE}`,
     "split reversed Avos source"
+  );
+});
+
+test("docx: Story Purim 5783 keeps talmid chacham in logical order", () => {
+  const typst = convertedDocx("/purim/5783/story/");
+
+  assertContains(
+    typst,
+    `I'm married to a ${RTL_ISOLATE}תלמיד חכם${POP_DIRECTIONAL_ISOLATE} who's\ngoing to kollel`,
+    "talmid chacham title"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}חכם תלמיד${POP_DIRECTIONAL_ISOLATE}`,
+    "reversed talmid chacham title"
+  );
+});
+
+test("docx: Krovitz keeps opening quote before Hebrew word", () => {
+  const typst = convertedDocx("/purim/5783/krovitz/");
+
+  assertContains(
+    typst,
+    `They would answer “${RTL_ISOLATE}קרובץ${POP_DIRECTIONAL_ISOLATE} is ${RTL_ISOLATE}קרובץ לפורים${POP_DIRECTIONAL_ISOLATE}`,
+    "opening quote before Krovitz"
+  );
+  assertNotContains(
+    typst,
+    `They would answer ${RTL_ISOLATE}“קרובץ${POP_DIRECTIONAL_ISOLATE}`,
+    "opening quote inside Krovitz isolate"
   );
 });
 

@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 29 (2 high, 27 medium)
+Findings: 36 (2 high, 34 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -61,7 +61,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0397.png](typeset-audit-pages/page-0397.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 461, Purim 5785, line 15152
+- Typst source, page 461, Purim 5785, line 15149
   - visual: [page-0461.png](typeset-audit-pages/page-0461.png), [page-0462.png](typeset-audit-pages/page-0462.png)
   - does this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩. What is ⁦אהרן'⁩s ⁧מידה⁩? We all know abou...
   - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
@@ -87,13 +87,29 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0044.png](typeset-audit-pages/page-0044.png)
   - by saying ⁧”‫ ְּבָך חֹוְת ִמין ְוֹלא ָבֶהם‬,‫ “ַּת ְלמּוד לֹוַמר ֶוְהֵיה ְּבָר ָכה‬,‫ ⁩ָמֵגן...
   - normalized: by saying ” ְּבָך חֹוְת ִמין ְוֹלא ָבֶהם, “ַּת ְלמּוד לֹוַמר ֶוְהֵיה ְּבָר ָכה, ָמֵגן ַאְבָר...
+- PDF visual text, page 73, רב אהרן לייב שטיינמן often emphasized that one never loses by being    מוותר ., line 22
+  - visual: [page-0073.png](typeset-audit-pages/page-0073.png)
+  - father’s sefarim, he responded with his characteristic humility: “⁧‫ ⁩אבא‬lived in
+  - normalized: father’s sefarim, he responded with his characteristic humility: “ אבאlived in
+- PDF visual text, page 119, Vaeira 5785, line 12
+  - visual: [page-0119.png](typeset-audit-pages/page-0119.png)
+  - him, “⁧‫ ⁩פרעה‬will listen to you.”
+  - normalized: him, “ פרעהwill listen to you.”
 - PDF visual text, page 176, Vayikra 5784, line 17
   - visual: [page-0176.png](typeset-audit-pages/page-0176.png)
   - - “If the ⁧ ‫[ ⁩נשיא‬which refers to the ⁧ ‫ ]⁩מלך‬will do an ⁧ ”‫ ⁩עבירה‬- but rather ⁧ ‫ ⁩ֲאֶׁשר‬
   - normalized: - “If the  [ נשיאwhich refers to the   ]מלךwill do an  ” עבירה- but rather   ֲאֶׁשר
+- PDF visual text, page 180, Tzav 5783, line 13
+  - visual: [page-0180.png](typeset-audit-pages/page-0180.png)
+  - protested to Hashem, saying, “⁧‫ ⁩בני ישראל‬can’t do this! The ⁧‫ ⁩שה‬is ⁦‫⁩’מצרים‬s ⁧‫עבודה‬
+  - normalized: protested to Hashem, saying, “ בני ישראלcan’t do this! The  שהis ’מצריםs עבודה
 - PDF visual text, page 219, Behar 5784, line 17
   - visual: [page-0219.png](typeset-audit-pages/page-0219.png)
   - “The Weekly Vort ” is relevant.
+- PDF visual text, page 237, Naso 5784, line 37
+  - visual: [page-0237.png](typeset-audit-pages/page-0237.png)
+  - he was told this ⁦‫⁩’מלאך‬s name is the ⁧‫⁩שטן‬. The Rebbe cried out, “⁧‫ ⁩גָאט זָאל ָאּפהיטן‬
+  - normalized: he was told this ’מלאךs name is the שטן. The Rebbe cried out, “ גָאט זָאל ָאּפהיטן
 - PDF visual text, page 262, “What brings you here?”     רב ברוך asked. “Well,” the     אלטע Rebbe replied, “I, line 16
   - visual: [page-0262.png](typeset-audit-pages/page-0262.png)
   - collect ⁧‫“ ?⁩צדקה‬But why didn’t you just teach them the meaning of the word
@@ -102,10 +118,22 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0267.png](typeset-audit-pages/page-0267.png)
   - one ever said, ⁧”‫ ⁩“צר לי המקום‬- meaning Hashem, who is ⁧‫⁩המקום‬. No one ever
   - normalized: one ever said, ” “צר לי המקום- meaning Hashem, who is המקום. No one ever
+- PDF visual text, page 285, R’ Chaim immediately responded, “    חולה doesn’t mean sick in this context., line 4
+  - visual: [page-0285.png](typeset-audit-pages/page-0285.png)
+  - R’ Chaim immediately responded, “⁧‫ ⁩חולה‬doesn’t mean sick in this context.
+  - normalized: R’ Chaim immediately responded, “ חולהdoesn’t mean sick in this context.
+- PDF visual text, page 300, to start filling in this    בור . It’s too big. I’ll never be able to finish it. Might as, line 27
+  - visual: [page-0300.png](typeset-audit-pages/page-0300.png)
+  - young man answered, “⁧‫ ⁩אליהו הנביא‬came to me and told me that the ⁦‫ ב״ח‬is in
+  - normalized: young man answered, “ אליהו הנביאcame to me and told me that the  ב״חis in
 - PDF visual text, page 356, Dvar Torah Pesach 5783, line 7
   - visual: [page-0356.png](typeset-audit-pages/page-0356.png)
   - is ⁧‫נח‬,⁩ so he called the sefer ⁧‫” “מנחת חן‬, ⁧‫ ⁩חן‬is ⁧‫ ⁩ח‬- ⁧‫ ⁩נ‬and ⁧‫ ⁩נח‬is ⁧‫ ⁩נ‬- ⁧‫]⁩ח‬, asked us...
   - normalized: is נח, so he called the sefer ” “מנחת חן,  חןis  ח-  נand  נחis  נ- ]ח, asked us a
+- PDF visual text, page 453, Krovitz, line 10
+  - visual: [page-0453.png](typeset-audit-pages/page-0453.png)
+  - answer “⁧‫ ⁩קרובץ‬is ⁧‫קרובץ לפורים‬,⁩ it’s the thing that we say on ⁧‫⁩פורים‬.” But what...
+  - normalized: answer “ קרובץis קרובץ לפורים, it’s the thing that we say on פורים.” But what is
 ## MEDIUM - space before sentence punctuation
 
 - PDF visual text, page 6, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 6

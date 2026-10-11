@@ -1852,7 +1852,7 @@ remember. After davening, I went over to him and I asked him to what we
 could attribute the honor of having him there for the beginning of
 davening.
 
-⁧“הקדוש ברוך הוא⁩ sent me a message that was crystal clear”, he said with
+“⁧הקדוש ברוך הוא⁩ sent me a message that was crystal clear”, he said with
 a haggard look on his face. “It's not worth coming late to davening. Let
 me tell you what happened. My main source of livelihood is a factory I
 own not far from here. A fire broke out in my factory yesterday. I
@@ -2190,7 +2190,7 @@ sons inherit before daughters. Yet ⁧רב חיים⁩⁦,⁩ the only son, gave
 rights to the ⁧ירושה⁩ and transferred the publishing rights of his
 father's ⁧ספרים⁩ -⁧קהילות יעקב⁩⁦,⁩ ⁧חיי עולם⁩⁦,⁩ ⁧שיורים של תורה⁩⁦,⁩ and ⁧ברכת פרץ⁩ - to his sister, the widowed Rebbetzin Barzam.#metadata(none) <person-index-rebbetzin-barzam-131> Did ⁧רב חיים⁩ lose anything
 from this act? Certainly not! Hashem repaid him in full measure”. When
-someone asked ⁧רב חיים⁩ why he gave up the rights to his father's sefarim, he responded with his characteristic humility: ⁧“אבא⁩ lived in her house
+someone asked ⁧רב חיים⁩ why he gave up the rights to his father's sefarim, he responded with his characteristic humility: “⁧אבא⁩ lived in her house
 for many years. She deserved it.” To him, it wasn't extraordinary - it
 was simply the right thing to do.
 
@@ -3674,7 +3674,7 @@ that He will do everything necessary to transform ⁧כלל ישראל⁩ from a
 nation in servitude to an ⁧עם השם⁩. The four ⁧לשונות⁩ of ⁧גאולה⁩⁦,⁩ and all of
 ⁦הקדוש ברוך הוא'⁩s promises, are contrasted with ⁦משה רבינו'⁩s
 counterargument: “How is ⁧פרעה⁩ going to listen to me? ⁧בני ישראל⁩ don't
-listen to me!” But Hashem reassures him, ⁧“פרעה⁩ will listen to you.”
+listen to me!” But Hashem reassures him, “⁧פרעה⁩ will listen to you.”
 
 In the midst of all this preparation, amidst this intense unfolding of
 the story, the narrative suddenly pauses, and we find a ⁧ספר יחוס⁩ by 2nd
@@ -5787,7 +5787,7 @@ take the ⁧שה⁩⁦,⁩ tie it to the bedpost, and prepare it as the ⁧קר�
 was a great ⁧נס⁩.
 
 What was the ⁧נס⁩? The ⁧נס⁩ was that the ⁧מצריים⁩ didn't react. ⁧משה רבינו⁩ had
-protested to Hashem, saying, ⁧“בני ישראל⁩ can't do this! The ⁧שה⁩ is ⁦מצרים'⁩s
+protested to Hashem, saying, “⁧בני ישראל⁩ can't do this! The ⁧שה⁩ is ⁦מצרים'⁩s
 ⁧עבודה זרה⁩⁦,⁩ and they will kill us!” Hashem responded, ⁧“חייך⁩ - I swear, they are not leaving ⁧מצרים⁩ until they do exactly that.” Now, within the
 great panoply of ⁧מכות⁩⁦,⁩ ⁧ניסים⁩⁦,⁩ and the entire story of ⁧יציאת מצרים⁩⁦,⁩ tying
 a ⁧שׁעֶפּסֶל⁩ to the bedpost seems like a rather minor detail, yet we call it
@@ -7674,7 +7674,7 @@ with mitzvos, and they're living under such difficult circumstances.
 Give each of them money and they'll be even better, they'll do more
 mitzvos.” The Rebbe asked in his dream, “What's the name of this ⁧מלאך⁩
 who's asking this request?” And he was told this ⁦מלאך'⁩s name is the ⁧שטן⁩.
-The Rebbe cried out, ⁧“גאָט זאָל אָפּהיטן⁩ from the ⁧טובות⁩ of the ⁧שטן⁩\.”
+The Rebbe cried out, “⁧גאָט זאָל אָפּהיטן⁩ from the ⁧טובות⁩ of the ⁧שטן⁩\.”
 
 May we all get wonderful and appropriate ⁧ברכות⁩ that Hashem wishes to
 shower upon us ⁧לטובה⁩ and not just ⁧סתם אזוי⁩⁦,⁩ given indiscriminately to
@@ -7998,7 +7998,7 @@ status as an ⁧עניו⁩ would guarantee him priority in any case.
 
 Someone once brought R’ Chaim a copy of a newly printed ⁧ספר⁩ that
 discussed the positive attributes of various ⁧תנאים⁩⁦,⁩ ⁧אמוראים⁩⁦,⁩ and ⁧תלמידי חכמים⁩. R’ Chaim went through it and his eye fell upon an entry for an
-⁧אמורא⁩ called ⁧עולא בר אבא⁩⁦,⁩ who was praised in the ⁧גמרא⁩ in ⁧סנהדרין דף פח עמוד א: “עולא בר אבא⁩ was humble and modest, he enters and leaves
+⁧אמורא⁩ called ⁧עולא בר אבא⁩⁦,⁩ who was praised in the ⁧גמרא⁩ in ⁧סנהדרין דף פח עמוד א⁩: “⁧עולא בר אבא⁩ was humble and modest, he enters and leaves
 quietly, he's constantly learning ⁧תורה⁩ but does not take any credit for
 himself.” The author noted that we do not find ⁦עולא בר אבא'⁩s torah
 thoughts recorded anywhere in ⁦ספרי חז״ל⁩, and he explained that because
@@ -9284,7 +9284,7 @@ Many of the ⁧הפטרות⁩⁦,⁩ for example, repeat the next-to-last ⁧פ
 the final ⁧פסוק⁩ ends on a negative note, and we want to close on
 something positive.
 
-R’ Chaim immediately responded, ⁧“חולה⁩ doesn't mean sick in this context.
+R’ Chaim immediately responded, “⁧חולה⁩ doesn't mean sick in this context.
 It means dancing, as in ⁧מחול⁩⁦,⁩” as the ⁧משנה⁩ in ⁧תענית⁩ says: ⁧יוצאות במחולות בכרמים⁩. On ⁦ט״ו באב⁩ and on ⁧יום כיפור⁩⁦,⁩ the young girls would go out and
 dance in the vineyards so that they could make ⁧שידוכים⁩. They were
 discussing preparations for a ⁧חתונה⁩. This ⁧מחלה⁩ is not someone who's
@@ -9833,7 +9833,7 @@ have heard of the words ⁧בית חדש⁩⁦,⁩ #metadata(none) <person-index
 time he came to visit his son-in-law, the ⁧טורי זהב⁩. A bit more familiar
 name, he is the ⁦ט״ז⁩. The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-727> and the ⁦ט״ז⁩ have monumental ⁧מחלוקתים⁩⁦,⁩ father-in-law and son-in-law, but it doesn't matter, it was all ⁧לשם שמים⁩. That is what counts. So he came to visit his son-in-law the ⁦ט״ז⁩, and everyone from the city came out to greet him except one young man
 who was not interested. He didn't come to see him. The ⁦ט״ז⁩ asked him, “Why are you not coming to give a ⁧שלום עליכם⁩ to my father-in-law the
-⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-728>”? The young man answered, ⁧“אליהו הנביא⁩ came to me and told me that
+⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-728>”? The young man answered, “⁧אליהו הנביא⁩ came to me and told me that
 the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-729> is in ⁧חרם⁩ in the ⁧בית דין של מעלה⁩\.” The ⁦ט״ז⁩ asked “Why?” The
 young man replied, “One time the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-730> was traveling, and he came across a
 town in which there was a ⁧דין תורה⁩ between two people. A person had
@@ -14924,7 +14924,7 @@ We said this morning in shul the ⁧קרובץ⁩⁦,⁩ which is in this ⁧ס�
 see it, it says ⁧קרובץ לפורים⁩ and after every ⁧ברכה⁩ in ⁧שמונה עשרה⁩⁦,⁩ except
 for one, we skip one, we say a couple of ⁧פסוקים⁩ in honor of ⁧פורים⁩ to
 show how much we love ⁧פורים⁩. So if you ask a hundred guys, “What is
-⁧קרובץ⁩?” They would answer ⁧“קרובץ⁩ is ⁧קרובץ לפורים⁩⁦,⁩ it's the thing that we
+⁧קרובץ⁩?” They would answer “⁧קרובץ⁩ is ⁧קרובץ לפורים⁩⁦,⁩ it's the thing that we
 say on ⁧פורים⁩\.” But what is ⁧קרובץ⁩? Nobody knows what ⁧קרובץ⁩ is. The next
 hundred guys will not know what ⁧קרובץ⁩ stands for. ⁧קרובץ⁩ stands for
 ⁧קוֹל רִנָּה וִישׁוּעָה בְּאׇהֳלֵי צַדִּיקִים⁩. Now you know the rest of the story. Bye!
@@ -14998,54 +14998,51 @@ legacy will be lost forever. Have a ⁧פריילעכן פורים⁩!
   ))
 = Story Purim 5783
 
-R’ Yaakov Mordecai Greenwald, #metadata(none) <person-index-r-yaakov-mordecai-greenwald-1139> a ⁧חשוב⁩ rav and a ⁧גאון⁩⁦,⁩ related the
-following story, which is quoted by R’ Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-1140> in his famous ⁧ספרים⁩.
-Today we know that there are many secrets that are hidden in the ⁧תורה⁩.
-You have computer ways of printing and looking at the letters. And we
-know that the ⁧תורה⁩ is ⁧נִצחִיות⁩. Hashem has many codes, as it is well
-known, hidden in the ⁧תורה⁩. Over fifty years ago, there was a very famous
-rav, R’ Michael Dovid Weissmandl, #metadata(none) <person-index-r-michael-dovid-weissmandl-1131> known as the ⁧גאון⁩ of the secrets of
-the ⁧תורה⁩. He was referred to as the pre-computer - essentially a living
-computer before such technology even existed. He once shared the
-following fascinating insight. One ⁧פורים⁩⁦,⁩ R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1132> approached R’
-Greenwald and asked, “Have you ever counted how many letters are in the
-⁧מגילה⁩?” R’ Greenwald admitted, “I have no idea.” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1133> responded, “There are 12,196 letters in the ⁧מגילה⁩\.” R’ Greenwald asked, “So what do you do with that information?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1134> said, “Bring me
-a ⁧חומש⁩. Let me show you something. Start counting from the first ⁧א⁩ in
-the ⁧תורה⁩⁦,⁩ which appears in ⁧בְּרֵאשִׁית⁩. Count 12,196 letters forward. What
-letter do you land on? It will be a ⁧ס⁩. Count another 12,196 letters, and
-you'll get a ⁧ת⁩. Count another 12,196, you get a ⁧ר⁩. That's the name of
-⁧אסתר⁩\.” R’ Greenwald was amazed. Jokingly, he asked, “And what about
-⁧מרדכי⁩? We found ⁧אסתר⁩ - where is ⁧מרדכי⁩?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1135> smiled and said, “Check with me next year.” The following year, R’ Greenwald came to R’
-Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1136> and greeted him with, “Where is ⁧מרדכי⁩?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1137> said, “I found the ⁧רמז⁩ from ⁧מרדכי⁩ as well. ⁦חז״ל⁩ say in ⁦⁧חולין⁩ ⁧מסכת⁩ (דף קל״ט): ⁧מנין⁩ ⁧התורה⁩ ⁧מן⁩ ⁧מרדכי⁩?⁩ - Where can we find ⁧מרדכי⁩ in the ⁧תורה⁩? The ⁧פסוק⁩
-says in ⁧פרשת כי תשא⁩ ⁦(30:23),⁩ ⁧וְאַתָּה קַח לְךָ בְּשָׂמִים רֹאשׁ מׇר דְּרוֹר⁩. And the ⁧תרגום⁩
-of ⁧מׇר דְּרוֹר⁩ is ⁧מֵירָא דַכְיָא⁩⁦,⁩ which is ⁧מרדכי⁩. This is where ⁧מרדכי⁩ is hinted
-to in the ⁧תורה⁩. Now, start taking from the letter ⁧מ⁩ in ⁧מׇר דְּרוֹר⁩⁦,⁩ and
-count your 12,196 letters, and guess what you'll find. You'll find the
-⁧ר⁩⁦,⁩ and you keep going, get a ⁧ד⁩⁦,⁩ and a ⁧כ⁩⁦,⁩ and a ⁧י⁩. There you have ⁧מרדכי⁩
-in the ⁧תורה⁩ as well.”
+R’ Yaakov Mordechai Greenwald, #metadata(none) <person-index-r-yaakov-mordechai-greenwald-1139> a ⁧חשוב⁩ rav, related the following story, which is quoted by R’ Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-1140> in his sefer Veha'arev Na. Today we
+know that there are many secrets that are hidden in the ⁧תורה⁩. You have
+computer ways of printing and looking at the letters. We know that the
+⁧תורה⁩ is ⁧נִצחִיות⁩. Hashem has many codes, as it is well known, hidden in
+the ⁧תורה⁩. Over fifty years ago, there was a famous rav, R’ Michael Dovid
+Weissmandl, #metadata(none) <person-index-r-michael-dovid-weissmandl-1131> known as the ⁧גאון⁩ of the secrets of the ⁧תורה⁩. He was
+referred to as the pre-computer - essentially a living computer before
+such technology even existed. He once shared the following fascinating
+insight. One ⁧פורים⁩⁦,⁩ R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1132> approached R’ Greenwald and asked, “Have you ever counted how many letters are in the ⁧מגילה⁩?” R’ Greenwald
+admitted, “I have no idea.” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1133> responded, “There are 12,196
+letters in the ⁧מגילה⁩\.” R’ Greenwald asked, “So what do you do with that
+information?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1134> said, “Bring me a ⁧חומש⁩. Let me show you
+something. Start counting from the first ⁧א⁩ in the ⁧תורה⁩⁦,⁩ which appears in
+⁧בְּרֵאשִׁית⁩. Count 12,196 letters forward. What letter do you land on? It
+will be a ⁧ס⁩. Count another 12,196 letters, and you'll get a ⁧ת⁩. Count
+another 12,196, you get a ⁧ר⁩. That's the name of ⁧אסתר⁩\.” R’ Greenwald was
+amazed. Jokingly, he asked, “And what about ⁧מרדכי⁩? We found ⁧אסתר⁩ - where
+is ⁧מרדכי⁩?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1135> smiled and said, “Check with me next year.” The
+following year, R’ Greenwald came to R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1136> and greeted him with, “Where is ⁧מרדכי⁩?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1137> said, “I found the ⁧רמז⁩ from ⁧מרדכי⁩ as
+well. ⁦חז״ל⁩ say in ⁦⁧חולין⁩ ⁧מסכת⁩ (דף קל״ט): ⁧מנין⁩ ⁧התורה⁩ ⁧מן⁩ ⁧מרדכי⁩?⁩ - Where can
+we find ⁧מרדכי⁩ in the ⁧תורה⁩? The ⁧פסוק⁩ says in ⁧פרשת כי תשא⁩ ⁦(30:23),⁩ ⁧וְאַתָּה קַח לְךָ בְּשָׂמִים רֹאשׁ מׇר דְּרוֹר⁩. The ⁧תרגום⁩ of ⁧מׇר דְּרוֹר⁩ is ⁧מֵירָא דַכְיָא⁩⁦,⁩ which is ⁧מרדכי⁩.
+This is where ⁧מרדכי⁩ is hinted to in the ⁧תורה⁩. Now, start taking from the
+letter ⁧מ⁩ in ⁧מׇר דְּרוֹר⁩⁦,⁩ and count your 12,196 letters, and guess what
+you'll find. You'll find the ⁧ר⁩⁦,⁩ and you keep going, get a ⁧ד⁩⁦,⁩ and a ⁧כ⁩⁦,⁩ and a ⁧י⁩. There you have ⁧מרדכי⁩ in the ⁧תורה⁩ as well.”
 
-R’ Greenwald later said, “I used this story for a very valuable purpose
-\- it wasn't just for fun. A number of years later, we invited a young
-woman to our home. She was exceptionally intelligent - brilliant, in
-fact - but struggling tremendously with ⁧יידישקייט⁩. She wanted to become
-frum, but she had endless questions, and the ⁧רבנים⁩ she spoke with
-couldn't handle her. They sent her to us because they felt she was too
-difficult for them. After the ⁧סעודה⁩⁦,⁩ she started asking me a series of
-difficult questions. One of her primary struggles was that she simply
-couldn't believe that the ⁧תורה⁩ came from ⁧שמים⁩. She insisted it was
-impossible to accept. I was racking my brains, trying to think of what
-to say, and suddenly, I remembered R’ Weissmandl's#metadata(none) <person-index-r-michael-dovid-weissmandl-1138> vort. I told her
-about the ⁧ענין⁩ of ⁧פורים⁩ and shared with her the incredible ⁧רמזים⁩ of
-⁧מרדכי⁩ and ⁧אסתר⁩ hidden in the ⁧תורה⁩. She listened intently, then excused
-herself and went to her room. The next morning, we saw her - her eyes
-were bloodshot, and she looked completely exhausted. She told us she had
-spent the entire night on her computer, analyzing this vort. After hours
-of calculations and research, she reached a conclusion: 'It is
-statistically impossible for this to have happened by chance.
-Impossible.' And then, she left.”
+R’ Greenwald later said, “I used this story for a valuable purpose - it
+wasn't just for fun. A number of years later, we invited a young woman
+to our home. She was exceptionally intelligent - brilliant, in fact -
+but struggling tremendously with ⁧יידישקייט⁩. She wanted to become frum, but she had endless questions, and the ⁧רבנים⁩ she spoke with couldn't
+handle her. They sent her to us because they felt she was too difficult
+for them. After the ⁧סעודה⁩⁦,⁩ she started asking me a series of difficult
+questions. One of her primary struggles was that she simply couldn't
+believe that the ⁧תורה⁩ came from ⁧שמים⁩. She insisted it was impossible to
+accept. I was racking my brains, trying to think of what to say, and
+suddenly, I remembered R’ Weissmandl's#metadata(none) <person-index-r-michael-dovid-weissmandl-1138> vort. I told her about the ⁧ענין⁩
+of ⁧פורים⁩ and shared with her the incredible ⁧רמזים⁩ of ⁧מרדכי⁩ and ⁧אסתר⁩
+hidden in the ⁧תורה⁩. She listened intently, then excused herself and went
+to her room. The next morning, we saw her - her eyes were bloodshot, and
+she looked completely exhausted. She told us she had spent the entire
+night on her computer, analyzing this vort. After hours of calculations
+and research, she reached a conclusion: 'It is statistically impossible
+for this to have happened by chance. Impossible.' And then, she left.”
 
 “A number of years later I was at a ⁧חתונה⁩⁦,⁩ and I heard a woman calling
-my name from across the room, “R’ Greenwald, R’ Greenwald!” I said, “Excuse me, do I know you?” She said, “I am ⁧אסתר⁩ and ⁧מרדכי⁩. You see, now, Baruch Hashem, my hair is covered. I'm married to a ⁧חכם תלמיד⁩ who's
+my name from across the room, “R’ Greenwald, R’ Greenwald!” I said, “Excuse me, do I know you?” She said, “I am ⁧אסתר⁩ and ⁧מרדכי⁩. You see, now, Baruch Hashem, my hair is covered. I'm married to a ⁧תלמיד חכם⁩ who's
 going to kollel. We're raising our children to go to ⁧ישיבה⁩⁦,⁩ and you'd be
 very pleased to see how we're doing.”
 
@@ -16368,7 +16365,7 @@ in fact ⁧צדיק כתמר יפרח להגד כי ישר ה' צורי ולא �
 
 #index-row(("R’ Yaakov Kamenetsky",), (label("person-index-r-yaakov-kamenetsky-712"), label("person-index-r-yaakov-kamenetsky-1151")))
 
-#index-row(("R’ Yaakov Mordecai Greenwald",), (label("person-index-r-yaakov-mordecai-greenwald-1139"),))
+#index-row(("R’ Yaakov Mordechai Greenwald",), (label("person-index-r-yaakov-mordechai-greenwald-1139"),))
 
 #index-row(("R’ Yaakov of Lelov",), (label("person-index-r-yaakov-of-lelov-1024"),))
 

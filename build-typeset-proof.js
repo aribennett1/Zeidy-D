@@ -173,12 +173,16 @@ const HEBREW_FROM_PLACE_BEFORE_RABBI_NAME_RE = new RegExp(
   `(^|[^\\u0590-\\u05FF\\uFB1D-\\uFB4F])((?:מ${HEBREW_LETTERS}+))\\s+(ר[׳']\\s+${HEBREW_TOKEN})(?=\\s*(?:[,.;:?!()\\-]|[A-Za-z]|$))`,
   "gu"
 );
+const HEBREW_REVERSED_TITLE_COMPOUND_RE = new RegExp(
+  `(^|[^\\u0590-\\u05FF\\uFB1D-\\uFB4F])(חכם)\\s+(תלמיד)(?=\\s*(?:[,.;:?!()\\-]|[A-Za-z]|$))`,
+  "gu"
+);
 const HEBREW_DAF_BEFORE_MASECHTA_RE = new RegExp(
   `\\(דף\\s+(${HEBREW_TOKEN})\\)\\s+מסכת\\s+(${HEBREW_TOKEN})`,
   "gu"
 );
-const HEBREW_REVERSED_EIN_BEIN_MONTH_RE = new RegExp(
-  `(ל${HEBREW_TOKEN})\\s+שני\\s+אין בין\\s+(${HEBREW_TOKEN})\\s+ראשון`,
+const HEBREW_REVERSED_EIN_BEIN_RE = new RegExp(
+  `((?:(?:ל?${HEBREW_TOKEN})\\s+){0,3}ל?${HEBREW_TOKEN})\\s+שני\\s+אין בין\\s+(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){0,3})\\s+ראשון`,
   "gu"
 );
 const HEBREW_MASECHTA_DAF_QUOTE_RE = new RegExp(
@@ -1069,6 +1073,7 @@ function smartenStraightDoubleQuotes(typstContent) {
   return normalizeHebrewQuotePlacement(typstContent)
     .replace(new RegExp(`(${HEBREW_LETTERS})\\\\?"(?=${HEBREW_LETTERS})`, "gu"), "$1״")
     .replace(new RegExp(`(^|[\\s([{\\-])\\\\?"(?=(?:${HEBREW_LETTERS}|[\\u2066\\u2067]))`, "gu"), "$1“")
+    .replace(new RegExp(`(${HEBREW_LETTERS})“(?=(?:\\s+[A-Za-z])|$|[,.;:!?)}\\]]|\\u2069)`, "gu"), "$1”")
     .replace(new RegExp(`(${HEBREW_LETTERS})\\\\?"(?=\\s|$|[,.;:!?)}\\]]|\\u2069)`, "gu"), "$1”")
     .replace(new RegExp(`(^|[\\s([{\\-])\\\\?"(?=[^\\s${hebrewClass}])`, "gu"), "$1“")
     .replace(new RegExp(`([^\\s${hebrewClass}])\\\\?"(?=\\s|$|[,.;:!?)}\\]])`, "gu"), "$1”");
@@ -1132,8 +1137,9 @@ function normalizePunctuationSpacing(typstContent) {
     .replace(MISSING_OPEN_HEBREW_CITATION_PAREN_RE, "$1 ($2):")
     .replace(HEBREW_TRAILING_PARSHAS_NAME_RE, "$1פרשת $2")
     .replace(HEBREW_FROM_PLACE_BEFORE_RABBI_NAME_RE, "$1$3 $2")
+    .replace(HEBREW_REVERSED_TITLE_COMPOUND_RE, "$1$3 $2")
     .replace(HEBREW_DAF_BEFORE_MASECHTA_RE, "מסכת $2 (דף $1)")
-    .replace(HEBREW_REVERSED_EIN_BEIN_MONTH_RE, "אין בין $2 ראשון $1 שני")
+    .replace(HEBREW_REVERSED_EIN_BEIN_RE, "אין בין $2 ראשון $1 שני")
     .replace(HEBREW_PASUK_BEFORE_PEREK_RE, "פרק $2 פסוק $1")
     .replace(SHORT_HEBREW_PREFIX_DASH_RE, "$1$2 - $3")
     .replace(HEBREW_TO_ENGLISH_DASH_RE, "$1 - ")));
@@ -1454,7 +1460,13 @@ function repairHebrewIsolateContinuations(typstContent) {
     repaired = repaired
       .replace(
         new RegExp(`([“”])${hebrewIsolate}`, "gu"),
-        `${RTL_ISOLATE}$1$2${POP_DIRECTIONAL_ISOLATE}`
+        (match, quote, hebrew, offset, fullText) => {
+          const following = fullText.slice(offset + match.length);
+          if (quote === "“" && /^[\t \u00A0\u202F]*(?:\n(?!\n)[\t \u00A0\u202F]*)?[A-Za-z]/.test(following)) {
+            return `${quote}${RTL_ISOLATE}${hebrew}${POP_DIRECTIONAL_ISOLATE}`;
+          }
+          return `${RTL_ISOLATE}${quote}${hebrew}${POP_DIRECTIONAL_ISOLATE}`;
+        }
       )
       .replace(
         new RegExp(`${hebrewIsolate}([“”])(?=[\\t \\u00A0\\u202F]*(?:\\n(?!\\n)[\\t \\u00A0\\u202F]*)?[${RTL_ISOLATE}${LTR_ISOLATE}])`, "gu"),

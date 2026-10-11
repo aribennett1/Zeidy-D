@@ -123,6 +123,8 @@ The typesetting build wraps Hebrew phrases in Unicode RTL isolates before Typst 
 
 These rules are global in `build-typeset-proof.js`; focused route proofs are only used as quick examples while tuning. `test-typesetting-rules.js` contains regression cases for the bidi and punctuation normalization rules.
 
+`test-typesetting-rules.js` is the source of truth for typesetting behavior. If a change makes an existing test fail, treat that as a regression in the build logic and fix `build-typeset-proof.js`; do not update the expected test output to match the new behavior unless the desired behavior has explicitly changed. New visual bugs should become additive regression tests, and the implementation should be a general rule that applies globally rather than a one-off patch for the current article, phrase, or route.
+
 English hyphenation is disabled globally in the Typst template. Paragraphs still use justified spacing, but Typst should not break English words across lines with inserted hyphens.
 
 Paragraph first-line indentation is disabled globally in the Typst template.
