@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 36 (2 high, 34 medium)
+Findings: 37 (2 high, 35 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -61,7 +61,11 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0397.png](typeset-audit-pages/page-0397.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 461, Purim 5785, line 15149
+- Typst source, page 453, Krovitz, line 14928
+  - visual: [page-0453.png](typeset-audit-pages/page-0453.png)
+  - קי״ב:ב׳)⁩
+  - normalized: קי״ב:ב׳)
+- Typst source, page 461, Purim 5785, line 15146
   - visual: [page-0461.png](typeset-audit-pages/page-0461.png), [page-0462.png](typeset-audit-pages/page-0462.png)
   - does this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩. What is ⁦אהרן'⁩s ⁧מידה⁩? We all know abou...
   - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
@@ -130,10 +134,10 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0356.png](typeset-audit-pages/page-0356.png)
   - is ⁧‫נח‬,⁩ so he called the sefer ⁧‫” “מנחת חן‬, ⁧‫ ⁩חן‬is ⁧‫ ⁩ח‬- ⁧‫ ⁩נ‬and ⁧‫ ⁩נח‬is ⁧‫ ⁩נ‬- ⁧‫]⁩ח‬, asked us...
   - normalized: is נח, so he called the sefer ” “מנחת חן,  חןis  ח-  נand  נחis  נ- ]ח, asked us a
-- PDF visual text, page 453, Krovitz, line 10
+- PDF visual text, page 453, Krovitz, line 9
   - visual: [page-0453.png](typeset-audit-pages/page-0453.png)
-  - answer “⁧‫ ⁩קרובץ‬is ⁧‫קרובץ לפורים‬,⁩ it’s the thing that we say on ⁧‫⁩פורים‬.” But what...
-  - normalized: answer “ קרובץis קרובץ לפורים, it’s the thing that we say on פורים.” But what is
+  - answer “⁧‫ ⁩קרובץ‬is ⁧‫קרובץ לפורים‬,⁩ it’s the thing that we say on ⁧‫⁩פורים‬.” But what
+  - normalized: answer “ קרובץis קרובץ לפורים, it’s the thing that we say on פורים.” But what
 ## MEDIUM - space before sentence punctuation
 
 - PDF visual text, page 6, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 6
