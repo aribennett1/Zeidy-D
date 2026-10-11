@@ -1462,7 +1462,13 @@ function repairHebrewIsolateContinuations(typstContent) {
         new RegExp(`([“”])${hebrewIsolate}`, "gu"),
         (match, quote, hebrew, offset, fullText) => {
           const following = fullText.slice(offset + match.length);
-          if (quote === "“" && /^[\t \u00A0\u202F]*(?:\n(?!\n)[\t \u00A0\u202F]*)?[A-Za-z]/.test(following)) {
+          if (
+            quote === "“" &&
+            new RegExp(
+              `^[\\t \\u00A0\\u202F]*(?:\\n(?!\\n)[\\t \\u00A0\\u202F]*)?(?:[A-Za-z]|${LTR_ISOLATE}[,.;:!?]${POP_DIRECTIONAL_ISOLATE}[”"]?[,.;:!?]?[\\t \\u00A0\\u202F]+[A-Za-z]|[,.;:!?]?[”"][,.;:!?]?[\\t \\u00A0\\u202F]+[A-Za-z])`,
+              "u"
+            ).test(following)
+          ) {
             return `${quote}${RTL_ISOLATE}${hebrew}${POP_DIRECTIONAL_ISOLATE}`;
           }
           return `${RTL_ISOLATE}${quote}${hebrew}${POP_DIRECTIONAL_ISOLATE}`;

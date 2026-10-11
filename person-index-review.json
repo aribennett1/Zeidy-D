@@ -373,6 +373,13 @@
       ],
       "createdAt": "2026-07-24T02:45:47.895Z"
     },
+    "r-chaim-meir-of-pinczow": {
+      "displayName": "R’ Chaim Meir of Pinczow",
+      "aliases": [
+        "R’ Chaim Meir"
+      ],
+      "createdAt": "2026-07-24T04:21:15.501Z"
+    },
     "r-chaim-shmuelevitz": {
       "displayName": "R’ Chaim Shmuelevitz",
       "aliases": [
@@ -1366,6 +1373,13 @@
         "Rebbetzin Rivky Holtzberg"
       ],
       "createdAt": "2026-07-24T04:17:13.061Z"
+    },
+    "halekach-vehalibuv": {
+      "displayName": "Halekach V'Halibuv",
+      "aliases": [
+        "הלקח והלבוב"
+      ],
+      "createdAt": "2026-07-24T04:21:15.501Z"
     },
     "r-shmuel-marcus": {
       "displayName": "R’ Shmuel Marcus",

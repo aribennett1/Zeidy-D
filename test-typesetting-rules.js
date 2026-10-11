@@ -762,6 +762,13 @@ test("keeps opening quote before Hebrew word when quoted sentence continues in E
   );
 });
 
+test("keeps quotes around hyphenated Hebrew word", () => {
+  assert.equal(
+    applyTextRules('can be read as "כ-פורים," like פורים'),
+    `can be read as “${RTL_ISOLATE}כ-פורים${POP_DIRECTIONAL_ISOLATE},” like ${RTL_ISOLATE}פורים${POP_DIRECTIONAL_ISOLATE}`
+  );
+});
+
 test("repairs curly opening quote after Hebrew word to closing quote", () => {
   assert.equal(
     applyTextRules("They would answer קרובץ“ is קרובץ לפורים"),
@@ -1503,13 +1510,28 @@ test("docx: Krovitz keeps opening quote before Hebrew word", () => {
 
   assertContains(
     typst,
-    `They would answer “${RTL_ISOLATE}קרובץ${POP_DIRECTIONAL_ISOLATE} is ${RTL_ISOLATE}קרובץ לפורים${POP_DIRECTIONAL_ISOLATE}`,
+    `answer “${RTL_ISOLATE}קרובץ${POP_DIRECTIONAL_ISOLATE} is ${RTL_ISOLATE}קרובץ לפורים${POP_DIRECTIONAL_ISOLATE}`,
     "opening quote before Krovitz"
   );
   assertNotContains(
     typst,
     `They would answer ${RTL_ISOLATE}“קרובץ${POP_DIRECTIONAL_ISOLATE}`,
     "opening quote inside Krovitz isolate"
+  );
+});
+
+test("docx: Purim 5785 keeps quotes around hyphenated Hebrew word", () => {
+  const typst = convertedDocx("/purim/5785/");
+
+  assertContains(
+    typst,
+    `can be read as “${RTL_ISOLATE}כ-פורים${POP_DIRECTIONAL_ISOLATE},” like ${RTL_ISOLATE}פורים${POP_DIRECTIONAL_ISOLATE}`,
+    "quotes around hyphenated k-purim"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}“כ-פורים${POP_DIRECTIONAL_ISOLATE}`,
+    "opening quote inside hyphenated Hebrew isolate"
   );
 });
 

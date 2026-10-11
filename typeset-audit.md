@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 37 (2 high, 35 medium)
+Findings: 40 (2 high, 38 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -67,8 +67,8 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: קי״ב:ב׳)
 - Typst source, page 461, Purim 5785, line 15148
   - visual: [page-0461.png](typeset-audit-pages/page-0461.png), [page-0462.png](typeset-audit-pages/page-0462.png)
-  - does this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩. What is ⁦אהרן'⁩s ⁧מידה⁩? We all know abou...
-  - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
+  - this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩.
+  - normalized: this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ.
 ## MEDIUM - quote surrounded by spaces
 
 - PDF visual text, page 3, יעקב מנחם רבינוביץ, line 14
@@ -91,10 +91,22 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0044.png](typeset-audit-pages/page-0044.png)
   - by saying ⁧”‫ ְּבָך חֹוְת ִמין ְוֹלא ָבֶהם‬,‫ “ַּת ְלמּוד לֹוַמר ֶוְהֵיה ְּבָר ָכה‬,‫ ⁩ָמֵגן...
   - normalized: by saying ” ְּבָך חֹוְת ִמין ְוֹלא ָבֶהם, “ַּת ְלמּוד לֹוַמר ֶוְהֵיה ְּבָר ָכה, ָמֵגן ַאְבָר...
+- PDF visual text, page 56, Vayairah 5786 (1), line 26
+  - visual: [page-0056.png](typeset-audit-pages/page-0056.png)
+  - sick person said, “⁧‫ ֶהֱחִייַת ִני‬,‫”⁩ַר ִבּי‬. So there are a number of things you should
+  - normalized: sick person said, “ ֶהֱחִייַת ִני,”ַר ִבּי. So there are a number of things you should
 - PDF visual text, page 73, רב אהרן לייב שטיינמן often emphasized that one never loses by being    מוותר ., line 22
   - visual: [page-0073.png](typeset-audit-pages/page-0073.png)
   - father’s sefarim, he responded with his characteristic humility: “⁧‫ ⁩אבא‬lived in
   - normalized: father’s sefarim, he responded with his characteristic humility: “ אבאlived in
+- PDF visual text, page 104, Vayechi 5783, line 15
+  - visual: [page-0104.png](typeset-audit-pages/page-0104.png)
+  - The second ⁧‫ ⁩זכות‬is that ⁧‫ ⁩יעקב‬is frequently referred to as “⁧‫ ”⁩הזקן‬in both the ⁧‫ ⁩תורה‬
+  - normalized: The second  זכותis that  יעקבis frequently referred to as “ ”הזקןin both the  תורה
+- PDF visual text, page 104, Vayechi 5783, line 17
+  - visual: [page-0104.png](typeset-audit-pages/page-0104.png)
+  - than ⁧‫יעקב‬,⁩ the title “⁧‫ ”⁩זקן‬is uniquely associated with ⁧‫⁩יעקב‬. One example of
+  - normalized: than יעקב, the title “ ”זקןis uniquely associated with יעקב. One example of
 - PDF visual text, page 119, Vaeira 5785, line 12
   - visual: [page-0119.png](typeset-audit-pages/page-0119.png)
   - him, “⁧‫ ⁩פרעה‬will listen to you.”
