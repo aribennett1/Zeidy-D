@@ -65,7 +65,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0453.png](typeset-audit-pages/page-0453.png)
   - קי״ב:ב׳)⁩
   - normalized: קי״ב:ב׳)
-- Typst source, page 461, Purim 5785, line 15146
+- Typst source, page 461, Purim 5785, line 15148
   - visual: [page-0461.png](typeset-audit-pages/page-0461.png), [page-0462.png](typeset-audit-pages/page-0462.png)
   - does this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩. What is ⁦אהרן'⁩s ⁧מידה⁩? We all know abou...
   - normalized: does this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ. What is אהרן's מידה? We all know about...
@@ -155,10 +155,10 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0418.png](typeset-audit-pages/page-0418.png)
   - Why specifically this “easy ⁧‫?”⁩מצוה‬
   - normalized: Why specifically this “easy ?”מצוה
-- PDF visual text, page 459, A rav named R’ Mordechai Sabato explains that since each event in the first, line 28
+- PDF visual text, page 459, the    מגילה ,  there must be an exact midpoint, which represents the point of, line 26
   - visual: [page-0459.png](typeset-audit-pages/page-0459.png)
-  - What are the central words of this ⁧‫ !⁩ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י⁧ ?⁩פסוק‬Until ⁦‫⁩’מרדכי‬s name is
-  - normalized: What are the central words of this  !ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י פסוק?Until ’מרדכיs name is
+  - words of this ⁧‫ !⁩ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י⁧ ?⁩פסוק‬Until ⁦‫⁩’מרדכי‬s name is spoken here by...
+  - normalized: words of this  !ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י פסוק?Until ’מרדכיs name is spoken here by the
 - PDF visual text, page 468, In addition also, we find something very interesting, According to   נוסח אשכנז ,, line 22
   - visual: [page-0468.png](typeset-audit-pages/page-0468.png)
   - ‫ ⁩הקדוש ברוך הוא‬explained it to ⁧‫⁩משה‬. ⁧‫ ⁩ָאַמר ְלָפָניו‬- ⁧‫ ⁩משה רבינו‬says ⁧!‫ִר ּבֹונֹו ֶׁשל עֹוָלם‬
