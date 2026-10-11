@@ -6123,7 +6123,7 @@ However, ⁧הקדוש ברוך הוא⁩ sent seven ⁧צדיקים⁩ to bring
 to ⁧ארץ⁩: ⁧אברהם⁩⁦,⁩ ⁧יצחק⁩⁦,⁩ ⁧יעקב⁩⁦,⁩ ⁧לוי⁩⁦,⁩ ⁧קהת⁩⁦,⁩ ⁧עמרם⁩⁦,⁩ and ⁧משה⁩. When the ⁧משכן⁩ was
 completed, the ⁧שכינה⁩ finally returned to this world, fulfilling ⁦הקדוש
 ברוך הוא'⁩s original desire. This is expressed in the ⁧פסוק⁩: ⁧אִוָּהּ לְמֹושָׁב לֹו ⁦(תהילים קל״ב:י״ג)⁩⁩ - Hashem desired to dwell here in this world. That is
-why it says: (⁧וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם⁩ (⁦שמות כ״ה⁩: ⁧ח׳⁩. This teaches us
+why it says: ⁧וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם ⁦(שמות כ״ה:ח׳)⁩⁩. This teaches us
 that the ⁧שכינה⁩ had a deep ⁧תשוקה⁩ to return to this ⁧עולם⁩. Therefore, the
 ⁧שמחה⁩ that ⁧הקדוש ברוך הוא⁩ had on the day of ⁧בריאת שמים וארץ⁩ was the same
 ⁧שמחה⁩ as on the day the ⁧משכן⁩ was inaugurated, because that day allowed
@@ -7793,7 +7793,7 @@ hearing and worth repeating.
 
 ⁧וַיְדַבֵּר ה׳ אֶל מֹשֶׁה בְמִדְבַּר סִינַי בַּשָּׁנָה הַשֵּׁנִית לְצֵאתָם מֵאֶרֶץ מִצְרַיִם בַּחֹדֶשׁ הָרִאשׁוֹן לֵאמֹר׃ וְיַעֲשׂוּ בְנֵי יִשְׂרָאֵל אֶת הַפָּסַח בְּמוֹעֲדוֹ ⁦(ט:א--ב)⁩⁩. Hashem said: I want you to
 bring the ⁧קרבן פסח⁩. What happened? There were people who couldn't bring
-it. The ⁧פסוק⁩ says: (⁧וַיְהִי אֲנָשִׁים אֲשֶׁר הָיוּ טְמֵאִים לְנֶפֶשׁ אָדָם⁩ (⁧ט⁩: ⁧ו⁩. For whatever
+it. The ⁧פסוק⁩ says: ⁧וַיְהִי אֲנָשִׁים אֲשֶׁר הָיוּ טְמֵאִים לְנֶפֶשׁ אָדָם ⁦(ט:ו)⁩⁩. For whatever
 reason, their ⁧קדושה⁩ was at a level that prevented them from bringing the
 ⁧קרבן פסח⁩. What did Hashem give them the opportunity to do? He gave them
 the mitzvah of ⁧פסח שני⁩.
@@ -12472,7 +12472,7 @@ is spotless. Who are they? ⁧תינוקות של בית רבן⁩. The ⁦תש�
 on a higher ⁧מדרגה⁩⁦,⁩ because they are without ⁧חטא⁩. So we have both: we
 have the concept of ⁧תשובה⁩⁦,⁩ and we also have the ⁧הבל שאין בו חטא⁩⁦,⁩ we have
 those ⁧קינדערלאך⁩ who are giving us the ability to accept the Torah, as it
-says in the pasuk, (⁧מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז⁩ (⁧תהילים ח׳⁩: ⁧ג׳⁩. It was only
+says in the pasuk, ⁧מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז ⁦(תהילים ח׳:ג׳)⁩⁩. It was only
 in the ⁧זכות⁩ of those little ⁧קינדערלאך⁩ that were able to get the Torah, not in the ⁧זכות⁩ of the ⁧אבות⁩⁦,⁩ not in the ⁧זכות⁩ of our ⁧מצוות⁩⁦,⁩ not in the
 ⁧זכות⁩ of our Torah or even of our ⁧גמילות חסדים⁩. It was in the ⁧זכות⁩ of the
 ⁧תינוקות של בית רבן⁩. All of our ⁧קינדערלאך⁩ - they should all live and be
@@ -14846,7 +14846,7 @@ potent. ⁧תענית אסתר⁩ is particularly ⁧מסוגל⁩ for ⁧תפי
 actually the day she fasted - the fast originally took place on ⁧פסח⁩ - but it is still a special time for ⁧תפילות⁩. So what does that wily ⁧יצר הרע⁩ do? He keeps us running around on ⁧פורים⁩ with ⁧משלוח מנות⁩. We're busy
 giving a ⁧פעקלעך⁩⁦,⁩ getting a ⁧פעקלעך⁩⁦,⁩ kids getting tips - where is the
 ⁧תפילה⁩? His ⁧מקור⁩ was the famous ⁧משנה⁩ in ⁧מגילה⁩⁦,⁩ ⁧אין בין⁩. The first ⁧אין בין⁩
-that we have is ⁧לאדר שני אין בין אדר ראשון⁩⁦,⁩ that the ⁧פורים⁩ in ⁧אדר ראשון⁩
+that we have is ⁧אין בין אדר ראשון לאדר שני⁩⁦,⁩ that the ⁧פורים⁩ in ⁧אדר ראשון⁩
 does not have ⁧קריאת מגילה⁩ and does not have ⁧מתנות לאביונים⁩. It happens
 to leave out ⁧משלוח מנות⁩⁦,⁩ and the ⁧מפרשים⁩ talk about that, but his ⁧הערה⁩
 was that ⁧משלוח מנות⁩⁦,⁩ in a very real sense, takes away from some of the
@@ -14863,7 +14863,7 @@ extra chance, and an extra ⁧זכות⁩ to have our ⁧תפילות⁩ answere
 that on this ⁧פורים קטן⁩. Let's daven our hearts out. Let's daven for ⁧כלל ישראל⁩⁦,⁩ let's daven for ⁧ארץ ישראל⁩⁦,⁩ let's daven for us, let's daven for
 all ⁧ישראל⁩⁦,⁩ all around the world. Because this ⁧פורים קטן⁩ there's no ⁧משלוח מנות⁩⁦,⁩ that's for sure. But we can daven, and we can daven very well. So
 that's from R’ Aryeh Strickhoff, #metadata(none) <person-index-r-aryeh-strickhoff-1126> I want to give credit where credit is
-due, (⁧הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם⁩ (⁧אבות ו⁩: ⁧ו⁩. So I wanted to
+due, ⁧הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם ⁦(אבות ו:ו)⁩⁩. So I wanted to
 share that with you.
 
 It is brought down in the ⁧ספר כנפי השכינה⁩ that the letters of the word

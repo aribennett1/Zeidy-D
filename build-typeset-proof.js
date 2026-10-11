@@ -70,6 +70,10 @@ const HEBREW_LOOSE_CITATION_CLOSE_RE = new RegExp(
   `(^|\\s)((?:${HEBREW_TOKEN}\\s+)?${HEBREW_TOKEN}:${HEBREW_TOKEN})\\)\\)+(?=\\s+${HEBREW_TOKEN})`,
   "gu"
 );
+const HEBREW_QUOTE_WITH_TRAILING_UNCLOSED_SOURCE_RE = new RegExp(
+  `\\((${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){2,220})\\s+\\(((?:${HEBREW_TOKEN}\\s+)?${HEBREW_REF_TOKEN}\\s*:\\s*${HEBREW_REF_TOKEN})\\.`,
+  "gu"
+);
 const NAMED_NUMERIC_LOOSE_CITATION_CLOSE_RE = new RegExp(
   `(^|\\s)(${HEBREW_TOKEN}\\s+\\d+:\\d+)\\)\\)+\\s*:`,
   "gu"
@@ -171,6 +175,10 @@ const HEBREW_FROM_PLACE_BEFORE_RABBI_NAME_RE = new RegExp(
 );
 const HEBREW_DAF_BEFORE_MASECHTA_RE = new RegExp(
   `\\(דף\\s+(${HEBREW_TOKEN})\\)\\s+מסכת\\s+(${HEBREW_TOKEN})`,
+  "gu"
+);
+const HEBREW_REVERSED_EIN_BEIN_MONTH_RE = new RegExp(
+  `(ל${HEBREW_TOKEN})\\s+שני\\s+אין בין\\s+(${HEBREW_TOKEN})\\s+ראשון`,
   "gu"
 );
 const HEBREW_MASECHTA_DAF_QUOTE_RE = new RegExp(
@@ -1117,6 +1125,7 @@ function normalizePunctuationSpacing(typstContent) {
     .replace(/,\s*,\s*/g, ", ")
     .replace(/(\d+):\s+(\d+)/g, "$1:$2")
     .replace(new RegExp(`(\\(\\d+:\\d+\\))(?=${HEBREW_LETTERS})`, "gu"), "$1 ")
+    .replace(HEBREW_QUOTE_WITH_TRAILING_UNCLOSED_SOURCE_RE, "$1 ($2).")
     .replace(HEBREW_CITATION_COLON_RE, "$1$2:$3")
     .replace(NAMED_NUMERIC_LOOSE_CITATION_CLOSE_RE, "$1($2):")
     .replace(HEBREW_LOOSE_CITATION_CLOSE_RE, "$1($2)")
@@ -1124,6 +1133,7 @@ function normalizePunctuationSpacing(typstContent) {
     .replace(HEBREW_TRAILING_PARSHAS_NAME_RE, "$1פרשת $2")
     .replace(HEBREW_FROM_PLACE_BEFORE_RABBI_NAME_RE, "$1$3 $2")
     .replace(HEBREW_DAF_BEFORE_MASECHTA_RE, "מסכת $2 (דף $1)")
+    .replace(HEBREW_REVERSED_EIN_BEIN_MONTH_RE, "אין בין $2 ראשון $1 שני")
     .replace(HEBREW_PASUK_BEFORE_PEREK_RE, "פרק $2 פסוק $1")
     .replace(SHORT_HEBREW_PREFIX_DASH_RE, "$1$2 - $3")
     .replace(HEBREW_TO_ENGLISH_DASH_RE, "$1 - ")));

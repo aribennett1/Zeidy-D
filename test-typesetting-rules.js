@@ -666,6 +666,13 @@ test("normalizes Hebrew perek before pasuk references", () => {
   );
 });
 
+test("normalizes reversed ein bein month phrase", () => {
+  assert.equal(
+    applyTextRules("that we have is לאדר שני אין בין אדר ראשון, that the פורים"),
+    `that we have is ${RTL_ISOLATE}אין בין אדר ראשון לאדר שני${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} that the ${RTL_ISOLATE}פורים${POP_DIRECTIONAL_ISOLATE}`
+  );
+});
+
 test("normalizes trailing Hebrew parsha label before English", () => {
   assert.equal(
     applyTextRules("חיי שרה פרשת begins with"),
@@ -1063,6 +1070,13 @@ test("keeps Hebrew quote with ellipsis and trailing source in reading order", ()
   );
 });
 
+test("repairs Hebrew quote with trailing unclosed source parenthesis", () => {
+  assert.equal(
+    applyTextRules("due, (הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם (אבות ו:ו. So"),
+    `due, ${RTL_ISOLATE}הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם ${LTR_ISOLATE}(אבות ו:ו)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}. So`
+  );
+});
+
 test("does not protect ordinary parenthesized Hebrew as a source reference", () => {
   assert.equal(
     applyTextRules("This (מנורה) is the example"),
@@ -1411,6 +1425,36 @@ test("docx: Tu Beshvat 5784 keeps comma after Bnei Yissaschar before zechuso", (
     typst,
     `the ${RTL_ISOLATE}בני יששכר,${POP_DIRECTIONAL_ISOLATE} #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-1> ${RTL_ISOLATE}זכותו יגן עלינו${POP_DIRECTIONAL_ISOLATE}`,
     "comma should not remain inside Bnei Yissaschar RTL isolate"
+  );
+});
+
+test("docx: Purim Katon 5784 keeps ein bein Mishnah phrase in logical order", () => {
+  const typst = convertedDocx("/purim-katon/5784/");
+
+  assertContains(
+    typst,
+    `that we have is ${RTL_ISOLATE}אין בין אדר ראשון לאדר שני${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} that the ${RTL_ISOLATE}פורים${POP_DIRECTIONAL_ISOLATE} in ${RTL_ISOLATE}אדר ראשון${POP_DIRECTIONAL_ISOLATE}`,
+    "ein bein Adar phrase"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}לאדר שני אין בין אדר ראשון${POP_DIRECTIONAL_ISOLATE}`,
+    "reversed ein bein Adar phrase"
+  );
+});
+
+test("docx: Purim Katon 5784 keeps Avos source after Hebrew quote", () => {
+  const typst = convertedDocx("/purim-katon/5784/");
+
+  assertContains(
+    typst,
+    `credit is\ndue, ${RTL_ISOLATE}הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם ${LTR_ISOLATE}(אבות ו:ו)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}. So I wanted`,
+    "Avos source after Hebrew quote"
+  );
+  assertNotContains(
+    typst,
+    `(אבות ו${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}ו${POP_DIRECTIONAL_ISOLATE}`,
+    "split reversed Avos source"
   );
 });
 
