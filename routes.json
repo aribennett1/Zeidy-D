@@ -885,7 +885,8 @@
     },
     "/rabbi-oelbaum/": {
       "contentPath": "07 - Haskamos/01 - Rabbi Oelbaum",
-      "baseFilename": "Rabbi Oelbaum"
+      "baseFilename": "Rabbi Oelbaum",
+      "pdfPage": "Rabbi Oelbaum.pdf"
     },
     "/biale-rebbe/": {
       "contentPath": "07 - Haskamos/Biale Rebbe",
