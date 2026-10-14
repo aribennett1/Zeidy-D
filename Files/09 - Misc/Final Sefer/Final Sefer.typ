@@ -90,6 +90,37 @@
   }
 }
 
+#let article-overlay(url, qr) = context {
+  let link-text = text(size: 7.2pt, fill: rgb("#222222"))[
+    #link(url)[#url]
+  ]
+  let qr-image = image(qr, width: 0.48in)
+  let left-link-block = box[
+    #grid(
+      columns: (auto, auto),
+      gutter: 0.06in,
+      align: bottom,
+      qr-image,
+      link-text,
+    )
+  ]
+  let right-link-block = box[
+    #grid(
+      columns: (auto, auto),
+      gutter: 0.06in,
+      align: bottom,
+      link-text,
+      qr-image,
+    )
+  ]
+
+  if calc.odd(here().page()) {
+    place(bottom + right, dx: -0.18in, dy: -0.18in)[#right-link-block]
+  } else {
+    place(bottom + left, dx: 0.18in, dy: -0.18in)[#left-link-block]
+  }
+}
+
 #show heading.where(level: 1): it => {
   set align(center)
   set text(font: "Times New Roman", size: 11pt, weight: "regular")
@@ -107,6 +138,7 @@
   #align(center + horizon)[
     #image("../../07 - Haskamos/01 - Rabbi Oelbaum/Rabbi Oelbaum.pdf", width: 100%, height: 100%, fit: "contain")
   ]
+  #article-overlay("https://zeidyd.com/rabbi-oelbaum/", "../../07 - Haskamos/01 - Rabbi Oelbaum/Rabbi Oelbaum.png")
 ]
 
 #pagebreak()

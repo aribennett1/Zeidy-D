@@ -1726,7 +1726,7 @@ async function loadEntries(options) {
       docxPath: path.join(directory, `${details.baseFilename}.docx`),
       pdfPagePath,
       qrPath: path.join(directory, `${details.baseFilename}.png`),
-      hasFooter: !pdfPagePath && !NO_FOOTER_ROUTES.has(route),
+      hasFooter: !NO_FOOTER_ROUTES.has(route),
     };
   });
 }
@@ -1736,10 +1736,10 @@ async function ensureEntryFiles(entries) {
     if (entry.isPdfPage) {
       await fs.access(entry.pdfPagePath);
       entry.pdfPageCount = getPdfPageCount(entry.pdfPagePath);
-      continue;
+    } else {
+      await fs.access(entry.docxPath);
     }
 
-    await fs.access(entry.docxPath);
     if (entry.hasFooter) {
       try {
         await fs.access(entry.qrPath);
@@ -1779,16 +1779,19 @@ function convertDocxToTypst(entry, indexState = null) {
   return normalizeRtlBulletLists(applyTextRules(indexedBody));
 }
 
-function renderPdfPage(entry) {
+function renderPdfPage(entry, qrRelativePath = null) {
   const pdfRelativePath = path.relative(OUTPUT_DIR, entry.pdfPagePath).split(path.sep).join("/");
   const pageCount = Math.max(1, entry.pdfPageCount || 1);
+  const overlay = entry.hasFooter && qrRelativePath
+    ? `\n  #article-overlay(${typstString(entry.url)}, ${typstString(qrRelativePath)})`
+    : "";
 
   return Array.from({ length: pageCount }, (_unused, index) => {
     const pageOption = pageCount > 1 ? `, page: ${index + 1}` : "";
     return `#block(width: 100%, height: 100%)[
   #align(center + horizon)[
     #image(${typstString(pdfRelativePath)}${pageOption}, width: 100%, height: 100%, fit: "contain")
-  ]
+  ]${overlay}
 ]`;
   }).join("\n#pagebreak()\n");
 }
@@ -1982,6 +1985,37 @@ function renderTypstDocument(entries, options, indexState = null) {
   }
 }
 
+#let article-overlay(url, qr) = context {
+  let link-text = text(size: 7.2pt, fill: rgb("#222222"))[
+    #link(url)[#url]
+  ]
+  let qr-image = image(qr, width: ${settings.qrSize})
+  let left-link-block = box[
+    #grid(
+      columns: (auto, auto),
+      gutter: 0.06in,
+      align: bottom,
+      qr-image,
+      link-text,
+    )
+  ]
+  let right-link-block = box[
+    #grid(
+      columns: (auto, auto),
+      gutter: 0.06in,
+      align: bottom,
+      link-text,
+      qr-image,
+    )
+  ]
+
+  if calc.odd(here().page()) {
+    place(bottom + right, dx: -0.18in, dy: -0.18in)[#right-link-block]
+  } else {
+    place(bottom + left, dx: 0.18in, dy: -0.18in)[#left-link-block]
+  }
+}
+
 #show heading.where(level: 1): it => {
   set align(center)
   set text(font: "Times New Roman", size: 11pt, weight: "regular")
@@ -2000,12 +2034,12 @@ function renderTypstDocument(entries, options, indexState = null) {
   entries.forEach((entry, index) => {
     console.error(`[${index + 1}/${entries.length}] ${entry.title}`);
     const isFrontMatter = entry.isFrontMatter;
-    const body = entry.isPdfPage
-      ? renderPdfPage(entry)
-      : convertDocxToTypst(entry, isFrontMatter ? null : indexState);
     const qrRelativePath = entry.hasFooter
       ? path.relative(OUTPUT_DIR, entry.qrPath).split(path.sep).join("/")
       : null;
+    const body = entry.isPdfPage
+      ? renderPdfPage(entry, qrRelativePath)
+      : convertDocxToTypst(entry, isFrontMatter ? null : indexState);
     const shouldInsertTableOfContents =
       options.all && !insertedTableOfContents && !isFrontMatter;
 
@@ -2030,7 +2064,7 @@ function renderTypstDocument(entries, options, indexState = null) {
     }
 
     const header = isFrontMatter ? "none" : "page-number-header()";
-    const footer = entry.hasFooter
+    const footer = entry.hasFooter && !entry.isPdfPage
       ? `article-footer(${typstString(entry.url)}, ${typstString(qrRelativePath)})`
       : "none";
     const headingTitle = typstHeadingContent(entry.title);
