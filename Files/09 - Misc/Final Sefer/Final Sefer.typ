@@ -750,7 +750,7 @@ The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-2> is explain
 ⁧שבת⁩⁦,⁩ it's a symbol of ⁧מנוחה⁩⁦,⁩ that Hashem is actually the ongoing ⁧מנהיג⁩
 and ⁧בורא העולם⁩ forever. That's what ⁧לַעֲשׂוֹת⁩ means - that Hashem's act of
 creation wasn't something finished, but something that continues;
-creation was made “⁧לַעֲשׂוֹת⁩”, to be ongoing, constantly renewed. That is a
+creation was made “⁧לַעֲשׂוֹת⁩,” to be ongoing, constantly renewed. That is a
 tremendous concept. I understand the great ⁧גדולים⁩ knew this, appreciated
 it, and kept it in their minds constantly. We of a lesser stature have
 to be reminded of it at least once a year in ⁧פרשת בראשית⁩. It's a good
@@ -4722,7 +4722,7 @@ area known as ⁧שיטים⁩.
 
 The author of ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-319> asks an interesting question: We often
 see in ⁦רש״י⁩, #metadata(none) <person-index-rashi-322> throughout ⁧חומש⁩ and ⁧גמרא⁩⁦,⁩ that ⁦רש״י⁩#metadata(none) <person-index-rashi-323> translates for us, and
-he says a “⁧בלעז” לשון⁩⁦,⁩ where ⁦רש״י⁩#metadata(none) <person-index-rashi-324> will translate a word into French. Why
+he says a “⁧בלעז⁩” ⁧לשון⁩⁦,⁩ where ⁦רש״י⁩#metadata(none) <person-index-rashi-324> will translate a word into French. Why
 did ⁦רש״י⁩#metadata(none) <person-index-rashi-325> do this? At first glance, it seems simply to clarify difficult
 words.
 
@@ -8759,7 +8759,7 @@ though he considered himself nothing. ⁧משה רבינו⁩ on the other hand 
 ⁧נחנו מה⁩. We are \[speaking of himself and ⁧אהרן⁩\] nothing. So vis-a-vis
 ⁦הקדוש ברוך הוא'⁩s message there was no impediment getting in the way.
 
-⁧בלעם⁩ knew that his level of ⁧נבואה⁩ was channeled through his “⁧נשמה⁩”, through his level of ⁧טומאה⁩⁦,⁩ and it came out in a very krum, distorted
+⁧בלעם⁩ knew that his level of ⁧נבואה⁩ was channeled through his “⁧נשמה⁩,” through his level of ⁧טומאה⁩⁦,⁩ and it came out in a very krum, distorted
 way because that's the kind of person he was. He thought that he could
 pull this off by having his ⁧נבואה⁩ come through his level of ⁧טהרה⁩⁦,⁩ or
 lack thereof, of his ⁧נשמה⁩⁦,⁩ and he would be able to give a ⁧קללה⁩ through
@@ -15174,7 +15174,7 @@ remains our job to remove this ⁧מידה⁩ from ourselves and bring true ⁧�
 into the world.
 
 Many ⁧ספרים⁩⁦,⁩ as well as the ⁧זוהר⁩⁦,⁩ explain that ⁧פורים⁩ is connected to ⁧יום כיפור⁩⁦,⁩ as seen in the similarity between their names - ⁧כיפורים⁩⁦,⁩ which
-can be read as “⁧כ-פורים⁩”, like ⁧פורים⁩. The ⁧אלשיך⁩⁦,⁩ #metadata(none) <person-index-alshich-1146> quoting the ⁧פרקי דרבי אליעזר⁩⁦,⁩ #metadata(none) <person-index-pirkei-drabi-eliezer-1148> describes how on ⁧יום כיפור⁩⁦,⁩ ⁧הקדוש ברוך הוא⁩ tells the ⁧מלאכים⁩: ⁧אומה טובה יש לך בארץ⁩ - “I have a wonderful nation down there in ⁧עולם הזה⁩. They do not eat or drink, just like the ⁧מלאכי השרת⁩. And they have
+can be read as “⁧כ-פורים⁩,” like ⁧פורים⁩. The ⁧אלשיך⁩⁦,⁩ #metadata(none) <person-index-alshich-1146> quoting the ⁧פרקי דרבי אליעזר⁩⁦,⁩ #metadata(none) <person-index-pirkei-drabi-eliezer-1148> describes how on ⁧יום כיפור⁩⁦,⁩ ⁧הקדוש ברוך הוא⁩ tells the ⁧מלאכים⁩: ⁧אומה טובה יש לך בארץ⁩ - “I have a wonderful nation down there in ⁧עולם הזה⁩. They do not eat or drink, just like the ⁧מלאכי השרת⁩. And they have
 no ⁧קנאה⁩⁦,⁩ no ⁧שנאה⁩⁦,⁩ and no rivalry, just like the ⁧מלאכי השרת⁩\.”
 
 On ⁧יום כיפור⁩⁦,⁩ ⁧כלל ישראל⁩ reaches a level even higher than the ⁧מלאכים⁩.

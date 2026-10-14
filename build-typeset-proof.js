@@ -1360,6 +1360,20 @@ function repairSplitMasechtaDafQuestions(typstContent) {
 function repairQuotedHebrewRuns(typstContent) {
   return typstContent
     .replace(
+      new RegExp(`([“"])${RTL_ISOLATE}(${HEBREW_TOKEN}(?:-${HEBREW_TOKEN})*)[”"]\\s+([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
+      (_match, openQuote, quotedWord, followingHebrew) =>
+        `${openQuote}${RTL_ISOLATE}${quotedWord}${POP_DIRECTIONAL_ISOLATE}” ${RTL_ISOLATE}${followingHebrew.replace(new RegExp(`[${RTL_ISOLATE}${LTR_ISOLATE}${POP_DIRECTIONAL_ISOLATE}]`, "g"), "")}${POP_DIRECTIONAL_ISOLATE}`
+    )
+    .replace(
+      new RegExp(`([“"])${RTL_ISOLATE}(${HEBREW_TOKEN}(?:-${HEBREW_TOKEN})*)${POP_DIRECTIONAL_ISOLATE}[”"]\\s+([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
+      (_match, openQuote, quotedWord, followingHebrew) =>
+        `${openQuote}${RTL_ISOLATE}${quotedWord}${POP_DIRECTIONAL_ISOLATE}” ${RTL_ISOLATE}${followingHebrew.replace(new RegExp(`[${RTL_ISOLATE}${LTR_ISOLATE}${POP_DIRECTIONAL_ISOLATE}]`, "g"), "")}${POP_DIRECTIONAL_ISOLATE}`
+    )
+    .replace(
+      new RegExp(`(${RTL_ISOLATE}${HEBREW_TOKEN}(?:-${HEBREW_TOKEN})*${POP_DIRECTIONAL_ISOLATE})”,(?=\\s+[A-Za-z])`, "gu"),
+      "$1,”"
+    )
+    .replace(
       new RegExp(`${RTL_ISOLATE}[“"]([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}”(?=\\]|\\n|$)`, "gu"),
       `${RTL_ISOLATE}”$1“${POP_DIRECTIONAL_ISOLATE}`
     )
@@ -1473,7 +1487,7 @@ function repairHebrewIsolateContinuations(typstContent) {
           if (
             quote === "“" &&
             new RegExp(
-              `^[\\t \\u00A0\\u202F]*(?:\\n(?!\\n)[\\t \\u00A0\\u202F]*)?(?:[A-Za-z]|${LTR_ISOLATE}[,.;:!?]${POP_DIRECTIONAL_ISOLATE}[”"]?[,.;:!?]?[\\t \\u00A0\\u202F]+[A-Za-z]|[,.;:!?]?[”"][,.;:!?]?[\\t \\u00A0\\u202F]+[A-Za-z])`,
+              `^[\\t \\u00A0\\u202F]*(?:\\n(?!\\n)[\\t \\u00A0\\u202F]*)?(?:[A-Za-z]|[”"][\\t \\u00A0\\u202F]*(?:\\n(?!\\n)[\\t \\u00A0\\u202F]*)?[${RTL_ISOLATE}${LTR_ISOLATE}]|${LTR_ISOLATE}[,.;:!?]${POP_DIRECTIONAL_ISOLATE}[”"]?[,.;:!?]?[\\t \\u00A0\\u202F]+[A-Za-z]|[,.;:!?]?[”"][,.;:!?]?[\\t \\u00A0\\u202F]+[A-Za-z])`,
               "u"
             ).test(following)
           ) {
@@ -1493,6 +1507,9 @@ function repairHebrewIsolateContinuations(typstContent) {
       .replace(
         new RegExp(`${hebrewIsolate}${softSeparator}${hebrewIsolate}`, "gu"),
         (match, left, quote, right) => {
+          if (quote === "”") {
+            return match;
+          }
           if (!quote && !/[#"”]/.test(left) && !/[#"”]/.test(right)) {
             return match;
           }

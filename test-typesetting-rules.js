@@ -839,6 +839,13 @@ test("keeps comma after quoted Hebrew phrase before closing quote", () => {
   );
 });
 
+test("keeps quotes around Hebrew word before adjacent Hebrew word", () => {
+  assert.equal(
+    applyTextRules('he says a "בלעז" לשון, where רש״י will translate'),
+    `he says a “${RTL_ISOLATE}בלעז${POP_DIRECTIONAL_ISOLATE}” ${RTL_ISOLATE}לשון${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} where ${LTR_ISOLATE}רש״י${POP_DIRECTIONAL_ISOLATE} will translate`
+  );
+});
+
 test("keeps comma after Hebrew phrase before index marker and English", () => {
   assert.equal(
     applyTextRules("According to the אוצר פלאות התורה, #metadata(none) <person-index-1> who bentchs"),
@@ -1982,6 +1989,21 @@ test("docx: Rosh Chodesh keeps English quotes outside inline Hebrew phrase", () 
     typst,
     `simultaneously, ${RTL_ISOLATE}“סַבּוּנִי גַם סְבָבוּנִי${POP_DIRECTIONAL_ISOLATE}`,
     "opening quote should not be inside inline Hebrew isolate"
+  );
+});
+
+test("docx: Teruma 5785 keeps quotes around b'laaz before lashon", () => {
+  const typst = convertedDocx("/teruma/5785/");
+
+  assertContains(
+    typst,
+    `he says a “${RTL_ISOLATE}בלעז${POP_DIRECTIONAL_ISOLATE}” ${RTL_ISOLATE}לשון${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} where ${LTR_ISOLATE}רש״י${POP_DIRECTIONAL_ISOLATE} will translate`,
+    "quoted Hebrew word before adjacent Hebrew word"
+  );
+  assertNotContains(
+    typst,
+    `“${RTL_ISOLATE}בלעז” לשון${POP_DIRECTIONAL_ISOLATE}`,
+    "opening quote should not float outside a merged quoted-Hebrew run"
   );
 });
 
