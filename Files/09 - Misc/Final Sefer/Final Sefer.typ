@@ -9354,13 +9354,13 @@ of our tongue.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/matos-maasei/5785/", "../../04 - Bamidbar/10 - Matos-Maasei/5785/Matos-Massei 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/matos-maasei/5785/", "../../04 - Bamidbar/10 - Matos-Maasei/5785/Matos-Maasei 5785.png"), margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-= Matos-Massei 5785
+= Matos-Maasei 5785
 
 ⁧פרשיות מטות⁩ and ⁧מסעי⁩⁦,⁩ with the greatest number of ⁧פסוקים⁩ in any one
 particular ⁧שבת⁩⁦,⁩ have a number of topics. One of the last ones is the
@@ -14198,7 +14198,7 @@ close?
 A ⁧משל⁩ from the Dubno Maggid, #metadata(none) <person-index-dubno-maggid-1063> brought in Torah Tavlin#metadata(none) <person-index-torah-tavlin-1065> 5785, is able to
 show us little people what ⁧דביקות⁩ is all about:
 
-A swell-to-do individual made frequent business trips far and wide. He
+A well-to-do individual made frequent business trips far and wide. He
 tried his best to make them as short as possible so as not to be away
 from his family too much, but sometimes he didn't have a choice. On one
 such particular trip, he had an opportunity to become extremely wealthy.
@@ -14430,8 +14430,9 @@ she had ever felt. Then one by one, her closest friends came in, followed by the
 
 And yes, she did kiss the Torah. The festivities returned to shul, but
 this woman continued to smile and cry tears of joy. Three months later, the woman succumbed to her illness, ⁧נבך⁩⁦,⁩ but not before she discovered a
-newfound ⁧שמחה⁩ that carried her through the last month of her challenges:
-the ⁧שמחה⁩ of love and compassion, the ⁧שמחה⁩ of performing a ⁧מצוה⁩⁦,⁩ ⁧שמחת התורה⁩. May we all hear besuros tovos and have a wonderful, good year, ⁧מיט געזונט און כח⁩.
+newfound ⁧שמחה⁩ that carried her through the last months of her
+challenges: the ⁧שמחה⁩ of love and compassion, the ⁧שמחה⁩ of performing a
+⁧מצוה⁩⁦,⁩ ⁧שמחת התורה⁩. May we all hear besuros tovos and have a wonderful, good year, ⁧מיט געזונט און כח⁩.
 
 #pagebreak()
 

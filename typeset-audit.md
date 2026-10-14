@@ -41,7 +41,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0279.png](typeset-audit-pages/page-0279.png), [page-0280.png](typeset-audit-pages/page-0280.png)
   - א׳:ג׳)⁩: ⁧וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ⁩ -...
   - normalized: א׳:ג׳): וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ - I'...
-- Typst source, page 286, Matos-Massei 5785, line 9385
+- Typst source, page 286, Matos-Maasei 5785, line 9385
   - visual: [page-0286.png](typeset-audit-pages/page-0286.png), [page-0287.png](typeset-audit-pages/page-0287.png)
   - shouldn't daven that her son would die. It's brought down in ⁦מכות ב:ו⁩:
   - normalized: shouldn't daven that her son would die. It's brought down in מכות ב:ו:
@@ -61,11 +61,11 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0395.png](typeset-audit-pages/page-0395.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 451, Krovitz, line 14920
+- Typst source, page 451, Krovitz, line 14921
   - visual: [page-0451.png](typeset-audit-pages/page-0451.png)
   - קי״ב:ב׳)⁩
   - normalized: קי״ב:ב׳)
-- Typst source, page 459, Purim 5785, line 15140
+- Typst source, page 459, Purim 5785, line 15141
   - visual: [page-0459.png](typeset-audit-pages/page-0459.png), [page-0460.png](typeset-audit-pages/page-0460.png)
   - this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩.
   - normalized: this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ.
