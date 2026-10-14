@@ -345,6 +345,13 @@ test("keeps numeric thousands separators tight", () => {
   );
 });
 
+test("keeps space after comma in dates before four-digit years", () => {
+  assert.equal(
+    normalizePunctuationSpacing("On January 28, 1986, the world watched"),
+    "On January 28, 1986, the world watched"
+  );
+});
+
 test("removes spaces before sentence punctuation", () => {
   assert.equal(
     normalizePunctuationSpacing("R' Moshe Sternbuch , who quoted Rav Itzele Peterburger . What"),
@@ -1524,6 +1531,21 @@ test("docx: Krovitz keeps opening quote before Hebrew word", () => {
     typst,
     `They would answer ${RTL_ISOLATE}“קרובץ${POP_DIRECTIONAL_ISOLATE}`,
     "opening quote inside Krovitz isolate"
+  );
+});
+
+test("docx: Korach 5783 keeps date comma spacing before four-digit year", () => {
+  const typst = convertedDocx("/korach/5783/");
+
+  assertContains(
+    typst,
+    "On January 28, 1986, the world watched",
+    "date comma spacing before four-digit year"
+  );
+  assertNotContains(
+    typst,
+    "On January 28,1986, the world watched",
+    "collapsed date comma spacing"
   );
 });
 

@@ -1130,7 +1130,7 @@ function normalizePunctuationSpacing(typstContent) {
     .replace(/,(?![\d"])\s*/g, ", ")
     .replace(/,\s+(\\?["”])(?=(?:\s+\S+){1,4}\s+(?:said|asked|answered|responded|replied)\b)/giu, ",$1")
     .replace(/,\s+(\\?["”])(?=\s+[a-z])/gu, ",$1")
-    .replace(/(\d),\s+(?=\d)/g, "$1,")
+    .replace(/(\d),\s+(?=\d{3}(?!\d))/g, "$1,")
     .replace(/,\s*,\s*/g, ", ")
     .replace(/(\d+):\s+(\d+)/g, "$1:$2")
     .replace(new RegExp(`(\\(\\d+:\\d+\\))(?=${HEBREW_LETTERS})`, "gu"), "$1 ")
