@@ -5781,7 +5781,7 @@ was a great ⁧נס⁩.
 
 What was the ⁧נס⁩? The ⁧נס⁩ was that the ⁧מצריים⁩ didn't react. ⁧משה רבינו⁩ had
 protested to Hashem, saying, “⁧בני ישראל⁩ can't do this! The ⁧שה⁩ is ⁦מצרים'⁩s
-⁧עבודה זרה⁩⁦,⁩ and they will kill us!” Hashem responded, ⁧“חייך⁩ - I swear, they are not leaving ⁧מצרים⁩ until they do exactly that.” Now, within the
+⁧עבודה זרה⁩⁦,⁩ and they will kill us!” Hashem responded, ⁧”חייך“⁩ - I swear, they are not leaving ⁧מצרים⁩ until they do exactly that.” Now, within the
 great panoply of ⁧מכות⁩⁦,⁩ ⁧ניסים⁩⁦,⁩ and the entire story of ⁧יציאת מצרים⁩⁦,⁩ tying
 a ⁧שׁעֶפּסֶל⁩ to the bedpost seems like a rather minor detail, yet we call it
 ⁧שבת הגדול⁩. What is the underlying message here?
@@ -9269,7 +9269,7 @@ that ⁧פרשה⁩. The last words in ⁧מסעי⁩ are ⁧על ירדן יר�
 mnemonic is given: ⁧מחלה חולה⁩. Some of my children and grandchildren
 asked me this week, “What kind of name is ⁧מחלה⁩ for a person?” I told
 them that was one of ⁦צלפחד'⁩s daughters. Someone once came to R’ Chaim
-and said, ⁧“מחלה חולה⁩ - if you translate that literally, it means someone
+and said, ⁧”מחלה חולה“⁩ - if you translate that literally, it means someone
 who got sick with an illness. Is that really how we're ending the ⁧פרשה⁩?
 And especially at the end of a ⁧ספר⁩? We always try to end on a good note.
 Many of the ⁧הפטרות⁩⁦,⁩ for example, repeat the next-to-last ⁧פסוק⁩ because

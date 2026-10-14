@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 40 (2 high, 38 medium)
+Findings: 42 (2 high, 40 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -119,6 +119,10 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0178.png](typeset-audit-pages/page-0178.png)
   - protested to Hashem, saying, “⁧‫ ⁩בני ישראל‬can’t do this! The ⁧‫ ⁩שה‬is ⁦‫⁩’מצרים‬s ⁧‫עבודה‬
   - normalized: protested to Hashem, saying, “ בני ישראלcan’t do this! The  שהis ’מצריםs עבודה
+- PDF visual text, page 178, Tzav 5783, line 14
+  - visual: [page-0178.png](typeset-audit-pages/page-0178.png)
+  - ‫זרה‬,⁩ and they will kill us!” Hashem responded, ⁧“‫ ⁩”חייך‬- I swear, they are not
+  - normalized: זרה, and they will kill us!” Hashem responded, “ ”חייך- I swear, they are not
 - PDF visual text, page 217, Behar 5784, line 17
   - visual: [page-0217.png](typeset-audit-pages/page-0217.png)
   - “The Weekly Vort ” is relevant.
@@ -134,6 +138,10 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0265.png](typeset-audit-pages/page-0265.png)
   - one ever said, ⁧“‫ ⁩”צר לי המקום‬- meaning Hashem, who is ⁧‫⁩המקום‬. No one ever
   - normalized: one ever said, “ ”צר לי המקום- meaning Hashem, who is המקום. No one ever
+- PDF visual text, page 282, Matos-Maasei 5783, line 36
+  - visual: [page-0282.png](typeset-audit-pages/page-0282.png)
+  - to R’ Chaim and said, ⁧“‫ ⁩”מחלה חולה‬- if you translate that literally, it means
+  - normalized: to R’ Chaim and said, “ ”מחלה חולה- if you translate that literally, it means
 - PDF visual text, page 283, R’ Chaim immediately responded, “    חולה doesn’t mean sick in this context., line 4
   - visual: [page-0283.png](typeset-audit-pages/page-0283.png)
   - R’ Chaim immediately responded, “⁧‫ ⁩חולה‬doesn’t mean sick in this context.

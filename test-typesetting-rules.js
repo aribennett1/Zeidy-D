@@ -762,6 +762,13 @@ test("flips nested Hebrew quotes inside an RTL run", () => {
   );
 });
 
+test("flips inline Hebrew quote before English dash explanation", () => {
+  assert.equal(
+    applyTextRules('came to R’ Chaim and said, "מחלה חולה - if you translate'),
+    `came to R’ Chaim and said, ${RTL_ISOLATE}”מחלה חולה“${POP_DIRECTIONAL_ISOLATE} - if you translate`
+  );
+});
+
 test("keeps English quotes outside a quoted Hebrew phrase", () => {
   assert.equal(
     applyTextRules('we both said simultaneously, "סַבּוּנִי גַם סְבָבוּנִי."'),
@@ -1590,6 +1597,21 @@ test("docx: Pinchas 5784 flips nested Hebrew quote marks inside Rashi", () => {
     typst,
     `אָמַר לוֹ “וְסָמַכְתָּ אֶת יָדְךָ”`,
     "unflipped nested Hebrew quote marks inside Rashi"
+  );
+});
+
+test("docx: Matos-Maasei 5783 flips Hebrew quote before dash explanation", () => {
+  const typst = convertedDocx("/matos-maasei/5783/");
+
+  assertContains(
+    typst,
+    `and said, ${RTL_ISOLATE}”מחלה חולה“${POP_DIRECTIONAL_ISOLATE} - if you translate`,
+    "Hebrew quote before English dash explanation"
+  );
+  assertNotContains(
+    typst,
+    `and said, ${RTL_ISOLATE}“מחלה חולה${POP_DIRECTIONAL_ISOLATE} - if you translate`,
+    "opening quote trapped on wrong side of Hebrew phrase"
   );
 });
 

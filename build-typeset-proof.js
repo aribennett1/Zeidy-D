@@ -1382,6 +1382,10 @@ function repairQuotedHebrewRuns(typstContent) {
       `${RTL_ISOLATE}”$1“${POP_DIRECTIONAL_ISOLATE}`
     )
     .replace(
+      new RegExp(`${RTL_ISOLATE}[“"]([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}(?=\\s+-\\s+[A-Za-z])`, "gu"),
+      `${RTL_ISOLATE}”$1“${POP_DIRECTIONAL_ISOLATE}`
+    )
+    .replace(
       new RegExp(`${RTL_ISOLATE}[“"]([^${POP_DIRECTIONAL_ISOLATE}]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}(\\\\?[.?!])”`, "gu"),
       `“${RTL_ISOLATE}$1${POP_DIRECTIONAL_ISOLATE}$2”`
     )
