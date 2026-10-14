@@ -9171,9 +9171,8 @@ does the pasuk say ⁧גַּם אָתָּה⁩⁦?⁩ It could have simply said 
 The ⁧כתב סופר⁩ answers in the name of his great father, the ⁧חתם סופר⁩⁦,⁩ #metadata(none) <person-index-chasam-sofer-679> by
 drawing from what ⁧דוד המלך⁩ said before his own passing ⁦(מלכים א ב׳
 א׳:ג׳)⁩: ⁧וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ⁩ - I'm going the way
-of all of all creatures; ⁧וְחָזַקְתָּ וְהָיִיתָ לְאִישׁ⁩ - strengthen yourself; ⁧וְשָׁמַרְתָּ אֶת מִשְׁמֶרֶת ה׳ אֱלֹהֶיךָ לָלֶכֶת בִּדְרָכָיו⁩ - and continues on with his final ⁧צואה⁩ to
-the future king ⁧שלמה⁩. The question is, what's the purpose of the words
-⁧אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ⁩⁦?⁩ It could have started with ⁧וְחָזַקְתָּ וְהָיִיתָ לְאִישׁ⁩ - I'm
+of all creatures; ⁧וְחָזַקְתָּ וְהָיִיתָ לְאִישׁ⁩ - strengthen yourself; ⁧וְשָׁמַרְתָּ אֶת מִשְׁמֶרֶת ה׳ אֱלֹהֶיךָ לָלֶכֶת בִּדְרָכָיו⁩ - and continues on with his final ⁧צואה⁩ to the
+future king ⁧שלמה⁩. The question is, what's the purpose of the words ⁧אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ⁩⁦?⁩ It could have started with ⁧וְחָזַקְתָּ וְהָיִיתָ לְאִישׁ⁩ - I'm
 telling you to strengthen yourself, to be the person that you have to
 be.
 
