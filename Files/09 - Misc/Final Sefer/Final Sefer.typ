@@ -7614,12 +7614,13 @@ everything in ⁦ש״ס ופוסקים⁩. Now, here's his question, which was a
 R’ Aharon Mordechai Brisk#metadata(none) <person-index-r-aharon-mordechai-brisk-521> and it's brought down in ⁧שו״ת מהר״ם בריסק⁩:
 Let's say a ⁧בן ארץ ישראל⁩ is in ⁧חוץ לארץ⁩ for ⁧יום טוב⁩⁦,⁩ and he happens to
 be a ⁧כהן⁩. He doesn't keep ⁧יום טוב שני של גלויות⁩⁦,⁩ because he has ⁧כוונה⁩ to
-go back home. Is he allowed to duchan with the other ⁧כהנים⁩ who are who
-are duchaning on ⁧יום טוב שני של גלויות⁩⁦?⁩ R’ Brisk answered ⁧לענית דעתי⁩ - In my humble opinion, it's clear that a ⁧בן ארץ ישראל⁩ who's in ⁧חוץ לארץ⁩
-can definitely duchan on the second day on Yom Tov. Why? Because what's
-the reason we don't duchan every single day in ⁧חוץ לארץ⁩⁦?⁩ Because we're
-busy with our ⁧פרנסה⁩⁦,⁩ and cannot be involved with those activities which
-really give us true simcha -⁧מצוות ומעשים טובים⁩. Only on a day like ⁧יום טוב⁩⁦,⁩ when we don't have the ⁧דאגה⁩ of ⁧פרנסה⁩ can we duchan. So if a ⁧בן ארץ ישראל⁩ is in ⁧חוץ לארץ⁩⁦,⁩ he can't do ⁧מלאכה⁩ on ⁧יום טוב בפרהסיא⁩. Therefore, he's not worried about his ⁧פרנסה⁩⁦,⁩ and is ⁧שרוי בשמחה⁩⁦,⁩ so he certainly
+go back home. Is he allowed to duchan with the other ⁧כהנים⁩ who are
+duchaning on ⁧יום טוב שני של גלויות⁩⁦?⁩ R’ Brisk answered ⁧לענית דעתי⁩ - In my
+humble opinion, it's clear that a ⁧בן ארץ ישראל⁩ who's in ⁧חוץ לארץ⁩ can
+definitely duchan on the second day on Yom Tov. Why? Because what's the
+reason we don't duchan every single day in ⁧חוץ לארץ⁩⁦?⁩ Because we're busy
+with our ⁧פרנסה⁩⁦,⁩ and cannot be involved with those activities which
+really give us true simcha - ⁧מצוות ומעשים טובים⁩. Only on a day like ⁧יום טוב⁩⁦,⁩ when we don't have the ⁧דאגה⁩ of ⁧פרנסה⁩ can we duchan. So if a ⁧בן ארץ ישראל⁩ is in ⁧חוץ לארץ⁩⁦,⁩ he can't do ⁧מלאכה⁩ on ⁧יום טוב בפרהסיא⁩. Therefore, he's not worried about his ⁧פרנסה⁩⁦,⁩ and is ⁧שרוי בשמחה⁩⁦,⁩ so he certainly
 would be entitled to do ⁧ברכת כהנים⁩⁦,⁩ and he can even say it with a ⁧ברכה⁩⁦,⁩ there's no ⁧חשש ברכה לבטלה⁩.
 
 #pagebreak()
@@ -7913,12 +7914,12 @@ that it says the words ⁧בְּנֵי יִשְׂרָאֵל⁩ five times in thi
 #align(right)[
 ⁧חֲמִשָּׁה פְעָמִים נֶאֶמְרוּ בְנֵי יִשְׂרָאֵל בְּמִקְרָא זֶה, לְהוֹדִיעַ חִבָּתָן, שֶׁנִּכְפַּל אַזְכְּרוֹתֵיהֶן בְּמִקְרָא אֶחָד כְּמִנְיַן חֲמִשָּׁה חֻמְשֵׁי תוֹרָה,  וְכָךְ רָאִיתִי בִּבְ״רַ⁩]
 
-Hashem looks at us just like the ⁧חמישה חומשי תורה⁩. What is the
+Hashem looks at us just like the ⁧חמשה חומשי תורה⁩. What is the
 implication of that? R’ Goldstein explains that it says in ⁧פרשת יתרו⁩
 ⁦(שמות י״ט:ה׳)⁩: ⁧וְעַתָּה אִם שָׁמוֹעַ תִּשְׁמְעוּ בְּקֹלִי וּשְׁמַרְתֶּם אֶת בְּרִיתִי וִהְיִיתֶם לִי סְגֻלָּה מִכׇּל הָעַמִּים כִּי לִי כׇּל הָאָרֶץ⁩. ⁦רש״י⁩#metadata(none) <person-index-rashi-559> says on the spot over there, ⁧סגולה⁩ means an
 ⁧אוצר חביב⁩ - a wonderful, dear treasure. Just like a ⁧סגולת מלכים⁩ which is
 all over ⁦תנ״ך⁩, which means a vessel full of precious jewels and precious
-gems that kings put away in their treasure house., so too Hashem says to
+gems that kings put away in their treasure house, so too Hashem says to
 ⁧כלל ישראל⁩⁦,⁩ “You are to me like a ⁧סגולה⁩ amongst all of the other
 nations.” Why is that? The ⁧חיבה⁩ that ⁧הקדוש ברוך הוא⁩ has for ⁧כלל ישראל⁩
 comes from the ⁧כח⁩ of ⁧קבלת התורה⁩. We recently had ⁧שבועות⁩ with the awesome
@@ -8136,9 +8137,9 @@ will apply throughout all of their generations? A second, related
 question, brought down by R’ Mordechai Becher, #metadata(none) <person-index-r-mordechai-becher-578> discussing ⁧קבלת התורה⁩
 which we recently celebrated on ⁧שבועות⁩⁦,⁩ is why is it that the vast
 majority of ⁧תורה⁩ is oral and not written? The written ⁧תורה⁩ consists of
-only 320,000 words. But the ⁧תורה⁩ besides those 320,000 words is vast.
-Why wasn't the entire ⁧תורה⁩ written down from the start? If the ⁧תורה⁩ is a
-legal, ethical, and spiritual covenant given to millions over
+only 320,000 letters. But the ⁧תורה⁩ besides those 320,000 letters is
+vast. Why wasn't the entire ⁧תורה⁩ written down from the start? If the
+⁧תורה⁩ is a legal, ethical, and spiritual covenant given to millions over
 generations, wouldn't it have made more sense to have it written in a
 fully documented form?
 
