@@ -3360,7 +3360,8 @@ find out why ⁧משה רבינו⁩ had to ⁧מל⁩ them again when they went
 hate them; ⁧לְהִתְנַכֵּל בַּעֲבָדָיו שֶׁנֶּאֱמַר: הָפַךְ לִבָּם לִשְׂנֹא עַמּוֹ⁩ - the ⁧פסוק⁩ we just said
 in ⁧תהלים⁩.
 
-The questions are 1) What did ⁧כלל ישראל⁩ do? And 2) Why Hashem do this, what benefit was there to ⁧כלל ישראל⁩⁦?⁩
+The questions are 1) What did ⁧כלל ישראל⁩ do? And 2) Why did Hashem do
+this, what benefit was there to ⁧כלל ישראל⁩⁦?⁩
 
 The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-223> delves deeper into this ⁧מדרש⁩. He notes that the act of
 being ⁧מֵפֵר⁩ the ⁧ברית מילה⁩ does not mean they stopped performing it. On the
@@ -4419,8 +4420,8 @@ all the way up the mountain, you can only ascend halfway.”
 But there's an important detail here. R’ Moshe Kormornick#metadata(none) <person-index-r-kormornick-296> in his sefer
 Short Vort (vol. 1) points out that ⁧משה⁩ alone ascended - ⁧מֹשֶׁה לְבַדּוֹ⁩
 (24:2). What about ⁧אהרן⁩? After all, ⁧אהרן⁩ had stood by ⁦משה'⁩s side the
-entire time and did not abandoned him like the ⁧זקנים⁩. Shouldn't ⁧אהרן⁩
-have been allowed to go up too?
+entire time and did not abandon him like the ⁧זקנים⁩. Shouldn't ⁧אהרן⁩ have
+been allowed to go up too?
 
 The truth is, ⁧אהרן⁩ was allowed to ascend. So why didn't he? Who decided
 he shouldn't go up? ⁧אהרן⁩ himself.
@@ -4721,7 +4722,7 @@ area known as ⁧שיטים⁩.
 
 The author of ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-319> asks an interesting question: We often
 see in ⁦רש״י⁩, #metadata(none) <person-index-rashi-322> throughout ⁧חומש⁩ and ⁧גמרא⁩⁦,⁩ that ⁦רש״י⁩#metadata(none) <person-index-rashi-323> translates for us, and
-he says a “⁧בלעז” לשון⁩⁦,⁩ where ⁦רש״י⁩#metadata(none) <person-index-rashi-324> will translate a word into French Why
+he says a “⁧בלעז” לשון⁩⁦,⁩ where ⁦רש״י⁩#metadata(none) <person-index-rashi-324> will translate a word into French. Why
 did ⁦רש״י⁩#metadata(none) <person-index-rashi-325> do this? At first glance, it seems simply to clarify difficult
 words.
 
