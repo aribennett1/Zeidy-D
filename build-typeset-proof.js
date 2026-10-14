@@ -1288,11 +1288,7 @@ function isolateHebrewRuns(typstContent) {
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
-  const hebrewCommaPhraseSafeContent = trailingAcronymPhraseSafeContent.replace(HEBREW_COMMA_PHRASE_SEQUENCE_RE, (match, offset, fullText) => {
-    return protect(isolateHebrewCommaPhrase(match, followedByEnglish(fullText, offset + match.length)));
-  });
-
-  const hebrewParshasHyphenatedSafeContent = hebrewCommaPhraseSafeContent.replace(HEBREW_PARSHAS_HYPHENATED_PHRASE_RE, (match) => {
+  const hebrewParshasHyphenatedSafeContent = trailingAcronymPhraseSafeContent.replace(HEBREW_PARSHAS_HYPHENATED_PHRASE_RE, (match) => {
     return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
@@ -1300,7 +1296,11 @@ function isolateHebrewRuns(typstContent) {
     return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
-  const acronymContinuationSafeContent = hebrewHyphenatedSafeContent.replace(HEBREW_ACRONYM_CONTINUATION_PHRASE_RE, (match) => {
+  const hebrewCommaPhraseSafeContent = hebrewHyphenatedSafeContent.replace(HEBREW_COMMA_PHRASE_SEQUENCE_RE, (match, offset, fullText) => {
+    return protect(isolateHebrewCommaPhrase(match, followedByEnglish(fullText, offset + match.length)));
+  });
+
+  const acronymContinuationSafeContent = hebrewCommaPhraseSafeContent.replace(HEBREW_ACRONYM_CONTINUATION_PHRASE_RE, (match) => {
     return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
@@ -1359,6 +1359,10 @@ function repairSplitMasechtaDafQuestions(typstContent) {
 
 function repairQuotedHebrewRuns(typstContent) {
   return typstContent
+    .replace(
+      new RegExp(`${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}\\n]*?)“([^${POP_DIRECTIONAL_ISOLATE}\\n”]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n”]*)”([^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
+      `${RTL_ISOLATE}$1”$2“$3${POP_DIRECTIONAL_ISOLATE}`
+    )
     .replace(
       new RegExp(`([“"])${RTL_ISOLATE}(${HEBREW_TOKEN}(?:-${HEBREW_TOKEN})*)[”"]\\s+([^${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
       (_match, openQuote, quotedWord, followingHebrew) =>

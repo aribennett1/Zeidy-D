@@ -755,6 +755,13 @@ test("keeps Hebrew quote continuations in one RTL phrase", () => {
   );
 });
 
+test("flips nested Hebrew quotes inside an RTL run", () => {
+  assert.equal(
+    applyTextRules('רש״י says יוֹתֵר מִמַּה שֶּׁנִּצְטַוָּה, שֶׁהַקָּבָּ״ה אָמַר לוֹ "וְסָמַכְתָּ אֶת יָדְךָ" - Hashem'),
+    `${LTR_ISOLATE}רש״י${POP_DIRECTIONAL_ISOLATE} says ${RTL_ISOLATE}יוֹתֵר מִמַּה שֶּׁנִּצְטַוָּה, שֶׁהַקָּבָּ״ה אָמַר לוֹ ”וְסָמַכְתָּ אֶת יָדְךָ“${POP_DIRECTIONAL_ISOLATE} - Hashem`
+  );
+});
+
 test("keeps English quotes outside a quoted Hebrew phrase", () => {
   assert.equal(
     applyTextRules('we both said simultaneously, "סַבּוּנִי גַם סְבָבוּנִי."'),
@@ -959,6 +966,13 @@ test("keeps Hebrew hyphenated divine name in one reading order", () => {
   assert.equal(
     applyTextRules("spell י-ה, Hashem's name"),
     `spell ${RTL_ISOLATE}י-ה${POP_DIRECTIONAL_ISOLATE}, Hashem's name`
+  );
+});
+
+test("keeps Hebrew hyphenated letter pair after Hebrew comma phrase in order", () => {
+  assert.equal(
+    applyTextRules("How does the letters of הן, ה-נ teach you אחדות?"),
+    `How does the letters of ${RTL_ISOLATE}הן, ה-נ${POP_DIRECTIONAL_ISOLATE} teach you ${RTL_ISOLATE}אחדות${POP_DIRECTIONAL_ISOLATE}?`
   );
 });
 
@@ -1546,6 +1560,36 @@ test("docx: Korach 5783 keeps date comma spacing before four-digit year", () => 
     typst,
     "On January 28,1986, the world watched",
     "collapsed date comma spacing"
+  );
+});
+
+test("docx: Chukas-Balak 5783 keeps hen and hei-nun in logical order", () => {
+  const typst = convertedDocx("/chukas-balak/5783/");
+
+  assertContains(
+    typst,
+    `How do the letters of ${RTL_ISOLATE}הן, ה-נ${POP_DIRECTIONAL_ISOLATE} teach you ${RTL_ISOLATE}אחדות${POP_DIRECTIONAL_ISOLATE}?`,
+    "hen and hei-nun letter phrase"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}הן, ה${POP_DIRECTIONAL_ISOLATE}-${RTL_ISOLATE}נ${POP_DIRECTIONAL_ISOLATE}`,
+    "split hei-nun after comma phrase"
+  );
+});
+
+test("docx: Pinchas 5784 flips nested Hebrew quote marks inside Rashi", () => {
+  const typst = convertedDocx("/pinchas/5784/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}יוֹתֵר וְיוֹתֵר מִמַּה שֶּׁנִּצְטַוָּה, שֶׁהַקָּבָּ״ה אָמַר לוֹ ”וְסָמַכְתָּ אֶת יָדְךָ“${POP_DIRECTIONAL_ISOLATE} - Hashem said`,
+    "nested Hebrew quote marks inside Rashi"
+  );
+  assertNotContains(
+    typst,
+    `אָמַר לוֹ “וְסָמַכְתָּ אֶת יָדְךָ”`,
+    "unflipped nested Hebrew quote marks inside Rashi"
   );
 });
 

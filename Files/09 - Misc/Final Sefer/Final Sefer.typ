@@ -1193,7 +1193,7 @@ ultimate purpose and achievement.”
 = Lech Lecha 5784
 
 In the second pasuk of the ⁧פרשה⁩⁦,⁩ it says ⁧וְאֶעֶשְׂךָ לְגוֹי גָּדוֹל וַאֲבָרֶכְךָ וַאֲגַדְּלָה שְׁמֶךָ וֶהְיֵה בְּרָכָה⁩. In ⁦רש״י⁩, #metadata(none) <person-index-rashi-49> after his first pshat, he explains that ⁧וְאֶעֶשְׂךָ לְגוֹי גָּדוֹל⁩ refers to what we say in ⁧שמונה עשרה⁩: ⁧אֱלֹקֵי אַבְרָהָם⁩⁦,⁩ ⁧וַאֲבָרֶכְךָ⁩ refers
-to ⁧אֱלֹקֵי יִצְחָק⁩⁦,⁩ and ⁧וַאֲגַדְּלָה שְׁמֶךָ⁩ refers to ⁧וֵאֱלֹקֵי יַעֲקֹב⁩. ⁧“יָכוֹל יִהְיוּ חוֹתְמִין בְּכֻלָּן”⁩ - the bracha#metadata(none) <person-index-bracha-45> could have ended by saying ⁧מָגֵן אַבְרָהָם יִצְחָק וְיַעֲקֹב, “תַּלְמוּד לוֹמַר וֶהְיֵה בְּרָכָה, בְּךָ חוֹתְמִין וְלֹא בָהֶם”⁩ - the bracha#metadata(none) <person-index-bracha-46> of ⁧שמונה עשרה⁩
+to ⁧אֱלֹקֵי יִצְחָק⁩⁦,⁩ and ⁧וַאֲגַדְּלָה שְׁמֶךָ⁩ refers to ⁧וֵאֱלֹקֵי יַעֲקֹב⁩. ⁧”יָכוֹל יִהְיוּ חוֹתְמִין בְּכֻלָּן“⁩ - the bracha#metadata(none) <person-index-bracha-45> could have ended by saying ⁧מָגֵן אַבְרָהָם יִצְחָק וְיַעֲקֹב, ”תַּלְמוּד לוֹמַר וֶהְיֵה בְּרָכָה, בְּךָ חוֹתְמִין וְלֹא בָהֶם“⁩ - the bracha#metadata(none) <person-index-bracha-46> of ⁧שמונה עשרה⁩
 ends with ⁧מָגֵן אַבְרָהָם⁩.
 
 This teaches us that the aspect of ⁧גמילות חסדים⁩⁦,⁩ represented by ⁧אברהם אבינו⁩⁦,⁩ is the foundation of all three messages.
@@ -6841,7 +6841,7 @@ from today, we'll be standing before Hashem on Yom Kippur, asking for
 Now is the time to begin the process. Now is when we start working on
 our ways so that Hashem will give us that ⁧כפרה⁩ when the time comes. R’
 Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-457> didn't count up like in ⁧ספירה⁩ - he counted down. There are
-many reasons we count ⁧ספירה⁩ ascending - 1,2,3, and so on. But he did
+many reasons we count ⁧ספירה⁩ ascending - 1, 2, 3, and so on. But he did
 the opposite. As Yom Kippur approached, he would announce each week:
 “Today is the last Sunday of the year. Fix what you've done on Sundays
 throughout the year.” The same with Mondays, and so on. In fact, this
@@ -8230,7 +8230,7 @@ notable because it would not only transport astronauts but would also
 carry the first American teacher into space. There was fierce
 competition among educators across the country for that spot. One of the
 finalists was a Jewish teacher at a day school, but ultimately she was
-not chosen. Another teacher was given the honor. On January 28,1986, the world watched as the Challenger launched. Just 73 seconds into the
+not chosen. Another teacher was given the honor. On January 28, 1986, the world watched as the Challenger launched. Just 73 seconds into the
 flight, it exploded, killing everyone on board. It was a horrific
 national tragedy. The Jewish teacher who had almost been selected
 received many messages afterward, all saying how lucky she was that she
@@ -8666,7 +8666,7 @@ could see the good and say, ⁧ברוך השם הטוב והמטיב⁩. As the 
 Eichah (3:38) ⁧מִפִּי עֶלְיֹון לֹא תֵצֵא הָרָעֹות⁩ - nothing bad ever truly comes from
 Hashem. When the ⁧בית המקדש⁩ stood, ⁧כלל ישראל⁩ saw this clearly. Living in
 ⁧ארץ ישראל⁩ and ⁧ירושלים⁩⁦,⁩ they had the ⁧זכות⁩ to see that everything, every
-⁧דבר⁩⁦,⁩ was only ⁧טוב וחסד⁩. So no one ever said, ⁧“צר לי המקום”⁩ - meaning
+⁧דבר⁩⁦,⁩ was only ⁧טוב וחסד⁩. So no one ever said, ⁧”צר לי המקום“⁩ - meaning
 Hashem, who is ⁧המקום⁩. No one ever said Hashem caused them pain, because
 they recognized ⁧כל מה דעביד רחמנא לטב עביד⁩ - Every single thing that
 Hashem does is for the good.
@@ -8767,8 +8767,8 @@ lack thereof, of his ⁧נשמה⁩⁦,⁩ and he would be able to give a ⁧ק�
 that. However, ⁧הקדוש ברוך הוא⁩ gave him an unmatched, unrivaled gift.
 ⁧הקדוש ברוך הוא⁩ gave ⁧בלעם⁩ the level of ⁧נבואה⁩ of ⁧משה רבינו⁩ for this period
 of time. As we all know, the ⁧מדרש⁩ says, ⁧לא קם נביא בישראל כמשה⁩ - There
-was no ⁧נביא⁩ in ⁧ישראל⁩ like ⁧משה⁩⁦,⁩ but amongst the ⁧גוים⁩ there was, there was
-⁧בלעם⁩. How can we possibly understand that ⁧מדרש⁩? This answers that.
+was no ⁧נביא⁩ in ⁧ישראל⁩ like ⁧משה⁩⁦,⁩ but amongst the ⁧גוים⁩ there was ⁧בלעם⁩. How
+can we possibly understand that ⁧מדרש⁩? This answers that.
 
 Yes, ⁧בלעם⁩ was a ⁧רשע⁩. Yes, ⁧בלעם⁩ was ⁧טמא⁩. Yes, ⁧בלעם⁩ was the lowest of the
 low. But in order to prevent any ⁧קללה⁩ on ⁦בלעם'⁩s part, ⁧הקדוש ברוך הוא⁩
@@ -8861,11 +8861,11 @@ is a ⁧מדת הרחמים⁩ and he knew that there's a ⁧מדת הדין⁩.
 with the ⁧מדת הרחמים⁩ and ⁧מדת הדין⁩ are the names of ⁧הקדוש ברוך הוא⁩. He
 wanted to be ⁧מעורר דין על כלל ישראל⁩ and use the names of Hashem which
 are ⁧מעורר דין⁩. The two names which are the most famous for ⁧דין⁩⁦,⁩ we all
-know ⁧אלקים⁩. ⁧אלקים⁩ is ⁧מדת הדין⁩. And believe it or not, the name ⁧קה, י⁩-⁧ה⁩⁦,⁩ also is ⁧מדת הדין⁩. He brings ⁧ראיות⁩ for that, we'll skip those for the
+know ⁧אלקים⁩. ⁧אלקים⁩ is ⁧מדת הדין⁩. And believe it or not, the name ⁧קה, י-ה⁩, also is ⁧מדת הדין⁩. He brings ⁧ראיות⁩ for that, we'll skip those for the
 moment. When ⁧בלעם⁩ wanted to say ⁧אלקים⁩⁦,⁩ Hashem stopped him mid-sentence, and knocked off his ⁧אלקים⁩ as if he had a bridle in his mouth and it came
 out ⁧קל⁩. ⁧קל⁩ is a ⁧שם⁩ of ⁧רחמים⁩. When he wanted to say the name of ⁧קה⁩⁦,⁩ which is another ⁧שם⁩ of ⁧דין⁩⁦,⁩ Hashem pulled his tongue and added on the
 ⁧ו-ה⁩ and made it ⁧י-ק-ו-ק⁩, which is ⁧מדת הרחמים⁩. So that's what ⁧בלעם⁩ says
-(23:8), ⁧מָה אֶקֹּב לֹא קַבֹּה קֵל וּמָה אֶזְעֹם לֹא זָעַם ה׳, י⁩-⁧ק-ו-ק⁩. The two names of
+(23:8), ⁧מָה אֶקֹּב לֹא קַבֹּה קֵל וּמָה אֶזְעֹם לֹא זָעַם ה׳, י-ק-ו-ק⁩. The two names of
 ⁧רחמים⁩. ⁧בלעם⁩ was saying “How can I possibly bring a ⁧קללה⁩ on ⁧כלל ישראל⁩
 when the names of ⁧קל⁩ and ⁦הוי״ה⁩ which come to my mouth are a ⁧לשון של חבה⁩⁦,⁩ of loving.⁧הקדוש ברוך הוא⁩ loves ⁧כלל ישראל⁩. That's what ⁧בלעם⁩ was
 saying.⁧לֹא אוּכַל לַעֲבֹר אֶת פִּי ה׳ אֱלֹקׇי לַעֲשׂוֹת קְטַנָּה אוֹ גְדוֹלָה⁩ - If I want to use
@@ -8900,8 +8900,9 @@ take? What would you suggest? So all of us said ⁧סידור⁩ and 99% of us s
 interesting that he said that, and if you think about it, it makes a
 world of sense. The author of the ⁧קיצור שולחן ערוך⁩#metadata(none) <person-index-kitzur-shulchan-aruch-651> is Rav Shlomo
 Ganzfried, #metadata(none) <person-index-r-shlomo-ganzfried-657> and he was a ⁧גאון עולם⁩. If you look at the ⁧קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-kitzur-shulchan-aruch-652>
-it's similar to ⁦רש״י⁩#metadata(none) <person-index-rashi-660> in that anybody can read it and can understand it, and it's written so perfectly and so beautifully that you really think
-that a very simple person wrote it. But it's not. It's written by a ⁧גאון עולם⁩. Rav Shlomo Ganzfried#metadata(none) <person-index-r-shlomo-ganzfried-658> wrote other ⁧ספרים⁩. And once upon a time, I
+it's similar to ⁦רש״י⁩#metadata(none) <person-index-rashi-660> in that anybody can read it and understand it, and
+it's written so perfectly and so beautifully that you really think that
+a very simple person wrote it. But it's not. It's written by a ⁧גאון עולם⁩. Rav Shlomo Ganzfried#metadata(none) <person-index-r-shlomo-ganzfried-658> wrote other ⁧ספרים⁩. And once upon a time, I
 had the opportunity at a ⁧ספרים⁩ store to see one of his other ⁧ספרים⁩
 called the ⁧אפיריון⁩⁦,⁩ which means a palace. It's a very slim little ⁧ספר⁩.
 Rav Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-656> said about this ⁧ספר⁩ that as easy as the ⁧קיצור שולחן ערוך⁩#metadata(none) <person-index-kitzur-shulchan-aruch-653> is
@@ -8934,17 +8935,15 @@ come up with a reasonable explanation. That's not the case with other
 ⁧חוקים⁩. As difficult as they might be, we can still come up with a ⁧סברא⁩⁦,⁩ a line of thinking, as to what their purpose might be, even if we know
 that explanation isn't the real reason and that it's still a ⁧חוק⁩.
 
-Now, many ⁧אפיקורסים⁩⁦,⁩ which he brings down and I know about this from
-experience, want to find a ⁧טעם⁩ for a ⁧מצוה⁩. The best example was what my
-rebbi Rav Moshe Tendler#metadata(none) <person-index-rav-moshe-tendler-654> ⁦זצ״ל⁩ told me, he said the ⁧אפיקורסים⁩ or the
-Reform Jews said Moses was a great hygienist, and he said you shouldn't
-eat pig because the pigs of those days all had trichinosis, a particular
-kind of worm that pigs are known to carry. So therefore today, when we
-raise the pigs hygienically, now we can eat pig. So the ⁧אפיריון⁩ brings
-this down exactly, he says, they try to find a ⁧טעם⁩ for a ⁧מצוה⁩⁦,⁩ they
-knock off the ⁧טעם⁩⁦,⁩ they knock off the ⁧מצוה⁩. But he says, the ⁧הבל יפצה פיהם⁩⁦,⁩ Hashem should shut their mouths. We are ⁧מחויב⁩ to keep all of the
-mitzvos of the torah, whether or not we understand them, whether or not
-there's a reason for them, even those we think we understand the reason, we have to believe that each and every ⁧מצוה⁩ is a ⁧חוק⁩.
+Now, many ⁧אפיקורסים⁩ want to find a ⁧טעם⁩ for a ⁧מצוה⁩. The best example was
+what my rebbi Rav Moshe Tendler#metadata(none) <person-index-rav-moshe-tendler-654> ⁦זצ״ל⁩ told me, he said the ⁧אפיקורסים⁩ or
+the Reform Jews said Moses was a great hygienist, and he said you
+shouldn't eat pig because the pigs of those days all had trichinosis, a
+particular kind of worm that pigs are known to carry. Therefore today, when we raise the pigs hygienically, now we can eat pig. So the ⁧אפיריון⁩
+brings this down exactly, he says, they try to find a ⁧טעם⁩ for a ⁧מצוה⁩⁦,⁩ they knock off the ⁧טעם⁩⁦,⁩ they knock off the ⁧מצוה⁩. But he says, the ⁧הבל יפצה פיהם⁩⁦,⁩ Hashem should shut their mouths. We are ⁧מחויב⁩ to keep all of
+the mitzvos of the Torah, whether or not we understand them, whether or
+not there's a reason for them, even those we think we understand the
+reason, we have to believe that each and every ⁧מצוה⁩ is a ⁧חוק⁩.
 
 We have to learn this from ⁧פרה אדומה⁩. It's intellectually impossible to
 figure out the reason for the ⁧פרה אדומה⁩. So therefore that is a teaching
@@ -8978,7 +8977,7 @@ by themselves in their country, ⁧וּבַגּוֹיִם לֹא יִתְחַש�
 How do you know that? From the word ⁧הן⁩. What does the word ⁧הן⁩ teach us?
 It teaches you ⁧אחדות⁩.
 
-How does the letters of ⁧הן, ה⁩-⁧נ⁩ teach you ⁧אחדות⁩? So he brings down a
+How do the letters of ⁧הן, ה-נ⁩ teach you ⁧אחדות⁩? So he brings down a
 fascinating little insight. All letters have a partner. All letters have
 a ⁧זיווג⁩. ⁧א׳⁩ goes with ⁧ט׳⁩⁦,⁩ makes 10. ⁧ב׳⁩ goes with ⁧ח׳⁩⁦,⁩ makes 10. ⁧ג׳⁩ goes
 with ⁧ז׳⁩⁦,⁩ makes 10. ⁧ד׳⁩ goes with ⁧ו׳⁩ makes 10. But ⁧ה⁩ is stuck in the
@@ -8990,12 +8989,11 @@ for. ⁧נ׳ ה׳⁩ and ⁧נ׳⁩ are the ⁧אותיות⁩ that have no ⁧�
 partner, they still stick together. There is a ⁧שלום⁩ and an ⁧אחדות⁩ between
 them. That was one of the greatest ⁧מעלות⁩ that ⁧בלעם⁩ found about ⁧כלל ישראל⁩
 and gave them a ⁧ברכה⁩. We should continue that ⁧אחדות⁩ and that unity and
-⁧שלום⁩ in ⁧כלל ישראל⁩⁦,⁩ and ⁧הלוואי⁩ we could use it today. Boy, what a ⁧ברכה⁩ we
-could use it if we could only find some ⁧שלום⁩ in ⁧ישראל⁩⁦,⁩ especially today
-when things are so tough. But all the time, all the time, there's always
-been ⁧מחלוקת⁩ and we have to look away. I tell everybody, look away, be
-kind, always look to be ⁧מלמד זכות⁩ on somebody else. ⁧בעזרת השם⁩ in that
-⁧זכות⁩ we should have ⁧שלום על ישראל⁩ and ⁧משיח⁩ should come. ⁧אמן⁩.
+⁧שלום⁩ in ⁧כלל ישראל⁩⁦,⁩ and ⁧הלוואי⁩ we could use it today. Boy, what a ⁧ברכה⁩⁦,⁩ we could use it. If we could only find some ⁧שלום⁩ in ⁧ישראל⁩⁦,⁩ especially
+today when things are so tough. But all the time, all the time, there's
+always been ⁧מחלוקת⁩ and we have to look away. I tell everybody, look
+away, be kind, always look to be ⁧מלמד זכות⁩ on somebody else. ⁧בעזרת השם⁩
+in that ⁧זכות⁩ we should have ⁧שלום על ישראל⁩ and ⁧משיח⁩ should come. ⁧אמן⁩.
 
 #pagebreak()
 
@@ -9082,7 +9080,7 @@ appointed. What does Hashem tell him? ⁧וַיֹּאמֶר ה׳ אֶל מֹשׁ
 What does the pasuk say? ⁧וְסָמַכְתָּ אֶת יָדְךָ עָלָיו⁩. What happens a couple of
 ⁧פסוקים⁩ later? ⁧וַיִּסְמֹךְ אֶת יָדָיו עָלָיו וַיְצַוֵּהוּ כַּאֲשֶׁר דִּבֶּר ה׳ בְּיַד מֹשֶׁה⁩. There's a
 ⁧סתירה בפסוקים⁩. Hashem said to Moshe ⁧וְסָמַכְתָּ אֶת יָדְךָ⁩⁦,⁩ singular, and it says
-⁧וַיִּסְמֹךְ אֶת יָדָיו⁩ - Moshe used his two hands, plural. ⁦רש״י⁩#metadata(none) <person-index-rashi-673> on the spot says, ⁧בְּעַיִן יָפָה⁩ - beautifully, with a generous eye; ⁧יוֹתֵר וְיוֹתֵר מִמַּה שֶּׁנִּצְטַוָּה, שֶׁהַקָּבָּ״ה אָמַר לוֹ “וְסָמַכְתָּ אֶת יָדְךָ”⁩ - Hashem said, “You should put your
+⁧וַיִּסְמֹךְ אֶת יָדָיו⁩ - Moshe used his two hands, plural. ⁦רש״י⁩#metadata(none) <person-index-rashi-673> on the spot says, ⁧בְּעַיִן יָפָה⁩ - beautifully, with a generous eye; ⁧יוֹתֵר וְיוֹתֵר מִמַּה שֶּׁנִּצְטַוָּה, שֶׁהַקָּבָּ״ה אָמַר לוֹ ”וְסָמַכְתָּ אֶת יָדְךָ“⁩ - Hashem said, “You should put your
 hand”, and he did it with two hands; ⁧וַעֲשָׂאוֹ כִכְלִי מָלֵא וְגָדוּשׁ⁩ - The ⁧ברכה⁩ he
 gave was as if he was filling a vessel to full and overflowing. What
 does ⁦רש״י⁩#metadata(none) <person-index-rashi-674> mean by ⁧מָלֵא וְגָדוּשׁ⁩⁦?⁩
@@ -9415,7 +9413,7 @@ davening to save ⁧כלל ישראל⁩\.”
 A little story from Rabbi Y.Y. Jacobson from the Torah Anytimes#metadata(none) <person-index-torah-anytimes-691>
 illustrates this thought. Rabbi Jacobson's brother received an email
 from a man who identified himself as a musician living in upstate New
-York, who primarily performed secular rock music. On Thursday, June 12,2025, he was scheduled to play a concert in a bar in Poughkeepsie. At
+York, who primarily performed secular rock music. On Thursday, June 12, 2025, he was scheduled to play a concert in a bar in Poughkeepsie. At
 that night, in the early hours of Friday morning, Israel time about 3
 a.m., the news broke that Israel had launched a surprise military
 operation against Iran. It was still early evening in New York. The
