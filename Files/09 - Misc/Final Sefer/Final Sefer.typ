@@ -254,10 +254,11 @@ with my long time friend Dr. Leslie Bennett, whom I have known since our
 childhood days in Forest Hills. I vividly recall his dear parents z'l
 who were a dynamic part of our Young Israel community.
 
-Dr. Bennett, a warm, kind, and personable mensch always loves to share a
-good vort, a thoughtful and insightful idea on the parasha with whoever
-is listening. I recall so many of his phone calls that inevitably
-included a good vort, insight and challenging question m'inyanei d'yoma.
+Dr. Bennett, a warm, kind, and personable mensch, always loves to share
+a good vort, a thoughtful and insightful idea on the parasha with
+whoever is listening. I recall so many of his phone calls that
+inevitably included a good vort, insight and challenging question
+m'inyanei d'yoma.
 
 Now all who will delve into his Sefer on the parshiyot ha'Torah will
 likewise be able to drink from Dr. Bennett's wellspring of wisdom, inspiration and lifetime of learning. Each parasha essay is based on
@@ -267,7 +268,7 @@ think that rebbeim and moros would find that good thought and insight on
 any given parasha in this new refreshing Sefer.
 
 It is not every day that the olam ha'Torah is enriched with a new Sefer
-from a Baal ha'bait. Dr. Bennett however, is not the typical Baal
+from a Baal ha'bait. Dr. Bennett, however, is not the typical Baal
 ha'bayit. He is filled not only with a lifetime of medical knowledge and
 experience while being a respected Ben Torah encompassing beautiful
 midos, compassion, sensitivity and a love of Torah learning. Now, he has
@@ -3064,7 +3065,7 @@ those who killed you, will meet the same fate.” The ⁧אַפּרְיוֹן⁩
 of ⁦יעקב'⁩s pain, would need to undergo ⁧מידה כנגד מידה⁩ despite being
 ⁧שליחים⁩ of Hashem, because we say ⁧מגלגלין חוב על ידי חייב⁩.
 
-However, the brother's noted a critical distinction between ⁦יוסף'⁩s 22
+However, the brothers noted a critical distinction between ⁦יוסף'⁩s 22
 years and ⁦יעקב'⁩s 22 years: ⁦יעקב'⁩s 14 years spent learning ⁧תורה⁩ were not
 included in the ⁧דין⁩⁦,⁩ teaching them that ⁧תלמוד תורה⁩ is greater than ⁧כיבוד אב⁩. This realization inspired the brothers to seek ⁧כפרה⁩ for their role
 in ⁦יעקב'⁩s suffering by intensifying their ⁧תורה⁩ learning, even while on
@@ -4616,7 +4617,7 @@ what I thought was quite fascinating. And the ⁧פסוק⁩ in (⁧ישעיה�
 that ⁦רש״י⁩#metadata(none) <person-index-rashi-312> brings is: ⁧אֹהֶל בַּל יִצְעָן⁩ - a tent shall not be removed; ⁧בַּל יִסַּע יְתֵדֹתָיו⁩ - And the ⁧יתדות⁩ will never be taken out; ⁧לָנֶצַח⁩ - forever. So the
 last ⁦רש״י⁩#metadata(none) <person-index-rashi-313> in ⁧תרומה⁩⁦,⁩ the last word of that ⁦רש״י⁩#metadata(none) <person-index-rashi-314> is ⁧לָנֶצַח⁩⁦,⁩ forever, and I
 thought this is quite fascinating (This is my vort, I hope I'm not
-wrong). ⁦רש״י⁩'s#metadata(none) <person-index-rashi-315> implication here, is that all this ⁧נדיבת לב⁩⁦,⁩ all the
+wrong). ⁦רש״י⁩'s#metadata(none) <person-index-rashi-315> implication here is that all this ⁧נדיבת לב⁩⁦,⁩ all the
 heartfelt generosity, was given for what? A ⁧משכן⁩ - a temporary structure
 that would only exist during the time ⁧בני ישראל⁩ were in the ⁧מדבר⁩. How
 could people be enthusiastic about contributing to something with such a
@@ -10900,7 +10901,7 @@ will be successful in whatever we do if we learn and follow the Torah.
 It's an outstanding and awesome (and here I use the word awesome on
 purpose) ⁧הבטחה⁩⁦,⁩ that if we keep the Torah, we will be successful.
 
-I want to bring down another pasuk, which is brought down by R’ Sheps#metadata(none) <person-index-r-sheps-815>'
+I want to bring down another pasuk, which is brought down by R’ Sheps’#metadata(none) <person-index-r-sheps-815>
 sefer ⁧מורשת שמחת התורה⁩.#metadata(none) <person-index-moreshes-simchas-hatorah-814> R’ Sheps#metadata(none) <person-index-r-sheps-816> was the ⁧ראש ישיבה⁩ in ⁧תורה ודעת⁩. A very
 quiet and humble man, a very ⁧טייערער מענטש⁩ who was beloved by all. In
 his sefer he brings the pasuk (27:8) ⁧וְכָתַבְתָּ עַל הָאֲבָנִים אֶת כׇּל דִּבְרֵי הַתּוֹרָה הַזֹּאת בַּאֵר הֵיטֵב⁩. This is referring a rather unusual and remarkable ⁧מצוה⁩
@@ -10933,7 +10934,7 @@ embodied in these stones on the west side of the ⁧ירדן⁩.
 
 Yes, they wrote the Torah on these stones, but it was ⁧בדרך נס⁩. In
 exactly the same way as it was a ⁧נס⁩ to write those stones as Rashi#metadata(none) <person-index-rashi-823> says, ⁧בשבעים לשון⁩⁦,⁩ so too the Torah's ⁧קיום⁩ is a ⁧נס⁩ and will last forever. That
-is the Ramban#metadata(none) <person-index-ramban-821> and Rav Sheps#metadata(none) <person-index-r-sheps-818>' message to us. There is no ⁧שריפה⁩ of the
+is the Ramban#metadata(none) <person-index-ramban-821> and Rav Sheps’#metadata(none) <person-index-r-sheps-818> message to us. There is no ⁧שריפה⁩ of the
 Torah.
 
 No matter how many times the ⁧גוים ימח שמם⁩ burn our ⁧ספרי תורה⁩⁦,⁩ our Torah
@@ -12298,7 +12299,7 @@ comes to Meron to honor him and to be ⁧משמח⁩ in his ⁧הילולא⁩.
 
 There's a fascinating vort brought from R’ Yechezkel Shraga, #metadata(none) <person-index-shiniver-rebbe-936> the
 Shinever Rov, #metadata(none) <person-index-shiniver-rebbe-937> in the sefer ⁧חיים שיש בהם⁩.#metadata(none) <person-index-chaim-shyesh-bahem-931> (Many of you may know that
-Zeidy Weiss#metadata(none) <person-index-zeidy-weiss-940>' father was named Yechezkel Shraga after the Shinever Rov).#metadata(none) <person-index-shiniver-rebbe-938>
+Zeidy Weiss’#metadata(none) <person-index-zeidy-weiss-940> father was named Yechezkel Shraga after the Shinever Rov).#metadata(none) <person-index-shiniver-rebbe-938>
 He quotes the pasuk from ⁦תהלים צ״ב⁩: ⁧שְׁתוּלִים בְּבֵית ה׳ בְּחַצְרוֹת אֱלֹקֵינוּ יַפְרִיחוּ⁩
 \- Those who are planted in the house of Hashem, in the courtyards of
 Hashem, will blossom. If you look at the words ⁧שְׁתוּלִים בְּבֵית ה׳⁩⁦,⁩ the ⁧ראשי תיבות⁩ are ⁧ש׳ ב׳ י׳⁩⁦,⁩ the ⁧נוטריקון⁩ for ⁧שמעון בר יוחאי⁩. The Shinever Rov#metadata(none) <person-index-shiniver-rebbe-939>

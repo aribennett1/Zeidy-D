@@ -858,10 +858,10 @@ function tagPersonIndexMentions(typstContent, indexState) {
     });
   }
 
-  // Keep invisible index anchors outside closing quotes so they cannot affect
-  // the quoted text's inline spacing or bidi resolution.
+  // Keep invisible index anchors outside closing quotes and possessive
+  // apostrophes so they cannot affect inline spacing or bidi resolution.
   return tagged.replace(
-    /#metadata\(none\) <(person-index-[^>]+)>([”"])/gu,
+    /#metadata\(none\) <(person-index-[^>]+)>([”"’‘'])/gu,
     "$2#metadata(none) <$1>"
   );
 }
@@ -872,6 +872,7 @@ function normalizeTitle(value) {
     .replace(/\bkipper\b/g, "kippur")
     .replace(/\bKipper\b/g, "Kippur")
     .replace(/[’‘]/g, "'")
+    .replace(/\bba'?omer\b/giu, "baomer")
     .replace(/[“”]/g, '"')
     .replace(/[\\#*_`\]]/g, "")
     .replace(/[/-]/g, " ")
@@ -1110,6 +1111,10 @@ function smartenNestedSingleQuotes(typstContent) {
     .replace(/([,;:])\s*['‘](?=\s|$|["”\)\]])/g, "$1’")
     // Possessive names are likewise closers; retain the word separator only
     // after the apostrophe.
+    .replace(
+      /([A-Za-z])\s*['‘](?=#metadata\(none\) <person-index-[^>]+>\s+[A-Za-z])/g,
+      "$1’"
+    )
     .replace(/([A-Za-z])\s*['‘](?=\s+[A-Za-z])/g, "$1’");
 }
 

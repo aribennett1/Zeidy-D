@@ -145,6 +145,10 @@ test("audit ignores PDF-extracted leading comma that is visually trailing Hebrew
   assert.equal(auditMatches(line, pattern), false);
 });
 
+test("keeps the Lag Baomer 5784 route title apostrophe-free", () => {
+  assert.equal(ROUTES["/lag-baomer/5784/"].title, "Lag Baomer 5784");
+});
+
 test("audit ignores PDF-extracted semicolon that is visually trailing Hebrew punctuation", () => {
   const pattern = auditPattern(PDF_PATTERNS, "leading punctuation before Hebrew");
   const line = "‫ ⁩שבת‬comes in, we have to perforce add on from ⁧‫ ⁩חול‬to ⁧‫ֲאָבל ַהָּקדֹוׁש ָּברּוְך⁧ ;⁩קודש‬";
@@ -407,8 +411,8 @@ test("keeps closing single quote after Hebrew word as quote", () => {
 
 test("smarten closing single quotes after punctuation and possessive names", () => {
   assert.equal(
-    applyTextRules("on time?' He asked. 'Sure, ' they said. R’ Sheps ' sefer."),
-    "on time?’ He asked. 'Sure,’ they said. R’ Sheps’ sefer."
+    applyTextRules("on time?' He asked. 'Sure, ' they said. R’ Sheps ' sefer. R’ Sheps'#metadata(none) <person-index-r-sheps-1> sefer."),
+    "on time?’ He asked. 'Sure,’ they said. R’ Sheps’ sefer. R’ Sheps’#metadata(none) <person-index-r-sheps-1> sefer."
   );
 });
 
@@ -1235,6 +1239,25 @@ test("keeps person index markers outside closing quotes", () => {
   );
 });
 
+test("keeps person index markers outside possessive apostrophes", () => {
+  const indexState = {
+    people: [
+      {
+        id: "r-sheps",
+        displayName: "R’ Sheps",
+        aliases: ["R’ Sheps"],
+      },
+    ],
+    mentions: new Map([["r-sheps", []]]),
+    nextMarker: 1,
+  };
+
+  assert.equal(
+    tagPersonIndexMentions("R’ Sheps’ sefer", indexState),
+    "R’ Sheps’#metadata(none) <person-index-r-sheps-1> sefer"
+  );
+});
+
 test("keeps English possessive before person index marker", () => {
   const indexState = {
     people: [
@@ -1485,6 +1508,27 @@ test("docx: reported single quote closers use closing glyphs", () => {
   for (const [route, expected] of cases) {
     assertContains(convertedDocx(route), expected, `${route} closing quote`);
   }
+});
+
+test("docx: Ki Savo 5785 keeps indexed Sheps possessive apostrophe tight", () => {
+  const typst = convertedDocxWithIndex("/ki-savo/5785/", [
+    {
+      id: "r-sheps",
+      displayName: "R’ Sheps",
+      aliases: ["R’ Sheps"],
+    },
+  ]);
+
+  assertContains(
+    typst,
+    `R’ Sheps’#metadata(none) <person-index-r-sheps-1>\nsefer`,
+    "index marker follows Sheps possessive apostrophe"
+  );
+  assertNotContains(
+    typst,
+    `Sheps#metadata(none) <person-index-r-sheps-1>'\nsefer`,
+    "index marker should not separate Sheps from possessive apostrophe"
+  );
 });
 
 test("docx: Behar 5784 keeps indexed quoted title tight to its closing quote", () => {
