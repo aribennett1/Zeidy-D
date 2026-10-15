@@ -10559,7 +10559,7 @@ do, and we should have ⁧אמתע ייִדישע נחת⁩ from all of our chil
 = Ki Seitzei 5784 (2)
 
 ⁧פרשת כי תצא⁩. I received the sefer ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-787> from a wonderful ⁧חבר⁩
-R’ Mendel Pollack, #metadata(none) <person-index-r-mendy-pollak-788>⁧זאָל עֶר זײן געזונט און שטאַרק⁩⁦,⁩ and I have recommended it
+R’ Mendel Pollak, #metadata(none) <person-index-r-mendy-pollak-788>⁧זאָל עֶר זײן געזונט און שטאַרק⁩⁦,⁩ and I have recommended it
 many times. Anybody who has taken a two-second look at this sefer will
 realize how incredible it is. You get such ⁧הנאה⁩⁦,⁩ words fail to say how
 wonderful this sefer is. So I recommend it strongly to any of you who
