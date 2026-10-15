@@ -651,7 +651,8 @@
     },
     "/pesach/5783/dvar-torah/": {
       "contentPath": "06 - Yom Tov/01 - Pesach/5783/Dvar Torah",
-      "baseFilename": "Dvar Torah Pesach 5783"
+      "baseFilename": "Dvar Torah Pesach 5783",
+      "anchor": "pesach-5783-dvar-torah"
     },
     "/pesach/5783/mussaf/": {
       "contentPath": "06 - Yom Tov/01 - Pesach/5783/Mussaf",
@@ -886,7 +887,18 @@
     "/rabbi-oelbaum/": {
       "contentPath": "07 - Haskamos/01 - Rabbi Oelbaum",
       "baseFilename": "Rabbi Oelbaum",
-      "pdfPage": "Rabbi Oelbaum.pdf"
+      "pdfPage": "Rabbi Oelbaum.pdf",
+      "pdfTextOverlay": {
+        "docx": "Rabbi Oelbaum.docx",
+        "referenceAfter": "becomes מתגייר?",
+        "referenceLabel": "pesach-5783-dvar-torah",
+        "masks": [
+          { "x": "0.90in", "y": "2.84in", "width": "5.55in", "height": "4.26in" },
+          { "x": "0.96in", "y": "6.96in", "width": "2.30in", "height": "0.42in" }
+        ],
+        "body": { "x": "0.90in", "y": "2.94in", "width": "4.54in" },
+        "signature": { "x": "0.90in", "y": "7.30in", "width": "2.30in" }
+      }
     },
     "/biale-rebbe/": {
       "contentPath": "07 - Haskamos/Biale Rebbe",

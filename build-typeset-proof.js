@@ -1390,6 +1390,10 @@ function repairSplitMasechtaDafQuestions(typstContent) {
 function repairQuotedHebrewRuns(typstContent) {
   return typstContent
     .replace(
+      new RegExp(`${RTL_ISOLATE}“(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN})*)${POP_DIRECTIONAL_ISOLATE}”(?=,)`, "gu"),
+      `“${RTL_ISOLATE}$1${POP_DIRECTIONAL_ISOLATE}”`
+    )
+    .replace(
       new RegExp(`([A-Za-z.!?])${RTL_ISOLATE}”(${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
       `$1”${RTL_ISOLATE}$2${POP_DIRECTIONAL_ISOLATE}`
     )
@@ -1792,6 +1796,13 @@ async function loadEntries(options) {
       sourceTitles: [normalizedTitleForMatching(title), baseTitle, ...routeSegmentTitles],
       docxPath: path.join(directory, `${details.baseFilename}.docx`),
       pdfPagePath,
+      pdfTextOverlay: details.pdfTextOverlay
+        ? {
+          ...details.pdfTextOverlay,
+          docxPath: path.join(directory, details.pdfTextOverlay.docx),
+        }
+        : null,
+      anchor: details.anchor || null,
       qrPath: path.join(directory, `${details.baseFilename}.png`),
       hasFooter: !NO_FOOTER_ROUTES.has(route),
     };
@@ -1803,6 +1814,9 @@ async function ensureEntryFiles(entries) {
     if (entry.isPdfPage) {
       await fs.access(entry.pdfPagePath);
       entry.pdfPageCount = getPdfPageCount(entry.pdfPagePath);
+      if (entry.pdfTextOverlay) {
+        await fs.access(entry.pdfTextOverlay.docxPath);
+      }
     } else {
       await fs.access(entry.docxPath);
     }
@@ -1846,7 +1860,42 @@ function convertDocxToTypst(entry, indexState = null) {
   return normalizeRtlBulletLists(applyTextRules(indexedBody));
 }
 
-function renderPdfPage(entry, qrRelativePath = null) {
+function renderPdfTextOverlay(entry, typstContent) {
+  const overlay = entry.pdfTextOverlay;
+  const marker = typstContent.includes(overlay.referenceAfter)
+    ? overlay.referenceAfter
+    : isolateHebrewRuns(overlay.referenceAfter);
+  if (!typstContent.includes(marker)) {
+    throw new Error(`PDF text overlay reference not found for ${entry.title}: ${overlay.referenceAfter}`);
+  }
+  const reference = `#link(<${overlay.referenceLabel}>)[#context[(Editor's Note: See Page #counter(page).at(<${overlay.referenceLabel}>).first())]]`;
+  const content = typstContent.replace(marker, `${marker} ${reference}`);
+  const signatureStart = "\n\nR’ Noach Isaac Oelbaum,";
+  const signatureIndex = content.lastIndexOf(signatureStart);
+  const body = signatureIndex >= 0 ? content.slice(0, signatureIndex) : content;
+  const signature = signatureIndex >= 0 ? content.slice(signatureIndex + 2) : "";
+  const masks = overlay.masks.map((mask) => `  #place(top + left, dx: ${mask.x}, dy: ${mask.y})[
+    #rect(width: ${mask.width}, height: ${mask.height}, fill: white, stroke: none)
+  ]`).join("\n");
+
+  return `${masks}
+  #place(top + left, dx: ${overlay.body.x}, dy: ${overlay.body.y})[
+    #box(width: ${overlay.body.width})[
+      #set text(font: "Times New Roman", size: 7.8pt)
+      #set par(justify: true, first-line-indent: 0pt, leading: 5pt)
+      ${body}
+    ]
+  ]
+  #place(top + left, dx: ${overlay.signature.x}, dy: ${overlay.signature.y})[
+    #box(width: ${overlay.signature.width})[
+      #set text(font: "Times New Roman", size: 7.1pt)
+      #set par(leading: 3pt)
+      ${signature}
+    ]
+  ]`;
+}
+
+function renderPdfPage(entry, qrRelativePath = null, typstOverlay = "") {
   const pdfRelativePath = path.relative(OUTPUT_DIR, entry.pdfPagePath).split(path.sep).join("/");
   const pageCount = Math.max(1, entry.pdfPageCount || 1);
   const overlay = entry.hasFooter && qrRelativePath
@@ -1858,7 +1907,7 @@ function renderPdfPage(entry, qrRelativePath = null) {
     return `#block(width: 100%, height: 100%)[
   #align(center + horizon)[
     #image(${typstString(pdfRelativePath)}${pageOption}, width: 100%, height: 100%, fit: "contain")
-  ]${overlay}
+  ]${index === 0 ? typstOverlay : ""}${overlay}
 ]`;
   }).join("\n#pagebreak()\n");
 }
@@ -2104,8 +2153,17 @@ function renderTypstDocument(entries, options, indexState = null) {
     const qrRelativePath = entry.hasFooter
       ? path.relative(OUTPUT_DIR, entry.qrPath).split(path.sep).join("/")
       : null;
+    const pdfTextOverlay = entry.pdfTextOverlay
+      ? renderPdfTextOverlay(
+        entry,
+        convertDocxToTypst(
+          { ...entry, docxPath: entry.pdfTextOverlay.docxPath },
+          null
+        )
+      )
+      : "";
     const body = entry.isPdfPage
-      ? renderPdfPage(entry, qrRelativePath)
+      ? renderPdfPage(entry, qrRelativePath, pdfTextOverlay)
       : convertDocxToTypst(entry, isFrontMatter ? null : indexState);
     const shouldInsertTableOfContents =
       options.all && !insertedTableOfContents && !isFrontMatter;
@@ -2135,13 +2193,14 @@ function renderTypstDocument(entries, options, indexState = null) {
       ? `article-footer(${typstString(entry.url)}, ${typstString(qrRelativePath)})`
       : "none";
     const headingTitle = typstHeadingContent(entry.title);
+    const headingAnchor = entry.anchor ? ` <${entry.anchor}>` : "";
     const heading = entry.isPdfPage || entry.isHaskama
       ? ""
       : isFrontMatter
       ? `#heading(level: 1, outlined: false)[${headingTitle}]`
       : entry.title.includes("\n")
       ? `#heading(level: 1)[${headingTitle}]`
-      : `= ${headingTitle}`;
+      : `= ${headingTitle}${headingAnchor}`;
     const margin = entry.isPdfPage ? "0in" : typstPageMargin(settings);
 
     parts.push(`#set page(header: ${header}, footer: ${footer}, margin: ${margin})
@@ -2216,6 +2275,7 @@ module.exports = {
   repairSplitGemaraSources,
   repairTwoPartHebrewCommaDashPhrases,
   renderPersonIndex,
+  renderPdfTextOverlay,
   shiftedParagraphAlignments,
   tagPersonIndexMentions,
   tightenHaskamaSignatureBlock,

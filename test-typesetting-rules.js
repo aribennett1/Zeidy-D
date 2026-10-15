@@ -25,6 +25,7 @@ const {
   protectMixedLtrParentheticals,
   repairEscapedHebrewParagraphCitations,
   repairSplitGemaraSources,
+  renderPdfTextOverlay,
   renderPersonIndex,
   shiftedParagraphAlignments,
   tagPersonIndexMentions,
@@ -147,6 +148,39 @@ test("audit ignores PDF-extracted leading comma that is visually trailing Hebrew
 
 test("keeps the Lag Baomer 5784 route title apostrophe-free", () => {
   assert.equal(ROUTES["/lag-baomer/5784/"].title, "Lag Baomer 5784");
+});
+
+test("renders Rabbi Oelbaum's contextual Pesach page link", () => {
+  assert.equal(
+    ROUTES["/pesach/5783/dvar-torah/"].anchor,
+    "pesach-5783-dvar-torah",
+    "Pesach Dvar Torah anchor"
+  );
+  assert.equal(
+    ROUTES["/rabbi-oelbaum/"].pdfTextOverlay.referenceLabel,
+    "pesach-5783-dvar-torah",
+    "Rabbi Oelbaum reference anchor"
+  );
+
+  const rendered = renderPdfTextOverlay(
+    {
+      title: "Rabbi Oelbaum",
+      pdfTextOverlay: {
+        referenceAfter: "becomes מתגייר?",
+        referenceLabel: "pesach-5783-dvar-torah",
+        masks: [],
+        body: { x: "0in", y: "0in", width: "1in" },
+        signature: { x: "0in", y: "0in", width: "1in" },
+      },
+    },
+    `when a ${RTL_ISOLATE}גוי${POP_DIRECTIONAL_ISOLATE} becomes ${RTL_ISOLATE}מתגייר${POP_DIRECTIONAL_ISOLATE}?`
+  );
+
+  assertContains(
+    rendered,
+    "#link(<pesach-5783-dvar-torah>)[#context[(Editor's Note: See Page #counter(page).at(<pesach-5783-dvar-torah>).first())]]",
+    "contextual Pesach page link"
+  );
 });
 
 test("audit ignores PDF-extracted semicolon that is visually trailing Hebrew punctuation", () => {
@@ -791,6 +825,13 @@ test("keeps English quotes outside a quoted Hebrew phrase", () => {
   assert.equal(
     applyTextRules('we both said simultaneously, "סַבּוּנִי גַם סְבָבוּנִי."'),
     `we both said simultaneously, “${RTL_ISOLATE}סַבּוּנִי גַם סְבָבוּנִי${POP_DIRECTIONAL_ISOLATE}.”`
+  );
+});
+
+test("moves a trapped opening quote outside an inline Hebrew isolate", () => {
+  assert.equal(
+    applyTextRules('he called the sefer “מנחת חן”, חן is נח'),
+    `he called the sefer “${RTL_ISOLATE}מנחת חן${POP_DIRECTIONAL_ISOLATE}”, ${RTL_ISOLATE}חן${POP_DIRECTIONAL_ISOLATE} is ${RTL_ISOLATE}נח${POP_DIRECTIONAL_ISOLATE}`
   );
 });
 
@@ -1651,6 +1692,21 @@ test("docx: Purim Katon 5784 keeps Avos source after Hebrew quote", () => {
     typst,
     `(אבות ו${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}ו${POP_DIRECTIONAL_ISOLATE}`,
     "split reversed Avos source"
+  );
+});
+
+test("docx: Pesach 5783 keeps inline Minchas Chen quotes outside Hebrew", () => {
+  const typst = convertedDocx("/pesach/5783/dvar-torah/");
+
+  assertContains(
+    typst,
+    `called the sefer “${RTL_ISOLATE}מנחת חן${POP_DIRECTIONAL_ISOLATE}”, ${RTL_ISOLATE}חן${POP_DIRECTIONAL_ISOLATE} is`,
+    "Minchas Chen quote boundaries"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}“מנחת חן${POP_DIRECTIONAL_ISOLATE}”,`,
+    "opening quote trapped inside Minchas Chen Hebrew isolate"
   );
 });
 

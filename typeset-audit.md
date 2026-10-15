@@ -4,13 +4,17 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 44 (5 high, 39 medium)
+Findings: 46 (6 high, 40 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
 
 ## HIGH - leading punctuation before Hebrew
 
+- PDF visual text, page 1, ר’ יששכר בנימין ,  I’m here with your     אייניקל Ari, who is being    מקיים כיבוד אב . [Even though there’s a whole, line 27
+  - visual: [page-0001.png](typeset-audit-pages/page-0001.png)
+  - children, your ⁧‫אייניקלעך‬,⁩ and your ⁧‫עיר אייניקלעך‬,⁩ all following ⁧,‫ בנים ובני בנים עוסקים בתורה ובמצוות‬,‫בדרך השם‬
+  - normalized: children, your אייניקלעך, and your עיר אייניקלעך, all following , בנים ובני בנים עוסקים בתורה ובמצוותב,דרך השם
 - PDF visual text, page 212, Emor 5784, line 11
   - visual: [page-0212.png](typeset-audit-pages/page-0212.png)
   - hardly fathom.)⁩ ⁧,‫ ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר...
@@ -33,55 +37,55 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: , מתנה טובה יש לי בבית גנזי ושבת שמה, משה: אמר הקדוש ברוך הוא למשהה.׳ מקדשכם
 ## MEDIUM - missing space after colon before Hebrew in Typst source
 
-- Typst source, page 63, Chayai Sara 5787, line 1892
+- Typst source, page 63, Chayai Sara 5787, line 1948
   - visual: [page-0063.png](typeset-audit-pages/page-0063.png)
   - מ״ט:י״ז)⁩: ⁧אַל תִּירָא כִּי יַעֲשִׁר אִישׁ כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ⁩ - Don't be...
   - normalized: מ״ט:י״ז): אַל תִּירָא כִּי יַעֲשִׁר אִישׁ כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ - Don't be af...
-- Typst source, page 136, Mishpatim (1) 5784, line 4352
+- Typst source, page 136, Mishpatim (1) 5784, line 4408
   - visual: [page-0136.png](typeset-audit-pages/page-0136.png), [page-0137.png](typeset-audit-pages/page-0137.png)
   - כ״א:ל״ז)⁩: ⁧כִּי יִגְנֹב אִישׁ שׁוֹר אוֹ שֶׂה וּטְבָחוֹ אוֹ מְכָרוֹ חֲמִשָּׁה בָקָר י...
   - normalized: כ״א:ל״ז): כִּי יִגְנֹב אִישׁ שׁוֹר אוֹ שֶׂה וּטְבָחוֹ אוֹ מְכָרוֹ חֲמִשָּׁה בָקָר יְש...
-- Typst source, page 148, Tetzaveh 5783, line 4777
+- Typst source, page 148, Tetzaveh 5783, line 4833
   - visual: [page-0148.png](typeset-audit-pages/page-0148.png), [page-0149.png](typeset-audit-pages/page-0149.png)
   - כ״ט:ל״ט)⁩⁩, referring to the ⁧קרבן תמיד⁩.
   - normalized: כ״ט:ל״ט), referring to the קרבן תמיד.
-- Typst source, page 157, Ki Sisa 5783, line 5061
+- Typst source, page 157, Ki Sisa 5783, line 5117
   - visual: [page-0156.png](typeset-audit-pages/page-0156.png), [page-0157.png](typeset-audit-pages/page-0157.png)
   - ל״ד:ל״ג)⁩: ⁧וַיִּתֵּן עַל פָּנָיו מַסְוֶה⁩ - When ⁧משה רבינו⁩ spoke to the people, th...
   - normalized: ל״ד:ל״ג): וַיִּתֵּן עַל פָּנָיו מַסְוֶה - When משה רבינו spoke to the people, they
-- Typst source, page 279, Pinchas 5785, line 9184
+- Typst source, page 279, Pinchas 5785, line 9240
   - visual: [page-0279.png](typeset-audit-pages/page-0279.png), [page-0280.png](typeset-audit-pages/page-0280.png)
   - א׳:ג׳)⁩: ⁧וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ⁩ -...
   - normalized: א׳:ג׳): וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ - I'...
-- Typst source, page 286, Matos-Maasei 5785, line 9395
+- Typst source, page 286, Matos-Maasei 5785, line 9451
   - visual: [page-0286.png](typeset-audit-pages/page-0286.png), [page-0287.png](typeset-audit-pages/page-0287.png)
   - shouldn't daven that her son would die. It's brought down in ⁦מכות ב:ו⁩:
   - normalized: shouldn't daven that her son would die. It's brought down in מכות ב:ו:
-- Typst source, page 290, Devarim 5784, line 9567
+- Typst source, page 290, Devarim 5784, line 9623
   - visual: [page-0290.png](typeset-audit-pages/page-0290.png)
   - pasuk in ⁦זכריה א׳:ט״ז⁩: ⁧שַׁבְתִּי לִירוּשָׁלַם בְּרַחֲמִים⁩. Another is what we say three
   - normalized: pasuk in זכריה א׳:ט״ז: שַׁבְתִּי לִירוּשָׁלַם בְּרַחֲמִים. Another is what we say three
-- Typst source, page 302, Eikev 5784, line 9979
+- Typst source, page 302, Eikev 5784, line 10035
   - visual: [page-0302.png](typeset-audit-pages/page-0302.png), [page-0303.png](typeset-audit-pages/page-0303.png)
   - א׳:ב׳)⁩⁩, and then it says ⁧אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם ⁦(ישעיהו נ״א:י״ב)⁩⁩ lat...
   - normalized: א׳:ב׳), and then it says אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם                  later on
-- Typst source, page 371, Pesach Sheini 5785, line 12253
+- Typst source, page 371, Pesach Sheini 5785, line 12309
   - visual: [page-0371.png](typeset-audit-pages/page-0371.png)
   - ט׳:ז׳)⁩⁩? Why should we be left out? Why
   - normalized: ט׳:ז׳)? Why should we be left out? Why
-- Typst source, page 378, Shavuos 5784, line 12499
+- Typst source, page 378, Shavuos 5784, line 12555
   - visual: [page-0378.png](typeset-audit-pages/page-0378.png), [page-0379.png](typeset-audit-pages/page-0379.png)
   - א:נ״ו)⁩ that at ⁧הר סיני⁩⁦,⁩ ⁧כלל ישראל⁩ was sleeping. They went to sleep that
   - normalized: א:נ״ו) that at הר סיני, כלל ישראל was sleeping. They went to sleep that
-- Typst source, page 395, Elul 5785, line 13042
+- Typst source, page 395, Elul 5785, line 13098
   - visual: [page-0395.png](typeset-audit-pages/page-0395.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 451, Krovitz, line 14938
+- Typst source, page 451, Krovitz, line 14994
   - visual: [page-0451.png](typeset-audit-pages/page-0451.png)
   - קי״ב:ב׳)⁩
   - normalized: קי״ב:ב׳)
-- Typst source, page 459, Purim 5785, line 15158
+- Typst source, page 459, Purim 5785, line 15214
   - visual: [page-0459.png](typeset-audit-pages/page-0459.png), [page-0460.png](typeset-audit-pages/page-0460.png)
   - this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩.
   - normalized: this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ.
@@ -173,6 +177,10 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: השבת. “ ”ועל דבר זהrefers to what he said before, that  שבתis the השלמה, the
 ## MEDIUM - space before sentence punctuation
 
+- PDF visual text, page 1, ר’ יששכר בנימין ,  I’m here with your     אייניקל Ari, who is being    מקיים כיבוד אב . [Even though there’s a whole, line 27
+  - visual: [page-0001.png](typeset-audit-pages/page-0001.png)
+  - children, your ⁧‫אייניקלעך‬,⁩ and your ⁧‫עיר אייניקלעך‬,⁩ all following ⁧,‫ בנים ובני בנים עוסקים בתורה ובמצוות‬,‫בדרך השם‬
+  - normalized: children, your אייניקלעך, and your עיר אייניקלעך, all following , בנים ובני בנים עוסקים בתורה ובמצוותב,דרך השם
 - PDF visual text, page 5, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 6
   - visual: [page-0005.png](typeset-audit-pages/page-0005.png)
   - “Hakadosh Boruch Hu Y’shalem S’charam .….”
