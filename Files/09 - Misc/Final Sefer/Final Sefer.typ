@@ -13595,7 +13595,7 @@ those of us who are here, so we see that we have ⁧אמונה⁩ that ⁧הקד
 Yechezkel Levenstein#metadata(none) <person-index-r-yechezkel-levenstein-1024> asks in his ⁧שיחה⁩⁦,⁩ why therefore don't we say ⁧שירה⁩
 on ⁧יום כיפור⁩ and ⁧ראש השנה⁩⁦?⁩
 
-He gives a interesting answer. What are the last three letters of the
+He gives an interesting answer. What are the last three letters of the
 first three words in the torah? ⁧בְּרֵאשִׁית בָּרָא אֱלֹקִים⁩. It's ⁧אמת⁩. Yes, ⁧אמת⁩⁦,⁩ the letters are very far apart, but they are there right at the
 beginning of the torah. The ⁧חותם⁩⁦,⁩ the seal of ⁧הקדוש ברוך הוא⁩ is ⁧אמת⁩.
 Therefore, it is our responsibility to be ⁧דבוק בהשם⁩⁦,⁩ to follow in
