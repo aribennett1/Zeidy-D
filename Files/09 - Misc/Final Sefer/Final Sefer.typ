@@ -11798,7 +11798,7 @@ the properties of ⁧יין⁩. In that ⁧גמרא⁩⁦,⁩ it says: ⁧אָמ
 translates: “Whoever can be appeased, or quieted down, through his wine
 will be able to acquire understanding of Hashem, or some aspect of
 understanding of Hashem, Who is our ⁧קונה⁩\.” The ⁧גמרא⁩ continues by
-quoting a ⁧פסוק⁩ from ⁦(ח׳:כ״א)⁩ ⁧פרשת נח⁩: ⁧וַיָּרַח ה׳ אֶת רֵיחַ הַנִּיחוֹחַ וְגוֹ⁩. After
+quoting a ⁧פסוק⁩ from ⁧פרשת נח⁩: ⁧וַיָּרַח ה׳ אֶת רֵיחַ הַנִּיחוֹחַ וְגוֹ ⁦(ח׳:כ״א)⁩⁩. After
 ⁧נח⁩ came out of the ⁧תֵּבָה⁩⁦,⁩ he offered a ⁧קרבן⁩⁦,⁩ and Hashem accepted that ⁧קרבן⁩. ⁦רש״י⁩#metadata(none) <person-index-rashi-916> explains on that ⁧גמרא: שמפייסין אותו על דבר⁩ - we're able to calm
 him down, or appease him, in a particular matter; ⁧ומתרצה⁩ - and he
 accepts it; ⁧כשטוב לבו ביין⁩ - when his heart is glad, when his heart is
@@ -12042,8 +12042,7 @@ ordered, “Break a hole in the wall and make a new entrance! I will not
 use either of the regular entrances - I will make a third way!” And so
 they did. The king returned through the new entrance that had just been
 created. When he got back, he pulled the envelope from his pocket, broke
-the seal, and inside was written a single line from the ⁧משנה⁩ in ⁦(ב׳:ד׳)⁩
-⁧סנהדרין⁩: ⁧מֶּלֶךְ פוֹרֵץ⁩ \[⁧גֶדֶר⁩\] ⁧לַעֲשׂוֹת לוֹ דֶרֶךְ⁩ - A king has the right to break
+the seal, and inside was written a single line from the ⁧משנה⁩ in ⁧סנהדרין⁩: ⁧מֶּלֶךְ פוֹרֵץ⁩ ⁦(ב׳:ד׳)⁩ \[⁧גֶדֶר⁩\] ⁧לַעֲשׂוֹת לוֹ דֶרֶךְ⁩ - A king has the right to break
 through a wall to make his own entrance! The king was astounded. “How
 did you know?” he asked ⁧רב יונתן⁩. ⁧רב יונתן⁩ replied, “The ⁧חכמים⁩ say that
 a ⁧חכם⁩ is greater than a ⁧נביא⁩. I considered all the possibilities, I
@@ -12309,7 +12308,7 @@ send us light, and they should give us tremendous ⁧ישועות⁩ and spread 
 amongst all of us.
 
 Now, with that introduction, let's look at a meaningful pasuk from
-⁦(י״ז:ה׳)⁩ ⁧משלי⁩: ⁧לֹעֵג לָרָשׁ חֵרֵף עֹשֵׂהוּ⁩. It's a well-known halacha: When someone
+⁧משלי⁩: ⁧לֹעֵג לָרָשׁ חֵרֵף עֹשֵׂהוּ ⁦(י״ז:ה׳)⁩⁩. It's a well-known halacha: When someone
 walks within four ⁧אמות⁩ of a ⁧קבר⁩⁦,⁩ they must cover their ⁧ציצית⁩. If they
 don't, they're considered a ⁧לֹעֵג לָרָשׁ⁩⁦,⁩ which means to make ⁧חוזק⁩ of those
 who are silent. He's being ⁧מלעג⁩ on those who cannot perform ⁧מצוות⁩
@@ -12556,7 +12555,7 @@ the ⁧יום טוב⁩ of ⁧שבועות⁩⁦,⁩ of ⁧מתן תורה⁩. R
 sefer called Festivals of Faith, #metadata(none) <person-index-festivals-of-faith-962> which discusses ⁧פסח⁩⁦,⁩ ⁧שבועות⁩⁦,⁩ and the
 summer months, has a beautiful essay on the phrase ⁧בְּיוֹם חֲתֻנָּתוֹ, זֶה מַתַּן תּוֹרָה⁩ - the day of the wedding. What is this wedding? It's the ⁧חתן⁩ and
 ⁧כלה⁩ of ⁧שיר השירים⁩. He mentions a fascinating ⁧מדרש⁩ based on a pasuk in
-(⁧מלכים א⁩ (⁧ה⁩: ⁦י״ב⁩, describing the vastness of ⁦שלמה המלך'⁩s wisdom. The ⁧נביא⁩
+⁦(מלכים א ה:י״ב)⁩, describing the vastness of ⁦שלמה המלך'⁩s wisdom. The ⁧נביא⁩
 says, ⁧וַיְדַבֵּר שְׁלֹשֶׁת אֲלָפִים מָשָׁל⁩ - he spoke 3,000 ⁧משלים⁩. So what if ⁧שלמה המלך⁩
 was able to come up with 3,000 ⁧משלים⁩? The Dubno Maggid#metadata(none) <person-index-dubno-maggid-961> might have had
 almost as many, if not more. What is the pasuk really telling us?
@@ -12584,7 +12583,7 @@ down towards the people. The candles that are carried by those walking
 the ⁧חתן⁩ and ⁧כלה⁩ remind us of the flashes of lightning. The ⁧חופה⁩ above is
 like the mountain that Hashem lifted over their heads. A ⁧חתן⁩ designates
 his ⁧כלה⁩ with ⁧קידושין⁩ as Hashem chose us as His nation. Later on, the
-⁧לוחות⁩⁦,⁩ which serve as the ⁧שטר קידושין⁩⁦,⁩ are also two -corresponding to
+⁧לוחות⁩⁦,⁩ which serve as the ⁧שטר קידושין⁩⁦,⁩ are also two - corresponding to
 the ⁧חתן⁩ and ⁧כלה⁩. They were placed in the holiest place on earth, the ⁧קדש הקדשים⁩⁦,⁩ where the two ⁧כרובים⁩ stood, representing the cosmic couple.
 
 What a gigantic, beautiful ⁧משל⁩ and a new take on what ⁧שבועות⁩ is all

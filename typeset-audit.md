@@ -65,23 +65,23 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0302.png](typeset-audit-pages/page-0302.png), [page-0303.png](typeset-audit-pages/page-0303.png)
   - א׳:ב׳)⁩⁩, and then it says ⁧אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם ⁦(ישעיהו נ״א:י״ב)⁩⁩ lat...
   - normalized: א׳:ב׳), and then it says אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם                  later on
-- Typst source, page 371, Pesach Sheini 5785, line 12253
+- Typst source, page 371, Pesach Sheini 5785, line 12252
   - visual: [page-0371.png](typeset-audit-pages/page-0371.png)
   - ט׳:ז׳)⁩⁩? Why should we be left out? Why
   - normalized: ט׳:ז׳)? Why should we be left out? Why
-- Typst source, page 378, Shavuos 5784, line 12499
+- Typst source, page 378, Shavuos 5784, line 12498
   - visual: [page-0378.png](typeset-audit-pages/page-0378.png), [page-0379.png](typeset-audit-pages/page-0379.png)
   - א:נ״ו)⁩ that at ⁧הר סיני⁩⁦,⁩ ⁧כלל ישראל⁩ was sleeping. They went to sleep that
   - normalized: א:נ״ו) that at הר סיני, כלל ישראל was sleeping. They went to sleep that
-- Typst source, page 395, Elul 5785, line 13042
+- Typst source, page 395, Elul 5785, line 13041
   - visual: [page-0395.png](typeset-audit-pages/page-0395.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 451, Krovitz, line 14938
+- Typst source, page 451, Krovitz, line 14937
   - visual: [page-0451.png](typeset-audit-pages/page-0451.png)
   - קי״ב:ב׳)⁩
   - normalized: קי״ב:ב׳)
-- Typst source, page 459, Purim 5785, line 15158
+- Typst source, page 459, Purim 5785, line 15157
   - visual: [page-0459.png](typeset-audit-pages/page-0459.png), [page-0460.png](typeset-audit-pages/page-0460.png)
   - this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩.
   - normalized: this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ.

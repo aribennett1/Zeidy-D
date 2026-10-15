@@ -41,6 +41,10 @@ const HEBREW_PAREN_REFERENCE_BEFORE_QUOTE_RE = new RegExp(
   `(\\b(?:say|says|said|state|states|stated|stating|pasuk says)\\s+)(${HEBREW_PAREN_REFERENCE})\\s+(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){0,80})(?=\\s*[.?!,;:]|\\s+-|\\s+[A-Za-z]|$)`,
   "gu"
 );
+const HEBREW_REFERENCE_BEFORE_BOOK_QUOTE_RE = new RegExp(
+  `(${HEBREW_PAREN_REFERENCE})\\s+(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN})?)\\s*:\\s+(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){0,160})([.?!]?)`,
+  "gu"
+);
 const NUMERIC_SOURCE_HEBREW_QUOTE_RE = new RegExp(
   `(\\(\\d+:\\d+\\):\\s+)(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){2,220})(?=\\s*[.?!])`,
   "gu"
@@ -145,6 +149,10 @@ const MALFORMED_ESCAPED_OPEN_HEBREW_CITATION_RE = new RegExp(
 );
 const MALFORMED_NESTED_OPEN_HEBREW_CITATION_RE = new RegExp(
   `\\((${HEBREW_TOKEN})\\s+\\((${HEBREW_REF_TOKEN}\\s*:\\s*${HEBREW_REF_TOKEN}):\\s*(?=${HEBREW_LETTERS})`,
+  "gu"
+);
+const MALFORMED_NESTED_HEBREW_CITATION_RE = new RegExp(
+  `\\((${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN})?)\\s+\\((${HEBREW_REF_TOKEN}\\s*:\\s*${HEBREW_REF_TOKEN})(?=\\s*[,.;:!?)]|\\s+[A-Za-z])`,
   "gu"
 );
 const MALFORMED_ESCAPED_OPEN_NUMERIC_CITATION_RE = new RegExp(
@@ -1056,6 +1064,11 @@ function moveLeadingHebrewSourceAfterQuote(typstContent) {
     .replace(
       HEBREW_PAREN_REFERENCE_BEFORE_QUOTE_RE,
       (_match, prefix, reference, quote) => `${prefix}${quote} ${reference}`
+    )
+    .replace(
+      HEBREW_REFERENCE_BEFORE_BOOK_QUOTE_RE,
+      (_match, reference, book, quote, punctuation) =>
+        `${book}: ${quote} ${reference}${punctuation}`
     );
 }
 
@@ -1129,6 +1142,7 @@ function normalizePunctuationSpacing(typstContent) {
     .replace(/([,;:.!?])\s+"(?=\s+(?:said|asked|answered|responded|replied)\b)/giu, "$1\"")
     .replace(/((?:\\?["”])(?:[ \t\u00A0\u202F]+\S+){1,4})\n(?=(?:said|asked|answered|responded|replied)\b)/giu, "$1 ")
     .replace(MALFORMED_ESCAPED_OPEN_HEBREW_CITATION_RE, "($1): ")
+    .replace(MALFORMED_NESTED_HEBREW_CITATION_RE, "($1 $2)")
     .replace(MALFORMED_NESTED_OPEN_HEBREW_CITATION_RE, "($1 $2): ")
     .replace(MALFORMED_HEBREW_LABEL_ESCAPED_OPEN_NUMERIC_CITATION_RE, "$1 ($2): ")
     .replace(MALFORMED_ESCAPED_OPEN_NUMERIC_CITATION_RE, "($1): ")

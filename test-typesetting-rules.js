@@ -1095,6 +1095,13 @@ test("moves parenthesized Hebrew citation after quote before dash explanation", 
   );
 });
 
+test("moves leading Hebrew source after its book and verse", () => {
+  assert.equal(
+    applyTextRules("a pasuk from (י״ז:ה׳) משלי: לֹעֵג לָרָשׁ חֵרֵף עֹשֵׂהוּ."),
+    `a pasuk from ${RTL_ISOLATE}משלי${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}לֹעֵג לָרָשׁ חֵרֵף עֹשֵׂהוּ ${LTR_ISOLATE}(י״ז:ה׳)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}.`
+  );
+});
+
 test("keeps Hebrew quote and source together before English continuation", () => {
   assert.equal(
     applyTextRules("says it’s וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ (ויקרא י״ט:י״ח) which pertains"),
@@ -1127,6 +1134,13 @@ test("repairs nested Hebrew source parenthesis before quote colon", () => {
   assert.equal(
     applyTextRules("brings a pasuk in (תהילים (ק״ה:ל״ז: וַיּוֹצִיאֵם בְּכֶסֶף"),
     `brings a pasuk in ${LTR_ISOLATE}(תהילים ק״ה:ל״ז)${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}וַיּוֹצִיאֵם בְּכֶסֶף${POP_DIRECTIONAL_ISOLATE}`
+  );
+});
+
+test("repairs nested Hebrew source parenthesis before English prose", () => {
+  assert.equal(
+    applyTextRules("a pasuk in (מלכים א (ה:י״ב, describing its meaning"),
+    `a pasuk in ${LTR_ISOLATE}(מלכים א ה:י״ב)${POP_DIRECTIONAL_ISOLATE}, describing its meaning`
   );
 });
 
@@ -1641,6 +1655,21 @@ test("docx: Korach 5783 keeps date comma spacing before four-digit year", () => 
   );
 });
 
+test("docx: Lag Baomer 5784 keeps Mishlei before its source", () => {
+  const typst = convertedDocx("/lag-baomer/5784/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}משלי${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}לֹעֵג לָרָשׁ חֵרֵף עֹשֵׂהוּ ${LTR_ISOLATE}(י״ז:ה׳)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}. It's a well-known halacha`,
+    "Mishlei verse before its source"
+  );
+  assertNotContains(
+    typst,
+    `${LTR_ISOLATE}(י״ז:ה׳)${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}משלי${POP_DIRECTIONAL_ISOLATE}:`,
+    "source should not precede Mishlei"
+  );
+});
+
 test("docx: Chukas-Balak 5783 keeps hen and hei-nun in logical order", () => {
   const typst = convertedDocx("/chukas-balak/5783/");
 
@@ -1805,6 +1834,17 @@ test("docx: Naso 5784 repairs nested Tehillim source parenthesis", () => {
   assertNotContains(typst, "(תהילים (", "raw nested Tehillim source parenthesis");
 });
 
+test("docx: Shavuos 5785 repairs nested Melachim source parenthesis", () => {
+  const typst = convertedDocx("/shavuos/5785/");
+
+  assertContains(
+    typst,
+    `based on a pasuk in\n${LTR_ISOLATE}(מלכים א ה:י״ב)${POP_DIRECTIONAL_ISOLATE}, describing the vastness`,
+    "fixed Melachim source"
+  );
+  assertNotContains(typst, "(⁧מלכים א⁩ (⁧ה⁩", "nested Melachim source parenthesis");
+});
+
 test("docx: 9 Av 5785 keeps semicolon between Hebrew phrases in English order", () => {
   const typst = convertedDocx("/9-av/5785/");
 
@@ -1846,18 +1886,18 @@ test("docx: Shmini Atzeres 5784 keeps opening quote before Hebrew proclamation",
   );
 });
 
-test("docx: Rabbi Oelbaum Shabbos protects mixed parenthetical after Mincha", () => {
+test("docx: Rabbi Oelbaum Shabbos keeps the revised introductory note centered", () => {
   const typst = convertedDocx("/rabbi-oelbaum-shabbos/");
 
   assertContains(
     typst,
-    `by ${RTL_ISOLATE}מנחה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${LTR_ISOLATE}(${RTL_ISOLATE}אגב${POP_DIRECTIONAL_ISOLATE} I did not mention this in the shiur\non ${RTL_ISOLATE}שבת${POP_DIRECTIONAL_ISOLATE}),${POP_DIRECTIONAL_ISOLATE} and therefore`,
-    "LTR-protected mixed parenthetical after Mincha"
+    "#align(center)[\nZeidy: This was a dvar Torah that R’ Oelbaum requested be printed",
+    "centered introductory note"
   );
   assertNotContains(
     typst,
-    `by ${RTL_ISOLATE}מנחה,${POP_DIRECTIONAL_ISOLATE} (${RTL_ISOLATE}אגב${POP_DIRECTIONAL_ISOLATE}`,
-    "comma inside Mincha isolate before parenthetical"
+    "#align(center)[\n#align(center)[",
+    "introductory note should have one alignment wrapper"
   );
 });
 
@@ -1866,12 +1906,12 @@ test("docx: Rabbi Oelbaum Shabbos keeps space after Maharal colon", () => {
 
   assertContains(
     typst,
-    `therefore says the ${LTR_ISOLATE}מהר״ל${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}מזמור שיר ליום השבת, יום שכולו שבת, לעולם הבא${POP_DIRECTIONAL_ISOLATE} - Then`,
+    `Says the ${LTR_ISOLATE}מהר״ל${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}אבל מפני כי השבת בו השלים השם יתברך העולם${POP_DIRECTIONAL_ISOLATE}.`,
     "space after Maharal colon"
   );
   assertNotContains(
     typst,
-    `${LTR_ISOLATE}מהר״ל${POP_DIRECTIONAL_ISOLATE}:${RTL_ISOLATE}מזמור`,
+    `${LTR_ISOLATE}מהר״ל${POP_DIRECTIONAL_ISOLATE}:${RTL_ISOLATE}אבל`,
     "missing space after Maharal colon"
   );
 });
@@ -1923,48 +1963,48 @@ test("docx: Vaeschanan 5784 indexes lowercase Belzer rebbe alias", () => {
   );
 });
 
-test("docx: Rabbi Oelbaum Shabbos keeps bold tova inside the matana phrase", () => {
+test("docx: Rabbi Oelbaum Shabbos keeps revised Gemara phrase in one RTL isolate", () => {
   const typst = convertedDocx("/rabbi-oelbaum-shabbos/");
 
   assertContains(
     typst,
-    `good. So what is the emphasis ${RTL_ISOLATE}מתנה #strong[טובה] יש לי בבית גנזי${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE}?${POP_DIRECTIONAL_ISOLATE}`,
-    "bold tova stays inside the same RTL isolate as the matana phrase"
+    `${RTL_ISOLATE}תני נמי הכי, לדעת כי אני ה׳ מקדשכם. אמר להם הקדוש ברוך הוא למשה, מתנה טובה יש לי בבית גנזי ושבת שמה, ואני מבקש ליתנה לישראל${POP_DIRECTIONAL_ISOLATE}; ${RTL_ISOLATE}לך והודיעם${POP_DIRECTIONAL_ISOLATE}.`,
+    "Gemara phrase remains in RTL order"
   );
   assertNotContains(
     typst,
-    `${RTL_ISOLATE}מתנה${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}#strong[טובה] יש לי בבית גנזי${POP_DIRECTIONAL_ISOLATE}`,
-    "bold tova should not split the matana phrase into two RTL isolates"
+    `${RTL_ISOLATE}תני נמי הכי, לדעת כי אני ה׳ מקדשכם${POP_DIRECTIONAL_ISOLATE}. ${RTL_ISOLATE}אמר להם הקדוש ברוך הוא`,
+    "Gemara phrase should not split at the sentence boundary"
   );
 });
 
-test("docx: Rabbi Oelbaum Shabbos keeps bold hakol inside the yotzer phrase", () => {
+test("docx: Rabbi Oelbaum Shabbos keeps revised piyut phrases in RTL order", () => {
   const typst = convertedDocx("/rabbi-oelbaum-shabbos/");
 
   assertContains(
     typst,
-    `the ${RTL_ISOLATE}בחינה${POP_DIRECTIONAL_ISOLATE} of ${RTL_ISOLATE}יוצר #strong[הכל]${POP_DIRECTIONAL_ISOLATE}#strong[.]`,
-    "bold hakol stays inside the same RTL isolate as yotzer"
+    `${RTL_ISOLATE}הכל יודוך, והכל ישבחוך,  והכל יאמרו אין קדוש כה׳${POP_DIRECTIONAL_ISOLATE}, ${RTL_ISOLATE}הכל ירוממוך סלה, יוצר הכל${POP_DIRECTIONAL_ISOLATE}.`,
+    "piyut phrases remain in RTL order"
   );
   assertNotContains(
     typst,
-    `${RTL_ISOLATE}יוצר${POP_DIRECTIONAL_ISOLATE} #strong[${RTL_ISOLATE}הכל${POP_DIRECTIONAL_ISOLATE}]`,
-    "bold hakol should not be split into its own RTL isolate"
+    `${RTL_ISOLATE}הכל יודוך${POP_DIRECTIONAL_ISOLATE}, ${RTL_ISOLATE}והכל ישבחוך${POP_DIRECTIONAL_ISOLATE}`,
+    "first piyut phrase should not split at its internal comma"
   );
 });
 
-test("docx: Rabbi Oelbaum Shabbos keeps Malbim quoted Gemara in one RTL phrase", () => {
+test("docx: Rabbi Oelbaum Shabbos keeps revised Malbim Gemara citation in RTL order", () => {
   const typst = convertedDocx("/rabbi-oelbaum-shabbos/");
 
   assertContains(
     typst,
-    `on the pasuk ${RTL_ISOLATE}”לדעת כי אני ה׳ מקדשכם“ אמר הקב״ה למשה משה מתנה טובה יש לי בבית גנזי${POP_DIRECTIONAL_ISOLATE} - I have a chashuv`,
-    "Malbim quoted Gemara stays in one RTL isolate"
+    `the ${LTR_ISOLATE}מלבי״ם${POP_DIRECTIONAL_ISOLATE} cites the ${LTR_ISOLATE}מאמר חז״ל${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}לדעת כי אני ה׳ מקדשכם. אמר הקדוש ברוך הוא למשה: משה, מתנה טובה יש לי בבית גנזי ושבת שמה, ואני מבקש ליתנה לישראל${POP_DIRECTIONAL_ISOLATE}; ${RTL_ISOLATE}לך והודיעם${POP_DIRECTIONAL_ISOLATE}.`,
+    "Malbim Gemara citation remains in RTL order"
   );
   assertNotContains(
     typst,
-    `${RTL_ISOLATE}לדעת כי אני ה׳ מקדשכם${POP_DIRECTIONAL_ISOLATE}” ${LTR_ISOLATE}אמר הקב״ה${POP_DIRECTIONAL_ISOLATE}`,
-    "quote should not split the Malbim Hebrew sequence"
+    `${RTL_ISOLATE}לדעת כי אני ה׳ מקדשכם${POP_DIRECTIONAL_ISOLATE}. ${RTL_ISOLATE}אמר הקדוש ברוך הוא למשה`,
+    "Malbim citation should not split at the sentence boundary"
   );
 });
 
