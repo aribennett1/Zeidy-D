@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 40 (2 high, 38 medium)
+Findings: 43 (5 high, 38 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -15,10 +15,22 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0212.png](typeset-audit-pages/page-0212.png)
   - hardly fathom.)⁩ ⁧,‫ ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר...
   - normalized: hardly fathom.) , ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר סה,...
-- PDF visual text, page 464, Shabbos - The Gift of Olam Haba in This World, line 17
+- PDF visual text, page 464, Shabbos - The Gift of Olam Haba in This World, line 16
   - visual: [page-0464.png](typeset-audit-pages/page-0464.png)
-  - The ⁧‫ ⁩גמרא‬says, ⁧,‫ אמר להם הקדוש ברוך הוא למשה‬,‫ כי אני ה’ מקדשכם‬,‫ לדעת‬,‫תני נמי הכי‬
-  - normalized: The  גמראsays, , אמר להם הקדוש ברוך הוא למשה, כי אני ה’ מקדשכם, לדעתת,ני נמי הכי
+  - The ⁧‫ ⁩גמרא‬says: ⁧,‫ אמר להם הקדוש ברוך הוא למשה‬.‫ לדעת כי אני ה׳ מקדשכם‬,‫תני נמי הכי‬
+  - normalized: The  גמראsays: , אמר להם הקדוש ברוך הוא למשה. לדעת כי אני ה׳ מקדשכםת,ני נמי הכי
+- PDF visual text, page 466, each and every person. On account of this   קשיא ,  from time immemorial, a, line 11
+  - visual: [page-0466.png](typeset-audit-pages/page-0466.png)
+  - ‫⁩ונתן לו‬. ⁧‫ ⁩משה רבינו‬says: ⁧,‫ ויש צדיק ורע לו‬,‫ מפני מה יש צדיק וטוב לו‬,‫רבונו של עולם‬
+  - normalized: ונתן לו.  משה רבינוsays: , ויש צדיק ורע לו, מפני מה יש צדיק וטוב לור,בונו של עולם
+- PDF visual text, page 469, But   למעשה ,  by the time he gets to the end of the   קפיטל ,  he says:   להגיד כי ישר, line 28
+  - visual: [page-0469.png](typeset-audit-pages/page-0469.png)
+  - interconnected toward one ⁧‫⁩תכלית‬. Rather, ⁧,‫ לתכלית מיוחד‬,‫כל אחד ענין בפני עצמו‬
+  - normalized: interconnected toward one תכלית. Rather, , לתכלית מיוחדכ,ל אחד ענין בפני עצמו
+- PDF visual text, page 474, אבל ופני לא יראו ,   לאחר שנעשה תכלית הדבר תראה ותבין למפרע מה שהיה ומה שנעשה, line 22
+  - visual: [page-0474.png](typeset-audit-pages/page-0474.png)
+  - ,‫ מתנה טובה יש לי בבית גנזי ושבת שמה‬,‫ משה‬:‫ אמר הקדוש ברוך הוא למשה‬.‫ה׳ מקדשכם...
+  - normalized: , מתנה טובה יש לי בבית גנזי ושבת שמה, משה: אמר הקדוש ברוך הוא למשהה.׳ מקדשכם
 ## MEDIUM - missing space after colon before Hebrew in Typst source
 
 - Typst source, page 63, Chayai Sara 5787, line 1891
@@ -151,6 +163,10 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0451.png](typeset-audit-pages/page-0451.png)
   - answer “⁧‫ ⁩קרובץ‬is ⁧‫קרובץ לפורים‬,⁩ it’s the thing that we say on ⁧‫⁩פורים‬.” But what
   - normalized: answer “ קרובץis קרובץ לפורים, it’s the thing that we say on פורים.” But what
+- PDF visual text, page 467, does     קדושת שבת relate to this very difficult question? How is this     מקושר to, line 23
+  - visual: [page-0467.png](typeset-audit-pages/page-0467.png)
+  - ‫⁩השבת‬. “⁧‫ ”⁩ועל דבר זה‬refers to what he said before, that ⁧‫ ⁩שבת‬is the ⁧‫השלמה‬,⁩...
+  - normalized: השבת. “ ”ועל דבר זהrefers to what he said before, that  שבתis the השלמה, the
 ## MEDIUM - space before sentence punctuation
 
 - PDF visual text, page 5, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 6
@@ -172,7 +188,3 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0457.png](typeset-audit-pages/page-0457.png)
   - words of this ⁧‫ !⁩ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י⁧ ?⁩פסוק‬Until ⁦‫⁩’מרדכי‬s name is spoken here by...
   - normalized: words of this  !ׇמׇמ ְר ֳּד ַכי ַהְּיהּוִד י פסוק?Until ’מרדכיs name is spoken here by the
-- PDF visual text, page 466, In addition also, we find something very interesting, According to   נוסח אשכנז ,, line 22
-  - visual: [page-0466.png](typeset-audit-pages/page-0466.png)
-  - ‫ ⁩הקדוש ברוך הוא‬explained it to ⁧‫⁩משה‬. ⁧‫ ⁩ָאַמר ְלָפָניו‬- ⁧‫ ⁩משה רבינו‬says ⁧!‫ִר ּבֹונֹו ֶׁשל עֹוָלם‬
-  - normalized: הקדוש ברוך הואexplained it to משה.  ָאַמר ְלָפָניו-  משה רבינוsays !ִר ּבֹונֹו ֶׁשל עֹוָלם
