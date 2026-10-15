@@ -1327,7 +1327,10 @@ function isolateHebrewRuns(typstContent) {
   });
 
   const hebrewCommaPhraseSafeContent = hebrewHyphenatedSafeContent.replace(HEBREW_COMMA_PHRASE_SEQUENCE_RE, (match, offset, fullText) => {
-    return protect(isolateHebrewCommaPhrase(match, followedByEnglish(fullText, offset + match.length)));
+    return protect(isolateHebrewCommaPhrase(
+      match,
+      followedByEnglish(fullText, offset + match.length)
+    ));
   });
 
   const acronymContinuationSafeContent = hebrewCommaPhraseSafeContent.replace(HEBREW_ACRONYM_CONTINUATION_PHRASE_RE, (match) => {
@@ -1623,6 +1626,25 @@ function mergeAdjacentHebrewPunctuatedIsolates(typstContent) {
 
 function normalizeIsolatedPunctuationSpacing(typstContent) {
   return typstContent
+    .replace(
+      new RegExp(
+        `${RTL_ISOLATE}(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN})*),\\s*(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN})*)${POP_DIRECTIONAL_ISOLATE}(?=\\.)`,
+        "gu"
+      ),
+      (match, left, right, offset, fullText) => {
+        const lineStart = fullText.lastIndexOf("\n", offset) + 1;
+        const leftTokenCount = (left.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;
+        const rightTokenCount = (right.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;
+        if (
+          !/[A-Za-z]/.test(fullText.slice(lineStart, offset)) ||
+          leftTokenCount > 2 ||
+          rightTokenCount < 3
+        ) {
+          return match;
+        }
+        return `${RTL_ISOLATE}${left}${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}${right}${POP_DIRECTIONAL_ISOLATE}`;
+      }
+    )
     .replace(/(#metadata\(none\)\s*<[^>\n]+>)(?:\\?["”])\s*:/g, "”:$1")
     .replace(/([,;:.!?])(#metadata\(none\)\s*<[^>\n]+>)(?:\\?["”])/g, "$1”$2")
     .replace(/([,;:.!?])(?:\\?["”])(#metadata\(none\)\s*<[^>\n]+>)/g, "$1”$2")

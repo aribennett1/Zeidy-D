@@ -4755,7 +4755,7 @@ regarding ⁧חינוך הבנים⁩⁦,⁩ educating our children. What were t
 ⁧מרמז⁩ to us in this tremendous accomplishment of making this ⁧כלי⁩ of the
 ⁧בית המקדש⁩⁦,⁩ a ⁧יסוד גדול לחינוך התינוקות: שאין הבנים גדלים בתורה וביראת שמים מאליהם⁩ - The kids can't grow up by themselves. You can't say “Let
 them figure it out themselves. They'll do it by themselves.” Only after
-tremendous effort, ⁧עמל רב⁩⁦,⁩ with tremendous ⁧תפילות, תהילים און טרערן⁩.
+tremendous effort, ⁧עמל רב⁩⁦,⁩ with tremendous ⁧תפילות⁩⁦,⁩ ⁧תהילים און טרערן⁩.
 It's always said that the Jewish mothers would cry by the ⁧לכט⁩ Friday
 night, and daven for their children's ⁧הצלחה⁩. Only then, will we be able
 to see ⁧דורות ישרים⁩.
@@ -10146,7 +10146,7 @@ on it. But I listen to everybody's opinion including my own. Sometimes
 I'm right, sometimes I'm not. I try to do things ⁧על פי דרך התורה⁩.
 
 May Hashem continue to give us ⁧ברכה והצלחה⁩ in all that we do. We should
-hear only ⁧בשרות טובות⁩⁦,⁩ and Hashem should send ⁧ישועות ונחמות⁩. ⁧ובעזרת השם, ביאת גואל צדק במהרה בימינו אמן⁩.
+hear only ⁧בשרות טובות⁩⁦,⁩ and Hashem should send ⁧ישועות ונחמות⁩. ⁧ובעזרת השם⁩⁦,⁩ ⁧ביאת גואל צדק במהרה בימינו אמן⁩.
 
 #pagebreak()
 
@@ -10669,7 +10669,7 @@ his ⁧קרבן⁩ from the earth, ⁧פשתן⁩⁦,⁩ and ⁧הבל⁩ brough
 which was brought by a person who was not a good person, he was a
 murderer, even if he did ⁧תשובה⁩ later, but he was a murderer, to the ⁧מנחה⁩
 of a ⁧צדיק⁩. Therefore, the earth did not want to accept this ⁧חוטא⁩ to be
-buried together with the ⁧זכאים⁩ who were buried there in the in ⁧בית החיים, מדה כנגד מדה⁩.
+buried together with the ⁧זכאים⁩ who were buried there in the ⁧בית החיים⁩⁦,⁩ ⁧מדה כנגד מדה⁩.
 
 Now, once he's mentioning this situation, he relates a number of similar
 stories. He first quotes the ⁧קב הישר⁩⁦,⁩ who says, “I once saw a tailor who
@@ -14158,7 +14158,7 @@ we come to ⁧שמיני עצרת⁩⁦,⁩ we've finished with all the ⁧גו�
 the leining, there's only one ⁧קרבן⁩ brought on ⁧שמיני עצרת⁩⁦,⁩ and that
 corresponds to ⁧כלל ישראל⁩. It is therefore a special day in the Yiddish
 ⁧לוח⁩. The sefer A Short Vort#metadata(none) <person-index-a-short-vort-1069> brings down that ⁧שמיני עצרת⁩ signifies a deep
-connection that we have with ⁧הקדוש ברוך הוא⁩. It's a ⁧גמרא⁩ in ⁧סוכה, דף נה עמוד ב⁩.
+connection that we have with ⁧הקדוש ברוך הוא⁩. It's a ⁧גמרא⁩ in ⁧סוכה⁩⁦,⁩ ⁧דף נה עמוד ב⁩.
 
 ⁦רש״י⁩#metadata(none) <person-index-rashi-1070> writes that after all the days of ⁧סוכות⁩⁦,⁩ after all the ⁧ימים טובים⁩⁦,⁩ Hashem says to ⁧כלל ישראל⁩⁦,⁩ stay here for one more day because ⁧קשה עלי פרידתכם⁩ - Leaving you is so difficult for me. The ⁧שם משמואל⁩#metadata(none) <person-index-shem-mishmuel-1072> asks two
 excellent ⁧קשיות⁩ on ⁦רש״י⁩.#metadata(none) <person-index-rashi-1071> If the reason it's so difficult to part ways is
@@ -15746,7 +15746,7 @@ already given long before? What is the new idea that ⁧משה רבינו⁩ is
 supposed to impart to ⁧כלל ישראל⁩ - that they are now receiving a great
 ⁧מתנה⁩⁦,⁩ a ⁧מתנה טובה⁩⁦,⁩ called ⁧שבת⁩?
 
-Says the ⁦מלבי״ם⁩: #metadata(none) <person-index-malbim-1185> ⁧רצה לומר, כי תענוגי העולם הבא אי אפשר שישיג האדם בחיים⁩.
+Says the ⁦מלבי״ם⁩: #metadata(none) <person-index-malbim-1185> ⁧רצה לומר⁩⁦,⁩ ⁧כי תענוגי העולם הבא אי אפשר שישיג האדם בחיים⁩.
 On this world, we have no ⁧השגה⁩ whatsoever in the tremendous pleasures of
 ⁧עולם הבא⁩. ⁧כי בעוד הנפש קשורה בחומר, אי אפשר שתצייר לעצמה תענוג הנפש הבלתי נקשר בחומר⁩. ⁧כל זמן⁩ the ⁧נשמה⁩ is still connected to the ⁧חומר⁩⁦,⁩ to our
 ⁧גוף⁩⁦,⁩ it is impossible even to imagine the pleasure the ⁧נשמה⁩ can
@@ -15761,7 +15761,7 @@ receive in ⁧עולם הבא⁩.
 
 And for this very reason, says the ⁦מלבי״ם⁩: #metadata(none) <person-index-malbim-1186> ⁧ועל כן החריש בתורה מיעודי עולם הבא⁩. This is why the ⁧תורה בכלל⁩ does not speak explicitly about the
 reward of ⁧עולם הבא⁩. When the ⁧תורה⁩ speaks about ⁧שכר⁩ for ⁧מצוות⁩⁦,⁩ it speaks
-about ⁧עולם הזה⁩: ⁧אם בחקותי תלכו⁩... ⁧ונתתי גשמיכם בעתם⁩⁦,⁩ or in ⁧קריאת שמע, והיה אם שמוע⁩... ⁧ונתתי מטר ארצכם בעתו, יורה ומלקוש, ואספת דגנך ותירשך ויצהרך⁩. The obvious question is: why does the ⁧תורה⁩ not mention the
+about ⁧עולם הזה⁩: ⁧אם בחקותי תלכו⁩... ⁧ונתתי גשמיכם בעתם⁩⁦,⁩ or in ⁧קריאת שמע⁩⁦,⁩ ⁧והיה אם שמוע⁩... ⁧ונתתי מטר ארצכם בעתו, יורה ומלקוש, ואספת דגנך ותירשך ויצהרך⁩. The obvious question is: why does the ⁧תורה⁩ not mention the
 designated ⁧שכר⁩ prepared ⁧לעולם הבא⁩⁦?⁩ The ⁦מלבי״ם⁩#metadata(none) <person-index-malbim-1187> explains that we would
 have no ⁧השגה⁩ in it at all. ⁧כי הוא נמנע ההשגה בחיי הגוף⁩. ⁧כל זמן⁩ we are in
 our earthly bodies, we cannot even imagine what that means.

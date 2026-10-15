@@ -1710,6 +1710,21 @@ test("docx: Pesach 5783 keeps inline Minchas Chen quotes outside Hebrew", () => 
   );
 });
 
+test("docx: Ki Seitzei 5784 keeps midah keneged midah and bais hachaim in RTL order", () => {
+  const typst = convertedDocx("/ki-seitzei/5784/(2)/");
+
+  assertContains(
+    typst,
+    `it's ${RTL_ISOLATE}מדה כנגד מדה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} it does not want`,
+    "midah keneged midah before English continuation"
+  );
+  assertContains(
+    typst,
+    `in the ${RTL_ISOLATE}בית החיים${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}מדה כנגד מדה${POP_DIRECTIONAL_ISOLATE}.`,
+    "LTR comma between bais hachaim and midah keneged midah"
+  );
+});
+
 test("docx: Story Purim 5783 keeps talmid chacham in logical order", () => {
   const typst = convertedDocx("/purim/5783/story/");
 
