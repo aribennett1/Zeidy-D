@@ -850,7 +850,12 @@ function tagPersonIndexMentions(typstContent, indexState) {
     });
   }
 
-  return tagged;
+  // Keep invisible index anchors outside closing quotes so they cannot affect
+  // the quoted text's inline spacing or bidi resolution.
+  return tagged.replace(
+    /#metadata\(none\) <(person-index-[^>]+)>([”"])/gu,
+    "$2#metadata(none) <$1>"
+  );
 }
 
 function normalizeTitle(value) {

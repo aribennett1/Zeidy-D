@@ -4708,7 +4708,7 @@ effort, we will see ⁧אמת ייִדיש נחת⁩ from our ⁧בנים⁩ and
 
 The second topic relates to the ⁧עצי שיטים⁩ used in the construction of
 the ⁧משכן⁩. ⁧מדרש רבה⁩ in ⁧שמות⁩ presents a sobering statement about the
-locale know as ⁧שיטים: שהשתה בהם מתעורר לזנות⁩ - There was a water source
+locale known as ⁧שיטים: שהשתה בהם מתעורר לזנות⁩ - There was a water source
 in ⁧שיטים⁩ during ⁦בני ישראל'⁩s journey in the ⁧מדבר⁩. The ⁧מדרש⁩ explains that
 drinking this water caused people to be drawn toward immorality. We know
 that when ⁧בני ישראל⁩ came to ⁧שיטים⁩ and they drank from that water, the
@@ -7050,9 +7050,9 @@ think ⁧שמיטה⁩ is just about sitting back and doing nothing, in reality,
 are coming closer to Hashem by stepping away from our ⁧גשמיות⁩ and
 focusing more on ⁧רוחניות⁩. And of course, the poor can come in and take
 whatever they want. So there are a lot of aspects here which tie ⁧פרשת בהר⁩ to a shidduch, and therefore the following story from “The Weekly
-Vort#metadata(none) <person-index-the-weekly-vort-482>” is relevant.
+Vort"#metadata(none) <person-index-the-weekly-vort-482> is relevant.
 
-A widow, who we're going to call Mrs. Mandel, had a daughter was
+A widow, who we're going to call Mrs. Mandel, had a daughter who was
 undergoing treatment in Tel HaShomer hospital in Tel Aviv, and requested
 Shabbos accommodations in the Rachashei Lev chesed apartments. “I know I
 will cry a lot, and I would really prefer to be alone,” she added. The
@@ -7450,12 +7450,11 @@ wish?” “To wear my ⁧תפילין⁩ one last time,” Judah replied. The o
 dumbfounded.
 
 He handed Judah the ⁧תפילין⁩. As Judah put them on, he said the ⁧פסוקים⁩
-that that we all say while winding the ⁧תפילין⁩ around our fingers.
-⁧וְאֵרַשְׂתִּיךְ לִי לְעוֹלָם וְאֵרַשְׂתִּיךְ לִי בְּצֶדֶק וּבְמִשְׁפָּט וּבְחֶסֶד וּבְרַחֲמִים׃ וְאֵרַשְׂתִּיךְ לִי בֶּאֱמוּנָה וְיָדַעַתְּ אֶת ה׳⁩ - “I will betroth you to me forever. And I will betroth you
-to me with righteousness, with justice, with kindness, and with mercy.
-And I will betroth you to me with fidelity, and you will know Hashem.”
-In silence, the entire camp looked at the Jew with a noose around his
-neck and ⁧תפילין⁩ on his head and arm, awaiting his death for the crime of
+that we all say while winding the ⁧תפילין⁩ around our fingers. ⁧וְאֵרַשְׂתִּיךְ לִי לְעוֹלָם וְאֵרַשְׂתִּיךְ לִי בְּצֶדֶק וּבְמִשְׁפָּט וּבְחֶסֶד וּבְרַחֲמִים׃ וְאֵרַשְׂתִּיךְ לִי בֶּאֱמוּנָה וְיָדַעַתְּ אֶת ה׳⁩ - “I will betroth you to me forever. And I will betroth you to me
+with righteousness, with justice, with kindness, and with mercy. And I
+will betroth you to me with fidelity, and you will know Hashem.” In
+silence, the entire camp looked at the Jew with a noose around his neck
+and ⁧תפילין⁩ on his head and arm, awaiting his death for the crime of
 observing this ⁧מצוה⁩. Even women from the adjoining camp were lined up at
 the barbed wire fence that separated them from the men's camp, compelled
 to watch this ominous sight. As Judah turned to the silent crowd, he saw
@@ -9824,7 +9823,7 @@ have heard of the words ⁧בית חדש⁩⁦,⁩ #metadata(none) <person-index
 time he came to visit his son-in-law, the ⁧טורי זהב⁩. A bit more familiar
 name, he is the ⁦ט״ז⁩. The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-728> and the ⁦ט״ז⁩ have monumental ⁧מחלוקתים⁩⁦,⁩ father-in-law and son-in-law, but it doesn't matter, it was all ⁧לשם שמים⁩. That is what counts. So he came to visit his son-in-law the ⁦ט״ז⁩, and everyone from the city came out to greet him except one young man
 who was not interested. He didn't come to see him. The ⁦ט״ז⁩ asked him, “Why are you not coming to give a ⁧שלום עליכם⁩ to my father-in-law the
-⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-729>”? The young man answered, “⁧אליהו הנביא⁩ came to me and told me that
+⁦ב״ח⁩”?#metadata(none) <person-index-r-yoel-sirkis-729> The young man answered, “⁧אליהו הנביא⁩ came to me and told me that
 the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-730> is in ⁧חרם⁩ in the ⁧בית דין של מעלה⁩\.” The ⁦ט״ז⁩ asked “Why?” The
 young man replied, “One time the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-731> was traveling, and he came across a
 town in which there was a ⁧דין תורה⁩ between two people. A person had
@@ -11625,7 +11624,7 @@ continue to do everything we can to the best of our ability.
 = Dvar Torah Pesach 5783
 
 R’ Noach Isaac Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-869> the author of the ⁧מנחת חן⁩⁦,⁩ #metadata(none) <person-index-minchas-chain-867> \[interesting, his
-name is ⁧נח⁩⁦,⁩ so he called the sefer ⁧“מנחת חן⁩#metadata(none) <person-index-minchas-chain-868>”, ⁧חן⁩ is ⁧ח⁩ - ⁧נ⁩ and ⁧נח⁩ is ⁧נ⁩ -
+name is ⁧נח⁩⁦,⁩ so he called the sefer ⁧“מנחת חן⁩”, #metadata(none) <person-index-minchas-chain-868> ⁧חן⁩ is ⁧ח⁩ - ⁧נ⁩ and ⁧נח⁩ is ⁧נ⁩ -
 ⁧ח⁩\], asked us a startling question. I've asked this question to many of
 my ⁧אייניקלעך⁩⁦,⁩ if not all of them. For those who have heard it, it's good
 for ⁧חזרה⁩. For those who haven't, it is an excellent ⁧קשיא⁩⁦,⁩ as I've been
@@ -13098,7 +13097,7 @@ tall, handsome, chashuv Yid. He smiled at me with a radiance on his face
 and asked, “Tell me my friend, have you heard ⁧תקיעת שופר⁩ today?” I replied that no, I had not. He took out from his pocket a little small
 ⁧שופר⁩. He told me to listen carefully and to have ⁧כוונה⁩ to be ⁧יוצא⁩⁦,⁩ and
 he blew 30 ⁧קולות⁩ for me. When he finished, he said to me, “My name is
-Moshe Katz#metadata(none) <person-index-moshe-katz-983>”, and he went on his way.
+Moshe Katz”, #metadata(none) <person-index-moshe-katz-983> and he went on his way.
 
 I came back home and I was sort of astonished. I told my wife exactly
 what happened at ⁧תשליך⁩. I described to her the man who spoke to me. I

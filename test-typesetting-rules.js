@@ -1188,6 +1188,25 @@ test("tags person index aliases with straight or slanted Hebrew quotes", () => {
   ]);
 });
 
+test("keeps person index markers outside closing quotes", () => {
+  const indexState = {
+    people: [
+      {
+        id: "the-weekly-vort",
+        displayName: "The Weekly Vort",
+        aliases: ["The Weekly Vort"],
+      },
+    ],
+    mentions: new Map([["the-weekly-vort", []]]),
+    nextMarker: 1,
+  };
+
+  assert.equal(
+    tagPersonIndexMentions('from “The Weekly Vort” is relevant.', indexState),
+    'from “The Weekly Vort”#metadata(none) <person-index-the-weekly-vort-1> is relevant.'
+  );
+});
+
 test("keeps English possessive before person index marker", () => {
   const indexState = {
     people: [
@@ -1420,6 +1439,27 @@ test("docx: Behar 5784 keeps indexed quote marker after closing punctuation", ()
     typst,
     `thank you Rabbi Gesheid!#metadata(none) <person-index-rabbi-gesheid-3>” she said`,
     "index marker should not separate exclamation point from closing quote"
+  );
+});
+
+test("docx: Behar 5784 keeps indexed quoted title tight to its closing quote", () => {
+  const typst = convertedDocxWithIndex("/behar/5784/", [
+    {
+      id: "the-weekly-vort",
+      displayName: "The Weekly Vort",
+      aliases: ["The Weekly Vort"],
+    },
+  ]);
+
+  assertContains(
+    typst,
+    `Vort"#metadata(none) <person-index-the-weekly-vort-1> is relevant`,
+    "index marker follows the closing quote"
+  );
+  assertNotContains(
+    typst,
+    `Vort#metadata(none) <person-index-the-weekly-vort-1>" is relevant`,
+    "index marker should not separate quoted title from its closing quote"
   );
 });
 
