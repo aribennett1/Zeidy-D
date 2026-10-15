@@ -194,7 +194,7 @@ thinks about it more than I do! I look forward to his witty and
 penetrating phone calls, always short and to the point, but always
 adding a bit here and there and telling me which Rabbi or Rosh Yeshivah
 he gave the Torah Tavlin sheet to. I cannot thank him enough for his
-gracious friendship and support
+gracious friendship and support.
 
 Now that Dr. Bennett has written his own sefer - “Hadover Bi” - a
 collection of deep and penetrating thoughts and chiddushim in this
@@ -2222,7 +2222,7 @@ Wouldn't the ⁧טומאה⁩ from the ⁧עבודה זרה⁩ render the locati
 
 R’ Nosson Adler#metadata(none) <person-index-r-nosson-adler-139> answers with another ⁧מדרש⁩⁦,⁩ which explains that when
 ⁧אברהם אבינו⁩ came for the ⁧עקדה⁩ and saw the ⁧מקום המקדש⁩ from afar, as we
-know (22:7) ⁧וַיַּרְא אֶת הַמָּקוֹם מֵרָחֹק⁩. At that time, the ⁧מקום המקדש⁩ was a
+know (22:4) ⁧וַיַּרְא אֶת הַמָּקוֹם מֵרָחֹק⁩. At that time, the ⁧מקום המקדש⁩ was a
 valley, not a mountain. ⁧אברהם אבינו⁩ exclaimed that it was not fitting
 for ⁦הקדוש ברוך הוא'⁩s ⁧שכינה⁩ to dwell in a valley, and at that very
 moment, a miraculous event occurred: the valley rose and became a
@@ -2849,7 +2849,7 @@ lesson and use it to become better people.
 
 The ⁧ספר עיטורי תורה⁩#metadata(none) <person-index-iturei-torah-184> points out that ⁧חנוכה⁩ almost always coincides with
 ⁧פרשת מקץ⁩. There's more than meets the eye here with the ⁧פרשה⁩. Many ⁧רמזים⁩
-appear. His first example is when the scraggily ⁧פָּרוֹת⁩ and the ⁧שִׁבֳּלִים⁩
+appear. His first example is when the scraggly ⁧פָּרוֹת⁩ and the ⁧שִׁבֳּלִים⁩
 consuming the ⁧שִּׁבֳּלִים הַבְּרִיאוֹת⁩ and the fat animals. This aligns with ⁧חנוכה⁩
 when we say ⁧מָסַרְתָּ גִבּוֹרִים בְּיַד חַלָּשִׁים⁩ - an interesting perspective.
 
@@ -3380,7 +3380,7 @@ hate them, Hashem preserved the distinction between His people and the
 nations. This separation was essential for our survival as a unique
 nation, both then and now.
 
-The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-226> further points to a remarkable ⁧פסוק⁩ in ⁧פרשת בא⁩. As ⁧בני ישראל⁩ left ⁧מצרים⁩⁦,⁩ they asked the ⁧מצרים⁩ for their valuables (12:34): ⁧וּבְנֵי יִשְׂרָאֵל עָשׂוּ כִּדְבַר מֹשֶׁה וַיִּשְׁאֲלוּ מִמִּצְרַיִם כְּלֵי כֶסֶף וּכְלֵי זָהָב וּשְׂמָלֹת⁩. One would
+The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-226> further points to a remarkable ⁧פסוק⁩ in ⁧פרשת בא⁩. As ⁧בני ישראל⁩ left ⁧מצרים⁩⁦,⁩ they asked the ⁧מצרים⁩ for their valuables (12:35): ⁧וּבְנֵי יִשְׂרָאֵל עָשׂוּ כִּדְבַר מֹשֶׁה וַיִּשְׁאֲלוּ מִמִּצְרַיִם כְּלֵי כֶסֶף וּכְלֵי זָהָב וּשְׂמָלֹת⁩. One would
 expect the ⁧מצריים⁩ to begrudgingly comply or resentfully part with their
 belongings. Yet the next ⁧פסוק⁩ reveals: ⁦וַה׳ נָתַן אֶת חֵן⁩ ⁧הָעָם בְּעֵינֵי מִצְרַיִם וַיַּשְׁאִלוּם⁩. Despite the devastation of ⁧מכת בכורות⁩⁦,⁩ ⁧בני ישראל⁩ found favor
 with the ⁧מצריים⁩. How could this be? The answer lies in Hashem's control
@@ -4057,7 +4057,7 @@ succeeding, understand that the cause of your success is Hashem. Here in
 ⁧בשלח⁩⁦,⁩ that's obvious. The splitting of the ⁧ים סוף⁩⁦,⁩ going through the ⁧ים⁩⁦,⁩ and drowning the ⁧מצריים⁩ was without human input. But even when it seems
 that something happens because of what we call ⁧טבע⁩⁦,⁩ we have to
 understand that it is also Hashem. In fact, the ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-268> says
-(14:28): ⁧וַיַּרְא יִשְׂרָאֵל אֶת הַיָּד הַגְּדֹלָה אֲשֶׁר עָשָׂה ה׳ בְּמִצְרַיִם⁩. Which was the
+(14:31): ⁧וַיַּרְא יִשְׂרָאֵל אֶת הַיָּד הַגְּדֹלָה אֲשֶׁר עָשָׂה ה׳ בְּמִצְרַיִם⁩. Which was the
 greater of the two ⁧נסים⁩? The splitting of the sea and ⁧כלל ישראל⁩ going
 through it, with water standing up, or, the waters falling back down and
 drowning the ⁧מצריים⁩? The pasuk says ⁧בני ישראל⁩ saw what happened ⁧בְּמִצְרַיִם⁩.
@@ -4536,7 +4536,7 @@ beginning of ⁧פרשת תרומה⁩⁦,⁩ which is worth looking at. He asks
 the purpose of the ⁧משכן⁩? Why was it necessary to build a structure for
 Hashem when, as we know ⁦(ישעיהו ו׳:ג׳)⁩ ⁧מְלֹא כׇל הָאָרֶץ כְּבוֹדוֹ⁩ - Hashem's
 glory fills the entire universe. Why then does He need a ⁧משכן⁩? So the
-⁧פסוק⁩ itself says (25:7) ⁧וְשָׁכַנְתִּי בְּתוֹכָם⁩⁦,⁩ but what was the purpose of that?
+⁧פסוק⁩ itself says (25:8) ⁧וְשָׁכַנְתִּי בְּתוֹכָם⁩⁦,⁩ but what was the purpose of that?
 
 The purpose of that was that ⁧הר סיני⁩ was a once-in-history event, never
 to be repeated. ⁧מעמד הר סיני⁩ was Hashem revealing Himself to ⁧בני ישראל⁩
@@ -4687,7 +4687,7 @@ block of gold, chisel away at it until you're left with a ⁧מנורה⁩. ⁧�
 
 Now, here comes the bomb ⁧קשה⁩: it doesn't say anywhere that ⁧משה רבינו⁩ had
 any trouble making the ⁧כרובים⁩! The ⁧כרובים⁩ were also ⁧מקשה אחת⁩ with the
-⁧כפרת⁩. It says (25:17) ⁧מִקְשָׁה תַּעֲשֶׂה אֹתָם⁩ a very, very similar ⁧לשון⁩. It had to
+⁧כפרת⁩. It says (25:18) ⁧מִקְשָׁה תַּעֲשֶׂה אֹתָם⁩ a very, very similar ⁧לשון⁩. It had to
 be one piece of work. It could not be two ⁧כרובים⁩ screwed onto this ⁧כפרת⁩.
 We don't see that they were made by themselves by a ⁧נס⁩⁦,⁩ just like the
 ⁧מנורה⁩ was made by itself by a ⁧נס⁩. What's the difference?
@@ -5143,7 +5143,7 @@ According to this ⁧שפת אמת⁩⁦,⁩ #metadata(none) <person-index-sfas-
 departs each week, and we need ⁧בשמים⁩ to compensate for the loss - ⁧וַוי אָבְדָה נֶפֶשׁ⁩ - because we lost the ⁧נשמה יתרה⁩.
 
 In a real sense, ⁧פרשת כי תשא⁩ is a ⁧פרשה⁩ of ⁧קדושה⁩. It discusses the ⁧לוחות⁩⁦,⁩ their breaking, the ⁧קדושה⁩ of ⁧שבת⁩⁦,⁩ and ⁧קדושה⁩ in various forms. ⁧שבת⁩ itself
-is a ⁧מקור קדושה⁩. We always thought of ⁧שבת⁩ as the ultimate ⁧מקור קדושה⁩ - after all, the ⁧פסוק⁩ says (31:134) ⁧כִּי אֲנִי ה׳ מְקַדִּשְׁכֶם⁩ - talking about ⁧שבת⁩.
+is a ⁧מקור קדושה⁩. We always thought of ⁧שבת⁩ as the ultimate ⁧מקור קדושה⁩ - after all, the ⁧פסוק⁩ says (31:13) ⁧כִּי אֲנִי ה׳ מְקַדִּשְׁכֶם⁩ - talking about ⁧שבת⁩.
 And yet, we have been given an extraordinary opportunity, granted to us
 by ⁧הקודש ברוך הוא⁩⁦,⁩ to generate ⁧קדושה⁩ on our own, to such an extent that
 it lasts forever.
@@ -5232,7 +5232,7 @@ us. In that ⁧זכות⁩⁦,⁩ we shall see the ⁧משיח צדקנו, במ�
   ))
 = Vayakel 5784
 
-In ⁧פרשת ויקהל⁩⁦,⁩ the ⁧פסוק⁩ (35:3), states: ⁧וַיֹּאמֶר מֹשֶׁה אֶל כׇּל עֲדַת בְּנֵי יִשְׂרָאֵל לֵאמֹר זֶה הַדָּבָר⁩. I originally heard a beautiful idea about this from R’
+In ⁧פרשת ויקהל⁩⁦,⁩ the ⁧פסוק⁩ (35:4), states: ⁧וַיֹּאמֶר מֹשֶׁה אֶל כׇּל עֲדַת בְּנֵי יִשְׂרָאֵל לֵאמֹר זֶה הַדָּבָר⁩. I originally heard a beautiful idea about this from R’
 Fabian Schonfeld#metadata(none) <person-index-r-fabian-schonfeld-362> ⁦זצ״ל⁩, who was the Rav of the Young Israel of Kew
 Gardens Hills, and I never forgot it. What was the date of this ⁧ויקהל⁩⁦,⁩ this momentous gathering of ⁧כלל ישראל⁩⁦?⁩ ⁦רש״י⁩#metadata(none) <person-index-rashi-363> says: ⁧ויקהל משה: למחרת יום הכיפורים⁩ - it was the 11th day of ⁧תשרי⁩⁦,⁩ the day after ⁧יום כיפור⁩. The
 question is, what do we learn from this? What do we gain from knowing
@@ -6053,7 +6053,7 @@ was ⁧שורה⁩⁦,⁩ and all the people saw it. This is followed by the tra
 ⁧נדב⁩ and ⁧אביהוא⁩. In their enthusiasm and ⁧קדושה⁩ to serve Hashem, they
 performed an ⁧עבודה⁩ that was uncalled for. Since it was not a ⁧צווי⁩ from
 Hashem, they paid the ultimate price and were burnt up. Immediately
-after that, the ⁧תורה⁩ says (3:10) ⁧וַיִּדֹּם אַהֲרֹן⁩ - ⁧אהרן⁩ accepted Hashem's
+after that, the ⁧תורה⁩ says (10:3) ⁧וַיִּדֹּם אַהֲרֹן⁩ - ⁧אהרן⁩ accepted Hashem's
 judgment in silence. In the great ⁧זכות⁩ of ⁧וַיִּדֹּם אַהֲרֹן⁩⁦,⁩ he was ⁧זוכה⁩ to
 receive the next ⁧פרשה⁩ in the ⁧תורה⁩⁦,⁩ the ⁧פרשה⁩ of ⁧שתויי יין⁩. The ⁧פסוק⁩
 states: ⁧וַיְדַבֵּר ה׳ אֶל אַהֲרֹן לֵאמֹר⁩⁦,⁩ rather than the usual wording of ⁧וַיְדַבֵּר ה׳ אֶל מֹשֶׁה לֵאמֹר⁩. Immediately following this, ⁧משה רבינו⁩ commanded them to
@@ -7477,7 +7477,7 @@ position, and two large rocks were placed under his armpits. Then he was
 told that he would be receiving 25 lashes to his head, the head on which
 he dared to place the ⁧תפילין⁩. The officer told him that if he dropped
 even one of the rocks from his armpits, he would be shot immediately. In
-fact, because this was such as an extremely painful form of death, the
+fact, because this was such an extremely painful form of death, the
 officer advised him, “Drop the rocks now! You will never survive the 25
 lashes to the head. Nobody ever does.” “No,” Judah responded, “I won't
 give you the pleasure.” At the 25th lash, Judah lost consciousness and
@@ -8922,7 +8922,7 @@ figure out what he's saying and where he got it from. Here comes ⁧פרשת ח�
 
 The pasuk says ⁧זֹאת חֻקַּת הַתּוֹרָה⁩. Why does it say that? It should have said
 ⁧זֹאת חֻקַּת הפרה⁩. What does the ⁧חקת פרה אדומה⁩ have to do with ⁧חקת התורה⁩⁦?⁩ He
-brings down from a goan Rav Tzvi Hersh Heller, #metadata(none) <person-index-rav-tzvi-hersh-heller-670> the ⁧בעל המחבר ספר חידושי טיב גיטין⁩⁦,⁩ who discusses the medrash on the pasuk in Mishlei (7:23)
+brings down from a goan Rav Tzvi Hersh Heller, #metadata(none) <person-index-rav-tzvi-hersh-heller-670> the ⁧בעל המחבר ספר חידושי טיב גיטין⁩⁦,⁩ who discusses the medrash on the pasuk in Koheles (7:23)
 ⁧אָמַרְתִּי אֶחְכָּמָה וְהִיא רְחֹוקָה מִמֶּנִּי⁩. The ⁧מדרש⁩ says ⁧זו פרה אדומה⁩. That is, the
 ⁧פרה אדומה⁩ is the thing that Shlomo HaMelech said he tried to understand, and it remained far from him. But we have to understand something. There
 are many ⁧חוקים⁩ in the Torah, not just the ⁧פרה אדומה⁩. Why was this one
@@ -12988,9 +12988,9 @@ and a little scrambled egg or whatever, and then we bentch. In bentching
 we say: \
 ⁧הקדוש ברוך הוא⁩⁦,⁩ I need -⁧לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרֶוַח הַצָּלָה וְהַצְלָחָה בְּרָכָה וִישׁוּעָה, נֶחָמָה, פַּרְנָסָה וְכַלְכָּלָה, וְרַחֲמִים, וְחַיִּים וְשָׁלוֹם, וְכָל טוֹב⁩. And ⁧הקדוש ברוך הוא⁩⁦,⁩ in
 case I left anything out, ⁧וּמִכָּל טוּב לְעוֹלָם אַל יְחַסְּרֵנוּ⁩ - If I forgot
-something, please throw in all the other good stuff that you can do.
+something, please throw in all the other good stuff that You can do.
 
-So hang on. Ten seconds ago, you said, I'm only asking you one thing, ⁧אַחַת שָׁאַלְתִּי⁩. And now you're asking an entire list. It's an endless list.
+So hang on. Ten seconds ago, you said, I'm only asking You one thing, ⁧אַחַת שָׁאַלְתִּי⁩. And now you're asking an entire list. It's an endless list.
 ⁧וּמִכָּל טוּב לְעוֹלָם אַל יְחַסְּרֵנוּ⁩ - it's an infinite list.
 
 The ⁧תירוץ⁩ is there is one thing in bentching that we do not want. ⁧לֺא לִידֵי מַתְּנַת בָּשָׂר וָדָם⁩ - everything that I need should come directly from
@@ -13005,10 +13005,10 @@ called ⁧משפחה⁩⁦,⁩ that's called your family. When you're getting so
 from your father, mother, and family, that's not ⁧מַתְּנַת בָּשָׂר וָדָם⁩.
 
 What are we asking Hashem? ⁧אַחַת שָׁאַלְתִּי מֵאֵת ה׳ \... שִׁבְתִּי בְּבֵית ה׳ כׇּל יְמֵי חַיַּי⁩
-\- Hashem, I want to live in your house. I want to be part of your
-⁧משפחה⁩. I want to be close to you, as close as a father and a mother.
+\- Hashem, I want to live in Your house. I want to be part of your
+⁧משפחה⁩. I want to be close to You, as close as a father and a mother.
 When you ask ⁧הקדוש ברוך הוא שִׁבְתִּי בְּבֵית ה׳ כׇּל יְמֵי חַיַּי⁩⁦,⁩ that I want to live
-in your house, then you can ask for everything. That's why when we
+in Your house, then you can ask for everything. That's why when we
 bentch, we can ask for everything. May we be ⁧זוכה⁩ that ⁧הקדוש ברוך הוא⁩
 give us all the good things we ask for ⁧לטובה⁩⁦,⁩ and to have a wonderful
 ⁧כתיבה וחתימה טובה⁩.
@@ -13319,8 +13319,8 @@ I came across from Rav Tzadka's#metadata(none) <person-index-r-tzadka-1025> week
 from the ⁧בית מדרש טוב⁩ in Kew Garden Hills\] A handyman's guide to doing
 ⁧תשובה⁩. He says these are the easiest things to do and they are
 guaranteed to bring us a ⁧כפרה⁩. They are brought down from a ⁧ספר⁩ called
-⁧ציפורן שמיר⁩⁦,⁩ #metadata(none) <person-index-tziporen-shamir-1027> which I translate loosely as the fingernail of the ⁧שמיר⁩⁦,⁩ which is the little worm that could that could break stones. This is a
-very good thing for everyone to have, so I wanted to quote it here:
+⁧ציפורן שמיר⁩⁦,⁩ #metadata(none) <person-index-tziporen-shamir-1027> which I translate loosely as the fingernail of the ⁧שמיר⁩⁦,⁩ which is the little worm that could break stones. This is a very good
+thing for everyone to have, so I wanted to quote it here:
 
 + What's a good way to do ⁧תשובה⁩? Say ⁧אמן יהא שמיה רבא⁩ with all the
   concentration that you can, and put your whole heart into it. Hashem
@@ -13391,10 +13391,9 @@ be cleansed. ⁧בעזרת השם⁩⁦,⁩ we should have a ⁧גיט געבע�
   ))
 = Rosh Hashana in Berditchev
 
-The following story, properly entitled Rosh#metadata(none) <person-index-rosh-1031> Hashana in Berditchev, is
-one of the family's favorite stories, and I've been asked to repeat it
-over for everyone to have for posterity. The central figure of course is
-R’ Levi Yitzchok#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-1028> ⁧זכותו יגן עלינו⁩⁦,⁩ and this story is from The Complete
+The following story, appropriately entitled Rosh#metadata(none) <person-index-rosh-1031> Hashana in Berditchev, is one of the family's favorite stories, and I've been asked to repeat
+it over for everyone to have for posterity. The central figure of course
+is R’ Levi Yitzchok#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-1028> ⁧זכותו יגן עלינו⁩⁦,⁩ and this story is from The Complete
 Story of Tishrei by Nissan Mindel.
 
 It was the first day of Rosh#metadata(none) <person-index-rosh-1032> Hashana in the shul in Berditchev by the
@@ -13574,12 +13573,12 @@ indictment which we'll have to answer and we will.
 He says, in the olden days, ⁧בפריערדיגע דורות⁩⁦,⁩ ⁧אמאל'דיגע צייטן⁩ as they
 say in Yiddish, a person used to deal honestly in his business. He would
 do his business honestly, he did everything properly, and he never let
-out a lie from his mouth. That was in the in the old days. He would go
-into shul and he would start saying ⁧וידוי⁩ on ⁧יום כיפור⁩: ⁧אשמנו בגדנו גזלנו⁩⁦,⁩ and there was not any drop of truth to it because they did not do
-⁧אשמנו בגדנו⁩⁦,⁩ they were honest people. So it turns out that the in the
-⁧בית הכנסת⁩ he was lying and outside he was telling the truth. He says, today is ⁧פונקט פארקערט⁩. People cheat and lie and rob and steal as much
-as they possibly can, to get away with making as much money as they can.
-And then what do they do? They go to shul and they say ⁧אשמנו בגדנו גזלנו⁩. So he says it's an ⁧עולם הפוך⁩.
+out a lie from his mouth. That was in the old days. He would go into
+shul and he would start saying ⁧וידוי⁩ on ⁧יום כיפור⁩: ⁧אשמנו בגדנו גזלנו⁩⁦,⁩ and there was not any drop of truth to it because they did not do ⁧אשמנו בגדנו⁩⁦,⁩ they were honest people. So it turns out that in the ⁧בית הכנסת⁩ he
+was lying and outside he was telling the truth. He says, today is ⁧פונקט פארקערט⁩. People cheat and lie and rob and steal as much as they possibly
+can, to get away with making as much money as they can. And then what do
+they do? They go to shul and they say ⁧אשמנו בגדנו גזלנו⁩. So he says it's
+an ⁧עולם הפוך⁩.
 
 Now, how do we combat that? First of all, we have to do ⁧תשובה⁩. And we
 have to try to be honest in everything that we do, both business-wise
@@ -13597,7 +13596,7 @@ Now, in that light, there's a Gemara ⁦(ראש השנה ל״ב ע״ב)⁩ that'
 down by R’ Yechezkel Levenstein, #metadata(none) <person-index-r-yechezkel-levenstein-1035> the mashgiach ruchani of the Mir: ⁧אָמַר רַבִּי אֲבָהוּ: אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא⁩ - The ⁧מלאכים⁩ said to
 Hashem: ⁧רִבּוֹנוֹ שֶׁל עוֹלָם! מִפְּנֵי מָה אֵין יִשְׂרָאֵל אוֹמְרִים שִׁירָה לְפָנֶיךָ בְּרֹאשׁ הַשָּׁנָה וּבְיוֹם הַכִּפּוּרִים⁩⁦?⁩ Interesting question. We wouldn't have thought of that, but the ⁧מלאכים⁩ did. These are days of ⁧קדושה⁩ and on days of ⁧קדושה⁩⁦,⁩ it's
 our job to say ⁧שירה⁩ before Hashem. Hashem answered them and said the
-answer which we all know: ⁧אֶפְשָׁר מֶלֶךְ יוֹשֵׁב עַל כִּסֵּא דִין, וְסִפְרֵי חַיִּים וְסִפְרֵי מֵתִים פְּתוּחִין לְפָנָיו⁩ - The book of life and the book of death is open in front
+answer which we all know: ⁧אֶפְשָׁר מֶלֶךְ יוֹשֵׁב עַל כִּסֵּא דִין, וְסִפְרֵי חַיִּים וְסִפְרֵי מֵתִים פְּתוּחִין לְפָנָיו⁩ - The book of life and the book of death are open in front
 of the king who's about to make a judgment; ⁧וְיִשְׂרָאֵל אוֹמְרִים שִׁירָה⁩⁦?⁩ In that
 Gemara, there's a famous ⁧שאלה⁩: We know and we count upon, we look
 forward to Hashem's ⁧חסד⁩. We have tremendous ⁧אמונה⁩⁦,⁩ not because we
