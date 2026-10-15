@@ -436,7 +436,7 @@ July 27#super[th], 2026
 #align(right)[
 ⁧וָאֹמַר מָה אֵלֶּה אֲדֹנִי וַיֹּאמֶר אֵלַי הַמַּלְאָךְ #strong[הַדֹּבֵר בִּי] אֲנִי אַרְאֶךָּ מָה הֵמָּה אֵלֶּה (זכריה א:ט)⁩]
 
-“I said, 'What are these, my Lord?' The angel #strong[who was speaking
+“I said, 'What are these, my Lord?’ The angel #strong[who was speaking
 to me] said to me, 'I will show you what these are.’”
 
 The name ⁧הַדֹּבֵר בִּי⁩ was chosen for Zeidy's sefer with great thought and
@@ -457,7 +457,7 @@ communication, of transmitting wisdom, which is the very foundation of
 the ⁧תורה⁩ and its perpetuation through the generations. The pasuk
 describes the interaction between a questioner and a teacher - the child
 and the parent, the student and the guide: “I asked the ⁧מַּלְאָךְ⁩⁦,⁩ 'What is
-this?' and the ⁧מַּלְאָךְ⁩ answered, 'I will show you.’” This model of ⁧חינוך⁩⁦,⁩ of children asking questions and receiving answers from their parents, is precisely the dynamic that this sefer seeks to preserve. Zeidy's ⁧דברי תורה⁩ represent his role as a teacher, lovingly responding to the
+this?’ and the ⁧מַּלְאָךְ⁩ answered, 'I will show you.’” This model of ⁧חינוך⁩⁦,⁩ of children asking questions and receiving answers from their parents, is precisely the dynamic that this sefer seeks to preserve. Zeidy's ⁧דברי תורה⁩ represent his role as a teacher, lovingly responding to the
 questions of the next generation. Moreover, viewing Zeidy as the ⁧”מַּלְאָךְ“⁩
 in this pasuk feels natural, as anyone who knows him recognizes his
 sterling ⁧מידות⁩ and unwavering ⁧צידקות⁩. The title ⁧הַדֹּבֵר בִּי⁩ elevates this
@@ -957,7 +957,7 @@ my sister's daughter.” “What makes you think of proposing your sister's
 daughter before you even know me? I asked him. “To tell you the truth, after your special speech, I feel like I know you a little. After I
 heard that you were here voluntarily, I know you even more and
 appreciate you. Thirdly, why not give it a try?” Indeed, the third claim
-tipped the scales. I gave him my parents' phone number and we went our
+tipped the scales. I gave him my parents’ phone number and we went our
 separate ways.
 
 “Everything else is already history. That evening produced a match, and
@@ -1833,9 +1833,9 @@ Markowitz relates:
 day for davening, but he never came on time, he always came exactly ten
 minutes late. It seemed a pity that he made the effort to come to shul
 each morning, but was never able to daven properly as he was always late
-and had to rush to catch up. One time I said to him, 'Mr. Feinstein, it's so great you come to shul every morning. If you're coming anyway, why don't you come on time?' He wasn't bothered by that. 'What's the big
-deal of ten minutes here or there?' he asked. 'The main thing is that I
-made it to davening, whether it's sooner or later.'
+and had to rush to catch up. One time I said to him, 'Mr. Feinstein, it's so great you come to shul every morning. If you're coming anyway, why don't you come on time?’ He wasn't bothered by that. 'What's the big
+deal of ten minutes here or there?’ he asked. 'The main thing is that I
+made it to davening, whether it's sooner or later.’
 
 “Over the years, I made a comment from time to time, but it did not do
 any good. One day, at exactly seven o'clock on the dot, walks in Mr.
@@ -3052,7 +3052,7 @@ answers by pointing out a deeper layer of this story.
 The ⁧בני יעקב⁩ had realized that their father's 22-year absence in ⁧חרן⁩
 without fulfilling the ⁧מצוה⁩ of ⁧כיבוד אב⁩ was connected to ⁦יעקב'⁩s
 suffering of losing ⁧יוסף⁩ for 22 years. ⁦(While ⁧יעקב⁩ had left home under
-his parents' directive, the ⁧דין⁩ was still ⁧מדוקדק⁩ for ⁧צדיקים⁩⁦,⁩ measuring
+his parents’ directive, the ⁧דין⁩ was still ⁧מדוקדק⁩ for ⁧צדיקים⁩⁦,⁩ measuring
 them ⁧כחוט השערה⁩\.)⁩ Although the ⁧עונש⁩ was decreed ⁧משמים⁩⁦,⁩ the brothers
 understood that they were the ⁧גורמים⁩ of ⁦יעקב'⁩s pain and bore
 responsibility for his suffering. Therefore, they themselves will have
@@ -3067,7 +3067,7 @@ However, the brother's noted a critical distinction between ⁦יוסף'⁩s 22
 years and ⁦יעקב'⁩s 22 years: ⁦יעקב'⁩s 14 years spent learning ⁧תורה⁩ were not
 included in the ⁧דין⁩⁦,⁩ teaching them that ⁧תלמוד תורה⁩ is greater than ⁧כיבוד אב⁩. This realization inspired the brothers to seek ⁧כפרה⁩ for their role
 in ⁦יעקב'⁩s suffering by intensifying their ⁧תורה⁩ learning, even while on
-the road. However, ⁧יוסף⁩⁦,⁩ a maven on the brothers' enormous capacity to
+the road. However, ⁧יוסף⁩⁦,⁩ a maven on the brothers’ enormous capacity to
 scale the heights of torah scholarship, cautioned them with the words ⁧אַל תִּרְגְּזוּ בַּדָּרֶךְ⁩⁦,⁩ advising them that the dangers of the road outweighed the
 benefits of their heightened learning.
 
@@ -5425,7 +5425,7 @@ astonishment, he put the food directly into his mouth without saying a
 throughout the entire long flight. He ate and drank, yet he did not say
 a single ⁧ברכה ראשונה⁩ or ⁧אחרונה⁩. Later in the flight, a group of
 passengers organized a ⁧מנין⁩ for ⁧מנחה⁩. Before joining, I gently woke up
-the ⁧ראש ישיבה⁩ and said, 'They're starting a ⁧מנין⁩ now near the galley.'
+the ⁧ראש ישיבה⁩ and said, 'They're starting a ⁧מנין⁩ now near the galley.’
 To my surprise, he did not move from his seat. He could hear and see us
 davening, but he continued to sit quietly, detached from all that was
 going on. I was horrified. The entire flight, I watched his behavior -
@@ -5434,8 +5434,8 @@ inside me, but I controlled myself and did not say anything. When we
 landed, everyone gathered their things and prepared to disembark. I was
 ready to leave, but the ⁧ראש ישיבה⁩ remained in his seat, motionless.
 Curious, I asked him, 'Is the ⁧ראש ישיבה⁩ staying here? Everyone is
-already off the plane.' He answered, 'I'm waiting for them to unload my
-mother's ⁧ארון⁩ from the plane.'
+already off the plane.’ He answered, 'I'm waiting for them to unload my
+mother's ⁧ארון⁩ from the plane.’
 
 I was shaken to the core. The man I had suspected of disregarding ⁧מצוות⁩⁦,⁩ or worse, of being a fraud, was actually an ⁧אונן⁩⁦,⁩ bringing his deceased
 mother's body for ⁧קבורה⁩ in ⁧ארץ ישראל⁩. An ⁧אונן⁩ - one whose close relative
@@ -5463,7 +5463,7 @@ he was not davening.”
 In this story, it mentions that the ⁧הלכות⁩ of an ⁧אונן⁩ are in ⁧יורה דעה⁩. It
 reminded me that my father, ⁧עליו השלום⁩⁦,⁩ was ⁧נפטר⁩ on a Friday night. I
 received the news, but no one else knew - it was late at night. I
-realized, 'I have to learn ⁧הלכות אנינות⁩\.' I had always avoided learning
+realized, 'I have to learn ⁧הלכות אנינות⁩\.’ I had always avoided learning
 the ⁧הלכות⁩ of ⁧אבלות⁩ or ⁧אנינות⁩. So I started searching. I went through the
 entire ⁧משנה ברורה⁩ but could not find ⁧הלכות אנינות⁩. I was stuck.
 
@@ -6184,7 +6184,7 @@ can be learned and applied. Harsh criticism rarely works and often has
 the opposite effect. However, when rebuke is given in a positive and
 encouraging manner, it becomes a powerful tool for growth - in ⁧מידות⁩⁦,⁩ in
 ⁧עבודת השם⁩⁦,⁩ and in all areas of life. May ⁧הקדוש ברוך הוא⁩ give us the ⁧זכות⁩
-to always be mindful of others' feelings when offering criticism, just
+to always be mindful of others’ feelings when offering criticism, just
 as the ⁧תורה⁩ first presents a positive feature before addressing the
 negative. A wise lesson for each and every one of us, whether it's our
 kids, colleagues, co-workers, spouses, or relatives.
@@ -6952,9 +6952,9 @@ In ⁧שער הכניעה⁩⁦,⁩ ⁧פרק י⁩⁦,⁩ the ⁧חובות ה�
 one of the ⁧חכמים⁩⁦,⁩ “What brought you to greatness? How did you become the
 leader and master of your generation?” He replied, “I never met a person
 in whom I didn't see some ⁧מעלה⁩ greater than my own. If he was smarter
-than me, I would say, 'He has more ⁧חכמה⁩ than I do.' If I was smarter
-than him, I would say, 'He has more ⁧יראת שמים⁩ than I have.' If he was
-older than me, I would say, 'What a ⁧זכות⁩⁦,⁩ he has more ⁧מצוות⁩ than I do.'
+than me, I would say, 'He has more ⁧חכמה⁩ than I do.’ If I was smarter
+than him, I would say, 'He has more ⁧יראת שמים⁩ than I have.’ If he was
+older than me, I would say, 'What a ⁧זכות⁩⁦,⁩ he has more ⁧מצוות⁩ than I do.’
 If he was younger than me, I would say, 'How fortunate he is, he has
 fewer ⁧עבירות⁩ than I have.’” This ⁧חכם⁩ was always able to see the positive
 and the ⁧מעלה⁩ in every single person he met. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-475> also brought
@@ -8069,7 +8069,7 @@ Unknown to him, the ⁧בית מדרש⁩ was not empty. (All these stories alwa
 happen, somebody was listening in. That's how we get the story.) There
 was an older ⁧תלמיד חכם⁩ sitting in the back doing his own learning. When
 he heard the crying, he approached the young man and he said, 'What is
-your problem? Can I help you?' The ⁧אברך⁩ admitted that he was crying
+your problem? Can I help you?’ The ⁧אברך⁩ admitted that he was crying
 because he could not understand this particular ⁧סוגיא⁩ that he was
 learning. The scholar invited him to accompany him to his chassidish
 Rebbe, a famous leader, and ask for a ⁧ברכה⁩. The Rebbe, when told of what
@@ -8387,7 +8387,7 @@ easier one, I didn't know that either. He asked a third question, and
 again, I didn't know. Obviously, I hadn't paid attention in class.
 
 “Then he said, 'Would you mind waiting outside until everyone leaves?
-I'd like to speak with you.' I thought, 'Now I'm going to get it.' When
+I'd like to speak with you.’ I thought, 'Now I'm going to get it.’ When
 everybody had left, R’ Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-596> sat down with me and said 'Do you
 know the difference between the goyim and the Yidden? When a goy does
 something, he gets paid for the results. If he gets something done, he
@@ -8477,7 +8477,7 @@ money? You could have davened and could have averted the decree.” The
 ⁧אלטע⁩ Rebbe elucidated, “I am only following a precedent. When ⁧יעקב אבינו⁩
 was in danger, no doubt he could have used his ⁧זכותים⁩ to alleviate the
 harsh decree without having to placate his brother with gifts and
-bribes. But you see, he declared, 'I'm sending a present to ⁧אדוני עשו⁩\.'
+bribes. But you see, he declared, 'I'm sending a present to ⁧אדוני עשו⁩\.’
 And that's how he was appeased.”
 
 ⁧רב ברוך⁩ remained unconvinced. The ⁧אלטע⁩ Rebbe was a great ⁧צדיק⁩. Why would
@@ -9433,7 +9433,7 @@ Jewish woman. She decided that very Friday evening to light Shabbos
 candles for the first time since her bas mitzvah 50 years ago. Her ⁧מצוה⁩
 helped fortify the success of the Israeli Air Force. It brought
 protection to the people of Israel and drew more divine blessing into
-the world. The Rebbe sends his gratitude.' The musician woke up stunned.
+the world. The Rebbe sends his gratitude.’ The musician woke up stunned.
 
 “It was a beautiful dream”, he wrote to my brother, “but I dismissed it
 as just that, a dream, until Sunday. On Sunday, I received an email from
@@ -10620,7 +10620,7 @@ lived in Russia and Poland, when I traveled through these countries, I
 heard from a ⁧טייער מגיד⁩ from ⁧ליטא⁩ that two people passed away at the
 same time, and they came up to ⁧בית דין⁩ together. One of them was a ⁧תלמיד חכם⁩ who sat and learned, and the other one was a tailor. They told the
 ⁧תלמיד חכם⁩⁦,⁩ 'We examined your records, and you sat and learned ⁦ש״ס⁩ three
-times, you get ⁧שכר⁩ for learning ⁦ש״ס⁩ three times.' Then it was the
+times, you get ⁧שכר⁩ for learning ⁦ש״ס⁩ three times.’ Then it was the
 tailor's turn. They told him, “You learned ⁦ש״ס⁩ three times, and you will
 receive ⁧שכר⁩ for learning ⁦ש״ס⁩ three times.” Both of them began to
 protest. The ⁧תלמיד חכם⁩ said, “I learned ⁦ש״ס⁩ six times, not three.” And
@@ -10680,8 +10680,8 @@ They're very friendly people, and we talked a lot while the rabbi was
 inside praying. They used to tell us all the time about the greatness of
 the rabbi and how he tries to help people all the time. I was standing
 there with some of my buddies, and I half-jokingly asked if the rabbi
-helps non-Jews also. 'Sure, ' they said. 'The rabbi helps anyone who
-asks. Why? Do you need something?' Later, privately, I told one of the
+helps non-Jews also. 'Sure,’ they said. 'The rabbi helps anyone who
+asks. Why? Do you need something?’ Later, privately, I told one of the
 young men that my wife and I have been married for nine years with no
 children. The previous week, the doctors told us we had no chance. We
 had spent lots of money on treatments, seen all sorts of big professors, running around like crazy for the last six or seven years. Now they were
@@ -10690,10 +10690,10 @@ were. My wife cries all the time and I started crying myself.
 
 So this young man tells me, 'Listen, the next time you escort the Rebbe
 to the cemetery, stand next to the door of the car and ask him for a
-blessing when he gets out.' And that's exactly what I did. The next time
+blessing when he gets out.’ And that's exactly what I did. The next time
 I was in the escort, I stood by his door, and when he got out, I said to
 him, 'Excuse me, Rabbi, do you only bless Jewish people or non-Jews
-too?' I'll never forget how the rabbi looked at me, as if I was his best
+too?’ I'll never forget how the rabbi looked at me, as if I was his best
 friend. He said that if he can, he tries to help anyone who asks. So I
 told him what the doctors said. He told me to write down on a piece of
 paper my name and my father's name, together with my wife's name and her
@@ -11637,7 +11637,7 @@ they do.” and he goes and becomes a ⁧גר⁩ in the middle of ⁧יום טו
 
 Now, if you think this is improbable, you're right - it is improbable.
 But it has happened. In fact, there are two ⁧שאלות ותשובות⁩ addressing
-this exact case. The ⁧קשיא⁩⁦,⁩ of course, is that once John becomes a ⁧גר⁩⁦,⁩ all of his possessions - including my million dollars' worth of schnapps
+this exact case. The ⁧קשיא⁩⁦,⁩ of course, is that once John becomes a ⁧גר⁩⁦,⁩ all of his possessions - including my million dollars’ worth of schnapps
 \- are now owned by a Jew. The moment ⁧פסח⁩ ends, it becomes ⁧חָמֵץ שֶׁעָבַר עָלָיו הַפֶּסַח⁩. Now what do we do?
 
 The ones who want to answer quickly say, “Okay, you got to get rid of
@@ -12091,13 +12091,13 @@ the small entrance to ⁧גן עדן⁩. There is a rush, a tremendous influx of
 
 “This year,” the ⁧נשמה⁩ continued, “I was pushing and pushing, trying to
 get in. I reached the door - only to have it slammed shut in my face. I
-said to myself, 'I am not moving from here until next year, when ⁧קריאת מגילה⁩ happens again. I am staying right here. I am not going anywhere.'
+said to myself, 'I am not moving from here until next year, when ⁧קריאת מגילה⁩ happens again. I am staying right here. I am not going anywhere.’
 And then, suddenly, I heard it - I heard someone leining the ⁧מגילה⁩. My
-heart pounded. I rushed to the door and started banging. 'Let me in!' I
-cried. The gatekeeper asked, 'What do you want?' I told him, 'They're
-reading ⁧מגילה⁩!' He responded, 'So what? It's not ⁧פורים⁩ now.' 'True, ' I
-admitted, 'but they are reading ⁧מגילה⁩! Let me in! You must let me in!'
-The gatekeeper said, 'I will consult with my superiors, the ⁧בית דין של מעלה⁩\.' He left, and when he returned, he told me, 'Yes, ⁧קריאת מגילה⁩
+heart pounded. I rushed to the door and started banging. 'Let me in!’ I
+cried. The gatekeeper asked, 'What do you want?’ I told him, 'They're
+reading ⁧מגילה⁩!’ He responded, 'So what? It's not ⁧פורים⁩ now.’ 'True,’ I
+admitted, 'but they are reading ⁧מגילה⁩! Let me in! You must let me in!’
+The gatekeeper said, 'I will consult with my superiors, the ⁧בית דין של מעלה⁩\.’ He left, and when he returned, he told me, 'Yes, ⁧קריאת מגילה⁩
 grants entry - but this is not the right time. Therefore, the only way
 this will work is if you go down and ask the person who is reading the
 ⁧מגילה⁩ if he agrees that you should be allowed in. If he grants
@@ -12318,7 +12318,7 @@ to his children, he writes:
 saw a friend of mine walking, and I noticed a small rip in his clothing.
 I went over to him gently and said, 'Listen to me carefully. Fix the rip
 now, while it's still small, so you won't have to fix it later when it's
-big.' But even before I spoke to him, I said a short ⁧תפילה⁩⁦,⁩ which I had
+big.’ But even before I spoke to him, I said a short ⁧תפילה⁩⁦,⁩ which I had
 formulated: \
 ⁧יוצרי ובוראי יתברך שמו. אני מוכן ומזומן לקיים מצות עשה של ואהבת לרעך כמוך, שציוונו בתורתא הקדושה⁩ - I am prepared and ready to fulfill the
 mitzvah of ⁧ואהבת לרעך כמוך⁩. I said it from a place of love. Whether
@@ -12411,7 +12411,7 @@ us, the celestial beings, beings of perfection? ⁦(A ⁧ילוּד אִשָּׁ
 person with all of his ⁧חסרונות⁩⁦,⁩ his ⁧יצר הטוב⁩ and ⁧יצר הרע⁩⁦,⁩ and all of his
 various defects).⁩ ⁧אָמַר לָהֶן⁩ - Hakodosh Baruch Hu answered the ⁧מלאכים⁩⁦;⁩ ⁧לְקַבֵּל תּוֹרָה בָּא⁩ - he came to receive the Torah; ⁧אָמְרוּ לְפָנָיו⁩ - they said, “The
 Torah, which was established for 974 generations before ⁧בריאת העולם⁩⁦?⁩ We
-disagree; leave the Torah here. We want it to remain with us."⁧אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה: הַחְזֵיר לָהֶן תְּשׁוּבָה⁩ - Hashem told Moshe “You answer
+disagree; leave the Torah here. We want it to remain with us.”⁧אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה: הַחְזֵיר לָהֶן תְּשׁוּבָה⁩ - Hashem told Moshe “You answer
 them.” ⁧משה רבינו⁩ responded with a puzzling reply: ⁧אָמַר לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, מִתְיָירֵא אֲנִי שֶׁמָּא יִשְׂרְפוּנִי בַּהֶבֶל שֶׁבְּפִיהֶם⁩ - I'm afraid to answer the
 ⁧מלאכים⁩⁦,⁩ I'm afraid they'll burn me up with the with their ⁧הבל⁩⁦,⁩ with the
 breath from mouths.⁧אָמַר לוֹ: אֱחוֹז בְּכִסֵּא כְבוֹדִי וַחֲזוֹר לָהֶן תְּשׁוּבָה⁩ - Hashem told
@@ -12789,7 +12789,7 @@ test.”
 A few years later, the store owner met Rav Aryeh and told him, “I will
 never forget the words you said to me that Friday afternoon. You felt I
 was facing a very hard test. You understood what I was going through.
-The words 'Shabbos is Shabbos' that you whispered and didn't yell
+The words 'Shabbos is Shabbos’ that you whispered and didn't yell
 penetrated my heart.
 
 I felt you were feeling the pain of the holy Shabbos. At that moment, I
@@ -12982,10 +12982,10 @@ So hang on. Ten seconds ago, you said, I'm only asking you one thing, ⁧אַח�
 The ⁧תירוץ⁩ is there is one thing in bentching that we do not want. ⁧לֺא לִידֵי מַתְּנַת בָּשָׂר וָדָם⁩ - everything that I need should come directly from
 you, not from ⁧מַתְּנַת בָּשָׂר וָדָם⁩. ⁧חס ושלום⁩⁦,⁩ we should never have to come on to
 ⁧מַתְּנַת בָּשָׂר וָדָם⁩. Let me ask you a question. A kid comes home from school
-and he says, 'Ma, what's for supper?' So she gives him supper. Is that
+and he says, 'Ma, what's for supper?’ So she gives him supper. Is that
 called ⁧מַתְּנַת בָּשָׂר וָדָם⁩⁦?⁩ An older kid asks, 'Daddy, I'm getting ⁧בר מצוה⁩⁦,⁩ can
-I have a Borsalino?' 'Okay, you can have a Borsalino.' Is that ⁧מַתְּנַת בָּשָׂר וָדָם⁩⁦?⁩ An even older kid comes along and says, 'Dad, can I borrow the car
-keys?' Is that ⁧מַתְּנַת בָּשָׂר וָדָם⁩⁦?⁩ And even better, 'Can I have a car?' Is
+I have a Borsalino?’ 'Okay, you can have a Borsalino.’ Is that ⁧מַתְּנַת בָּשָׂר וָדָם⁩⁦?⁩ An even older kid comes along and says, 'Dad, can I borrow the car
+keys?’ Is that ⁧מַתְּנַת בָּשָׂר וָדָם⁩⁦?⁩ And even better, 'Can I have a car?’ Is
 that ⁧מַתְּנַת בָּשָׂר וָדָם⁩⁦?⁩ No, that's not ⁧מַתְּנַת בָּשָׂר וָדָם⁩. Why? Because that's
 called ⁧משפחה⁩⁦,⁩ that's called your family. When you're getting something
 from your father, mother, and family, that's not ⁧מַתְּנַת בָּשָׂר וָדָם⁩.
@@ -13913,7 +13913,7 @@ world. He called his beloved daughter close and told her he owed her a
 debt of gratitude. “With these words,” he told her, “You taught me how
 to really ask. When I find myself in difficult situations, I think of
 your words, and I call out to Hashem from the depths of my soul, '⁧רבונו של עולם⁩⁦,⁩ you are my only Father. I have no one else but you. So where
-else should I turn?' I realized that if I, limited in strength, responded to these words, then He who has the ⁧כח⁩ and the power to answer
+else should I turn?’ I realized that if I, limited in strength, responded to these words, then He who has the ⁧כח⁩ and the power to answer
 any call would certainly respond. For this, my daughter, I thank you.”
 
 Here we stand at the culmination of a season of pleading, and we know
@@ -14371,7 +14371,7 @@ a baby in the following ⁧תמוז⁩.
 “Right here,” R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1083> pointed to the door of his shul, “A yid came
 in to see me this year in ⁧סיון⁩. He wanted to talk to me, but I was on my
 way into shul. He said he only needed half a minute. 'I'm making a ⁧ברית⁩
-tomorrow', he said. '⁧מזל טוב⁩!' I replied 'You should have Yiddish ⁧נחת⁩’, and I gave him all the ⁧ברכות⁩. But then he stopped me. 'We were married
+tomorrow', he said. '⁧מזל טוב⁩!’ I replied 'You should have Yiddish ⁧נחת⁩’, and I gave him all the ⁧ברכות⁩. But then he stopped me. 'We were married
 for 10 years and this is our first child', he told me. 'I heard the
 story you said about R’ Shiya#metadata(none) <person-index-r-shiya-berlin-1086> last ⁧הושענא רבה⁩ and I resolved to do the
 same thing. I'm not the same person as R’ Shiya.#metadata(none) <person-index-r-shiya-berlin-1087> I didn't feel that I
@@ -14450,7 +14450,7 @@ these boys had never received a Torah education because they came from
 extremely poor families. Their days were spent working in order to put
 food on their family table. \[We said this before and I'll say it again:
 we don't know how lucky we are to live here. We take our ⁧ישיבה⁩ education
-for granted. We take our parents' ability to supply our needs for
+for granted. We take our parents’ ability to supply our needs for
 granted. ⁧אוי⁩. We should only appreciate it for one moment.\]
 
 With joy, the ⁧רב⁩ came out of the shul to speak to the boys and he said, “Did you know that on ⁧שמחת תורה⁩ there are two ⁧חתנים⁩? There's a ⁧חתן תורה⁩
@@ -15027,7 +15027,7 @@ to her room. The next morning, we saw her - her eyes were bloodshot, and
 she looked completely exhausted. She told us she had spent the entire
 night on her computer, analyzing this vort. After hours of calculations
 and research, she reached a conclusion: 'It is statistically impossible
-for this to have happened by chance. Impossible.' And then she left.”
+for this to have happened by chance. Impossible.’ And then she left.”
 
 “A number of years later I was at a ⁧חתונה⁩⁦,⁩ and I heard a woman calling
 my name from across the room, “R’ Greenwald, R’ Greenwald!” I said, “Excuse me, do I know you?” She said, “I am ⁧אסתר⁩ and ⁧מרדכי⁩. You see, now, Baruch Hashem, my hair is covered. I'm married to a ⁧תלמיד חכם⁩ who's

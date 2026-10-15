@@ -1084,14 +1084,20 @@ function smartenStraightDoubleQuotes(typstContent) {
     .replace(new RegExp(`(^|[\\s([{\\-])\\\\?"(?=(?:${HEBREW_LETTERS}|[\\u2066\\u2067]))`, "gu"), "$1“")
     .replace(new RegExp(`(${HEBREW_LETTERS})“(?=(?:\\s+[A-Za-z])|$|[,.;:!?)}\\]]|\\u2069)`, "gu"), "$1”")
     .replace(new RegExp(`(${HEBREW_LETTERS})\\\\?"(?=\\s|$|[,.;:!?)}\\]]|\\u2069)`, "gu"), "$1”")
+    .replace(new RegExp(`([^\\s${hebrewClass}])\\\\?"(?=${HEBREW_LETTERS})`, "gu"), "$1”")
     .replace(new RegExp(`(^|[\\s([{\\-])\\\\?"(?=[^\\s${hebrewClass}])`, "gu"), "$1“")
     .replace(new RegExp(`([^\\s${hebrewClass}])\\\\?"(?=\\s|$|[,.;:!?)}\\]])`, "gu"), "$1”");
 }
 
 function smartenNestedSingleQuotes(typstContent) {
   return typstContent
-    .replace(/([,;:.!?])\s+'(?=\\?["”])/g, "$1’")
-    .replace(/(\\?[.?!])'(?=\\?["”])/g, "$1’");
+    // A quote immediately following terminal punctuation is a closer, even
+    // when the source converter has reduced it to an ambiguous apostrophe.
+    .replace(/(\\?[.?!])\s*['‘](?=\s|$|["”\)\]])/g, "$1’")
+    .replace(/([,;:])\s*['‘](?=\s|$|["”\)\]])/g, "$1’")
+    // Possessive names are likewise closers; retain the word separator only
+    // after the apostrophe.
+    .replace(/([A-Za-z])\s*['‘](?=\s+[A-Za-z])/g, "$1’");
 }
 
 function preserveInitialCase(replacement) {
@@ -1364,6 +1370,10 @@ function repairSplitMasechtaDafQuestions(typstContent) {
 
 function repairQuotedHebrewRuns(typstContent) {
   return typstContent
+    .replace(
+      new RegExp(`([A-Za-z.!?])${RTL_ISOLATE}”(${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
+      `$1”${RTL_ISOLATE}$2${POP_DIRECTIONAL_ISOLATE}`
+    )
     .replace(
       new RegExp(`${RTL_ISOLATE}([^${POP_DIRECTIONAL_ISOLATE}\\n]*?)“([^${POP_DIRECTIONAL_ISOLATE}\\n”]*${HEBREW_LETTERS}[^${POP_DIRECTIONAL_ISOLATE}\\n”]*)”([^${POP_DIRECTIONAL_ISOLATE}\\n]*)${POP_DIRECTIONAL_ISOLATE}`, "gu"),
       `${RTL_ISOLATE}$1”$2“$3${POP_DIRECTIONAL_ISOLATE}`

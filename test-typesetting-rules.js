@@ -405,6 +405,20 @@ test("keeps closing single quote after Hebrew word as quote", () => {
   );
 });
 
+test("smarten closing single quotes after punctuation and possessive names", () => {
+  assert.equal(
+    applyTextRules("on time?' He asked. 'Sure, ' they said. R’ Sheps ' sefer."),
+    "on time?’ He asked. 'Sure,’ they said. R’ Sheps’ sefer."
+  );
+});
+
+test("smarten closing double quote before a Hebrew isolate", () => {
+  assert.equal(
+    applyTextRules('We want it to remain with us."אמר לו'),
+    `We want it to remain with us.”${RTL_ISOLATE}אמר לו${POP_DIRECTIONAL_ISOLATE}`
+  );
+});
+
 test("keeps person index markers after adjacent punctuation", () => {
   assert.equal(
     normalizePunctuationSpacing(
@@ -1440,6 +1454,23 @@ test("docx: Behar 5784 keeps indexed quote marker after closing punctuation", ()
     `thank you Rabbi Gesheid!#metadata(none) <person-index-rabbi-gesheid-3>” she said`,
     "index marker should not separate exclamation point from closing quote"
   );
+});
+
+test("docx: reported single quote closers use closing glyphs", () => {
+  const cases = [
+    ["/chayai-sara/5786/", "on time?’ He wasn't bothered"],
+    ["/pekudei/5785/", "near the galley.’\nTo my surprise"],
+    ["/korach/5785/", "speak with you.’ I thought"],
+    ["/ki-seitzei/5785/", "'Sure,’ they said"],
+    ["/ki-savo/5785/", "Sheps’\nsefer"],
+    ["/pesach/5785/story-1/", "'True,’ I\nadmitted"],
+    ["/elul/5784/", "for supper?’ So she gives"],
+    ["/shavuos/5783/", "We want it to remain with us.”"],
+  ];
+
+  for (const [route, expected] of cases) {
+    assertContains(convertedDocx(route), expected, `${route} closing quote`);
+  }
 });
 
 test("docx: Behar 5784 keeps indexed quoted title tight to its closing quote", () => {
