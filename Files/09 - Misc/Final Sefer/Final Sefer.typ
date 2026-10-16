@@ -14640,11 +14640,13 @@ it at the right time and do the right thing.”
 ⁧חנוכה⁩! The ⁧מצוה⁩ of ⁧חנוכה⁩ is ⁧מהדרין מן המהדרין⁩. We follow the opinion of
 ⁧בית הלל⁩⁦,⁩ and each day we add another candle. On the first night, we
 light one candle; on the second night, two; and so on. I saw a
-fantastic, ⁧גיוואלדיק⁩ insight on this from R’ Elimelech Biderman, #metadata(none) <person-index-r-elimelech-biderman-1112> he
-should live and be well. He explains that the ⁧עבודה⁩ of contemplating and
-reflecting on the ⁧חסדים⁩ of ⁧הקדוש ברוך הוא⁩ is not so difficult when you
-learn how to do it. Just as we add another candle each day, so too we
-must reflect daily on the ⁧חסדים⁩ of Hashem.
+fantastic, ⁧גיוואלדיק⁩ insight on this from R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-1112>
+(#emph[Around the Year with Reb Meilech.] Permission granted by
+ArtScroll / Mesorah Publications), he should live and be well. He
+explains that the ⁧עבודה⁩ of contemplating and reflecting on the ⁧חסדים⁩ of
+⁧הקדוש ברוך הוא⁩ is not so difficult when you learn how to do it. Just as
+we add another candle each day, so too we must reflect daily on the
+⁧חסדים⁩ of Hashem.
 
 Consider the ⁧קרבן תודה⁩. This ⁧קרבן⁩⁦,⁩ which represents and expresses our
 appreciation for ⁦הקדוש ברוך הוא'⁩s kindness to us in every way, is
