@@ -5551,7 +5551,7 @@ to ⁧שמחות⁩⁦,⁩ ⁧נחת⁩⁦,⁩ ⁧געזונט⁩⁦,⁩ and the
   ))
 = Vayakhel-Pekudei 5783
 
-This week's Shabbos leining is the second longest of the year, ⁧ויקהל⁩/⁧פקודי פרשת החדש⁩. In ⁧ויקהל⁩⁦,⁩ ⁧משה רבינו⁩ makes a definitive statement
+This week's Shabbos leining is the second longest of the year, ⁧ויקהל/פקודי פרשת החדש⁩. In ⁧ויקהל⁩⁦,⁩ ⁧משה רבינו⁩ makes a definitive statement
 (35:10): ⁧וְכׇל חֲכַם לֵב בָּכֶם יָבֹאוּ וְיַעֲשׂוּ אֵת כׇּל אֲשֶׁר צִוָּה ה׳⁩ - All of those who
 have a wise heart will come and do everything that Hashem has commanded.
 Rabbi Dr. Abraham Twerski#metadata(none) <person-index-rabbi-dr-abraham-twerski-383> ⁦זצ״ל⁩, the famous psychiatrist and ⁧תלמיד חכם⁩⁦,⁩ has a story that relates to this pasuk (#emph[Living Each Week].
@@ -7926,7 +7926,7 @@ shouldn't be together. ⁦רש״י⁩#metadata(none) <person-index-rashi-556> sa
 will be ⁧בטל⁩.
 
 So why the letter ⁧נ⁩ and not any other letter? The ⁧אפריון⁩ answers that
-there are two ⁧תוכחה⁩/⁧פורעניות⁩ sections in the ⁧תורה⁩⁦,⁩ one in ⁧בחקתי⁩ and the
+there are two ⁧תוכחה/פורעניות⁩ sections in the ⁧תורה⁩⁦,⁩ one in ⁧בחקתי⁩ and the
 other in ⁧כי תבוא⁩. There are 98 ⁧קללות⁩ in the major ⁧תוכחה⁩ in ⁧כי תבוא⁩.
 However, the ⁧אפריון⁩ writes that in addition to these 98, there's also
 the phrase ⁧גַּם כׇּל חֳלִי וְכׇל מַכָּה⁩. The ⁧חֳלִי⁩ and ⁧מַכָּה⁩ adds another two to 98 for
@@ -8629,12 +8629,14 @@ very soon, ⁧במהרה בימינו אמן⁩
 = Chukas 5784 (2)
 
 This is an addendum to ⁧פרשת חקת⁩. I came across this vort from Rabbi
-Frand#metadata(none) <person-index-r-yissocher-frand-628> who always has something worthwhile to share with us, and I
-thought it would be nice to share with you. ⁧פרשת חקת⁩ starts off with the
-laws of ⁧טומאת מת⁩. If a person comes in contact with a dead body, even
-being in the same house as a dead body, he's given the status of an ⁧אב הטומאה⁩⁦,⁩ ⁧טמא מת⁩. The only way he can become ⁧טהור⁩ is to have the ⁧מים⁩ of
-the ⁧פרה אדומה⁩ sprinkled on him two times, on day three and day seven of
-the seven-day ⁧טהרה⁩ procedure.
+Frand#metadata(none) <person-index-r-yissocher-frand-628> (#emph[An Offer You Can't Refuse]. Permission granted by ArtScroll
+\/ Mesorah Publications) who always has something worthwhile to share
+with us, and I thought it would be nice to share with you. ⁧פרשת חקת⁩
+starts off with the laws of ⁧טומאת מת⁩. If a person comes in contact with
+a dead body, even being in the same house as a dead body, he's given the
+status of an ⁧אב הטומאה⁩⁦,⁩ ⁧טמא מת⁩. The only way he can become ⁧טהור⁩ is to
+have the ⁧מים⁩ of the ⁧פרה אדומה⁩ sprinkled on him two times, on day three
+and day seven of the seven-day ⁧טהרה⁩ procedure.
 
 The ⁧פסוק⁩ says (19:19), ⁧וְהִזָּה הַטָּהֹר עַל הַטָּמֵא⁩ - the pure one should sprinkle
 onto the impure one, and then he goes into the ⁧מקוה⁩. The ⁧תלמוד ירושלמי⁩

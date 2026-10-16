@@ -119,6 +119,10 @@ const HEBREW_HYPHENATED_TOKEN_RE = new RegExp(
   `${HEBREW_TOKEN}(?:-${HEBREW_TOKEN})+(?:\\s+${HEBREW_TOKEN})*`,
   "gu"
 );
+const HEBREW_SLASH_COMPOUND_RE = new RegExp(
+  `${HEBREW_TOKEN}(?:/${HEBREW_TOKEN})+(?:\\s+${HEBREW_TOKEN})*`,
+  "gu"
+);
 const QUOTED_HEBREW_TOKEN_RE = new RegExp(
   `(["“])(${HEBREW_TOKEN}(?:-${HEBREW_TOKEN})*)(["”])`,
   "gu"
@@ -1322,7 +1326,11 @@ function isolateHebrewRuns(typstContent) {
     return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
-  const hebrewHyphenatedSafeContent = hebrewParshasHyphenatedSafeContent.replace(HEBREW_HYPHENATED_TOKEN_RE, (match) => {
+  const hebrewSlashCompoundSafeContent = hebrewParshasHyphenatedSafeContent.replace(HEBREW_SLASH_COMPOUND_RE, (match) => {
+    return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match).replace(/ /g, "\u00A0")}${POP_DIRECTIONAL_ISOLATE}`);
+  });
+
+  const hebrewHyphenatedSafeContent = hebrewSlashCompoundSafeContent.replace(HEBREW_HYPHENATED_TOKEN_RE, (match) => {
     return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
   });
 

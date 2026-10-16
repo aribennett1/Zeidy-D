@@ -1085,6 +1085,13 @@ test("keeps Hebrew hyphenated letter pair after Hebrew comma phrase in order", (
   );
 });
 
+test("keeps the Vayakhel-Pekudei Hebrew label in one RTL run", () => {
+  assert.equal(
+    applyTextRules("the year, ויקהל/פקודי פרשת החדש. In ויקהל"),
+    `the year, ${RTL_ISOLATE}ויקהל/פקודי\u00A0פרשת\u00A0החדש${POP_DIRECTIONAL_ISOLATE}. In ${RTL_ISOLATE}ויקהל${POP_DIRECTIONAL_ISOLATE}`
+  );
+});
+
 test("keeps Hebrew hyphenated phrase with trailing name in one reading order", () => {
   assert.equal(
     applyTextRules("understood as בי-יששכר בנימין - who speaks"),
@@ -1765,6 +1772,21 @@ test("docx: Ki Seitzei 5784 keeps midah keneged midah and bais hachaim in RTL or
     typst,
     `in the ${RTL_ISOLATE}בית החיים${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}מדה כנגד מדה${POP_DIRECTIONAL_ISOLATE}.`,
     "LTR comma between bais hachaim and midah keneged midah"
+  );
+});
+
+test("docx: Vayakhel-Pekudei 5783 keeps the combined parsha label in one RTL run", () => {
+  const typst = convertedDocx("/vayakhel-pekudei/5783/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}ויקהל/פקודי\u00A0פרשת\u00A0החדש${POP_DIRECTIONAL_ISOLATE}`,
+    "combined Vayakhel-Pekudei label"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}ויקהל${POP_DIRECTIONAL_ISOLATE}/${RTL_ISOLATE}פקודי`,
+    "combined Vayakhel-Pekudei label split around slash"
   );
 });
 
