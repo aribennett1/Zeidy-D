@@ -440,6 +440,63 @@ function docxParagraphAlignments(docxPath) {
   return alignments;
 }
 
+function docxRtlRunSequences(docxPath) {
+  const xml = run("unzip", ["-p", docxPath, WORD_DOCUMENT]);
+  const sequences = [];
+  const paragraphRe = /<w:p\b[\s\S]*?<\/w:p>/g;
+  const runRe = /<w:r\b[\s\S]*?<\/w:r>/g;
+  let paragraphMatch;
+
+  while ((paragraphMatch = paragraphRe.exec(xml)) !== null) {
+    const runs = [];
+    let runMatch;
+
+    while ((runMatch = runRe.exec(paragraphMatch[0])) !== null) {
+      const runXml = runMatch[0];
+      const text = Array.from(runXml.matchAll(/<w:t\b[^>]*>([\s\S]*?)<\/w:t>/g))
+        .map((textMatch) => decodeDocxXmlText(textMatch[1]))
+        .join("");
+      if (text) {
+        runs.push({ text, rtl: /<w:rtl(?:\s[^>]*)?\/>/.test(runXml) });
+      }
+    }
+
+    for (let index = 0; index < runs.length;) {
+      if (!runs[index].rtl) {
+        index += 1;
+        continue;
+      }
+
+      const rtlRuns = [runs[index].text];
+      let end = index + 1;
+      while (end + 1 < runs.length && /^\s+$/u.test(runs[end].text) && runs[end + 1].rtl) {
+        rtlRuns.push(runs[end + 1].text);
+        end += 2;
+      }
+
+      const visual = rtlRuns.join(" ").replace(/\s+/g, " ").trim();
+      const wordCount = (visual.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;
+      const everyRunIsMultiword = rtlRuns.every(
+        (runText) => (runText.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length >= 2
+      );
+      if (rtlRuns.length > 1 && everyRunIsMultiword && wordCount >= 6) {
+        const logical = [...rtlRuns].reverse().join(" ").replace(/\s+/g, " ").trim();
+        sequences.push({ visual, logical });
+      }
+      index = end;
+    }
+  }
+
+  return sequences;
+}
+
+function normalizeDocxRtlRunSequences(typstContent, sequences) {
+  return sequences.reduce(
+    (content, { visual, logical }) => content.replaceAll(visual, logical),
+    typstContent
+  );
+}
+
 function docxDefaultParagraphAlignment(docxPath) {
   let stylesXml = "";
 
@@ -1867,7 +1924,10 @@ async function ensureEntryFiles(entries) {
 }
 
 function convertDocxToTypst(entry, indexState = null) {
-  const typst = run("pandoc", [entry.docxPath, "-t", "typst"]);
+  const typst = normalizeDocxRtlRunSequences(
+    run("pandoc", [entry.docxPath, "-t", "typst"]),
+    docxRtlRunSequences(entry.docxPath)
+  );
   const repairedTypst = repairEscapedHebrewParagraphCitations(typst);
   const removedParagraphCount = entry.isHaskama
     ? 0

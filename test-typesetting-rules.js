@@ -1790,6 +1790,21 @@ test("docx: Vayakhel-Pekudei 5783 keeps the combined parsha label in one RTL run
   );
 });
 
+test("docx: Lech Lecha 5784 restores logical order from adjacent RTL source runs", () => {
+  const typst = convertedDocx("/lech-lecha/5784/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}קָרוֹב ה׳ לְכׇל קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת${POP_DIRECTIONAL_ISOLATE}`,
+    "pasuk restored from adjacent RTL source runs"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת קָרוֹב ה׳ לְכׇל${POP_DIRECTIONAL_ISOLATE}`,
+    "visually ordered RTL source runs"
+  );
+});
+
 test("docx: Story Purim 5783 keeps talmid chacham in logical order", () => {
   const typst = convertedDocx("/purim/5783/story/");
 
@@ -2071,7 +2086,7 @@ test("docx: Rabbi Oelbaum Shabbos keeps the revised introductory note centered",
 
   assertContains(
     typst,
-    "#align(center)[\nZeidy: This was a dvar Torah that R’ Oelbaum requested be printed",
+    "#align(center)[\nA dvar Torah on parshas Ki Sisa by R’ Oelbaum, who gave permission to",
     "centered introductory note"
   );
   assertNotContains(

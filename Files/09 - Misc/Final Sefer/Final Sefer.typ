@@ -1292,7 +1292,7 @@ I recently came across a dvar torah from ⁧רבי יצחק טוביה וייס�
 you open a ⁧תהילים⁩ and look at ⁧פרק קמ״ה⁩⁦,⁩ ⁧תְּהִלָּה לְדָוִד⁩⁦,⁩ known as ⁧אַשְׁרֵי⁩⁦,⁩ you'll
 notice that each ⁧פסוק⁩ contains a ⁧ו⁩⁦,⁩ a ⁧ו החיבור⁩ - a connecting ⁧ו⁩⁦,⁩ that
 connects the first half of the ⁧פסוק⁩ to the second half, except for one
-⁧פסוק⁩: ⁧קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת קָרוֹב ה׳ לְכׇל⁩. This unique ⁧פסוק⁩ has no ⁧ו⁩
+⁧פסוק⁩: ⁧קָרוֹב ה׳ לְכׇל קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת⁩. This unique ⁧פסוק⁩ has no ⁧ו⁩
 connecting the two halves. ⁧רבי וייס⁩ explains that the ⁧ו החיבור⁩ in each
 ⁧פסוק⁩ is a symbol of the deep bond between ⁧כלל ישראל⁩ and ⁧הקדוש ברוך הוא⁩.
 The ⁧פסוק⁩ of ⁧קֹרְאָיו קָרוֹב ה׳ לְכׇל⁩ represents an intrinsic ⁧חיבור⁩ that doesn't
@@ -2786,7 +2786,7 @@ find success.
 
 The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-176> on the ⁧פרשה⁩ quotes the ⁧מדרש רבה⁩ on ⁧פרשת מקץ⁩⁦,⁩ which
 references a ⁧פסוק⁩ in ⁧תהילים⁩ \(40:5): ⁧אַשְׁרֵי הַגֶּבֶר אֲשֶׁר שָׂם ה׳ מִבְטַחוֹ⁩ - Praised
-is the man who puts his ⁧בטחון⁩ in Hashem; ⁧זה יוסף וְלֹא פָנָה אֶל רְהָבִים⁩ - and
+is the man who puts his ⁧בטחון⁩ in Hashem; ⁧וְלֹא פָנָה אֶל רְהָבִים זה יוסף⁩ - and
 he did not turn to magicians, magic, or other sources. The ⁧מדרש⁩ explains
 that because ⁧יוסף⁩ asked the ⁧שר המשקים⁩ to “remember me and mention me,”
 an additional two years were added to his time in prison.
