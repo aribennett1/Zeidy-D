@@ -10193,26 +10193,11 @@ reward for every single ⁧מעשה⁩ that we do, which is a gift from Hashem.
 All of the rewards that we get in ⁧עולם הזה⁩ are only the ⁧פירות⁩⁦,⁩ only the
 small little parts of the additional ⁧שכר⁩ that we get. The ⁧שכר⁩ is really
 ⁧מקיים⁩ for ⁧עולם הבא⁩. That's what the ⁧פסוק⁩ is saying, ⁧ברכה וקללה⁩. What
-does ⁧וקללה⁩ mean? ⁧והקרן קיימת לו לעולם הבא⁩:
-
-#align(right)[
-⁧ו⁩ - ⁧והקרן⁩]
-
-#align(right)[
-⁧ק⁩ - ⁧קיימת⁩]
-
-#align(right)[
-⁧ל⁩ - ⁧לו⁩]
-
-#align(right)[
-⁧ל⁩- ⁧לעולם⁩]
-
-#align(right)[
-⁧ה⁩- ⁧הבא⁩]
-
-⁧והקרן קיימת לו לעולם הבא⁩ is the ⁧ראשי תיבות⁩ represented by ⁧וקללה⁩. So we
-see we're getting a ⁧ברכה⁩ from ⁧עולם הזה⁩ and ⁧עולם הבא⁩ in this very pasuk, and in the ⁧זכות⁩ of doing the ⁧מצוות⁩⁦,⁩ we should continue to grow and do
-more and more and get all of those ⁧ברכות⁩ and ⁧והקרן קיימת לו לעולם הבא⁩.
+does ⁧וקללה⁩ mean? ⁧והקרן קיימת לו לעולם הבא⁩: \
+⁧ו⁩ - ⁧והקרן⁩ \ ⁧ק⁩ - ⁧קיימת⁩ \ ⁧ל⁩ - ⁧לו⁩ \ ⁧ל⁩ - ⁧לעולם⁩ \ ⁧ה⁩ - ⁧הבא⁩ \ ⁧והקרן קיימת לו לעולם הבא⁩ is the ⁧ראשי תיבות⁩ represented by ⁧וקללה⁩. So we see we're
+getting a ⁧ברכה⁩ from ⁧עולם הזה⁩ and ⁧עולם הבא⁩ in this very pasuk, and in the
+⁧זכות⁩ of doing the ⁧מצוות⁩⁦,⁩ we should continue to grow and do more and more
+and get all of those ⁧ברכות⁩ and ⁧והקרן קיימת לו לעולם הבא⁩.
 
 #pagebreak()
 
@@ -12488,9 +12473,9 @@ various defects).⁩ ⁧אָמַר לָהֶן⁩ - Hakodosh Baruch Hu answered t
 Torah, which was established for 974 generations before ⁧בריאת העולם⁩⁦?⁩ We
 disagree; leave the Torah here. We want it to remain with us.”⁧אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה: הַחְזֵיר לָהֶן תְּשׁוּבָה⁩ - Hashem told Moshe “You answer
 them.” ⁧משה רבינו⁩ responded with a puzzling reply: ⁧אָמַר לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, מִתְיָירֵא אֲנִי שֶׁמָּא יִשְׂרְפוּנִי בַּהֶבֶל שֶׁבְּפִיהֶם⁩ - I'm afraid to answer the
-⁧מלאכים⁩⁦,⁩ I'm afraid they'll burn me up with the with their ⁧הבל⁩⁦,⁩ with the
-breath from mouths. ⁧אָמַר לוֹ: אֱחוֹז בְּכִסֵּא כְבוֹדִי וַחֲזוֹר לָהֶן תְּשׁוּבָה⁩ - Hashem told
-him, “Hold on to the ⁧כסא הכבוד⁩ and answer them.” Like a ⁧סגולה⁩⁦,⁩ a token, a trinket, a talisman - hold on, and respond. ⁧משה רבינו⁩ proceeded to say
+⁧מלאכים⁩⁦,⁩ I'm afraid they'll burn me up with their ⁧הבל⁩⁦,⁩ with the breath
+from mouths. ⁧אָמַר לוֹ: אֱחוֹז בְּכִסֵּא כְבוֹדִי וַחֲזוֹר לָהֶן תְּשׁוּבָה⁩ - Hashem told him, “Hold on to the ⁧כסא הכבוד⁩ and answer them.” Like a ⁧סגולה⁩⁦,⁩ a token, a
+trinket, a talisman - hold on, and respond. ⁧משה רבינו⁩ proceeded to say
 to them: “The Torah says we were in ⁧מצרים⁩. Were you in ⁧מצרים⁩? It says
 ⁧כבד את אביך ואת אמך⁩. Do you have parents?” And he went through all the
 ⁧מצוות⁩ of the ⁧תורה⁩ which are clearly only ⁧שייך⁩ to ⁧בשר ודם⁩. With this, he
@@ -13516,7 +13501,7 @@ bag. The bag dropped down back, limp and empty. The next moment I heard
 a terrible cry. The ⁧שטן⁩ was back. He had discovered what I had done. He
 was filled with anger and consternation.
 
-⁧“גנב⁩! What have you done with my wonderful ⁧עבירות⁩?” He grabbed my beard
+“⁧גנב⁩! What have you done with my wonderful ⁧עבירות⁩?” He grabbed my beard
 and payos and yelled, “You're a ⁧גנב⁩! All year I labored to gather these
 precious sins, you have stolen them! You have to pay ⁧כפל⁩. You have to
 pay me back double.” “How can I pay you?” I pleaded. “My sins may be
@@ -14943,10 +14928,9 @@ for ⁧וסוכות⁩⁦,⁩ could also mean “and”. What does that “and�
 means that both Purims, ⁧פורים קטן⁩ and ⁧פורים גדול⁩⁦,⁩ are to be considered
 ⁧ימים טובים⁩.
 
-Another vort that I would like to share that with you is from the sefer
-⁧אִגֶרֶת פורים⁩. The Apter Rav, #metadata(none) <person-index-apter-rav-1136> R’ Avraham Yehoshua Heshel, #metadata(none) <person-index-apter-rav-1137> made a ⁧סעודה⁩ for
-all of his ⁧תלמידים⁩ and his ⁧חסידים⁩ on ⁧פורים קטן⁩. Among the people sitting
-at his ⁧פורים קטן סעודה⁩ was a Chassidish Rebbe named R’ Lieb M'Lichev.#metadata(none) <person-index-r-lieb-m-lichev-1142> He
+Another vort that I would like to share with you is from the sefer ⁧אִגֶרֶת פורים⁩. The Apter Rav, #metadata(none) <person-index-apter-rav-1136> R’ Avraham Yehoshua Heshel, #metadata(none) <person-index-apter-rav-1137> made a ⁧סעודה⁩ for all
+of his ⁧תלמידים⁩ and his ⁧חסידים⁩ on ⁧פורים קטן⁩. Among the people sitting at
+his ⁧פורים קטן סעודה⁩ was a Chassidish Rebbe named R’ Lieb M'Lichev.#metadata(none) <person-index-r-lieb-m-lichev-1142> He
 was a well-seasoned ⁧תלמיד חכם⁩. During the ⁧סעודה⁩⁦,⁩ the Apter Rav#metadata(none) <person-index-apter-rav-1138> turned to
 R’ Leib and said, “Leib, let's hear something from you! Enlighten us
 with your words.” R’ Leib smiled and responded, “The ⁧מנהג⁩ of the world

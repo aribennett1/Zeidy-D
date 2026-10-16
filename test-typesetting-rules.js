@@ -885,6 +885,13 @@ test("moves a trapped opening quote outside an inline Hebrew isolate", () => {
   );
 });
 
+test("moves a paragraph-opening quote outside its Hebrew isolate", () => {
+  assert.equal(
+    applyTextRules("“גנב! What have you done with my wonderful עבירות?”"),
+    `“${RTL_ISOLATE}גנב${POP_DIRECTIONAL_ISOLATE}! What have you done with my wonderful ${RTL_ISOLATE}עבירות${POP_DIRECTIONAL_ISOLATE}?”`
+  );
+});
+
 test("keeps opening quote before Hebrew word when quoted sentence continues in English", () => {
   assert.equal(
     applyTextRules('They would answer "קרובץ is קרובץ לפורים"'),
@@ -1096,6 +1103,13 @@ test("keeps the Vayakhel-Pekudei Hebrew label in one RTL run", () => {
   assert.equal(
     applyTextRules("the year, ויקהל/פקודי פרשת החדש. In ויקהל"),
     `the year, ${RTL_ISOLATE}ויקהל/פקודי\u00A0פרשת\u00A0החדש${POP_DIRECTIONAL_ISOLATE}. In ${RTL_ISOLATE}ויקהל${POP_DIRECTIONAL_ISOLATE}`
+  );
+});
+
+test("keeps right-aligned Hebrew initialism expansion rows in source order", () => {
+  assert.equal(
+    applyTextRules(`#align(right)[\nו - והקרן]`),
+    `#align(right)[\n${LTR_ISOLATE}ו - והקרן${POP_DIRECTIONAL_ISOLATE}]`
   );
 });
 
@@ -1809,6 +1823,31 @@ test("docx: Lech Lecha 5784 restores logical order from adjacent RTL source runs
     typst,
     `${RTL_ISOLATE}קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת קָרוֹב ה׳ לְכׇל${POP_DIRECTIONAL_ISOLATE}`,
     "visually ordered RTL source runs"
+  );
+});
+
+test("docx: Rosh Hashana in Berditchev keeps an opening quote before Hebrew", () => {
+  const typst = convertedDocx("/rosh-hashana/rosh-hashana-in-berditchev/");
+
+  assertContains(
+    typst,
+    `“${RTL_ISOLATE}גנב${POP_DIRECTIONAL_ISOLATE}! What have you done with my wonderful ${RTL_ISOLATE}עבירות${POP_DIRECTIONAL_ISOLATE}?”`,
+    "opening quote before ganav"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}“גנב${POP_DIRECTIONAL_ISOLATE}!`,
+    "opening quote trapped inside ganav isolate"
+  );
+});
+
+test("docx: Re'eh 5783 preserves current hard-break initialism rows", () => {
+  const typst = convertedDocx("/re'eh/5783/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}ו${POP_DIRECTIONAL_ISOLATE} - ${RTL_ISOLATE}והקרן${POP_DIRECTIONAL_ISOLATE} \\ ${RTL_ISOLATE}ק${POP_DIRECTIONAL_ISOLATE} - ${RTL_ISOLATE}קיימת${POP_DIRECTIONAL_ISOLATE}`,
+    "current hard-break initialism rows"
   );
 });
 
