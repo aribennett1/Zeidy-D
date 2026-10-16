@@ -15381,9 +15381,8 @@ is a potential ⁧משה⁩.
 = Shabbos - The Gift of Olam Haba in This World. By Rav Oelbaum
 
 #align(center)[
-Zeidy: This was a dvar Torah that R’ Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-1192> requested be printed
-because it was a very beautiful vort on Ki Sisa, and he gave us
-permission to put it in the sefer.]
+A dvar Torah on parshas Ki Sisa by R’ Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-1192> who gave permission to
+put it in this sefer.]
 
 In this shiur, ⁧בעזרת השם⁩⁦,⁩ we'll give an appreciation of the wonderful
 gift, the wonderful ⁧מתנה⁩⁦,⁩ called ⁧שבת⁩. We'll begin first with the ⁧גמרא⁩ in

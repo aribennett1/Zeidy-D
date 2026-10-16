@@ -19,11 +19,11 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0212.png](typeset-audit-pages/page-0212.png)
   - hardly fathom.)⁩ ⁧,‫ ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר...
   - normalized: hardly fathom.) , ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר סה,...
-- PDF visual text, page 464, Shabbos - The Gift of Olam Haba in This World. By Rav Oelbaum, line 16
+- PDF visual text, page 464, Shabbos - The Gift of Olam Haba in This World. By Rav Oelbaum, line 15
   - visual: [page-0464.png](typeset-audit-pages/page-0464.png)
   - The ⁧‫ ⁩גמרא‬says: ⁧,‫ אמר להם הקדוש ברוך הוא למשה‬.‫ לדעת כי אני ה׳ מקדשכם‬,‫תני נמי הכי‬
   - normalized: The  גמראsays: , אמר להם הקדוש ברוך הוא למשה. לדעת כי אני ה׳ מקדשכםת,ני נמי הכי
-- PDF visual text, page 466, each and every person. On account of this   קשיא ,  from time immemorial, a, line 11
+- PDF visual text, page 466, person has had to strengthen himself and be     מחזיק himself in his firm belief, line 10
   - visual: [page-0466.png](typeset-audit-pages/page-0466.png)
   - ‫⁩ונתן לו‬. ⁧‫ ⁩משה רבינו‬says: ⁧,‫ ויש צדיק ורע לו‬,‫ מפני מה יש צדיק וטוב לו‬,‫רבונו של עולם‬
   - normalized: ונתן לו.  משה רבינוsays: , ויש צדיק ורע לו, מפני מה יש צדיק וטוב לור,בונו של עולם
