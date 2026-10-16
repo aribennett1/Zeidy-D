@@ -440,6 +440,13 @@ test("removes spaces before sentence punctuation", () => {
   );
 });
 
+test("adds a space after English terminal punctuation before Hebrew", () => {
+  assert.equal(
+    normalizePunctuationSpacing("No one else.הקדוש ברוך הוא is responsible."),
+    "No one else. הקדוש ברוך הוא is responsible."
+  );
+});
+
 test("removes spaces before closing parenthesis", () => {
   assert.equal(
     normalizePunctuationSpacing("it is the בית הלוי ). He says"),
@@ -1803,6 +1810,28 @@ test("docx: Lech Lecha 5784 restores logical order from adjacent RTL source runs
     `${RTL_ISOLATE}קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת קָרוֹב ה׳ לְכׇל${POP_DIRECTIONAL_ISOLATE}`,
     "visually ordered RTL source runs"
   );
+});
+
+test("docx: English sentence punctuation stays separated from following Hebrew", () => {
+  const cases = [
+    ["/noach/5784/(1)/", "else."],
+    ["/lech-lecha/5786/(2)/", "question."],
+    ["/toldos/5785/", "notions."],
+    ["/vayaishev/5785/", "midos.", LTR_ISOLATE],
+    ["/mikeitz/5784/", "charge."],
+    ["/balak/5785/", "loving."],
+    ["/balak/5785/", "saying."],
+    ["/shavuos/5783/", "mouths."],
+  ];
+
+  for (const [route, sentenceEnd, isolate = RTL_ISOLATE] of cases) {
+    const typst = convertedDocx(route);
+    assertContains(
+      typst,
+      `${sentenceEnd} ${isolate}`,
+      `${route} keeps a space after ${sentenceEnd}`
+    );
+  }
 });
 
 test("docx: Story Purim 5783 keeps talmid chacham in logical order", () => {

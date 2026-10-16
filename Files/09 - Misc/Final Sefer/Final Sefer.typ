@@ -1082,7 +1082,7 @@ heritage, of their independence and their Bastille Day, their starting
 out as great nations. And what do we do? We start out with, as we say
 about the haggadah, ⁧מתחילין בגנות ומסיימין בשבח⁩. So we say ⁧מִתְּחִלָּה עוֹבְדֵי עֲבוֹדָה זָרָה הָיוּ אֲבוֹתֵינוּ⁩ - We started out little. We never claim our
 independence. We say ⁧הקדוש ברוך הוא⁩ took us out of ⁧מצרים⁩⁦,⁩ no one
-else.⁧הקדוש ברוך הוא⁩ is the one who's responsible for our independence, not us. In exactly the same way, ⁦אברהם אבינו'⁩s great brilliance, fantastic ⁧מסירות נפש⁩ to start off our history as a nation is also
+else. ⁧הקדוש ברוך הוא⁩ is the one who's responsible for our independence, not us. In exactly the same way, ⁦אברהם אבינו'⁩s great brilliance, fantastic ⁧מסירות נפש⁩ to start off our history as a nation is also
 buried. It's very hidden. We have to go and uncover it and search for
 it. Like everything else in this world, ⁧אמת⁩ is hidden; ⁧שקר⁩ is all over
 the place. Our ⁧אמת⁩ is buried there. We have to look for it, and when we
@@ -1468,7 +1468,7 @@ level of ⁧אברהם אבינו⁩ and to be better people and to serve ⁧ה�
 
 ⁧לך לך⁩. I heard this vort from my ⁧טייערע⁩ son-in-law Dovid Tribuch, #metadata(none) <person-index-dovid-tribuch-66> who
 heard it from R’ Ephraim Goldberg.#metadata(none) <person-index-r-ephraim-goldberg-67> When Avram leaves ⁧חרן⁩ and is coming
-to ⁧ארץ ישראל⁩⁦,⁩ Hashem gives him a tremendous ⁧הבטחה⁩: (12:3) ⁧וַאֲבָרְכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר⁩. Rabbi Goldberg asked an interesting question.⁧וַאֲבָרְכָה⁩ - whoever benches you; ⁧מְבָרְכֶיךָ⁩ - will be benched, I will bench them. Both
+to ⁧ארץ ישראל⁩⁦,⁩ Hashem gives him a tremendous ⁧הבטחה⁩: (12:3) ⁧וַאֲבָרְכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר⁩. Rabbi Goldberg asked an interesting question. ⁧וַאֲבָרְכָה⁩ - whoever benches you; ⁧מְבָרְכֶיךָ⁩ - will be benched, I will bench them. Both
 words are the same verb. However, ⁧וּמְקַלֶּלְךָ⁩ - if they curse you, it doesn't
 say ⁧אקלל⁩⁦,⁩ it says ⁧אָאֹר⁩⁦,⁩ a completely different verb. What do we learn
 from that?
@@ -2067,7 +2067,7 @@ What is going on? What does this ⁧גמרא⁩ reveal about ⁧יצחק אבי�
 don't already know?
 
 ⁧ר' מאיר מפרמישלאן זכותו יגן עלינו⁩ explains something that might
-challenge our preconceived notions.⁧יצחק אבינו⁩ had a ⁧טענה⁩. He was given a
+challenge our preconceived notions. ⁧יצחק אבינו⁩ had a ⁧טענה⁩. He was given a
 deck of cards, just as we all are. That's what our lives are - cards
 that we are dealt. And what cards was ⁧יצחק⁩ given? He struggled to have
 children, and once he did, he had ⁧יעקב⁩⁦,⁩ who was obviously great. But he
@@ -2657,7 +2657,7 @@ that seeing others excel should inspire us to strive harder, learn more
 ⁧תורה⁩⁦,⁩ and improve ourselves. We should let this ⁧קנאה⁩ motivate us to be
 more kind to our friends and neighbors, to care for our families, and to
 always speak and think positively about them. By doing so, may we merit
-⁧שלום בית⁩ and the ultimate!⁧גְאוּלָה אֲמִתִּית בִּמְהֵרָה בְּיָמֵינוּ אמן⁩
+⁧שלום בית⁩ and the ultimate! ⁧גְאוּלָה אֲמִתִּית בִּמְהֵרָה בְּיָמֵינוּ אמן⁩
 
 #pagebreak()
 
@@ -2756,7 +2756,7 @@ of someone who will descend from him ⁧דורות⁩ later? We cannot act on th
 ⁧עתיד⁩ for something that he is not responsible for now.
 
 This idea is interesting. When ⁧יוסף⁩ was looking for his brothers, the
-⁧פסוק⁩ says (37:17): ⁧נָסְעוּ מִזֶּה⁩. The ⁧מדרש רבה⁩ (84:14) explains: ⁧נָסְעוּ מִזֶּה⁩⁦,⁩ ⁧מִמִּדּוֹתָיו שֶׁל מָקוֹם⁩. The brothers had left ⁦הקדוש ברוך הוא'⁩s midos.⁦הקדוש ברוך
+⁧פסוק⁩ says (37:17): ⁧נָסְעוּ מִזֶּה⁩. The ⁧מדרש רבה⁩ (84:14) explains: ⁧נָסְעוּ מִזֶּה⁩⁦,⁩ ⁧מִמִּדּוֹתָיו שֶׁל מָקוֹם⁩. The brothers had left ⁦הקדוש ברוך הוא'⁩s midos. ⁦הקדוש ברוך
 הוא'⁩s midah is to judge a person by where he is now - not by his future
 ⁧עבירות⁩. This is the ⁧מידה⁩ of Hashem. However, the brothers failed in this
 regard. They left the ⁧מידה⁩ of Hashem and conspired to kill ⁧יוסף⁩. They
@@ -2874,9 +2874,9 @@ trying to get the answer, why is he going out of his way to trick ⁧יוסף⁩
 
 The answer is that ⁧יוסף⁩ did something which was unconscionable in ⁦פרעה'⁩s
 mind and unconscionable in our world today. ⁧יוסף⁩ said, “Hashem is in
-charge” Nobody wants to hear that. Not one ⁧גוי⁩ wants to hear that.
+charge.” Nobody wants to hear that. Not one ⁧גוי⁩ wants to hear that.
 Unfortunately, many of us don't want to hear it either. But it's the
-truth: Hashem is in charge.⁧וַיַּעַן יוֹסֵף אֶת פַּרְעֹה לֵאמֹר בִּלְעָדָי אֱלֹהִים יַעֲנֶה אֶת שְׁלוֹם פַּרְעֹה⁩ - I don't do anything, it all comes from Hashem, ⁧אין עוד מלבדו⁩. This upset ⁧פרעה⁩ so much that he switched his language to ⁧וידבר⁩⁦,⁩ a
+truth: Hashem is in charge. ⁧וַיַּעַן יוֹסֵף אֶת פַּרְעֹה לֵאמֹר בִּלְעָדָי אֱלֹהִים יַעֲנֶה אֶת שְׁלוֹם פַּרְעֹה⁩ - I don't do anything, it all comes from Hashem, ⁧אין עוד מלבדו⁩. This upset ⁧פרעה⁩ so much that he switched his language to ⁧וידבר⁩⁦,⁩ a
 harsher tone. Ultimately, once ⁧פרעה⁩ realized that ⁦יוסף'⁩s interpretation
 was correct, he returned to ⁧ויאמר⁩. (All of the mefarshim ask the
 question: how did ⁧פרעה⁩ know that ⁦יוסף'⁩s interpretation was correct? The
@@ -4204,7 +4204,7 @@ This theme ties into an enlightened teaching quoted by R’ Matis Blum#metadata(
 He references a Gemara in ⁦ע״ב שבת פח⁩: ⁧בְּשָׁעָה שֶׁעָלָה מֹשֶׁה לַמָּרוֹם⁩ - when ⁧משה⁩
 went up to ⁧שמים⁩⁦;⁩ ⁧אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא⁩ - the ⁧מלאכי השרת⁩⁦,⁩ who serve before Hashem, complained. ⁧רִבּוֹנוֹ שֶׁל עוֹלָם, מַה לִּילוּד אִשָּׁה בֵּינֵינוּ⁩
 \- Why is a ⁧בשר ודם⁩⁦,⁩ a person born of flesh and blood, coming here
-amongst us?⁧אָמַר לָהֶן⁩ - ⁧הקדוש ברוך הוא⁩ answered them; ⁧לְקַבֵּל תּוֹרָה בָּא⁩ - He
+amongst us? ⁧אָמַר לָהֶן⁩ - ⁧הקדוש ברוך הוא⁩ answered them; ⁧לְקַבֵּל תּוֹרָה בָּא⁩ - He
 came to accept the ⁧תורה⁩⁦,⁩ to receive the ⁧תורה⁩. They responded with the
 pasuk in ⁧תהילים⁩ (8:2): ⁧תְּנָה הוֹדְךָ עַל הַשָּׁמָיִם⁩ - Leave it up here with us. So
 what did Hashem do? He didn't say yes or no. He turned to ⁧משה⁩ and he
@@ -5687,7 +5687,7 @@ is simple. Once a person attains power, power corrupts. As the famous
 saying goes, “Absolute power corrupts absolutely.” It is clear, obvious, and expected that the ⁧נשיא⁩ will commit ⁧עבירות⁩. The authority and power
 given to him can go to his head.
 
-The ⁧מפרש⁩ then offers a fascinating insight into these three words, ⁧אֲשֶׁר נָשִׂיא יֶחֱטָא⁩. What are the first letters of each word?⁧א' נ' י׳⁩ - ⁧אני⁩. “It's
+The ⁧מפרש⁩ then offers a fascinating insight into these three words, ⁧אֲשֶׁר נָשִׂיא יֶחֱטָא⁩. What are the first letters of each word? ⁧א' נ' י׳⁩ - ⁧אני⁩. “It's
 me. It's all about me.” We see this every day, everywhere in the world.
 Power brings corruption to leaders. The ⁧פסוק⁩ is teaching us that the
 ⁧תורה⁩ understands human nature all too well, and this is precisely what
@@ -6205,7 +6205,7 @@ columnists, R’ Chaim Yosef Kofman#metadata(none) <person-index-r-chaim-yosef-k
 Hoffman's Torah Tavlin, #metadata(none) <person-index-torah-tavlin-419> and though he has since passed away, his columns
 continue to be reprinted. He has an interesting take on ⁧פרשת שמיני⁩ (from
 the Torah Tavlin#metadata(none) <person-index-torah-tavlin-420> 5778, the ⁧מחשבת הלב⁩ section), based on a ⁧פסוק⁩ regarding
-kosher and non-kosher animals (10:4): ⁧אֶת הַגָּמָל כִּי מַעֲלֵה גֵרָה הוּא וּפַרְסָה אֵינֶנּוּ מַפְרִיס טָמֵא הוּא לָכֶם⁩. He makes an astute observation: Most animals don't
+kosher and non-kosher animals (11:4): ⁧אֶת הַגָּמָל כִּי מַעֲלֵה גֵרָה הוּא וּפַרְסָה אֵינֶנּוּ מַפְרִיס טָמֵא הוּא לָכֶם⁩. He makes an astute observation: Most animals don't
 have any ⁧סימנים⁩ of ⁧כשרות⁩ at all. Out of all the animals in the world, only four have one ⁧סימן⁩ of ⁧כשרות⁩ while lacking the other. ⁦חז״ל⁩ teach us
 that the ⁧תורה⁩ emphasizes this detail for a reason - it's meant to teach
 us an important lesson. A lesson in ⁧חינוך⁩.
@@ -6476,7 +6476,7 @@ hunger, and they gave her to eat on ⁧יום כיפור⁩. From her came a fam
 ⁧רשע, שַׁבְּתַאי אָצַר פֵּירֵי⁩.
 
 The ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-432> explained that this is the connection between the two ⁧פסוקים⁩.
-⁧לְהַבְדִּיל בֵּין הַטָּמֵא וּבֵין הַטָּהֹר⁩ refers to ⁧רַבִּי יוֹחָנָן⁩⁦,⁩ who was ⁧טהור⁩⁦,⁩ and ⁧שַׁבְּתַאי אָצַר פֵּירֵי⁩⁦,⁩ who was ⁧טמא⁩. How was this differentiation made?⁧בֵין הַחַיָּה הַנֶּאֱכֶלֶת⁩⁦,⁩ a play on words. In the ⁧פסוק⁩⁦,⁩ ⁧חַיָּה הַנֶּאֱכֶלֶת⁩ refers to animals that
+⁧לְהַבְדִּיל בֵּין הַטָּמֵא וּבֵין הַטָּהֹר⁩ refers to ⁧רַבִּי יוֹחָנָן⁩⁦,⁩ who was ⁧טהור⁩⁦,⁩ and ⁧שַׁבְּתַאי אָצַר פֵּירֵי⁩⁦,⁩ who was ⁧טמא⁩. How was this differentiation made? ⁧בֵין הַחַיָּה הַנֶּאֱכֶלֶת⁩⁦,⁩ a play on words. In the ⁧פסוק⁩⁦,⁩ ⁧חַיָּה הַנֶּאֱכֶלֶת⁩ refers to animals that
 are ⁧כשר⁩ to eat. Ordinarily, ⁧כשרות⁩ and ⁧טומאה⁩ are not directly related, but here, the ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-433> used it to illustrate that even the food we eat
 affects our level of ⁧טהרה⁩. He explained that ⁧בֵין הַחַיָּה הַנֶּאֱכֶלֶת⁩ refers to
 the woman who refrained from eating on ⁧יום כיפור⁩ and gave birth to ⁧רַבִּי יוֹחָנָן⁩⁦,⁩ while the other woman, who ate on ⁧יום כיפור⁩⁦,⁩ gave birth to ⁧שַׁבְּתַאי אָצַר פֵּירֵי⁩. It was all within her ability to control herself. The
@@ -7644,7 +7644,7 @@ nothing. So why is it last?
 
 To understand this, he explains: The ⁧ברכה⁩ of ⁧גשמיות⁩ doesn't mean lots of
 money or ⁧נכסים⁩. That's not the definition of blessing. What is the real
-⁧ברכה⁩ of ⁧גשמיות⁩? The ⁧ברכה⁩ of ⁧גשמיות⁩ is to be satisfied.⁧איזהו עשיר השמח בחלקו⁩. If a person is rich but not satisfied, and sees someone who has
+⁧ברכה⁩ of ⁧גשמיות⁩? The ⁧ברכה⁩ of ⁧גשמיות⁩ is to be satisfied. ⁧איזהו עשיר השמח בחלקו⁩. If a person is rich but not satisfied, and sees someone who has
 more than him, he can become devastated: “How can he have that and I
 don't?” The true purpose of ⁧עושר⁩ is ⁧הסתפקות⁩ - to feel that you don't
 need more than what you have. If you understand that, then you are truly
@@ -8938,8 +8938,8 @@ out ⁧קל⁩. ⁧קל⁩ is a ⁧שם⁩ of ⁧רחמים⁩. When he wanted t
 ⁧ו-ה⁩ and made it ⁧י-ק-ו-ק⁩, which is ⁧מדת הרחמים⁩. So that's what ⁧בלעם⁩ says
 (23:8), ⁧מָה אֶקֹּב לֹא קַבֹּה קֵל וּמָה אֶזְעֹם לֹא זָעַם ה׳, י-ק-ו-ק⁩. The two names of
 ⁧רחמים⁩. ⁧בלעם⁩ was saying “How can I possibly bring a ⁧קללה⁩ on ⁧כלל ישראל⁩
-when the names of ⁧קל⁩ and ⁦הוי״ה⁩ which come to my mouth are a ⁧לשון של חבה⁩⁦,⁩ of loving.⁧הקדוש ברוך הוא⁩ loves ⁧כלל ישראל⁩. That's what ⁧בלעם⁩ was
-saying.⁧לֹא אוּכַל לַעֲבֹר אֶת פִּי ה׳ אֱלֹקׇי לַעֲשׂוֹת קְטַנָּה אוֹ גְדוֹלָה⁩ - If I want to use
+when the names of ⁧קל⁩ and ⁦הוי״ה⁩ which come to my mouth are a ⁧לשון של חבה⁩⁦,⁩ of loving. ⁧הקדוש ברוך הוא⁩ loves ⁧כלל ישראל⁩. That's what ⁧בלעם⁩ was
+saying. ⁧לֹא אוּכַל לַעֲבֹר אֶת פִּי ה׳ אֱלֹקׇי לַעֲשׂוֹת קְטַנָּה אוֹ גְדוֹלָה⁩ - If I want to use
 a longer name of Hashem that was a ⁧מדת הדין⁩⁦,⁩ Hashem would chop my
 tongue off. If I want to use the shorter name, Hashem will pull my
 tongue and make it into the longer name of ⁧רחמים⁩.
@@ -9988,7 +9988,7 @@ grammatically correct if it was written ⁧לֹא תִתֵּן יְבוּלָה�
 torah use this extra word ⁧אֶת⁩?
 
 What does ⁦רש״י⁩, #metadata(none) <person-index-rashi-754> our teacher, our guide, our ultimate all-time rebbi, say
-on this pasuk?⁧אַף מַה שֶּׁאַתָּה מוֹבִיל לָהּ, כָּעִנְיָן שֶׁנֶּאֱמַר זְרַעְתֶּם הַרְבֵּה וְהָבֵא מְעָט⁩ - No
+on this pasuk? ⁧אַף מַה שֶּׁאַתָּה מוֹבִיל לָהּ, כָּעִנְיָן שֶׁנֶּאֱמַר זְרַעְתֶּם הַרְבֵּה וְהָבֵא מְעָט⁩ - No
 matter what you try to do, you will plant a lot and nothing will come
 out. Why? Because we think we can do anything with technology. If Hashem
 doesn't send us rain, it doesn't matter, we'll dig an irrigation ditch.
@@ -12489,7 +12489,7 @@ Torah, which was established for 974 generations before ⁧בריאת העולם
 disagree; leave the Torah here. We want it to remain with us.”⁧אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה: הַחְזֵיר לָהֶן תְּשׁוּבָה⁩ - Hashem told Moshe “You answer
 them.” ⁧משה רבינו⁩ responded with a puzzling reply: ⁧אָמַר לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, מִתְיָירֵא אֲנִי שֶׁמָּא יִשְׂרְפוּנִי בַּהֶבֶל שֶׁבְּפִיהֶם⁩ - I'm afraid to answer the
 ⁧מלאכים⁩⁦,⁩ I'm afraid they'll burn me up with the with their ⁧הבל⁩⁦,⁩ with the
-breath from mouths.⁧אָמַר לוֹ: אֱחוֹז בְּכִסֵּא כְבוֹדִי וַחֲזוֹר לָהֶן תְּשׁוּבָה⁩ - Hashem told
+breath from mouths. ⁧אָמַר לוֹ: אֱחוֹז בְּכִסֵּא כְבוֹדִי וַחֲזוֹר לָהֶן תְּשׁוּבָה⁩ - Hashem told
 him, “Hold on to the ⁧כסא הכבוד⁩ and answer them.” Like a ⁧סגולה⁩⁦,⁩ a token, a trinket, a talisman - hold on, and respond. ⁧משה רבינו⁩ proceeded to say
 to them: “The Torah says we were in ⁧מצרים⁩. Were you in ⁧מצרים⁩? It says
 ⁧כבד את אביך ואת אמך⁩. Do you have parents?” And he went through all the
@@ -13338,7 +13338,7 @@ come back ⁧טהורה⁩. ⁧חס ושלום⁩⁦,⁩ a ⁧נשמה מלוכ�
 in exactly the same way, torn up and brought back in a very poor
 condition.”
 
-“Oy oy oy”, he cried out, “!⁧וּלְהַחֲזִירָהּ⁩” with a ⁧מפיק ה⁩. The way you took it
+“Oy oy oy”, he cried out, “! ⁧וּלְהַחֲזִירָהּ⁩” with a ⁧מפיק ה⁩. The way you took it
 from me, that's what you're going to give me back. ⁧חס ושלום⁩⁦,⁩ a ⁧נשמה⁩
 that's ⁧שמוציג⁩? A ⁧נשמה⁩ that's torn? We all are waiting for ⁧תחיית המתים⁩.
 We have to remember that that ⁧נשמה⁩ that ⁧הקדוש ברוך הוא⁩ takes away from

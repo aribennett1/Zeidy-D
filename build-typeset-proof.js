@@ -1216,6 +1216,7 @@ function normalizePunctuationSpacing(typstContent) {
     .replace(NUMERIC_CITATION_WITH_TRAILING_AS_QUOTED_RE, "($1), $2")
     .replace(new RegExp(`(${HEBREW_LETTERS})(?=[A-Za-z])`, "gu"), "$1 ")
     .replace(new RegExp(`([A-Za-z])(?=${HEBREW_LETTERS})`, "gu"), "$1 ")
+    .replace(new RegExp(`([.!?])(?=${HEBREW_LETTERS})`, "gu"), "$1 ")
     .replace(/[\s\u00A0\u202F]+(\\(?!\.\.)[,;:.!?)\]]|[,;:.!?)\]])/g, "$1")
     .replace(/(?<!\\)([;:])[\t \u00A0\u202F]*(?=\S)/g, "$1 ")
     .replace(/,(?![\d"])\s*/g, ", ")
