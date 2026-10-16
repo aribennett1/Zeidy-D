@@ -11505,14 +11505,15 @@ words, ⁧אֲנִי אָמִית וַאֲחַיֶּה⁩ - Hashem says he will 
 to life; ⁧מָחַצְתִּי וַאֲנִי אֶרְפָּא⁩ - I will strike down and I will heal; ⁧וְאֵין מִיָּדִי מַצִּיל⁩ - And there's no one, there's nothing who can be saved from my
 hand. We're going to concentrate on the words, ⁧מָחַצְתִּי וַאֲנִי אֶרְפָּא⁩. R’
 Yechezkel Abramsky, #metadata(none) <person-index-r-abramsky-859> brought down in R’ Goldwasser's sefer “Something to
-Say”, brought out an interesting thought from the ⁧תפילה⁩ that we talk
-about in terms of ⁧רפואה⁩ in ⁧שמונה עשרה⁩. I've said this every day for many
-decades, as have many of you. Maybe not as many decades as me, but a lot
-of decades. ⁧רְפָאֵנוּ ה׳ וְנֵרָפֵא הוֹשִׁיעֵנוּ וְנִוָּשֵׁעָה כִּי תְהִלָּתֵנוּ אָתָּה⁩. I've said this
-over and over again - I actually have a lot of ⁧כוונה⁩ because I have a
-lot of people in mind who need a ⁧רפואה⁩⁦,⁩ so I'm really concentrating on
-this ⁧ברכה⁩ - and with all of that, until about ten minutes ago, when I
-saw this vort from R’ Abramsky, #metadata(none) <person-index-r-abramsky-860> I did not understand the meaning of the
+Say” (Permission granted by ArtScroll / Mesorah Publications), brought
+out an interesting thought from the ⁧תפילה⁩ that we talk about in terms of
+⁧רפואה⁩ in ⁧שמונה עשרה⁩. I've said this every day for many decades, as have
+many of you. Maybe not as many decades as me, but a lot of decades.
+⁧רְפָאֵנוּ ה׳ וְנֵרָפֵא הוֹשִׁיעֵנוּ וְנִוָּשֵׁעָה כִּי תְהִלָּתֵנוּ אָתָּה⁩. I've said this over and
+over again - I actually have a lot of ⁧כוונה⁩ because I have a lot of
+people in mind who need a ⁧רפואה⁩⁦,⁩ so I'm really concentrating on this
+⁧ברכה⁩ - and with all of that, until about ten minutes ago, when I saw
+this vort from R’ Abramsky, #metadata(none) <person-index-r-abramsky-860> I did not understand the meaning of the
 words ⁧כִּי תְהִלָּתֵנוּ אָתָּה. רְפָאֵנוּ ה׳ וְנֵרָפֵא⁩ - Hashem, heal us and we will be
 healed; ⁧הושיענו ונושעה⁩ - save us and we'll be saved; ⁧כִּי תְהִלָּתֵנוּ אָתָּה⁩ - Because you are our praise. What does that mean?
 
