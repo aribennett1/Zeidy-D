@@ -324,7 +324,7 @@ think that rebbeim and moros would find that good thought and insight on
 any given parasha in this new refreshing Sefer.
 
 It is not every day that the olam ha'Torah is enriched with a new Sefer
-from a Baal ha'bait. Dr. Bennett, however, is not the typical Baal
+from a Baal ha'bayit. Dr. Bennett, however, is not the typical Baal
 ha'bayit. He is filled not only with a lifetime of medical knowledge and
 experience while being a respected Ben Torah encompassing beautiful
 midos, compassion, sensitivity and a love of Torah learning. Now, he has
@@ -333,7 +333,8 @@ gifted all of us with his Torah treasure.
 I'm certain that you will not only benefit from the new Sefer but enjoy
 it as well.
 
-Eliyahu Safran
+Eliyahu Safran \ Yerushalayim \ Author of #emph[Something Old, Something
+New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
