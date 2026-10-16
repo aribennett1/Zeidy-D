@@ -289,13 +289,15 @@
       "contentPath": "02 - Shemos/09 - Ki Sisa/5785",
       "baseFilename": "Ki Sisa 5785"
     },
-    "/vayakel/5784/": {
-      "contentPath": "02 - Shemos/10 - Vayakel/5784",
-      "baseFilename": "Vayakel 5784"
+    "/vayakhel/5784/": {
+      "contentPath": "02 - Shemos/10 - Vayakhel/5784",
+      "baseFilename": "Vayakhel 5784",
+      "title": "Vayakhel 5784"
     },
-    "/vayakel/5785/": {
-      "contentPath": "02 - Shemos/10 - Vayakel/5785",
-      "baseFilename": "Vayakel 5785"
+    "/vayakhel/5785/": {
+      "contentPath": "02 - Shemos/10 - Vayakhel/5785",
+      "baseFilename": "Vayakhel 5785",
+      "title": "Vayakhel 5785"
     },
     "/pekudei/5784/": {
       "contentPath": "02 - Shemos/11 - Pekudei/5784",
@@ -305,9 +307,10 @@
       "contentPath": "02 - Shemos/11 - Pekudei/5785",
       "baseFilename": "Pekudei 5785"
     },
-    "/vayakel-pekudei/5783/": {
-      "contentPath": "02 - Shemos/12 - Vayakel-Pekudei/5783",
-      "baseFilename": "Vayakel-Pekudei 5783"
+    "/vayakhel-pekudei/5783/": {
+      "contentPath": "02 - Shemos/12 - Vayakhel-Pekudei/5783",
+      "baseFilename": "Vayakhel-Pekudei 5783",
+      "title": "Vayakhel-Pekudei 5783"
     },
     "/vayikra/5783/": {
       "contentPath": "03 - Vayikra/01 - Vayikra/5783",
@@ -1044,11 +1047,11 @@
     "02 - Shemos/09 - Ki Sisa/5783": "/ki-sisa/5783/",
     "02 - Shemos/09 - Ki Sisa/5784": "/ki-sisa/5784/",
     "02 - Shemos/09 - Ki Sisa/5785": "/ki-sisa/5785/",
-    "02 - Shemos/10 - Vayakel/5784": "/vayakel/5784/",
-    "02 - Shemos/10 - Vayakel/5785": "/vayakel/5785/",
+    "02 - Shemos/10 - Vayakhel/5784": "/vayakhel/5784/",
+    "02 - Shemos/10 - Vayakhel/5785": "/vayakhel/5785/",
     "02 - Shemos/11 - Pekudei/5784": "/pekudei/5784/",
     "02 - Shemos/11 - Pekudei/5785": "/pekudei/5785/",
-    "02 - Shemos/12 - Vayakel-Pekudei/5783": "/vayakel-pekudei/5783/",
+    "02 - Shemos/12 - Vayakhel-Pekudei/5783": "/vayakhel-pekudei/5783/",
     "03 - Vayikra/01 - Vayikra/5783": "/vayikra/5783/",
     "03 - Vayikra/01 - Vayikra/5784": "/vayikra/5784/",
     "03 - Vayikra/01 - Vayikra/5785": "/vayikra/5785/",

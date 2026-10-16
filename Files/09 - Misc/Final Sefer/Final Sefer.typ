@@ -5281,13 +5281,13 @@ us. In that ⁧זכות⁩⁦,⁩ we shall see the ⁧משיח צדקנו, במ�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakel/5784/", "../../02 - Shemos/10 - Vayakel/5784/Vayakel 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel/5784/", "../../02 - Shemos/10 - Vayakhel/5784/Vayakhel 5784.png"), margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-= Vayakel 5784
+= Vayakhel 5784
 
 In ⁧פרשת ויקהל⁩⁦,⁩ the ⁧פסוק⁩ (35:4), states: ⁧וַיֹּאמֶר מֹשֶׁה אֶל כׇּל עֲדַת בְּנֵי יִשְׂרָאֵל לֵאמֹר זֶה הַדָּבָר⁩. I originally heard a beautiful idea about this from R’
 Fabian Schonfeld#metadata(none) <person-index-r-fabian-schonfeld-362> ⁦זצ״ל⁩, who was the Rav of the Young Israel of Kew
@@ -5339,13 +5339,13 @@ absence.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakel/5785/", "../../02 - Shemos/10 - Vayakel/5785/Vayakel 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel/5785/", "../../02 - Shemos/10 - Vayakhel/5785/Vayakhel 5785.png"), margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-= Vayakel 5785
+= Vayakhel 5785
 
 In ⁧פרשת ויקהל⁩⁦,⁩ which details the construction of the ⁧משכן⁩⁦,⁩ we find a
 repetition of what was commanded in ⁧תרומה⁩ - except here, ⁧בני ישראל⁩
@@ -5543,18 +5543,19 @@ to ⁧שמחות⁩⁦,⁩ ⁧נחת⁩⁦,⁩ ⁧געזונט⁩⁦,⁩ and the
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakel-pekudei/5783/", "../../02 - Shemos/12 - Vayakel-Pekudei/5783/Vayakel-Pekudei 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel-pekudei/5783/", "../../02 - Shemos/12 - Vayakhel-Pekudei/5783/Vayakhel-Pekudei 5783.png"), margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-= Vayakel-Pekudei 5783
+= Vayakhel-Pekudei 5783
 
 This week's Shabbos leining is the second longest of the year, ⁧ויקהל⁩/⁧פקודי פרשת החדש⁩. In ⁧ויקהל⁩⁦,⁩ ⁧משה רבינו⁩ makes a definitive statement
 (35:10): ⁧וְכׇל חֲכַם לֵב בָּכֶם יָבֹאוּ וְיַעֲשׂוּ אֵת כׇּל אֲשֶׁר צִוָּה ה׳⁩ - All of those who
 have a wise heart will come and do everything that Hashem has commanded.
-Rabbi Dr. Abraham Twerski#metadata(none) <person-index-rabbi-dr-abraham-twerski-383> ⁦זצ״ל⁩, the famous psychiatrist and ⁧תלמיד חכם⁩⁦,⁩ has a story that relates to this pasuk:
+Rabbi Dr. Abraham Twerski#metadata(none) <person-index-rabbi-dr-abraham-twerski-383> ⁦זצ״ל⁩, the famous psychiatrist and ⁧תלמיד חכם⁩⁦,⁩ has a story that relates to this pasuk (#emph[Living Each Week].
+Permission granted by ArtScroll / Mesorah Publications):
 
 “I attended an event in which a friend, a prominent attorney who had
 recovered from alcoholism, celebrated his 25th year of sobriety. He

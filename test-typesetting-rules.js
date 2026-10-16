@@ -40,6 +40,7 @@ const POP_DIRECTIONAL_ISOLATE = "\u2069";
 const ROOT_DIR = __dirname;
 const FILES_DIR = path.join(ROOT_DIR, "Files");
 const ROUTES = require("./routes.json").byRoute;
+const { buildRoutes } = require("./build-manifest");
 
 function test(name, fn) {
   try {
@@ -148,6 +149,48 @@ test("audit ignores PDF-extracted leading comma that is visually trailing Hebrew
 
 test("keeps the Lag Baomer 5784 route title apostrophe-free", () => {
   assert.equal(ROUTES["/lag-baomer/5784/"].title, "Lag Baomer 5784");
+});
+
+test("manifest rebuild preserves route anchors and PDF text overlays", () => {
+  const manifest = {
+    "06 - Yom Tov": {
+      "01 - Pesach": {
+        "5783": {
+          "Dvar Torah": "Dvar Torah Pesach 5783",
+        },
+      },
+    },
+    "07 - Haskamos": {
+      "01 - Rabbi Oelbaum": "Rabbi Oelbaum",
+    },
+  };
+  const existingRoutes = {
+    byRoute: {
+      "/pesach/5783/dvar-torah/": {
+        contentPath: "06 - Yom Tov/01 - Pesach/5783/Dvar Torah",
+        anchor: "pesach-5783-dvar-torah",
+      },
+      "/rabbi-oelbaum/": {
+        contentPath: "07 - Haskamos/01 - Rabbi Oelbaum",
+        pdfPage: "Rabbi Oelbaum.pdf",
+        pdfTextOverlay: {
+          docx: "Rabbi Oelbaum.docx",
+          referenceLabel: "pesach-5783-dvar-torah",
+        },
+      },
+    },
+    byContentPath: {
+      "06 - Yom Tov/01 - Pesach/5783/Dvar Torah": "/pesach/5783/dvar-torah/",
+      "07 - Haskamos/01 - Rabbi Oelbaum": "/rabbi-oelbaum/",
+    },
+  };
+  const rebuilt = buildRoutes(manifest, existingRoutes).byRoute;
+
+  assert.equal(rebuilt["/pesach/5783/dvar-torah/"].anchor, "pesach-5783-dvar-torah");
+  assert.deepEqual(rebuilt["/rabbi-oelbaum/"].pdfTextOverlay, {
+    docx: "Rabbi Oelbaum.docx",
+    referenceLabel: "pesach-5783-dvar-torah",
+  });
 });
 
 test("renders Rabbi Oelbaum's contextual Pesach page link", () => {

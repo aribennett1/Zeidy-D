@@ -11,6 +11,7 @@ const ROOT_INDEX_FILE = "./index.html";
 const FALLBACK_FILE = "./404.html";
 const GENERATED_FALLBACK_MARKER = "<!-- Generated fallback page: do not edit directly. -->";
 const CONTENT_KEY = "__content";
+const PRESERVED_ROUTE_FIELDS = ["title", "pdfPage", "anchor", "pdfTextOverlay"];
 
 function loadExistingRoutes() {
   if (!fs.existsSync(ROUTES_FILE)) {
@@ -409,14 +410,14 @@ function buildRoutes(manifest, existingRoutes = { byRoute: {}, byContentPath: {}
       contentPath,
       baseFilename,
     };
-    const title = existingRouteFieldFor(route, contentPath, "title");
-    if (title) {
-      entry.title = title;
+
+    for (const fieldName of PRESERVED_ROUTE_FIELDS) {
+      const value = existingRouteFieldFor(route, contentPath, fieldName);
+      if (value !== null && value !== undefined) {
+        entry[fieldName] = value;
+      }
     }
-    const pdfPage = existingRouteFieldFor(route, contentPath, "pdfPage");
-    if (pdfPage) {
-      entry.pdfPage = pdfPage;
-    }
+
     return entry;
   }
 
@@ -488,4 +489,4 @@ if (require.main === module) {
   })();
 }
 
-module.exports = { buildManifest };
+module.exports = { buildManifest, buildRoutes };
