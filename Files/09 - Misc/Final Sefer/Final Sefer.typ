@@ -15140,7 +15140,7 @@ writing and dispatch of ⁦מרדכי'⁩s letters in the second half that
 counteracted the first ones, the same words are employed. You can look
 it up. Number three: After the promulgation of ⁦המן'⁩s decree, the ⁧מגילה⁩
 describes the bewilderment of the Jews of ⁧שושן⁩ by saying (3:15) ⁧וְהָעִיר שׁוּשָׁן נָבוֹכָה⁩⁦,⁩ When it describes their elation at the news of the letters
-that ⁧מרדכי⁩ sent, it says in opposite words (8:14) ⁧וְהָעִיר שׁוּשָׁן צָהֲלָה וְשָׂמֵחָה⁩.
+that ⁧מרדכי⁩ sent, it says in opposite words (8:15) ⁧וְהָעִיר שׁוּשָׁן צָהֲלָה וְשָׂמֵחָה⁩.
 Number four: When describing how the Jewish people throughout the empire
 reacted in mourning to word of the evil decree, the ⁧מגילה⁩ says (4:3)
 ⁧וּבְכׇל מְדִינָה וּמְדִינָה מְקוֹם אֲשֶׁר דְּבַר הַמֶּלֶךְ וְדָתוֹ מַגִּיעַ אֵבֶל גָּדוֹל לַיְּהוּדִים וְצוֹם וּבְכִי וּמִסְפֵּד שַׂק וָאֵפֶר יֻצַּע לָרַבִּים⁩. Similarly, when the word of ⁦מרדכי'⁩s letters
