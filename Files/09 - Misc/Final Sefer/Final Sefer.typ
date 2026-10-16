@@ -15378,7 +15378,7 @@ is a potential ⁧משה⁩.
     top: 0.68in,
     bottom: 0.82in,
   ))
-= Shabbos - The Gift of Olam Haba in This World
+= Shabbos - The Gift of Olam Haba in This World. By Rav Oelbaum
 
 #align(center)[
 Zeidy: This was a dvar Torah that R’ Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-1192> requested be printed
