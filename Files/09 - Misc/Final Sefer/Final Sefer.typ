@@ -1427,17 +1427,19 @@ So we would say his nephew is a ⁧כל שכן⁩ and would certainly be include
 subtle fashion Lot's ulterior motive. What was Avram's motive? To do the
 ⁧דבר השם⁩⁦,⁩ as the pasuk says ⁧כַּאֲשֶׁר דִּבֶּר אֵלָיו ה׳⁩. What was Lot's motive? ⁧וַיֵּלֶךְ אִתּוֹ לוֹט⁩. There are two words in the Torah that in English both mean
 “with him”: ⁧אִתּוֹ⁩ and ⁧עמו⁩. In English, they mean the same thing, but ⁧אִתּוֹ⁩
-means to go with him for your own purposes and ⁧עמו⁩ means ⁧בלב אחד ואיש אחד כלב אחד⁩⁦,⁩ with one motive, for exactly the same reason; ⁧עמו⁩ is a far
-greater connection than ⁧אִתּוֹ⁩. Lot was going ⁧אִתּוֹ⁩. It was a superficial
-connection and not the same thing as ⁧עמו⁩. Therefore, he went for his own
-purposes and not for the ⁧מחשבה⁩ of Avram. What was Lot's purpose? Why did
-Lot want to come along with Avram? The answer is, ⁧וְאַבְרָם בֶּן חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה בְּצֵאתוֹ מֵחָרָן⁩. Avram is 75 years old. As we say in the lingo, he's no spring chicken, ⁧להבדיל⁩. He's not a young man. Which fool would
-leave his uncle? Remember something, ⁧יצחק⁩ is not around yet. Right now, aside from Sarah, who is not a ⁧יורש⁩⁦,⁩ he is his closest living relative.
-He's Avram's ⁧יורש⁩. Avram was a rich man. There's all the reason in the
-world to stick with him. If Avram is going someplace, he's taking his
-wealth with him, and therefore Lot was coming along. Lot's actual
-purpose was not because of his wanting to do what Avram does. It was a
-different ⁧כוונה⁩ completely, and that was to do what was good for him.
+means to go with him for your own purposes and ⁧עמו⁩ means ⁧כאיש אחד בלב אחד⁩⁦,⁩ with one motive, for exactly the same reason; ⁧עמו⁩ is a far greater
+connection than ⁧אִתּוֹ⁩. Lot was going ⁧אִתּוֹ⁩. It was a superficial connection
+and not the same thing as ⁧עמו⁩. Therefore, he went for his own purposes
+and not for the ⁧מחשבה⁩ of Avram. What was Lot's purpose? Why did Lot want
+to come along with Avram? The answer is, ⁧וְאַבְרָם בֶּן חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה בְּצֵאתוֹ מֵחָרָן⁩. Avram is 75 years old. As we say in the lingo, he's no
+spring chicken, ⁧להבדיל⁩. He's not a young man. Which fool would leave his
+uncle? Remember something, ⁧יצחק⁩ is not around yet. Right now, aside from
+Sarah, who is not a ⁧יורש⁩⁦,⁩ he is his closest living relative. He's
+Avram's ⁧יורש⁩. Avram was a rich man. There's all the reason in the world
+to stick with him. If Avram is going someplace, he's taking his wealth
+with him, and therefore Lot was coming along. Lot's actual purpose was
+not because of his wanting to do what Avram does. It was a different
+⁧כוונה⁩ completely, and that was to do what was good for him.
 
 In ⁧ספר דברים⁩ we have the famous pasuk (28:9) ⁧וְהָלַכְתָּ בִּדְרָכָיו⁩ - we have to
 go in the ways of ⁧הקדוש ברוך הוא⁩. We understand that we do everything
@@ -1885,7 +1887,7 @@ The sefer ⁧אחת שאלתי⁩ - a sefer of R’ Yitzchok Zilberstein's#metad
 written by R’ Erez Chazani#metadata(none) <person-index-r-erez-chazani-104> - discusses the importance of how we should
 look upon our efforts at going to daven. The sefer quotes a Rabbi
 Markowitz, the rav of a shul called ⁧קהילת אמונים⁩. Part of his job is to
-make sure that there's a ⁧מנין⁩ every day, ⁧שחרית⁩⁦,⁩ ⁧מנחה⁩⁦,⁩ ⁧מערב⁩. Rabbi
+make sure that there's a ⁧מנין⁩ every day, ⁧שחרית⁩⁦,⁩ ⁧מנחה⁩⁦,⁩ ⁧מעריב⁩. Rabbi
 Markowitz relates:
 
 “One of my ⁧מתפללים⁩⁦,⁩ we will call him Mr. Feinstein, came regularly every
@@ -13394,7 +13396,7 @@ thing for everyone to have, so I wanted to quote it here:
   ⁧עבירות⁩⁦,⁩ as brought down in ⁧גמרא שבת⁩.
 
 + Whoever davens on Friday night and says ⁧ויכולו⁩⁦,⁩ the two ⁧מלאכים⁩ that
-  come home with him from shu, tell him ⁧וְסָר עֲוֹנֶךָ וְחַטָּאתְךָ תְּכֻפָּר⁩⁦,⁩ it's a
+  come home with him from shul, tell him ⁧וְסָר עֲוֹנֶךָ וְחַטָּאתְךָ תְּכֻפָּר⁩⁦,⁩ it's a
   ⁧גמרא⁩ in ⁧שבת⁩.
 
 + If ⁧חס ושלום⁩ a person has ⁧ייסורים⁩ - we all once in a while have some
