@@ -2859,7 +2859,7 @@ speaking to ⁧יוסף⁩. I count five: \
 
 Notice the difference in wording among these five ⁧פסוקים⁩. Four out of
 the five start with ⁧וַיֹּאמֶר פַּרְעֹה⁩⁦,⁩ but one of them, number two, starts with
-⁧וַיֹּאמֶר פַּרְעֹה⁩. We all know that ⁧אמירה⁩ is a ⁧לשון רכה⁩ and ⁧דיבור⁩ is a ⁧לשון קשה⁩. Why does ⁧פסוק יז⁩ use a ⁧לשון⁩ of ⁧וידבר פרעה⁩⁦?⁩
+⁧וַיְדַבֵּר פַּרְעֹה⁩. We all know that ⁧אמירה⁩ is a ⁧לשון רכה⁩ and ⁧דיבור⁩ is a ⁧לשון קשה⁩. Why does ⁧פסוק יז⁩ use a ⁧לשון⁩ of ⁧וַיְדַבֵּר פַּרְעֹה⁩⁦?⁩
 
 Let's go back and start from the beginning. ⁧פרעה⁩ says to ⁧יוסף⁩⁦,⁩ “I dreamt
 a dream” ⁦(⁧ויאמר פרעה⁩⁦,⁩ the first one).⁩ He continues, “Nobody can explain
