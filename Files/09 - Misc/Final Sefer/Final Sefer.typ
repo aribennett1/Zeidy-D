@@ -2626,9 +2626,10 @@ the ⁧תורה⁩ of ⁧פרנסה⁩.
 
 In contrast, the second dream revealed that ⁧יוסף⁩ himself would rise
 above the brothers in ⁧רוחניות⁩. The dream described (37:9) ⁧הַשֶּׁמֶשׁ וְהַיָּרֵחַ וְאַחַד עָשָׂר כּוֹכָבִים מִשְׁתַּחֲוִים #strong[לִי]⁩ - the celestial bodies bowing to ⁧יוסף⁩
-himself. (According to the ⁧בית הלוי⁩⁦,⁩ #metadata(none) <person-index-bais-halevi-171> the twelve ⁧מזלות⁩ hinted at here
-represent the ⁧סֵדֶר הַנְהַגַת הָעוֹלָם⁩⁦,⁩ the divine order by which ⁧הקדוש ברוך הוא⁩
-governs the world. ⁧יוסף⁩ would be at the center of this order, demonstrating his elevated role in the ⁧סדר הנהגת העולם⁩⁦,⁩ as we know ⁧צַדִיק יְסוֹד עוֹלָם⁩\.)
+himself. (According to the ⁧בית הלוי⁩⁦,⁩ #metadata(none) <person-index-bais-halevi-171> the ⁧מזלות⁩ hinted at here represent
+the ⁧סֵדֶר הַנְהַגַת הָעוֹלָם⁩⁦,⁩ the divine order by which ⁧הקדוש ברוך הוא⁩ governs
+the world. ⁧יוסף⁩ would be at the center of this order, demonstrating his
+elevated role in the ⁧סדר הנהגת העולם⁩⁦,⁩ as we know ⁧צַדִיק יְסוֹד עוֹלָם⁩\.)
 
 The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-172> delves deeper into this distinction. He explains that ⁧עושר והצלחה⁩⁦,⁩ material wealth and success, do not fundamentally change a
 person. A wealthy person is not inherently better than a poor person; he
