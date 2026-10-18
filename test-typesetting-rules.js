@@ -1841,6 +1841,21 @@ test("docx: Lech Lecha 5785 restores a short closing blessing from adjacent RTL 
   );
 });
 
+test("docx: Vayairah 5784 restores a closing blessing split by a short RTL run", () => {
+  const typst = convertedDocx("/vayairah/5784/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}ביאת גואל צדק במהרה בימינו אמן${POP_DIRECTIONAL_ISOLATE}!`,
+    "closing blessing in logical order"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}גואל צדק במהרה בימינו אמן ביאת${POP_DIRECTIONAL_ISOLATE}!`,
+    "visually ordered closing blessing"
+  );
+});
+
 test("docx: Rosh Hashana in Berditchev keeps an opening quote before Hebrew", () => {
   const typst = convertedDocx("/rosh-hashana/rosh-hashana-in-berditchev/");
 

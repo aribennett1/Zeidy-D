@@ -1428,7 +1428,7 @@ subtle fashion Lot's ulterior motive. What was Avram's motive? To do the
 ⁧דבר השם⁩⁦,⁩ as the pasuk says ⁧כַּאֲשֶׁר דִּבֶּר אֵלָיו ה׳⁩. What was Lot's motive? ⁧וַיֵּלֶךְ אִתּוֹ לוֹט⁩. There are two words in the Torah that in English both mean
 “with him”: ⁧אִתּוֹ⁩ and ⁧עמו⁩. In English, they mean the same thing, but ⁧אִתּוֹ⁩
 means to go with him for your own purposes and ⁧עמו⁩ means ⁧בלב אחד ואיש אחד כלב אחד⁩⁦,⁩ with one motive, for exactly the same reason; ⁧עמו⁩ is a far
-greater connection than ⁧איתו⁩. Lot was going ⁧אִתּוֹ⁩. It was a superficial
+greater connection than ⁧אִתּוֹ⁩. Lot was going ⁧אִתּוֹ⁩. It was a superficial
 connection and not the same thing as ⁧עמו⁩. Therefore, he went for his own
 purposes and not for the ⁧מחשבה⁩ of Avram. What was Lot's purpose? Why did
 Lot want to come along with Avram? The answer is, ⁧וְאַבְרָם בֶּן חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה בְּצֵאתוֹ מֵחָרָן⁩. Avram is 75 years old. As we say in the lingo, he's no spring chicken, ⁧להבדיל⁩. He's not a young man. Which fool would
@@ -1571,7 +1571,7 @@ our ⁧מצוות⁩ create a ⁧מלאך⁩ is not the main point - although if
 says so, we believe it. The lesson is about the quality of our ⁧מצוות⁩.
 Our ⁧מצוות⁩ should express our deep ⁧כוונה⁩⁦,⁩ our ⁧אהבת ה׳⁩ and ⁧יראת ה׳⁩⁦,⁩ and
 that way, they will be of the highest quality. In the ⁧זכות⁩ of those
-⁧מצוות⁩⁦,⁩ may ⁧הקדוש ברוך הוא⁩ grant us ⁧ישועות⁩⁦,⁩ ⁧נחמות⁩⁦,⁩ and ⁧גואל צדק במהרה בימינו אמן ביאת⁩!
+⁧מצוות⁩⁦,⁩ may ⁧הקדוש ברוך הוא⁩ grant us ⁧ישועות⁩⁦,⁩ ⁧נחמות⁩⁦,⁩ and ⁧ביאת גואל צדק במהרה בימינו אמן⁩!
 
 #pagebreak()
 

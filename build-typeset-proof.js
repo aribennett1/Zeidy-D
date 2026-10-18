@@ -476,10 +476,13 @@ function docxRtlRunSequences(docxPath) {
 
       const visual = rtlRuns.join(" ").replace(/\s+/g, " ").trim();
       const wordCount = (visual.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length;
-      const everyRunIsMultiword = rtlRuns.every(
-        (runText) => (runText.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length >= 2
+      const runWordCounts = rtlRuns.map(
+        (runText) => (runText.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length
       );
-      if (rtlRuns.length > 1 && everyRunIsMultiword && wordCount >= 4) {
+      const everyRunIsMultiword = runWordCounts.every((count) => count >= 2);
+      const longPhraseFollowedByWord =
+        rtlRuns.length === 2 && runWordCounts[0] >= 5 && runWordCounts[1] === 1;
+      if (rtlRuns.length > 1 && (everyRunIsMultiword || longPhraseFollowedByWord) && wordCount >= 4) {
         const logical = [...rtlRuns].reverse().join(" ").replace(/\s+/g, " ").trim();
         sequences.push({ visual, logical });
       }
@@ -492,7 +495,12 @@ function docxRtlRunSequences(docxPath) {
 
 function normalizeDocxRtlRunSequences(typstContent, sequences) {
   return sequences.reduce(
-    (content, { visual, logical }) => content.replaceAll(visual, logical),
+    (content, { visual, logical }) => {
+      const visualPattern = visual
+        .replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+        .replace(/\s+/g, "\\s+");
+      return content.replace(new RegExp(visualPattern, "gu"), logical);
+    },
     typstContent
   );
 }
