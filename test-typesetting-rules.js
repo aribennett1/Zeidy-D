@@ -1826,6 +1826,21 @@ test("docx: Lech Lecha 5784 restores logical order from adjacent RTL source runs
   );
 });
 
+test("docx: Lech Lecha 5785 restores a short closing blessing from adjacent RTL runs", () => {
+  const typst = convertedDocx("/lech-lecha/5785/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}משיח במהרה בימינו אמן${POP_DIRECTIONAL_ISOLATE}!`,
+    "closing blessing in logical order"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}בימינו אמן משיח במהרה${POP_DIRECTIONAL_ISOLATE}!`,
+    "visually ordered closing blessing"
+  );
+});
+
 test("docx: Rosh Hashana in Berditchev keeps an opening quote before Hebrew", () => {
   const typst = convertedDocx("/rosh-hashana/rosh-hashana-in-berditchev/");
 

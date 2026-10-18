@@ -1219,7 +1219,8 @@ be ⁧גוטע יידן⁩ and ⁧בני תורה⁩\.” Nobody cares about the
 care about their children, all of their ⁧עמל ויגיעה⁩ is for their
 children. So the ⁧ייד הקדוש⁩#metadata(none) <person-index-the-yid-hakodosh-44> from ⁧פשיסחא⁩ asks, where is the person
 himself? Where are you? Where is that ⁧בן תורה⁩ that all the generations
-are working so hard to produce? That's why the pasuk says, ⁧אֵלֶּה תּוֹלְדֹת נֹחַ נֹחַ⁩ - ⁧תולדות נח⁩ was himself. He saw himself as that child, as that son, as the object of all this effort and ⁧יגיעה⁩. He worked to improve
+are working so hard to produce? That's why the pasuk says, ⁧אֵלֶּה תּוֹלְדֹת נֹחַ נֹחַ⁩ - toldos Noach was himself. He saw himself as that child, as that
+son, as the object of all this effort and ⁧יגיעה⁩. He worked to improve
 himself. He did not exert himself and put all his efforts in only for
 his children. He was worthy to be called the son that we're working so
 hard to make into a ⁧עושה מצוות⁩. He was working at everything that he
@@ -1391,7 +1392,7 @@ protected, fulfilling the promise that ⁧כי שומר מצוה לא ידע ד�
 B’ezras Hashem, we should all be protected. May we be blessed to observe
 all ⁧מצוות⁩⁦,⁩ especially the ⁧מצוה⁩ of ⁧ברית מילה⁩⁦,⁩ for which ⁧כלל ישראל⁩ has
 always shown self-sacrifice. May we soon witness ⁧גאולה⁩ and the coming of
-⁧בימינו אמן משיח במהרה⁩!
+⁧משיח במהרה בימינו אמן⁩!
 
 #pagebreak()
 
@@ -10525,7 +10526,7 @@ you this incredible, exact ⁧סברא⁩ and thought process that goes into eac
 and every part of the Torah.
 
 Now, I'm going to bring a totally different ⁧הלכה⁩⁦,⁩ which is at the
-beginning of the ⁧פרשה⁩⁦,⁩ and that is the ⁧הלכה⁩ about ⁧בֶּן הָאֲהוּבָה ובֶּן הַשְּׂנוּאָה⁩.
+beginning of the ⁧פרשה⁩⁦,⁩ and that is the ⁧הלכה⁩ about ⁧ובֶּן הַשְּׂנוּאָה בֶּן הָאֲהוּבָה⁩.
 It's really where we learn the ⁧הלכה⁩ of ⁧פי שנים⁩ for a ⁧בכור⁩. The ⁧בכור⁩ gets
 ⁧פי שנים⁩. It doesn't matter if he's from the ⁧שנואה⁩ or the ⁧אהובה⁩.
 Specifically, the Torah is telling us that if the ⁧שנואה⁩ child is the
@@ -12709,7 +12710,7 @@ What did he mean by ⁧כִּי רַב הוּא⁩⁦?⁩
 
 What is ⁧רַב⁩? ⁧רַב⁩ stands for ⁧רות⁩ and ⁧בועז⁩. Balak was scared that the spark
 of ⁧משיח⁩ would be released. What did he do? This is brilliant, the guy
-was brilliant. He said to ⁧בלעם⁩⁦,⁩ go and curse ⁧כלל ישראל⁩. ⁧אָרָה לִּי אֶת הָעָם⁩ - Curse that nation so that we will not be able to join them. Why? Because
+was brilliant. He said to ⁧בלעם⁩⁦,⁩ go and curse ⁧כלל ישראל⁩. ⁧אֶת הָעָם אָרָה לִּי⁩ - Curse that nation so that we will not be able to join them. Why? Because
 it says in the Torah ⁧לא יבוא עמוני ומואבי בקהל השם⁩ - Whoever curses ⁧כלל ישראל⁩ will be ⁧אסור לבוא בקהל⁩. Balak said, “If we can't join ⁧כלל ישראל⁩⁦,⁩ Rus and Boaz can't get married. If they can't get married, ⁧משיח⁩ can't
 come. I want to keep that ⁧משיח⁩ spark here. I don't want to let it go.
 Therefore, let's curse the Jews and they will be forbidden to marry the

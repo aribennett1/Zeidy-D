@@ -479,7 +479,7 @@ function docxRtlRunSequences(docxPath) {
       const everyRunIsMultiword = rtlRuns.every(
         (runText) => (runText.match(new RegExp(HEBREW_TOKEN, "gu")) || []).length >= 2
       );
-      if (rtlRuns.length > 1 && everyRunIsMultiword && wordCount >= 6) {
+      if (rtlRuns.length > 1 && everyRunIsMultiword && wordCount >= 4) {
         const logical = [...rtlRuns].reverse().join(" ").replace(/\s+/g, " ").trim();
         sequences.push({ visual, logical });
       }
