@@ -975,6 +975,10 @@
       "contentPath": "09 - Misc/About The Name",
       "baseFilename": "About the Name"
     },
+    "/bentching/": {
+      "contentPath": "09 - Misc/Bentching",
+      "baseFilename": "Bentching"
+    },
     "/bloopers/": {
       "contentPath": "09 - Misc/Bloopers",
       "baseFilename": null
@@ -1227,6 +1231,7 @@
     "08 - Prefaces/Ari": "/ari/",
     "08 - Prefaces/Zeidy": "/zeidy/",
     "09 - Misc/About The Name": "/about-the-name/",
+    "09 - Misc/Bentching": "/bentching/",
     "09 - Misc/Bloopers": "/bloopers/",
     "09 - Misc/Bris": "/bris/",
     "09 - Misc/Final Sefer": "/final-sefer/",

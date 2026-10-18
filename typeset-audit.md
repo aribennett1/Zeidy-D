@@ -19,20 +19,20 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0212.png](typeset-audit-pages/page-0212.png)
   - hardly fathom.)⁩ ⁧,‫ ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר...
   - normalized: hardly fathom.) , ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר סה,...
-- PDF visual text, page 463, Shabbos - The Gift of Olam Haba in This World. By Rav Oelbaum, line 15
-  - visual: [page-0463.png](typeset-audit-pages/page-0463.png)
+- PDF visual text, page 464, Shabbos - The Gift of Olam Haba in This World. By Rav Oelbaum, line 15
+  - visual: [page-0464.png](typeset-audit-pages/page-0464.png)
   - The ⁧‫ ⁩גמרא‬says: ⁧,‫ אמר להם הקדוש ברוך הוא למשה‬.‫ לדעת כי אני ה׳ מקדשכם‬,‫תני נמי הכי‬
   - normalized: The  גמראsays: , אמר להם הקדוש ברוך הוא למשה. לדעת כי אני ה׳ מקדשכםת,ני נמי הכי
-- PDF visual text, page 465, person has had to strengthen himself and be     מחזיק himself in his firm belief, line 10
-  - visual: [page-0465.png](typeset-audit-pages/page-0465.png)
+- PDF visual text, page 466, person has had to strengthen himself and be     מחזיק himself in his firm belief, line 10
+  - visual: [page-0466.png](typeset-audit-pages/page-0466.png)
   - ‫⁩ונתן לו‬. ⁧‫ ⁩משה רבינו‬says: ⁧,‫ ויש צדיק ורע לו‬,‫ מפני מה יש צדיק וטוב לו‬,‫רבונו של עולם‬
   - normalized: ונתן לו.  משה רבינוsays: , ויש צדיק ורע לו, מפני מה יש צדיק וטוב לור,בונו של עולם
-- PDF visual text, page 468, But   למעשה ,  by the time he gets to the end of the   קפיטל ,  he says:   להגיד כי ישר, line 28
-  - visual: [page-0468.png](typeset-audit-pages/page-0468.png)
+- PDF visual text, page 469, But   למעשה ,  by the time he gets to the end of the   קפיטל ,  he says:   להגיד כי ישר, line 28
+  - visual: [page-0469.png](typeset-audit-pages/page-0469.png)
   - interconnected toward one ⁧‫⁩תכלית‬. Rather, ⁧,‫ לתכלית מיוחד‬,‫כל אחד ענין בפני עצמו‬
   - normalized: interconnected toward one תכלית. Rather, , לתכלית מיוחדכ,ל אחד ענין בפני עצמו
-- PDF visual text, page 473, אבל ופני לא יראו ,   לאחר שנעשה תכלית הדבר תראה ותבין למפרע מה שהיה ומה שנעשה, line 22
-  - visual: [page-0473.png](typeset-audit-pages/page-0473.png)
+- PDF visual text, page 474, אבל ופני לא יראו ,   לאחר שנעשה תכלית הדבר תראה ותבין למפרע מה שהיה ומה שנעשה, line 22
+  - visual: [page-0474.png](typeset-audit-pages/page-0474.png)
   - ,‫ מתנה טובה יש לי בבית גנזי ושבת שמה‬,‫ משה‬:‫ אמר הקדוש ברוך הוא למשה‬.‫ה׳ מקדשכם...
   - normalized: , מתנה טובה יש לי בבית גנזי ושבת שמה, משה: אמר הקדוש ברוך הוא למשהה.׳ מקדשכם
 ## MEDIUM - missing space after colon before Hebrew in Typst source
@@ -171,8 +171,8 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0450.png](typeset-audit-pages/page-0450.png)
   - answer “⁧‫ ⁩קרובץ‬is ⁧‫קרובץ לפורים‬,⁩ it’s the thing that we say on ⁧‫⁩פורים‬.” But what
   - normalized: answer “ קרובץis קרובץ לפורים, it’s the thing that we say on פורים.” But what
-- PDF visual text, page 466, does     קדושת שבת relate to this very difficult question? How is this     מקושר to, line 23
-  - visual: [page-0466.png](typeset-audit-pages/page-0466.png)
+- PDF visual text, page 467, does     קדושת שבת relate to this very difficult question? How is this     מקושר to, line 23
+  - visual: [page-0467.png](typeset-audit-pages/page-0467.png)
   - ‫⁩השבת‬. “⁧‫ ”⁩ועל דבר זה‬refers to what he said before, that ⁧‫ ⁩שבת‬is the ⁧‫השלמה‬,⁩...
   - normalized: השבת. “ ”ועל דבר זהrefers to what he said before, that  שבתis the השלמה, the
 ## MEDIUM - space before sentence punctuation
