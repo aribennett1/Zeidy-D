@@ -15331,8 +15331,8 @@ I recently had the opportunity to meet with a Rebbi who is working with
 my ⁧אייניקל⁩⁦,⁩ Asher Malool.#metadata(none) <person-index-asher-malool-1167> The Rebbi's name is R’ Yaron Halbertal.#metadata(none) <person-index-r-yaron-halbertal-1169>
 
 When I mentioned to him in passing that we've written a sefer, and the
-sefer is called ⁧הַדֹּבֵר בִּי⁩⁦,⁩ which intimates to my name and Bobbi D's#metadata(none) <person-index-bobbi-1168> name, ⁧דברה⁩⁦,⁩ he told me an interesting vort which I wanted to share with you.
-And it goes like this:
+sefer is called ⁧הַדֹּבֵר בִּי⁩⁦,⁩ which intimates to my name and Bobbi D's#metadata(none) <person-index-bobbi-1168> name, ⁧דברה⁩⁦,⁩ he told me an interesting vort from R’ Moshe Meir Weiss which I
+wanted to share with you. And it goes like this:
 
 We all know that Moshe Rabbeinu wrote the first paragraph of Birchas
 Hamazon, and we also know that Yehoshua wrote the second paragraph of
