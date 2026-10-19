@@ -15328,17 +15328,18 @@ Yidden. When you're ⁧מהנה⁩ another Yid, you're doing ⁧רצון השם�
 = Bentching
 
 I recently had the opportunity to meet with a Rebbi who is working with
-my ⁧אייניקל⁩⁦,⁩ Asher Malool.#metadata(none) <person-index-asher-malool-1167> The Rebbi name is R’ Yaron Halbertal.#metadata(none) <person-index-r-yaron-halbertal-1169>
+my ⁧אייניקל⁩⁦,⁩ Asher Malool.#metadata(none) <person-index-asher-malool-1167> The Rebbi's name is R’ Yaron Halbertal.#metadata(none) <person-index-r-yaron-halbertal-1169>
 
 When I mentioned to him in passing that we've written a sefer, and the
-sefer is called ⁧הַדֹּבֵר בִּי⁩⁦,⁩ which intimates to my name and Bobbi D's#metadata(none) <person-index-bobbi-1168> name, Devorah, he told me an interesting vertel which I wanted to share with
-you. And it goes like this:
+sefer is called ⁧הַדֹּבֵר בִּי⁩⁦,⁩ which intimates to my name and Bobbi D's#metadata(none) <person-index-bobbi-1168> name, ⁧דברה⁩⁦,⁩ he told me an interesting vort which I wanted to share with you.
+And it goes like this:
 
 We all know that Moshe Rabbeinu wrote the first paragraph of Birchas
 Hamazon, and we also know that Yehoshua wrote the second paragraph of
 Birchas Hamazon.
 
-He asked me, “What was the name of Yehoshua's wife?” I answered, “Rachav.” As is well known, he met Rachav after they conquered Yericho, and they became husband and wife.
+R’ Halbertal asked me, “What was the name of Yehoshua's wife?” I answered, “Rachav.” As is well known, he met Rachav after they conquered
+Yericho, and they became husband and wife.
 
 He said, “Take a look in the second paragraph of Birchas Hamazon, and
 you'll see Rachav's name there.” I said, “Really?” And he said, “Yes.
@@ -15346,7 +15347,7 @@ you'll see Rachav's name there.” I said, “Really?” And he said, “Yes.
 
 I never thought of that, never heard of that, and I thought I would like
 to share that with you. Ever since I heard that, every time I bench, I
-think of this dvar Torah. And you should have good kavanas when you
+think of this dvar Torah. And you should have good kavanos when you
 bench, and with all the tefillos that you do.
 
 #pagebreak()
