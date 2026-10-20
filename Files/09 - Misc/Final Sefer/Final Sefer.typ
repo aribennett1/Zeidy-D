@@ -2996,7 +2996,7 @@ There's a ⁧מדרש⁩ brought on this ⁧פסוק⁩ (⁧מדרש רבה⁩ 9
 ⁧אַבָּא כֹּהֵן בַּרְדְּלָא⁩ said; ⁧אוֹי לָנוּ מִיּוֹם הַדִּין⁩ - woe to us from the day of ⁧דין⁩⁦,⁩ and the day of judgment, which will be at ⁦משיח'⁩s time, or after a
 person's 120 years; ⁧אוֹי לָנוּ מִיּוֹם הַתּוֹכֵחָה⁩ - from the day of reproach; ⁧יוֹסֵף קְטַנָּן שֶׁל שְׁבָטִים⁩ - ⁧יוסף⁩ was the youngest of the ⁧שבטים⁩⁦,⁩ ⁦(of course, except
 for ⁧בנימין⁩);⁩ ⁧וְלֹא יָכְלוּ אֶחָיו לַעֲנוֹת אֹתוֹ כִּי נִבְהֲלוּ מִפָּנָיו⁩ - they couldn't
-answer him because they were so astonished; ⁧לִכְשֶׁיָּבוֹא הַקָּדוֹשׁ בָּרוּךְ הוּא וְיוֹכִיחַ כָּל אֶחָד וְאֶחָד לְפִי מַה שֶּׁהוּא⁩ - when ⁦הקב״ה⁩ comes and gives each one his
+answer him because they were so astonished; ⁧לִכְשֶׁיָּבוֹא הַקָּדוֹשׁ בָּרוּךְ הוּא וְיוֹכִיחַ כָּל אֶחָד וְאֶחָד לְפִי מַה שֶּׁהוּא⁩ - when ⁧הקב״ה⁩ comes and gives each one his
 ⁧מוסר⁩⁦,⁩ his ⁧תוכחה⁩⁦,⁩ his reproof, as the ⁧פסוק⁩ says (⁧תהלים נ, כא⁩): ⁧אוֹכִיחֲךָ וְאֶעֶרְכָה לְעֵינֶיךָ⁩⁦;⁩ ⁧על אחת כמה וכמה⁩. The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-188> raises another question
 from this ⁧מדרש⁩: Where is the ⁧תוכחה⁩ in this ⁧פסוק⁩? It seems like ⁧יוסף⁩ was
 simply revealing his identity, not delivering ⁧תוכחה⁩. Moreover, what is
@@ -3469,7 +3469,7 @@ in one sentence - a tremendous ⁧גאולה⁩. There are many reasons we were
 ⁧זוכה⁩ to this ⁧גאולה⁩⁦,⁩ and I'd like to discuss one of them from an
 enigmatic portion of ⁧פרשת שמות⁩.
 
-⁦הקב״ה⁩ reveals Himself to ⁧משה רבינו⁩ at the ⁧סנה⁩ \(3:2): ⁧וְהַסְּנֶה אֵינֶנּוּ אֻכָּל⁩.
+⁧הקב״ה⁩ reveals Himself to ⁧משה רבינו⁩ at the ⁧סנה⁩ \(3:2): ⁧וְהַסְּנֶה אֵינֶנּוּ אֻכָּל⁩.
 As an aside, the word ⁧אייניקל⁩⁦,⁩ which I've probably taught to many of my
 children and ⁧אייניקלעך⁩⁦,⁩ comes from the root of ⁧אֵינֶנּוּ אֻכָּל⁩ - many people
 don't know that. Returning to the topic, after the ⁧סנה⁩⁦,⁩ ⁧הקב״ה⁩ tells ⁧משה⁩⁦,⁩ “I want you to go to ⁧מצרים⁩ and get the Jews out.” What does ⁧משה⁩ say?
@@ -3511,13 +3511,13 @@ ability to feel such genuine happiness for his brother is extraordinary.
 How can we hope to achieve this level? First, by learning about it.
 Second, by practicing it. Third, by inculcating within ourselves the
 ability to genuinely rejoice in the success of others without jealousy.
-⁦הקב״ה⁩ gives everyone exactly what is meant for them. Never feel bad
+⁧הקב״ה⁩ gives everyone exactly what is meant for them. Never feel bad
 about someone else's achievements. In fact, ⁧פּונקט פאַרקערט⁩⁦,⁩ you should be
 thrilled for them. Strive to make your happiness for someone else equal
 to the joy you'd feel if you had achieved it yourself. In that ⁧זכות⁩⁦,⁩ we
 will have a ⁧גאולה⁩⁦,⁩ all our ⁧קינדרלעך⁩ and all of ⁧כלל ישראל⁩ will have a
 tremendous ⁧ישועה⁩. We're in the midst of this difficult and horrible
-⁧מלחמה⁩ (written during the war in Gaza). May ⁦הקב״ה⁩ grant each ⁧חַיָל⁩ and
+⁧מלחמה⁩ (written during the war in Gaza). May ⁧הקב״ה⁩ grant each ⁧חַיָל⁩ and
 every Jew, wherever they are, tremendous ⁧הצלחה⁩ and ⁧נִצָחוֹן⁩. Here in ⁧חוץ לארץ⁩⁦,⁩ we are also facing ⁧ניסיונות⁩⁦,⁩ being ridiculed and threatened.
 B’ezras Hashem, we should all hear good news.
 
@@ -3614,7 +3614,7 @@ that aspiration. These thoughts help me focus on the idea of ⁧מסירות נ�
 and remind me of the dedication required for kiddush Hashem.
 
 Where do we see an example of ⁧מסירות נפש⁩ in ⁧פרשת וארא⁩⁦?⁩ The pasuk says
-(7:28): ⁧וְשָׁרַץ הַיְאֹר צְפַרְדְּעִים וְעָלוּ וּבָאוּ בְּבֵיתֶךָ וּבַחֲדַר מִשְׁכָּבְךָ וְעַל מִטָּתֶךָ וּבְבֵית עֲבָדֶיךָ וּבְעַמֶּךָ וּבְתַנּוּרֶיךָ וּבְמִשְׁאֲרוֹתֶיךָ⁩. The ⁧מדרש⁩⁦,⁩ quoted in ⁦גמרא פסחים נ״ג ע״ב⁩, connects this to ⁧חנניה⁩⁦,⁩ ⁧מישאל⁩⁦,⁩ ⁧ועזריה⁩⁦,⁩ who were ⁧השם מוסר נפש על קידוש⁩
+(7:28): ⁧וְשָׁרַץ הַיְאֹר צְפַרְדְּעִים וְעָלוּ וּבָאוּ בְּבֵיתֶךָ וּבַחֲדַר מִשְׁכָּבְךָ וְעַל מִטָּתֶךָ וּבְבֵית עֲבָדֶיךָ וּבְעַמֶּךָ וּבְתַנּוּרֶיךָ וּבְמִשְׁאֲרוֹתֶיךָ⁩. The ⁧מדרש⁩⁦,⁩ quoted in ⁦גמרא פסחים נ״ג ע״ב⁩, connects this to ⁧חנניה⁩⁦,⁩ ⁧מישאל⁩⁦,⁩ ⁧ועזריה⁩⁦,⁩ who were ⁧מוסר נפש על קידוש השם⁩
 and allowed themselves to be thrown into the ⁧כבשן האש⁩. The ⁧גמרא⁩ explains
 that they made a ⁧קל וחומר⁩ from the ⁧צפרדעים⁩: If the ⁧צפרדעים⁩⁦,⁩ who were not
 commanded in kiddush Hashem, jumped into the ovens as the pasuk
@@ -3853,8 +3853,7 @@ In ⁧פרשת בא⁩ it says (12:2): ⁧הַחֹדֶשׁ הַזֶּה לָכֶ
 to ⁧כלל ישראל⁩ as a nation: ⁧רִאשׁוֹן הוּא לָכֶם לְחׇדְשֵׁי הַשָּׁנָה⁩. The sefer ⁧שמחת התורה⁩
 by R’ Simcha Sheps#metadata(none) <person-index-r-sheps-248> offers a fascinating insight. He brings a ⁧גמרא⁩ in
 ⁦מנחות כ״ט ע״א⁩: ⁧תנא דבי רבי ישמעאל שלשה דברים היו קשין לו למשה⁩ - There
-were three topics that ⁧משה רבינו⁩ found particularly difficult; ⁦עד שהראה
-לו הקב״ה⁩ ⁧באצבעו⁩ - until ⁧הקדוש ברוך הוא⁩ explicitly showed ⁧משה⁩ each one
+were three topics that ⁧משה רבינו⁩ found particularly difficult; ⁧עד שהראה לו הקב״ה באצבעו⁩ - until ⁧הקדוש ברוך הוא⁩ explicitly showed ⁧משה⁩ each one
 with an ⁧אצבע⁩⁦,⁩ pointing and clarifying, “This is what I mean, this is
 what I want.” ⁧ואלו הן מנורה וראש חדש ושרצים⁩. What is the ⁧גמרא⁩ conveying
 here? Why did ⁧משה רבינו⁩ struggle specifically with these three?
@@ -3935,7 +3934,7 @@ The ⁧ספר אפיריון⁩ questions why we insist on using water, which ca
 ⁧חמץ⁩⁦,⁩ requiring meticulous care - such as using ⁧מים שלנו⁩ and adhering to
 strict time limits? Why not use ⁧מי פירות⁩⁦,⁩ which pose no ⁧חמץ⁩ risk? The
 answer is: because that's how they did it in ⁧מצרים⁩. Therefore, that's
-what the ⁧מצרים זכר ליציאת⁩ is when it comes to this particular aspect of
+what the ⁧זכר ליציאת מצרים⁩ is when it comes to this particular aspect of
 making ⁧מצה⁩. We ⁧דוקא⁩ use ⁧מים⁩ because if you would use ⁧מי פירות⁩⁦,⁩ there
 would be no ⁧זכר⁩⁦,⁩ because that's not the way they did it. So in the ⁧הגדה⁩
 we ask ⁧מצה זו שאנו אוכלים על שום מה⁩ - Why are we eating ⁧מצה⁩ made in this
@@ -4729,8 +4728,7 @@ the two ⁧כרובים⁩. There's a tremendous amount of ⁧תורה⁩ concer
 ⁧כרובים⁩. The ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-322> raises a startling question that floored
 me, made me think, and I'm delighted to share it with you. It says in
 ⁦מסכת מנחות כ״ט ע״א⁩: ⁧תנא דבי רבי ישמעאל שלשה דברים היו קשין לו למשה⁩ - There were three things that ⁧משה⁩ had difficulty with. \[We don't
-understand what that means, but that's what the ⁧גמרא⁩ says\]; ⁦עד שהראה לו
-הקב״ה⁩ ⁧באצבעו⁩ - until ⁦הקב״ה⁩ showed him with a finger. \[We don't
+understand what that means, but that's what the ⁧גמרא⁩ says\]; ⁧עד שהראה לו הקב״ה באצבעו⁩ - until ⁧הקב״ה⁩ showed him with a finger. \[We don't
 understand what that means either. It's ⁧כביכול⁩⁦,⁩ of course, Hashem has no
 fingers, but it says ⁧באצבע⁩. That's what it says\], and what are they?
 The first one we know, ⁧מנורה⁩. The second one, which we also know, is ⁧ראש חודש⁩. The third one, not quite as famous, is ⁧שרצים⁩⁦,⁩ it's a ⁧בפרש הגמרא⁩⁦,⁩ as Casey said, you could look it up.
@@ -4799,7 +4797,7 @@ tremendous ⁧קדושה⁩ that's embedded within its words. Based on this ⁧�
 words into his ⁧פירוש⁩ specifically to be ⁧מטהר⁩ the ⁧טמא⁩ elements of that
 language. By merging French with the purity of ⁧לשון הקודש⁩⁦,⁩ ⁧רש״י⁩#metadata(none) <person-index-rashi-331> sought
 to be ⁧מטהר⁩ even that which was otherwise impure. This concept may
-parallel the ⁧מדרש⁩ about ⁧עצי שיטים⁩. Just as ⁦הקב״ה⁩ commanded us to use ⁧עצי שיטים⁩ for the ⁧ארון⁩ to rectify the ⁧חטא⁩ of ⁧שיטים⁩⁦,⁩ ⁧רש״י'⁩s#metadata(none) <person-index-rashi-332> use of French
+parallel the ⁧מדרש⁩ about ⁧עצי שיטים⁩. Just as ⁧הקב״ה⁩ commanded us to use ⁧עצי שיטים⁩ for the ⁧ארון⁩ to rectify the ⁧חטא⁩ of ⁧שיטים⁩⁦,⁩ ⁧רש״י'⁩s#metadata(none) <person-index-rashi-332> use of French
 words might have been an effort to sanctify that which was ⁧טמא⁩.
 
 This teaches us a life lesson. We have to work on improving ourselves, both our behavior and our language. We're surrounded, ⁧נבוך⁩⁦,⁩ by people
@@ -4845,7 +4843,7 @@ was offered. Through this ⁧קרבן⁩⁦,⁩ we represent, signify, and decla
 In fact, this is the ultimate purpose of all ⁧מצוות⁩. Every ⁧מצוה⁩ is
 designed to remind us that Hashem is always in front of us. He creates
 everything, orchestrates all situations, and no matter what circumstance
-we find ourselves in, it comes from ⁦הקב״ה⁩. ⁧מצוות⁩ such as ⁧שבת⁩⁦,⁩ ⁧יום טוב⁩⁦,⁩ ⁧ממונות⁩⁦,⁩ ⁧נזיקין⁩⁦,⁩ and ⁧קרבנות⁩ all teach and reinforce this ⁧יסוד⁩.
+we find ourselves in, it comes from ⁧הקב״ה⁩. ⁧מצוות⁩ such as ⁧שבת⁩⁦,⁩ ⁧יום טוב⁩⁦,⁩ ⁧ממונות⁩⁦,⁩ ⁧נזיקין⁩⁦,⁩ and ⁧קרבנות⁩ all teach and reinforce this ⁧יסוד⁩.
 
 Why do we specifically have two ⁧קרבנות⁩ each day - one in the morning and
 one at night? Many ⁧פשטים⁩ are offered, but one of the simplest yet most
@@ -7711,7 +7709,7 @@ The Sfas Emes#metadata(none) <person-index-sfas-emes-546> brings a pasuk in ⁦(
 with silver and gold, and there was nobody who was poor amongst the
 ⁧שבטים⁩. What does it mean that no one was “poor”? It means that no one
 failed in their ⁧נסיונות⁩ with their ⁧יצר הרע⁩. The Sfas Emes#metadata(none) <person-index-sfas-emes-547> is telling us
-that ⁧דוד המלך⁩ wants to teach us that when ⁦הקב״ה⁩ took ⁧בני ישראל⁩ out of
+that ⁧דוד המלך⁩ wants to teach us that when ⁧הקב״ה⁩ took ⁧בני ישראל⁩ out of
 ⁧מצרים⁩ with all of this wealth, it was not their downfall. As we know, money can be someone's great downfall, but in this case, money did not
 spoil them.
 
@@ -7724,7 +7722,7 @@ R’ Mendel answers that a ⁧ברכה⁩ for one person may not be a ⁧ברכ�
 another person. You can't make a general ⁧כלל⁩⁦,⁩ giving a single ⁧ברכה⁩ for
 everyone and expect it to be “one size fits all.” Each and every
 individual needs to receive the ⁧ברכה⁩ that is appropriate for him, for
-what he needs, for what his desires are, and ⁦הקב״ה⁩ should fulfill them
+what he needs, for what his desires are, and ⁧הקב״ה⁩ should fulfill them
 ⁧לטובה⁩.
 
 R’ Mendel said that he once had a dream in which he went up to ⁧שמים⁩ and

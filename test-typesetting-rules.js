@@ -1163,6 +1163,15 @@ test("keeps a prefixed divine name inside a Hebrew pasuk phrase", () => {
   );
 });
 
+test("keeps hakadosh baruch hu acronym inside a Hebrew phrase", () => {
+  const typst = applyTextRules("עד שהראה לו הקב״ה באצבעו - until");
+
+  assert.equal(
+    typst,
+    `${RTL_ISOLATE}עד שהראה לו הקב״ה באצבעו${POP_DIRECTIONAL_ISOLATE} - until`
+  );
+});
+
 test("keeps short parenthesized acronym source in reading order", () => {
   assert.equal(
     applyTextRules("In (ס׳ ע״ב) מסכת ברכות"),
@@ -1564,6 +1573,21 @@ test("docx: Bo 5784 keeps one source space after source colon before Hebrew", ()
     "single source space after 12:2 colon"
   );
   assertNotContains(typst, `(12:2) : ${RTL_ISOLATE}הַחֹדֶשׁ`, "space before 12:2 colon");
+});
+
+test("docx: Bo 5784 keeps hakadosh baruch hu inside the Hebrew clause", () => {
+  const typst = convertedDocx("/bo/5784/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}עד שהראה לו הקב״ה באצבעו${POP_DIRECTIONAL_ISOLATE} - until`,
+    "hakadosh baruch hu clause in RTL order"
+  );
+  assertNotContains(
+    typst,
+    `${LTR_ISOLATE}עד שהראה לו הקב״ה${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}באצבעו${POP_DIRECTIONAL_ISOLATE}`,
+    "hakadosh baruch hu clause split at its acronym"
+  );
 });
 
 test("docx: Bo 5783 keeps comma after Moshe before quoted English", () => {

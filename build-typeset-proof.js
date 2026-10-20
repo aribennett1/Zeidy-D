@@ -1261,7 +1261,10 @@ function isolateHebrewRuns(typstContent) {
     return marker;
   };
   const isDivineNameToken = (token) => /^(?:[ובכלמש][\u0591-\u05C7]*)?ה[\u0591-\u05C7]*[׳']$/u.test(token);
-  const containsDivineName = (value) => value.split(/\s+/).some(isDivineNameToken);
+  const isHakadoshBaruchHuToken = (token) => /^הקב["״']ה$/u.test(token);
+  const isSacredNameToken = (token) => isDivineNameToken(token) || isHakadoshBaruchHuToken(token);
+  const containsHakadoshBaruchHu = (value) => value.split(/\s+/).some(isHakadoshBaruchHuToken);
+  const containsSacredName = (value) => value.split(/\s+/).some(isSacredNameToken);
   const followedByEnglish = (fullText, endOffset) => {
     const rawFollowing = fullText.slice(endOffset);
     if (/^(?:[ \t\u00A0\u202F]+|\n(?!\n)|#metadata\(none\)\s*<[^>\n]+>)*\((?:[^()\n]|\n(?!\n)){0,300}[A-Za-z]/.test(rawFollowing)) {
@@ -1387,6 +1390,9 @@ function isolateHebrewRuns(typstContent) {
   });
 
   const trailingAcronymPhraseSafeContent = acronymCommaSequenceSafeContent.replace(HEBREW_TRAILING_ACRONYM_PHRASE_RE, (match) => {
+    if (containsHakadoshBaruchHu(match)) {
+      return match;
+    }
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
@@ -1414,14 +1420,14 @@ function isolateHebrewRuns(typstContent) {
   });
 
   const acronymContextSafeContent = acronymContinuationSafeContent.replace(HEBREW_ACRONYM_CONTEXT_RE, (match) => {
-    if (containsDivineName(match)) {
+    if (containsSacredName(match)) {
       return match;
     }
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
   const acronymSafeContent = acronymContextSafeContent.replace(HEBREW_ACRONYM_RE, (match) => {
-    if (isDivineNameToken(match)) {
+    if (isSacredNameToken(match)) {
       return match;
     }
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
