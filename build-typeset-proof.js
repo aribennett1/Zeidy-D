@@ -109,11 +109,15 @@ const HEBREW_COMMA_PHRASE_SEQUENCE_RE = new RegExp(
   "gu"
 );
 const HEBREW_COMMA_QUOTE_BEFORE_ENGLISH_RE = new RegExp(
-  `(?=[^.\\n]*[\\u0591-\\u05C7])${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){1,80},\\s*${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){1,80}(?=\\s*[.?!]\\s+[A-Z])`,
+  `(?=[^.\\n]*[\\u0591-\\u05C7])${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){1,80},\\s*${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){1,80}(?=\\s*(?:[.?!]\\s+[A-Z]|,\\s+(?:and|or|but|so|which|that)\\b))`,
   "gu"
 );
 const HEBREW_QUESTION_PHRASE_RE = new RegExp(
   `${HEBREW_TOKEN}(?:[\\s,]+${HEBREW_TOKEN}){1,80}\\?`,
+  "gu"
+);
+const HEBREW_QUESTION_ANSWER_RE = new RegExp(
+  `אֵיזֶהוּ\\s+חָכָם\\?\\s*הָרוֹאֶה(?:\\s+${HEBREW_TOKEN}){2,80}`,
   "gu"
 );
 const HEBREW_SEMICOLON_PHRASE_RE = new RegExp(
@@ -142,6 +146,30 @@ const HEBREW_ACRONYM_RE = new RegExp(
 );
 const HEBREW_PHRASE_RE = new RegExp(
   `${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN})*,?`,
+  "gu"
+);
+const HEBREW_TILDE_PHRASE_RE = new RegExp(
+  `${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){0,160}~${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){0,160}`,
+  "gu"
+);
+const HEBREW_SPEAKER_QUOTE_RE = new RegExp(
+  `א[\\u0591-\\u05C7]*מ[\\u0591-\\u05C7]*ר[\\u0591-\\u05C7]*(?:\\s+ר[\\u0591-\\u05C7]*ב[\\u0591-\\u05C7]*י[\\u0591-\\u05C7]*)(?:\\s+${HEBREW_TOKEN}){0,5}:\\s*${HEBREW_TOKEN}(?:(?:\\s+|,\\s*)${HEBREW_TOKEN}){1,160}`,
+  "gu"
+);
+const HEBREW_BOOK_BRACKETED_QUOTE_RE = new RegExp(
+  `${HEBREW_TOKEN}:\\s*${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){0,80}\\s+(?:\\\\)?\\[${HEBREW_TOKEN}(?:\\\\)?\\](?:\\s+${HEBREW_TOKEN}){1,80}`,
+  "gu"
+);
+const ENGLISH_IN_HEBREW_BOOK_REFERENCE_RE = new RegExp(
+  `(\\bin\\s+)(${HEBREW_PAREN_REFERENCE})\\s+(${HEBREW_TOKEN})(?=\\s*:)`,
+  "giu"
+);
+const HEBREW_BOOK_REFERENCE_BRACKETED_QUOTE_RE = new RegExp(
+  `(${HEBREW_TOKEN})\\s+(\\([^()\\n]{1,120}\\)):\\s*(${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){0,80}\\s+(?:\\\\)?\\[${HEBREW_TOKEN}(?:\\\\)?\\](?:\\s+${HEBREW_TOKEN}){1,80})`,
+  "gu"
+);
+const PESACH_MISHNAH_QUOTE_RE = new RegExp(
+  `(סנהדרין)\\s+(\\([^()\\n]{1,120}\\)):\\s*(מֶּלֶךְ\\s+פוֹרֵץ\\s+(?:\\\\)?\\[גֶדֶר(?:\\\\)?\\]\\s+לַעֲשׂוֹת\\s+לוֹ\\s+דֶרֶךְ)`,
   "gu"
 );
 const MISPLACED_HEBREW_COMMA_RE = new RegExp(
@@ -1140,6 +1168,10 @@ function protectMarkedRtlReferences(typstContent, protect) {
 function moveLeadingHebrewSourceAfterQuote(typstContent) {
   return typstContent
     .replace(
+      ENGLISH_IN_HEBREW_BOOK_REFERENCE_RE,
+      (_match, prefix, reference, book) => `${prefix}${book} ${reference}`
+    )
+    .replace(
       LEADING_HEBREW_SOURCE_AFTER_ENGLISH_CLAUSE_RE,
       (_match, prefix, reference, quote, punctuation) => `${prefix}${quote} ${reference}${punctuation}`
     )
@@ -1154,8 +1186,12 @@ function moveLeadingHebrewSourceAfterQuote(typstContent) {
     )
     .replace(
       HEBREW_REFERENCE_BEFORE_BOOK_QUOTE_RE,
-      (_match, reference, book, quote, punctuation) =>
-        `${book}: ${quote} ${reference}${punctuation}`
+      (match, reference, book, quote, punctuation, offset, fullText) => {
+        if (/\bin\s*$/iu.test(fullText.slice(0, offset))) {
+          return match;
+        }
+        return `${book}: ${quote} ${reference}${punctuation}`;
+      }
     );
 }
 
@@ -1278,10 +1314,11 @@ function isolateHebrewRuns(typstContent) {
     protectedSequences.push(value);
     return marker;
   };
-  const isDivineNameToken = (token) => /^(?:[ובכלמש][\u0591-\u05C7]*)?ה[\u0591-\u05C7]*[׳']$/u.test(token);
+  const isDivineNameToken = (token) => /^(?:[ובכלמשל][\u0591-\u05C7]*)?ה[\u0591-\u05C7]*[׳']$/u.test(token);
   const isHakadoshBaruchHuToken = (token) => /^הקב["״']ה$/u.test(token);
   const isSacredNameToken = (token) => isDivineNameToken(token) || isHakadoshBaruchHuToken(token);
   const containsHakadoshBaruchHu = (value) => value.split(/\s+/).some(isHakadoshBaruchHuToken);
+  const containsInlineDivineName = (value) => value.split(/\s+/).some((token) => /^(?:[ובלמש][\u0591-\u05C7]*)?ה[\u0591-\u05C7]*[׳']$/u.test(token));
   const containsSacredName = (value) => value.split(/\s+/).some(isSacredNameToken);
   const followedByEnglish = (fullText, endOffset) => {
     const rawFollowing = fullText.slice(endOffset);
@@ -1369,7 +1406,11 @@ function isolateHebrewRuns(typstContent) {
     return protect(formatHebrewPhraseNumericSource(phrase, source));
   });
 
-  const hebrewQuestionSafeContent = hebrewPhraseNumericSourceSafeContent.replace(HEBREW_QUESTION_PHRASE_RE, (match, offset, fullText) => {
+  const hebrewQuestionAnswerSafeContent = hebrewPhraseNumericSourceSafeContent.replace(HEBREW_QUESTION_ANSWER_RE, (match) => {
+    return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
+  });
+
+  const hebrewQuestionSafeContent = hebrewQuestionAnswerSafeContent.replace(HEBREW_QUESTION_PHRASE_RE, (match, offset, fullText) => {
     const phrase = normalizeInlineWhitespace(match).replace(/\?$/, "");
     if (phrase.includes(",") && precededByEnglishPreposition(fullText, offset)) {
       return protect(`${isolateHebrewCommaPhrase(phrase, true)}${LTR_ISOLATE}?${POP_DIRECTIONAL_ISOLATE}`);
@@ -1408,7 +1449,7 @@ function isolateHebrewRuns(typstContent) {
   });
 
   const trailingAcronymPhraseSafeContent = acronymCommaSequenceSafeContent.replace(HEBREW_TRAILING_ACRONYM_PHRASE_RE, (match) => {
-    if (containsHakadoshBaruchHu(match)) {
+    if (containsHakadoshBaruchHu(match) || containsInlineDivineName(match)) {
       return match;
     }
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
@@ -1426,7 +1467,31 @@ function isolateHebrewRuns(typstContent) {
     return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
-  const hebrewCommaQuoteSafeContent = hebrewHyphenatedSafeContent.replace(HEBREW_COMMA_QUOTE_BEFORE_ENGLISH_RE, (match) => {
+  const hebrewTildePhraseSafeContent = hebrewHyphenatedSafeContent.replace(HEBREW_TILDE_PHRASE_RE, (match) => {
+    return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match.replace(/~/g, " "))}${POP_DIRECTIONAL_ISOLATE}`);
+  });
+
+  const hebrewSpeakerQuoteSafeContent = hebrewTildePhraseSafeContent.replace(HEBREW_SPEAKER_QUOTE_RE, (match) => {
+    return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
+  });
+
+  const pesachMishnahQuoteSafeContent = hebrewSpeakerQuoteSafeContent.replace(
+    PESACH_MISHNAH_QUOTE_RE,
+    (_match, book, reference, quote) =>
+      protect(`${RTL_ISOLATE}${book}${POP_DIRECTIONAL_ISOLATE} ${LTR_ISOLATE}${reference}${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}${quote}${POP_DIRECTIONAL_ISOLATE}`)
+  );
+
+  const hebrewBookReferenceBracketedQuoteSafeContent = pesachMishnahQuoteSafeContent.replace(
+    HEBREW_BOOK_REFERENCE_BRACKETED_QUOTE_RE,
+    (_match, book, reference, quote) =>
+      protect(`${RTL_ISOLATE}${book}${POP_DIRECTIONAL_ISOLATE} ${LTR_ISOLATE}${reference}${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}${normalizeInlineWhitespace(quote)}${POP_DIRECTIONAL_ISOLATE}`)
+  );
+
+  const hebrewBookBracketedQuoteSafeContent = hebrewBookReferenceBracketedQuoteSafeContent.replace(HEBREW_BOOK_BRACKETED_QUOTE_RE, (match) => {
+    return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
+  });
+
+  const hebrewCommaQuoteSafeContent = hebrewBookBracketedQuoteSafeContent.replace(HEBREW_COMMA_QUOTE_BEFORE_ENGLISH_RE, (match) => {
     return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match).replace(",", `${PRESERVED_HEBREW_COMMA_MARKER},${PRESERVED_HEBREW_COMMA_MARKER}`)}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
@@ -1559,6 +1624,16 @@ function repairTwoPartHebrewCommaDashPhrases(typstContent) {
     (_match, firstPart, secondPart) => {
       return `${RTL_ISOLATE}${firstPart}${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}${secondPart}${POP_DIRECTIONAL_ISOLATE}`;
     }
+  );
+}
+
+function repairPesachMishnahQuote(typstContent) {
+  return typstContent.replace(
+    new RegExp(
+      `${RTL_ISOLATE}(מֶּלֶךְ\\s+פוֹרֵץ)${POP_DIRECTIONAL_ISOLATE}\\s+(?:\\\\)?\\[${RTL_ISOLATE}(גֶדֶר)${POP_DIRECTIONAL_ISOLATE}(?:\\\\)?\\]\\s+${RTL_ISOLATE}(לַעֲשׂוֹת\\s+לוֹ\\s+דֶרֶךְ)${POP_DIRECTIONAL_ISOLATE}`,
+      "gu"
+    ),
+    `${RTL_ISOLATE}$1 \\[${RTL_ISOLATE}$2${POP_DIRECTIONAL_ISOLATE}\\] $3${POP_DIRECTIONAL_ISOLATE}`
   );
 }
 
@@ -1833,7 +1908,7 @@ function applyTextRules(typstContent) {
                   repairSplitMasechtaDafQuestions(
                     repairSplitGemaraSources(
                       repairQuotedHebrewRuns(
-                        isolateHebrewRuns(
+                        repairPesachMishnahQuote(isolateHebrewRuns(
                           moveLeadingHebrewSourceAfterQuote(
                             repairEscapedHebrewParagraphCitations(
                               normalizeMisplacedHebrewCommas(
@@ -1843,7 +1918,7 @@ function applyTextRules(typstContent) {
                               )
                             )
                           )
-                        )
+                        ))
                       )
                     )
                   )

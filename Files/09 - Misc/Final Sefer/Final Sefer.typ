@@ -1782,7 +1782,7 @@ was going to be ⁧נשחט⁩ or from hearing that he wasn't ⁧נשחט⁩. Re
 
 I heard a ⁧דבר תורה⁩ from Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-99> who attributes it to ⁧רב מאיר⁩ from
 ⁧פרמישלאן⁩.#metadata(none) <person-index-r-meir-l-of-premishlan-95> As you all know, I often mention that my ⁧אלטע זיידע⁩ was a ⁧שוחט⁩
-in ⁧פרמישלאן⁩⁦,⁩ #metadata(none) <person-index-r-meir-l-of-premishlan-96> whether it~was~at~the~time~of~⁧מאיר⁩~⁧רב⁩
+in ⁧פרמישלאן⁩⁦,⁩ #metadata(none) <person-index-r-meir-l-of-premishlan-96> whether it~was~at~the~time~of~⁧מאיר רב⁩
 from~⁧פרמישלאן⁩#metadata(none) <person-index-r-meir-l-of-premishlan-97>~or~not~is~irrelevant, we have a deep connection to that
 holy city.
 
@@ -4088,7 +4088,7 @@ comments: ⁧בִּשְׁבִילְכֶם⁩⁦,⁩ meaning that Hashem will fig
 There's a ⁧גוואַלדיק⁩ vort on this pasuk from R’ Beryl Weisbord#metadata(none) <person-index-r-beryl-weisbord-267> in the
 Chanukah sefer put out by ⁧ישיבת נר ישראל⁩⁦,⁩ titled ⁧ה׳ יִלָּחֵם לָכֶם⁩. He raises
 an intriguing question: In the ⁧נוסח⁩ of ⁧על הנסים⁩⁦,⁩ we praise Hashem for
-delivering ⁧גִבּוֹרִים בְּיַד חַלָּשִׁים, רַבִּים בְּיַד מְעַטִּים, טְמֵאִים בְּיַד טְהוֹרִים, רְשָׁעִים בְּיַד צַדִּיקִים⁩⁦,⁩ and ⁧זֵדִים בְּיַד עוֹסְקֵי תוֹרָתֶךָ⁩. The first two instances, ⁧גִבּוֹרִים⁩ and
+delivering ⁧גִבּוֹרִים בְּיַד חַלָּשִׁים, רַבִּים בְּיַד מְעַטִּים,  טְמֵאִים בְּיַד טְהוֹרִים, רְשָׁעִים בְּיַד צַדִּיקִים⁩, and ⁧זֵדִים בְּיַד עוֹסְקֵי תוֹרָתֶךָ⁩. The first two instances, ⁧גִבּוֹרִים⁩ and
 ⁧רַבִּים⁩ in the hands of ⁧חַלָּשִׁים⁩ and ⁧מְעַטִּים⁩⁦,⁩ represent supernatural ⁧נסים⁩.
 However, the last three seem to be natural outcomes we would expect when
 engaging in ⁧תורה⁩ and ⁧מצוות⁩⁦,⁩ that Hashem will give us ⁧הצלחה⁩ in what we
@@ -4329,7 +4329,7 @@ event before ⁧מתן תורה⁩⁦?⁩
 
 A possible answer is connected to the sequence of the ⁧פרשיות⁩ known as
 ⁧שובבים⁩⁦,⁩ which concludes with ⁧משפטים⁩. These ⁧פרשיות⁩ cover some of the most
-dramatic events in history: ⁧שִׁעבּוּד מצרים⁩⁦,⁩ ⁧יציאת מצרים⁩⁦,⁩ and ⁧קבלת התורה⁩.
+dramatic events in history: ⁧שִׁעבּוּד מצרים, יציאת מצרים⁩, and ⁧קבלת התורה⁩.
 One might think that ⁧מתן תורה⁩ represents the ultimate climax of this
 narrative. However, Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-297> explained that the true climax is
 actually ⁧פרשת משפטים⁩.
@@ -5522,7 +5522,7 @@ might have asked him questions, forcing him to reveal that the ⁧ארון⁩ wa
 on the plane. Perhaps he chose to avoid this out of concern for the
 airline. Nevertheless, R’ Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-382> suggested that he could have
 handled it slightly differently. Instead of remaining seated, he could
-have stood with the ⁧מנין⁩ and mumbled under his breath ⁧ה׳ נָתַן⁩⁦,⁩ ⁧ה׳ לָקָח⁩⁦,⁩ ⁧יְהִי שֵׁם ה׳ מְבֹרָךְ⁩⁦,⁩ and keep saying that over and over again so that the
+have stood with the ⁧מנין⁩ and mumbled under his breath ⁧ה׳ נָתַן, ה׳ לָקָח, יְהִי שֵׁם ה׳ מְבֹרָךְ⁩, and keep saying that over and over again so that the
 people would think he was davening, and that would avoid ⁧מראית עין⁩ that
 he was not davening.”
 
@@ -5733,8 +5733,7 @@ amount of ⁧ספרים⁩ is ⁧ספר ויקרא⁩. I always emphasize this p
 demonstrates that every ⁧פרט⁩ in ⁧ספר ויקרא⁩ contains a world of learning
 and a world of ⁧תורה⁩.
 
-The ⁧פסוק⁩ says in ⁧פסוק ב⁩: ⁧דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אָדָם⁩ ⁦כִּי יַקְרִיב מִכֶּם
-קׇרְבָּן לַה׳⁩. Why is the word ⁧אדם⁩ included? ⁦רש״י⁩#metadata(none) <person-index-rashi-395> on the spot explains: ⁧מָה אָדָם הָרִאשׁוֹן לֹא הִקְרִיב מִן הַגָּזֵל⁩ - just as ⁧אדם הראשון⁩ could not bring a ⁧קרבן⁩
+The ⁧פסוק⁩ says in ⁧פסוק ב⁩: ⁧דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אָדָם כִּי יַקְרִיב מִכֶּם קׇרְבָּן לַה׳⁩. Why is the word ⁧אדם⁩ included? ⁦רש״י⁩#metadata(none) <person-index-rashi-395> on the spot explains: ⁧מָה אָדָם הָרִאשׁוֹן לֹא הִקְרִיב מִן הַגָּזֵל⁩ - just as ⁧אדם הראשון⁩ could not bring a ⁧קרבן⁩
 from stolen property (as he owned everything), so too, you are not
 allowed to steal an animal and offer it as a ⁧קרבן⁩\; it must be your own.
 
@@ -8120,8 +8119,8 @@ that we are indeed going to get ⁧ארץ ישראל⁩.
 However, I'd like to discuss one particular pasuk which R’ Chaim
 Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-575> ⁦זצ״ל⁩ (#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-576> on Chumash.] Permission
 granted by ArtScroll / Mesorah Publications) discusses at great length
-and it's also ⁧הלכה למעשה⁩. Pasuk ⁧ד׳⁩ says ⁦וְהִקְרִיב הַמַּקְרִיב קׇרְבָּנוֹ לַה׳⁩. It
-should have said ⁦וְהִקְרִיב קׇרְבָּנוֹ לַה׳⁩. We had the same phraseology in
+and it's also ⁧הלכה למעשה⁩. Pasuk ⁧ד׳⁩ says ⁧וְהִקְרִיב הַמַּקְרִיב קׇרְבָּנוֹ לַה׳⁩. It
+should have said ⁧וְהִקְרִיב קׇרְבָּנוֹ לַה׳⁩. We had the same phraseology in
 parshas ⁧נשא⁩⁦,⁩ by the ⁧נשיאים⁩⁦,⁩ where it says ⁧וַיְהִי הַמַּקְרִיב בַּיּוֹם הָרִאשׁוֹן⁩. The
 ⁧מפרשים⁩ say, ⁧הִקְרִיב⁩ - Who did he bring? He brought himself. That's what a
 ⁧קרבן⁩ really is. We're bringing ourselves, but we don't believe in human
@@ -9849,7 +9848,7 @@ like to ask the following question, which is not well known: How many
 times did ⁧אהרן הכהן⁩ daven to go into ⁧ארץ ישראל⁩⁦?⁩ The answer is zero. He
 did not daven to go into ⁧ארץ ישראל⁩. The ⁧מגלה עמוקות⁩ asks this question
 and points out that there's a ⁧פסוק⁩ in Parshas Matos ⁦(במדבר ל״ב:כ״ב)⁩:
-⁦וִהְיִיתֶם נְקִיִּים מֵה׳⁩ ⁧וּמִיִּשְׂרָאֵל⁩ - We have to be blameless and spotless in the
+⁧וִהְיִיתֶם נְקִיִּים מֵה׳ וּמִיִּשְׂרָאֵל⁩ - We have to be blameless and spotless in the
 eyes of Hashem and ⁧ישראל⁩.
 
 An interesting observation made by R’ Moshe Donnebaum#metadata(none) <person-index-r-moshe-donnebaum-730> in the Torah
@@ -10023,8 +10022,7 @@ We are now in the ⁧ז' דנחמתא⁩⁦,⁩ the seven weeks of comfort follo
 of the haftorahs of the ⁧ז' דנחמתא⁩ are a dialogue between ⁧הקדוש ברוך הוא⁩
 and ⁧כלל ישראל⁩. The ⁧הפטרה⁩ for ⁧עקב⁩ has two extremely important ⁧פסוקים⁩
 which I would like to focus on. The first is when ⁧כלל ישראל⁩ cries to
-Hashem. ⁧כלל ישראל⁩ in ⁧ציון⁩ cries bitterly ⁦(ישעיהו מ״ט:י״ד)⁩: ⁦וַתֹּאמֶר צִיֹּון
-עֲזָבַנִי ה׳ וַה׳⁩ ⁧שְׁכֵחָנִי⁩. This is a bitter cry. It is not an accusation; it is
+Hashem. ⁧כלל ישראל⁩ in ⁧ציון⁩ cries bitterly ⁦(ישעיהו מ״ט:י״ד)⁩: ⁧וַתֹּאמֶר צִיֹּון עֲזָבַנִי ה׳ וַה׳ שְׁכֵחָנִי⁩. This is a bitter cry. It is not an accusation; it is
 a cry, a weeping: Hashem, You have forgotten us.
 
 Towards the end of the ⁧הפטרה⁩⁦,⁩ there's a ⁧פסוק⁩ which profoundly answers
@@ -11418,7 +11416,7 @@ Encyclopedia Britannica (Today, Google).
   ))
 = Ha'azinu 5785
 
-Parshas Ha'azinu. ⁧הַאֲזִינוּ הַשָּׁמַיִם וַאֲדַבֵּרָה⁩~⁧וְתִשְׁמַע הָאָרֶץ אִמְרֵי פִי⁩. The ⁧ספר אפיריון⁩⁦,⁩ a famous sefer which I quote frequently from R’ Shlomo
+Parshas Ha'azinu. ⁧הַאֲזִינוּ הַשָּׁמַיִם וַאֲדַבֵּרָה וְתִשְׁמַע הָאָרֶץ אִמְרֵי פִי⁩. The ⁧ספר אפיריון⁩⁦,⁩ a famous sefer which I quote frequently from R’ Shlomo
 Ganzfried, #metadata(none) <person-index-r-shlomo-ganzfried-855> the author of the much more famous ⁧קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-kitzur-shulchan-aruch-854> writes
 that the ⁧מפרשים⁩ on this pasuk say that word ⁧הַשָּׁמַיִם⁩ does not refer to the
 heavens, but to the ⁧אנשים מכובדים אנשים חשובים⁩⁦,⁩ people who are ⁧בעלי תורה⁩
@@ -11847,7 +11845,7 @@ year that ⁧פסח⁩ was nine days long.
 = Pesach 5784
 
 ⁧לכבוד ליל הסדר⁩. The ⁦גמרא עירובין דף ס״ה ע״א⁩ has a long ⁧אגדתא⁩ discussing
-the properties of ⁧יין⁩. In that ⁧גמרא⁩⁦,⁩ it says: ⁧אָמַר רַבִּי חֲנִינָא⁩: ⁧כׇּל הַמִּתְפַּתֶּה בְּיֵינוֹ יֵשׁ בּוֹ מִדַּעַת קוֹנוֹ⁩. An interesting statement, which literally
+the properties of ⁧יין⁩. In that ⁧גמרא⁩⁦,⁩ it says: ⁧אָמַר רַבִּי חֲנִינָא: כׇּל הַמִּתְפַּתֶּה בְּיֵינוֹ יֵשׁ בּוֹ מִדַּעַת קוֹנוֹ⁩. An interesting statement, which literally
 translates: “Whoever can be appeased, or quieted down, through his wine
 will be able to acquire understanding of Hashem, or some aspect of
 understanding of Hashem, Who is our ⁧קונה⁩\.” The ⁧גמרא⁩ continues by
@@ -12095,12 +12093,12 @@ ordered, “Break a hole in the wall and make a new entrance! I will not
 use either of the regular entrances - I will make a third way!” And so
 they did. The king returned through the new entrance that had just been
 created. When he got back, he pulled the envelope from his pocket, broke
-the seal, and inside was written a single line from the ⁧משנה⁩ in ⁧סנהדרין⁩: ⁧מֶּלֶךְ פוֹרֵץ⁩ ⁦(ב׳:ד׳)⁩ \[⁧גֶדֶר⁩\] ⁧לַעֲשׂוֹת לוֹ דֶרֶךְ⁩ - A king has the right to break
+the seal, and inside was written a single line from the ⁧משנה⁩ in ⁧סנהדרין⁩ ⁦(ב׳:ד׳)⁩: ⁧מֶּלֶךְ פוֹרֵץ \[⁧גֶדֶר⁩\] לַעֲשׂוֹת לוֹ דֶרֶךְ⁩ - A king has the right to break
 through a wall to make his own entrance! The king was astounded. “How
 did you know?” he asked ⁧רב יונתן⁩. ⁧רב יונתן⁩ replied, “The ⁧חכמים⁩ say that
 a ⁧חכם⁩ is greater than a ⁧נביא⁩. I considered all the possibilities, I
 analyzed every thought process that might run through the king's mind, and I realized exactly what would happen. As the ⁧חכמים⁩ teach ⁦(תמיד ל״ב
-ע״א)⁩: ⁧אֵיזֶהוּ חָכָם⁩⁦?⁩ ⁧הָרוֹאֶה אֶת הַנּוֹלָד⁩. \[Which in this case was also a play on
+ע״א)⁩: ⁧אֵיזֶהוּ חָכָם? הָרוֹאֶה אֶת הַנּוֹלָד⁩. \[Which in this case was also a play on
 words - he foresaw something new being created.\] A ⁧חכם⁩ has the ability
 to see the future unfold through deep understanding and analysis.”
 
@@ -13212,7 +13210,7 @@ Mendel of Rimanov, #metadata(none) <person-index-r-mendel-of-rimanov-1006> an ou
 
 R’ Hersh Mesharais#metadata(none) <person-index-r-tzvi-hirsch-hakohen-of-rimanov-1011> quotes from his Rebbe R’ Mendel that they were once
 davening ⁧ערב ראש השנה⁩. Now as all of you who say ⁧סליחות⁩ know, the ⁧ערב ראש השנה סליחות⁩ is enormous. It takes at least an hour if you do it fast
-and two hours if you do it right. When they got to these words, ⁧אִם אָמְנָם שָׁבוּ כֻלָּם, בְּלֵב וָנֶפֶשׁ לְחַלּוֹתֶךָ⁩⁦,⁩ which means if they really did ⁧תשובה⁩
+and two hours if you do it right. When they got to these words, ⁧אִם אָמְנָם שָׁבוּ כֻלָּם, בְּלֵב וָנֶפֶשׁ לְחַלּוֹתֶךָ⁩, which means if they really did ⁧תשובה⁩
 correctly, and they are searching for you Hashem with all their ⁧לב⁩ and
 their ⁧נפש⁩⁦,⁩ with their heart and soul, R’ Mendel paused, and the people
 who were being ⁧מתפלל⁩ with him thought he was having some deep ⁧כוונות⁩
@@ -15317,7 +15315,7 @@ didn't say ⁧שלום עליכם⁩⁦,⁩ we both said simultaneously, “⁧�
 
 It was such a pleasure to be ⁧מהנה⁩ another Yid, which is a good message, something we should all learn from. One of the most important things we
 can do in our life, if not the most important, is to be ⁧מהנה⁩ other
-Yidden. When you're ⁧מהנה⁩ another Yid, you're doing ⁧רצון השם⁩⁦,⁩ ⁧וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ⁩⁦,⁩ and you're doing a tremendous ⁧מצוה⁩.
+Yidden. When you're ⁧מהנה⁩ another Yid, you're doing ⁧רצון השם, וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ⁩, and you're doing a tremendous ⁧מצוה⁩.
 
 #pagebreak()
 
@@ -15508,7 +15506,7 @@ question? How is this ⁧מקושר⁩ to the ⁧ענין⁩ of ⁧שבת⁩?
 We are very well aware, ⁧רבותי⁩⁦,⁩ that when it comes to ⁧קבלת שבת⁩ we have a
 whole ⁧סדר⁩ of various ⁧מזמורים⁩⁦,⁩ ⁧לכו נרננה⁩ and so on. However, ⁧להלכה⁩⁦,⁩ we
 know from the ⁧פוסקים⁩ and ⁧שולחן ערוך⁩ that the ⁧עיקר⁩ of ⁧קבלת שבת⁩ on ⁧ליל שבת קודש⁩ truly begins with ⁧מזמור שיר ליום השבת⁩. The source of this ⁧קפיטל⁩⁦,⁩ of
-course, was ⁧אדם הראשון⁩\; he was really the ⁧מחבר⁩ of ⁧מזמור שיר ליום השבת, טוב להודות לה׳⁩, as the ⁧מדרש⁩ points out in ⁧פרשת בראשית⁩.
+course, was ⁧אדם הראשון⁩\; he was really the ⁧מחבר⁩ of ⁧מזמור שיר ליום השבת, טוב להודות לה׳⁩⁦,⁩ as the ⁧מדרש⁩ points out in ⁧פרשת בראשית⁩.
 
 However, we are going to address a very simple question. If, in fact, ⁧מזמור שיר ליום השבת⁩ - the title of this ⁧קפיטל⁩ - purports to sing a song
 ⁧לכבוד יום השבת⁩⁦,⁩ what is very evident, glaringly staring us in the face, is the fact that there is not one mention of ⁧שבת⁩ throughout the entire
@@ -15578,7 +15576,7 @@ the reason for everything, we understand that whatever appears to be
 wrong in this world is merely because we are not able to see it. But
 ⁧לעולם הבא⁩⁦,⁩ ⁧באמת⁩⁦,⁩ everything is answered. In the world of Shabbos there
 are no questions. Everything is just, everything is perfect. A person
-can then sing and say ⁦טוב להודות לה׳⁩, to thank Hashem for everything He
+can then sing and say ⁧טוב להודות לה׳⁩⁦,⁩ to thank Hashem for everything He
 did in creation. Because in the world of Shabbos, which is ⁧מעין עולם הבא⁩⁦,⁩ there are no questions and there are no ⁧חסרונות⁩. It is a perfect
 world; a world of ⁧השלמה⁩.
 
@@ -15839,7 +15837,7 @@ And therefore, as we learned in the ⁦מלבי״ם⁩, #metadata(none) <person-
 that ⁧הקדוש ברוך הוא⁩ wanted to give ⁧כלל ישראל⁩ a taste of ⁧עולם הבא⁩ on ⁧שבת⁩.
 Each and every Yid is able to be ⁧טועם⁩ a ⁧מעין עולם הבא⁩. On ⁧שבת⁩ we come to
 the realization of ⁧הכל יודוך⁩. Now we understand the ⁦מהר״ל⁩: why on each
-and every ⁧שבת⁩ we come to ⁦טוב להודות לה׳⁩ and ⁧להגיד כי ישר ה׳⁩. ⁧שבת⁩⁦,⁩ even
+and every ⁧שבת⁩ we come to ⁧טוב להודות לה׳⁩ and ⁧להגיד כי ישר ה׳⁩. ⁧שבת⁩⁦,⁩ even
 before ⁧משיח⁩ comes, lifts us out of ⁧עולם הזה⁩ and gives us a taste of ⁧עולם הבא⁩. ⁧שבת⁩ is ⁧מעין עולם הבא⁩⁦,⁩ and therefore we attain the ⁧השגה⁩ of ⁧הכל יודוך, הכל ישבחוך⁩: all the ⁧חלקים⁩ of the ⁧בריאה⁩ are not ⁧דברים נפרדים⁩\;
 everything together is one big ⁧השלמה גדולה⁩ serving one ⁧תכלית הבריאה⁩ -
 ⁧שיתגלה כבוד מלכותו בעולם⁩.
@@ -15847,7 +15845,7 @@ everything together is one big ⁧השלמה גדולה⁩ serving one ⁧תכל
 So now we come to the ⁧ידיעה⁩ that everything is ⁧טוב⁩⁦,⁩ because everything
 together certainly is ⁧טוב⁩. When ⁧שבת⁩ comes, all the ⁧קושיות⁩ are answered -
 all the ⁧קושיות⁩ a Yid has on the ⁧הנהגה⁩ of ⁧הקדוש ברוך הוא⁩. Friday night he
-begins with ⁧מזמור שיר ליום השבת, טוב להודות לה׳⁩, and he works his way
+begins with ⁧מזמור שיר ליום השבת, טוב להודות לה׳⁩⁦,⁩ and he works his way
 through ⁧שבת⁩ toward the ⁧שבת מעין עולם הבא⁩ experience, toward the
 realization that ⁧הכל יודוך והכל ישבחוך⁩⁦,⁩ that the entire world is not
 made up of disconnected ⁧חלקים⁩ but of ⁧חלקים⁩ in one big picture.
@@ -15935,7 +15933,7 @@ out ⁧כבודו מלא עולם⁩ - that the entire world is filled with one 
 
 So when ⁧שבת⁩ comes, we are ⁧זוכה⁩ to be ⁧מרגיש⁩ and to taste ⁧מעין עולם הבא⁩⁦,⁩ as the ⁦מלבי״ם⁩#metadata(none) <person-index-malbim-1194> tells us. Therefore we understand again what the ⁦מהר״ל⁩
 tells us: ⁧מזמור שיר ליום השבת⁩. On ⁧שבת⁩ we are truly able to sing and say
-⁦טוב להודות לה׳⁩, and not be perturbed or bothered by the ⁧קושיות⁩ of ⁧בפרוח רשעים כמו עשב⁩. We have to understand that in this world our ⁧הבנה⁩ and our
+⁧טוב להודות לה׳⁩⁦,⁩ and not be perturbed or bothered by the ⁧קושיות⁩ of ⁧בפרוח רשעים כמו עשב⁩. We have to understand that in this world our ⁧הבנה⁩ and our
 ⁧שכל⁩ are very limited. We are in the ⁧בחינה⁩ of ⁧איש בער לא ידע וכסיל לא יבין את זאת⁩. But through ⁧מזמור שיר ליום השבת⁩ we come to the realization
 that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳, צורי ולא עולתה בו. אמן, כן יהי רצון⁩.
 

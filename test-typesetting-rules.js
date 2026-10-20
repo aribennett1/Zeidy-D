@@ -468,6 +468,55 @@ test("keeps a comma-separated Hebrew quotation together before English prose", (
   );
 });
 
+test("keeps a vocalized Hebrew quotation together before an English connector", () => {
+  assert.equal(
+    applyTextRules("mumbled ה׳ נָתַן, ה׳ לָקָח, יְהִי שֵׁם ה׳ מְבֹרָךְ, and continued"),
+    `mumbled ${RTL_ISOLATE}ה׳ נָתַן, ה׳ לָקָח, יְהִי שֵׁם ה׳ מְבֹרָךְ${POP_DIRECTIONAL_ISOLATE}, and continued`
+  );
+});
+
+test("keeps a lamed-prefixed divine name inside a wrapped Hebrew quotation", () => {
+  assert.equal(
+    applyTextRules("it says דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אָדָם כִּי יַקְרִיב מִכֶּם\nקׇרְבָּן לַה׳. Why"),
+    `it says ${RTL_ISOLATE}דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אָדָם כִּי יַקְרִיב מִכֶּם קׇרְבָּן לַה׳${POP_DIRECTIONAL_ISOLATE}. Why`
+  );
+});
+
+test("keeps a vocalized vav-prefixed divine name inside a Hebrew quotation", () => {
+  assert.equal(
+    applyTextRules("cries bitterly (ישעיהו מ״ט:י״ד):וַתֹּאמֶר צִיּוֹן עֲזָבַנִי ה׳ וַה׳ שְׁכֵחָנִי. This"),
+    `cries bitterly ${LTR_ISOLATE}(ישעיהו מ״ט:י״ד)${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}וַתֹּאמֶר צִיּוֹן עֲזָבַנִי ה׳ וַה׳ שְׁכֵחָנִי${POP_DIRECTIONAL_ISOLATE}. This`
+  );
+});
+
+test("keeps Hebrew text separated by a Typst nonbreaking space in one RTL run", () => {
+  assert.equal(
+    applyTextRules("Parshas Ha'azinu. הַאֲזִינוּ הַשָּׁמַיִם וַאֲדַבֵּרָה~וְתִשְׁמַע הָאָרֶץ אִמְרֵי פִי. The"),
+    `Parshas Ha'azinu. ${RTL_ISOLATE}הַאֲזִינוּ הַשָּׁמַיִם וַאֲדַבֵּרָה וְתִשְׁמַע הָאָרֶץ אִמְרֵי פִי${POP_DIRECTIONAL_ISOLATE}. The`
+  );
+});
+
+test("keeps a Hebrew speaker attribution and its quotation in one RTL run", () => {
+  assert.equal(
+    applyTextRules("it says: אָמַר רַבִּי חֲנִינָא: כׇּל הַמִּתְפַּתֶּה בְּיֵינוֹ יֵשׁ בּוֹ מִדַּעַת קוֹנוֹ. An"),
+    `it says: ${RTL_ISOLATE}אָמַר רַבִּי חֲנִינָא: כׇּל הַמִּתְפַּתֶּה בְּיֵינוֹ יֵשׁ בּוֹ מִדַּעַת קוֹנוֹ${POP_DIRECTIONAL_ISOLATE}. An`
+  );
+});
+
+test("keeps an English-introduced Hebrew source before its bracketed Mishnah quote", () => {
+  assert.equal(
+    applyTextRules("from the משנה in (ב׳:ד׳) סנהדרין: מֶּלֶךְ פוֹרֵץ [גֶדֶר] לַעֲשׂוֹת לוֹ דֶרֶךְ - A king"),
+    `from the ${RTL_ISOLATE}משנה${POP_DIRECTIONAL_ISOLATE} in ${RTL_ISOLATE}סנהדרין${POP_DIRECTIONAL_ISOLATE} ${LTR_ISOLATE}(ב׳:ד׳)${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}מֶּלֶךְ פוֹרֵץ \\[${RTL_ISOLATE}גֶדֶר${POP_DIRECTIONAL_ISOLATE}\\] לַעֲשׂוֹת לוֹ דֶרֶךְ${POP_DIRECTIONAL_ISOLATE} - A king`
+  );
+});
+
+test("keeps a Hebrew question and answer in one RTL run", () => {
+  assert.equal(
+    applyTextRules("As the חכמים teach (תמיד ל״ב ע״א): אֵיזֶהוּ חָכָם? הָרוֹאֶה אֶת הַנּוֹלָד. Next"),
+    `As the ${RTL_ISOLATE}חכמים${POP_DIRECTIONAL_ISOLATE} teach ${LTR_ISOLATE}(תמיד ל״ב ע״א)${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}אֵיזֶהוּ חָכָם? הָרוֹאֶה אֶת הַנּוֹלָד${POP_DIRECTIONAL_ISOLATE}. Next`
+  );
+});
+
 test("moves a leading Hebrew source after its English-clause quote", () => {
   assert.equal(
     applyTextRules("The last word is (אבות ד׳:א׳) אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ. The"),
@@ -1875,6 +1924,81 @@ test("docx: Ki Sisa 5785 keeps the Shir Lamaalos quotation in source order", () 
     typst,
     `${RTL_ISOLATE}שִׁיר לַמַּעֲלוֹת${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}אֶשָּׂא עֵינַי אֶל הֶהָרִים${POP_DIRECTIONAL_ISOLATE}`,
     "split Shir Lamaalos quotation"
+  );
+});
+
+test("docx: Pekudei 5785 keeps the Iyov quotation in source order", () => {
+  const typst = convertedDocx("/pekudei/5785/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}ה׳ נָתַן, ה׳ לָקָח, יְהִי שֵׁם ה׳ מְבֹרָךְ${POP_DIRECTIONAL_ISOLATE}, and keep saying`,
+    "Iyov quotation in logical order"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}ה׳ נָתַן${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}ה׳ לָקָח${POP_DIRECTIONAL_ISOLATE}`,
+    "split Iyov quotation"
+  );
+});
+
+test("docx: Vayikra 5785 keeps the lamed-prefixed divine name inside the pasuk", () => {
+  const typst = convertedDocx("/vayikra/5785/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אָדָם כִּי יַקְרִיב מִכֶּם קׇרְבָּן לַה׳${POP_DIRECTIONAL_ISOLATE}. Why`,
+    "Vayikra pasuk with lamed-prefixed divine name"
+  );
+});
+
+test("docx: Eikev 5784 keeps the vocalized vav divine name inside the pasuk", () => {
+  const typst = convertedDocx("/eikev/5784/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}וַתֹּאמֶר צִיֹּון עֲזָבַנִי ה׳ וַה׳ שְׁכֵחָנִי${POP_DIRECTIONAL_ISOLATE}. This`,
+    "Eikev pasuk with vocalized vav-prefixed divine name"
+  );
+});
+
+test("docx: Ha'azinu 5785 keeps the opening pasuk across a nonbreaking space", () => {
+  const typst = convertedDocx("/ha'azinu/5785/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}הַאֲזִינוּ הַשָּׁמַיִם וַאֲדַבֵּרָה וְתִשְׁמַע הָאָרֶץ אִמְרֵי פִי${POP_DIRECTIONAL_ISOLATE}. The`,
+    "Ha'azinu opening pasuk in logical order"
+  );
+});
+
+test("docx: Pesach 5784 keeps the Rabbi Chanina statement in source order", () => {
+  const typst = convertedDocx("/pesach/5784/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}אָמַר רַבִּי חֲנִינָא: כׇּל הַמִּתְפַּתֶּה בְּיֵינוֹ יֵשׁ בּוֹ מִדַּעַת קוֹנוֹ${POP_DIRECTIONAL_ISOLATE}. An`,
+    "Rabbi Chanina statement in logical order"
+  );
+});
+
+test("docx: Pesach 5785 keeps the Mishnah source before its bracketed quote", () => {
+  const typst = convertedDocx("/pesach/5785/dvar-torah/");
+
+  assertContains(
+    typst,
+    `in ${LTR_ISOLATE}(ב׳:ד׳)${POP_DIRECTIONAL_ISOLATE}\n${RTL_ISOLATE}סנהדרין: מֶּלֶךְ פוֹרֵץ \\[גֶדֶר\\] לַעֲשׂוֹת לוֹ דֶרֶךְ${POP_DIRECTIONAL_ISOLATE} - A king`,
+    "Pesach Mishnah source and quote in logical order"
+  );
+});
+
+test("docx: Pesach 5785 keeps the Tamid question and answer in source order", () => {
+  const typst = convertedDocx("/pesach/5785/dvar-torah/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}אֵיזֶהוּ חָכָם? הָרוֹאֶה אֶת הַנּוֹלָד${POP_DIRECTIONAL_ISOLATE}. \\[Which`,
+    "Tamid question and answer in logical order"
   );
 });
 
