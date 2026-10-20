@@ -230,7 +230,9 @@ Author of Torah Tavlin
 
 Editor-in-Chief of Monsey Mevaser
 
-L'kavod my dear friend, Dr. Leslie Bennett, Every year, on Rosh Hashanah and Yom Kippur, we daven the solemn prayer
+L'kavod my dear friend, Dr. Leslie Bennett,
+
+Every year, on Rosh Hashanah and Yom Kippur, we daven the solemn prayer
 known as “Hineni He'ani M'maas.” The Chazan begins the Mussaf Tefillah
 by beseeching the Almighty to accept him as the selected representative
 of the congregation and permit his tearful prayers to penetrate the
@@ -1490,7 +1492,7 @@ people.
 
 Speaking of being better people, what should our focus be? When Avram
 and Sarah were going to ⁧מצרים⁩⁦,⁩ Avram noticed that Sarah is beautiful
-(12:12) ⁧וַיְהִי כַּאֲשֶׁר הִקְרִיב לָבוֹא מִצְרָיְמָה וַיֹּאמֶר אֶל שָׂרַי אִשְׁתּוֹ הִנֵּה נָא יָדַעְתִּי כִּי אִשָּׁה יְפַת מַרְאֶה אָתְּ⁩ - Now I know that you are a beautiful, very attractive
+(12:11) ⁧וַיְהִי כַּאֲשֶׁר הִקְרִיב לָבוֹא מִצְרָיְמָה וַיֹּאמֶר אֶל שָׂרַי אִשְׁתּוֹ הִנֵּה נָא יָדַעְתִּי כִּי אִשָּׁה יְפַת מַרְאֶה אָתְּ⁩ - Now I know that you are a beautiful, very attractive
 woman. Rashi#metadata(none) <person-index-rashi-69> says on these words ⁧מִדְרַש אַגָּדָה עַד עַכְשָׁו לֹא הִכִּיר בָּהּ מִתּוֹךְ צְנִיעוּת שֶׁבִּשְׁנֵיהֶם⁩ - Avram did not recognize her beauty because of their
 ⁧צניעות⁩⁦,⁩ their modesty; ⁧וְעַכְשָׁו הִכִּיר בָּה עַל יְדֵי מַעֲשֶׂה⁩ - But now he recognized
 it because they were in a situation where it will become an issue, become something to deal with.

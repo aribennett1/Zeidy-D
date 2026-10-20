@@ -447,6 +447,13 @@ test("adds a space after English terminal punctuation before Hebrew", () => {
   );
 });
 
+test("preserves an English source paragraph break after punctuation", () => {
+  assert.equal(
+    applyTextRules("L'kavod my dear friend, Dr. Leslie Bennett,\n\nEvery year, we daven."),
+    "L'kavod my dear friend, Dr. Leslie Bennett,\n\nEvery year, we daven."
+  );
+});
+
 test("removes spaces before closing parenthesis", () => {
   assert.equal(
     normalizePunctuationSpacing("it is the בית הלוי ). He says"),
@@ -2505,6 +2512,16 @@ test("docx: Yossi Bennett Haskama keeps Hebrew display quote marks in RTL order"
     typst,
     `${RTL_ISOLATE}“אין שמחה כשמחת התורה${POP_DIRECTIONAL_ISOLATE}”`,
     "opening English quote should not remain inside standalone Hebrew isolate"
+  );
+});
+
+test("docx: Rabbi Dovid Hoffman Haskama keeps the salutation paragraph break", () => {
+  const typst = convertedDocx("/rabbi-dovid-hoffman/");
+
+  assertContains(
+    typst,
+    "L'kavod my dear friend, Dr. Leslie Bennett,\n\nEvery year, on Rosh Hashanah",
+    "paragraph break after Dr. Leslie Bennett"
   );
 });
 

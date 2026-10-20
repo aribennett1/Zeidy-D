@@ -1793,7 +1793,13 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
 }
 
 function applyTextRules(typstContent) {
-  return smartenNestedSingleQuotes(repairQuotedHebrewRuns(
+  const protectedParagraphBreaks = [];
+  const paragraphBreakSafeContent = typstContent.replace(/[,;:]\n{2,}(?=[A-Z])/g, (match) => {
+    const marker = `\uE100${protectedParagraphBreaks.length}\uE101`;
+    protectedParagraphBreaks.push(match);
+    return marker;
+  });
+  const result = smartenNestedSingleQuotes(repairQuotedHebrewRuns(
     normalizeIsolatedPunctuationSpacing(
       mergeAdjacentHebrewPunctuatedIsolates(
       normalizeHebrewInitialismExpansionRows(normalizeHebrewListHardBreaks(
@@ -1810,7 +1816,7 @@ function applyTextRules(typstContent) {
                             repairEscapedHebrewParagraphCitations(
                               normalizeMisplacedHebrewCommas(
                                 normalizePunctuationSpacing(
-                                  normalizeColonHebrewSoftBreaks(normalizeNumberedSoftBreaks(typstContent))
+                                  normalizeColonHebrewSoftBreaks(normalizeNumberedSoftBreaks(paragraphBreakSafeContent))
                                 )
                               )
                             )
@@ -1828,6 +1834,7 @@ function applyTextRules(typstContent) {
       )
     )
   ));
+  return result.replace(/\uE100(\d+)\uE101/g, (_match, index) => protectedParagraphBreaks[Number(index)]);
 }
 
 function pageSettings(size) {
