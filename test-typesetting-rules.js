@@ -1148,6 +1148,21 @@ test("keeps divine-name geresh inside a Hebrew pasuk phrase", () => {
   );
 });
 
+test("keeps a prefixed divine name inside a Hebrew pasuk phrase", () => {
+  const typst = applyTextRules("וַה׳ נָתַן אֶת חֵן הָעָם בְּעֵינֵי מִצְרַיִם וַיַּשְׁאִלוּם.");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}וַה׳ נָתַן אֶת חֵן הָעָם בְּעֵינֵי מִצְרַיִם וַיַּשְׁאִלוּם${POP_DIRECTIONAL_ISOLATE}.`,
+    "prefixed divine name remains in the RTL phrase"
+  );
+  assertNotContains(
+    typst,
+    `${LTR_ISOLATE}וַה׳${POP_DIRECTIONAL_ISOLATE}`,
+    "prefixed divine name isolated as an acronym"
+  );
+});
+
 test("keeps short parenthesized acronym source in reading order", () => {
   assert.equal(
     applyTextRules("In (ס׳ ע״ב) מסכת ברכות"),
@@ -2521,6 +2536,21 @@ test("docx: Shemos 5783 right-aligns full Hebrew paragraph", () => {
     typst,
     `${RTL_ISOLATE}וַיֶּפֶר אֶת עַמּוֹ מְאֹד וַיַּעֲצִמֵהוּ מִצָּרָיו׃ הָפַךְ לִבָּם לִשְׂנֹא עַמּוֹ לְהִתְנַכֵּל בַּעֲבָדָיו׃ שָׁלַח מֹשֶׁה עַבְדּוֹ אַהֲרֹן אֲשֶׁר בָּחַר בּוֹ׃${POP_DIRECTIONAL_ISOLATE}]\n\nThe entire`,
     "Hebrew quote split before following English paragraph"
+  );
+});
+
+test("docx: Shemos 5783 keeps the V'Hashem pasuk in one RTL phrase", () => {
+  const typst = convertedDocx("/shemos/5783/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}וַה׳ נָתַן אֶת חֵן הָעָם בְּעֵינֵי מִצְרַיִם וַיַּשְׁאִלוּם${POP_DIRECTIONAL_ISOLATE}.`,
+    "V'Hashem pasuk in logical order"
+  );
+  assertNotContains(
+    typst,
+    `${LTR_ISOLATE}וַה׳ נָתַן אֶת חֵן${POP_DIRECTIONAL_ISOLATE}`,
+    "V'Hashem pasuk split by an LTR acronym isolate"
   );
 });
 

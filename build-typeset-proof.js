@@ -1260,6 +1260,8 @@ function isolateHebrewRuns(typstContent) {
     protectedSequences.push(value);
     return marker;
   };
+  const isDivineNameToken = (token) => /^(?:[ובכלמש][\u0591-\u05C7]*)?ה[\u0591-\u05C7]*[׳']$/u.test(token);
+  const containsDivineName = (value) => value.split(/\s+/).some(isDivineNameToken);
   const followedByEnglish = (fullText, endOffset) => {
     const rawFollowing = fullText.slice(endOffset);
     if (/^(?:[ \t\u00A0\u202F]+|\n(?!\n)|#metadata\(none\)\s*<[^>\n]+>)*\((?:[^()\n]|\n(?!\n)){0,300}[A-Za-z]/.test(rawFollowing)) {
@@ -1412,10 +1414,16 @@ function isolateHebrewRuns(typstContent) {
   });
 
   const acronymContextSafeContent = acronymContinuationSafeContent.replace(HEBREW_ACRONYM_CONTEXT_RE, (match) => {
+    if (containsDivineName(match)) {
+      return match;
+    }
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
   const acronymSafeContent = acronymContextSafeContent.replace(HEBREW_ACRONYM_RE, (match) => {
+    if (isDivineNameToken(match)) {
+      return match;
+    }
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 

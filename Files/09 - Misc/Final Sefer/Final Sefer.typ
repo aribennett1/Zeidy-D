@@ -3240,10 +3240,10 @@ The rebbi introduces these guests to his students, and a great dialogue
 begins. The ⁦רמב״ם⁩#metadata(none) <person-index-rambam-212> states a ⁧הלכה⁩\; the ⁦ראב״ד⁩#metadata(none) <person-index-raivid-209> sharply disagrees. Students
 defend the ⁦רמב״ם⁩, #metadata(none) <person-index-rambam-213> while others challenge the ⁦ראב״ד⁩.#metadata(none) <person-index-raivid-210> The rebbi softly
 corrects the students and suggests more restrained tones. The ⁦רשב״א⁩#metadata(none) <person-index-rashba-215>
-smiles gently. ⁧רבינו רבינו תם⁩ gives his opinion. All of a sudden all of
-the ⁧דורות⁩ come together, the young students debate earlier generations
-with an air of familiarity. A crescendo of discussion ensues. All speak
-one language, all are pursuing one goal, all are committed to a common
+smiles gently. ⁧רבינו תם⁩ gives his opinion. All of a sudden all of the
+⁧דורות⁩ come together, the young students debate earlier generations with
+an air of familiarity. A crescendo of discussion ensues. All speak one
+language, all are pursuing one goal, all are committed to a common
 vision, and all are operating with the same categories that all of the
 previous ⁧דורות⁩ utilized. A ⁧מסורה⁩ is achieved, a friendship, a
 comradeship of old and young spanning the antiquity of the middle ages
@@ -3414,7 +3414,7 @@ became ⁧עבדים⁩ overnight? The ⁧פסוק⁩ suggests that ⁧ה׳⁩ w
 transformation. Why? What ⁧עבירה⁩ caused this change of heart? Moreover, why is this point included among the ⁧חסדי ה׳⁩ in this ⁧פרק⁩?
 
 The ⁧מדרש רבה⁩ discusses the ⁧פסוק⁩ of (1:8) ⁧וַיָּקׇם מֶלֶךְ חָדָשׁ עַל מִצְרָיִם⁩ and
-quotes from sefer ⁧הושע⁩ (5:7): ⁦בַּה' בָּגָדוּ⁩ - ⁧כלל ישראל⁩ rebelled against ⁧ה׳⁩⁦;⁩ ⁧כִּי בָּנִים זָרִים יָלָדוּ עַתָּה יֹאכְלֵם חֹדֶשׁ אֶת חֶלְקֵיהֶם⁩ - They raised, or gave birth
+quotes from sefer ⁧הושע⁩ (5:7): ⁧בַּה' בָּגָדוּ⁩ - ⁧כלל ישראל⁩ rebelled against ⁧ה׳⁩⁦;⁩ ⁧כִּי בָּנִים זָרִים יָלָדוּ עַתָּה יֹאכְלֵם חֹדֶשׁ אֶת חֶלְקֵיהֶם⁩ - They raised, or gave birth
 to, sons who were ⁧זָרִים⁩. ⁧כְּשֶׁמֵּת יוֹסֵף הצדיק⁩ - When ⁧יוסף הצדיק⁩ passed away;
 ⁧הֵפֵרוּ בְּרִית מִילָה⁩ - They were ⁧מפר⁩ the ⁧ברית מילה⁩⁦;⁩ ⁧אָמְרוּ נִהְיֶה כַּמִּצְרִים⁩ - We
 should be like ⁧מצרים⁩⁦;⁩ ⁧מִכָּאן אַתָּה לָמֵד שֶׁמשֶׁה מָלָן בִּיצִיאָתָן מִמִּצְרַיִם⁩ - Here we
@@ -3444,7 +3444,7 @@ nation, both then and now.
 
 The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-226> further points to a remarkable ⁧פסוק⁩ in ⁧פרשת בא⁩. As ⁧בני ישראל⁩ left ⁧מצרים⁩⁦,⁩ they asked the ⁧מצרים⁩ for their valuables (12:35): ⁧וּבְנֵי יִשְׂרָאֵל עָשׂוּ כִּדְבַר מֹשֶׁה וַיִּשְׁאֲלוּ מִמִּצְרַיִם כְּלֵי כֶסֶף וּכְלֵי זָהָב וּשְׂמָלֹת⁩. One would
 expect the ⁧מצריים⁩ to begrudgingly comply or resentfully part with their
-belongings. Yet the next ⁧פסוק⁩ reveals: ⁦וַה׳ נָתַן אֶת חֵן⁩ ⁧הָעָם בְּעֵינֵי מִצְרַיִם וַיַּשְׁאִלוּם⁩. Despite the devastation of ⁧מכת בכורות⁩⁦,⁩ ⁧בני ישראל⁩ found favor
+belongings. Yet the next ⁧פסוק⁩ reveals: ⁧וַה׳ נָתַן אֶת חֵן הָעָם בְּעֵינֵי מִצְרַיִם וַיַּשְׁאִלוּם⁩. Despite the devastation of ⁧מכת בכורות⁩⁦,⁩ ⁧בני ישראל⁩ found favor
 with the ⁧מצריים⁩. How could this be? The answer lies in Hashem's control
 over events. Once ⁧כלל ישראל⁩ separated themselves by performing the ⁧קרבן פסח⁩⁦,⁩ the ⁧שִׂנאָה⁩ of the ⁧מצריים⁩ was no longer required. The ⁧פסוק⁩ is showing
 us that the whole purpose of giving the ⁧מצריים⁩ this ⁧שִׂנאָה⁩ was to keep us
@@ -3702,7 +3702,7 @@ when we daven for ⁧יראת שמים⁩⁦,⁩ what are we asking for?
 R’ Zev of Strickov#metadata(none) <person-index-r-zev-of-strickov-241> explains the ⁧פסוק⁩ in ⁧תהילים⁩ (19:10): ⁧יִרְאַת ה׳ טְהוֹרָה עוֹמֶדֶת לָעַד⁩. There are two levels of ⁧יראת שמים⁩. The ⁧עבדי פרעה⁩ had a
 temporary ⁧יראה⁩ - they feared the immediate danger and took precautions.
 But as soon as the danger passed, their ⁧יראה⁩ disappeared. In contrast, ⁧יִרְאַת ה׳ טְהוֹרָה⁩ refers to a pure, enduring ⁧יראת שמים⁩ that remains
-permanent. R’ Yosef Chaim Zonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-240> points out a subtle lesson in the
+permanent. R’ Yosef Chaim Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-240> points out a subtle lesson in the
 ⁧פסוקים⁩. The Torah doesn't say the second group lacked ⁧יראת שמים⁩\; it
 says they didn't take Hashem's word to heart: ⁧וַאֲשֶׁר לֹא שָׂם לִבּוֹ אֶל דְּבַר ה׳⁩.
 This teaches us that even if we are technically fulfilling the ⁧דבר ה׳⁩⁦,⁩ we must internalize it. Our ⁧עבודת ה׳⁩ cannot become routine or apathetic.
@@ -3778,7 +3778,7 @@ level of ⁧קדושה⁩ without compromise. We live in a time of deal making -
 some areas of life, it has no place when it comes to our ⁧יסודות⁩. True
 leaders like ⁧מרדכי⁩ in ⁧פורים⁩ and ⁧מתתיהו⁩ in ⁧חנוכה⁩ never wavered in their
 principles. The same applies to all the great leaders of ⁧כלל ישראל⁩
-throughout history, and even in our time, R’ Yosef Chaim Zonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-246> was
+throughout history, and even in our time, R’ Yosef Chaim Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-246> was
 bitterly criticized by the other members of certainly the anti-⁧דתי⁩⁦,⁩ but
 even the ⁧דתי⁩⁦,⁩ to “give a little bit”, but he refused to compromise any
 one of his principles.
