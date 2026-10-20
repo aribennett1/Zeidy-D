@@ -12093,7 +12093,7 @@ ordered, “Break a hole in the wall and make a new entrance! I will not
 use either of the regular entrances - I will make a third way!” And so
 they did. The king returned through the new entrance that had just been
 created. When he got back, he pulled the envelope from his pocket, broke
-the seal, and inside was written a single line from the ⁧משנה⁩ in ⁧סנהדרין⁩ ⁦(ב׳:ד׳)⁩: ⁧מֶּלֶךְ פוֹרֵץ \[⁧גֶדֶר⁩\] לַעֲשׂוֹת לוֹ דֶרֶךְ⁩ - A king has the right to break
+the seal, and inside was written a single line from the ⁧משנה⁩ in ‪‫מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ‬ ‫:סנהדרין‬ (ב׳:ד׳)‬ - A king has the right to break
 through a wall to make his own entrance! The king was astounded. “How
 did you know?” he asked ⁧רב יונתן⁩. ⁧רב יונתן⁩ replied, “The ⁧חכמים⁩ say that
 a ⁧חכם⁩ is greater than a ⁧נביא⁩. I considered all the possibilities, I

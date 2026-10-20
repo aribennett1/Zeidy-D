@@ -506,7 +506,7 @@ test("keeps a Hebrew speaker attribution and its quotation in one RTL run", () =
 test("keeps an English-introduced Hebrew source before its bracketed Mishnah quote", () => {
   assert.equal(
     applyTextRules("from the משנה in (ב׳:ד׳) סנהדרין: מֶּלֶךְ פוֹרֵץ [גֶדֶר] לַעֲשׂוֹת לוֹ דֶרֶךְ - A king"),
-    `from the ${RTL_ISOLATE}משנה${POP_DIRECTIONAL_ISOLATE} in ${RTL_ISOLATE}סנהדרין${POP_DIRECTIONAL_ISOLATE} ${LTR_ISOLATE}(ב׳:ד׳)${POP_DIRECTIONAL_ISOLATE}: ${RTL_ISOLATE}מֶּלֶךְ פוֹרֵץ \\[${RTL_ISOLATE}גֶדֶר${POP_DIRECTIONAL_ISOLATE}\\] לַעֲשׂוֹת לוֹ דֶרֶךְ${POP_DIRECTIONAL_ISOLATE} - A king`
+    `from the ${RTL_ISOLATE}משנה${POP_DIRECTIONAL_ISOLATE} in \u202A\u202Bמֶּלֶךְ פוֹרֵץ [גֶדֶר] לַעֲשׂוֹת לוֹ דֶרֶךְ\u202C \u202B:סנהדרין\u202C (ב׳:ד׳)\u202C - A king`
   );
 });
 
@@ -1987,7 +1987,7 @@ test("docx: Pesach 5785 keeps the Mishnah source before its bracketed quote", ()
 
   assertContains(
     typst,
-    `in ${LTR_ISOLATE}(ב׳:ד׳)${POP_DIRECTIONAL_ISOLATE}\n${RTL_ISOLATE}סנהדרין: מֶּלֶךְ פוֹרֵץ \\[גֶדֶר\\] לַעֲשׂוֹת לוֹ דֶרֶךְ${POP_DIRECTIONAL_ISOLATE} - A king`,
+    `in \u202A\u202Bמֶּלֶךְ פוֹרֵץ \\[גֶדֶר\\] לַעֲשׂוֹת לוֹ דֶרֶךְ\u202C \u202B:סנהדרין\u202C (ב׳:ד׳)\u202C - A king`,
     "Pesach Mishnah source and quote in logical order"
   );
 });

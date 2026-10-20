@@ -19,6 +19,9 @@ const HASKAMA_CONTENT_PREFIX = "07 - Haskamos/";
 const LTR_ISOLATE = "\u2066";
 const RTL_ISOLATE = "\u2067";
 const POP_DIRECTIONAL_ISOLATE = "\u2069";
+const LTR_EMBEDDING = "\u202A";
+const RTL_EMBEDDING = "\u202B";
+const POP_DIRECTIONAL_FORMATTING = "\u202C";
 const RTL_REFERENCE_MARKER = "\uE010";
 const PRESERVED_HEBREW_COMMA_MARKER = "\uE011";
 const HEBREW_LETTERS = "[\\u0590-\\u05FF\\uFB1D-\\uFB4F]";
@@ -1168,10 +1171,6 @@ function protectMarkedRtlReferences(typstContent, protect) {
 function moveLeadingHebrewSourceAfterQuote(typstContent) {
   return typstContent
     .replace(
-      ENGLISH_IN_HEBREW_BOOK_REFERENCE_RE,
-      (_match, prefix, reference, book) => `${prefix}${book} ${reference}`
-    )
-    .replace(
       LEADING_HEBREW_SOURCE_AFTER_ENGLISH_CLAUSE_RE,
       (_match, prefix, reference, quote, punctuation) => `${prefix}${quote} ${reference}${punctuation}`
     )
@@ -1628,7 +1627,23 @@ function repairTwoPartHebrewCommaDashPhrases(typstContent) {
 }
 
 function repairPesachMishnahQuote(typstContent) {
-  return typstContent.replace(
+  const joinedCitation = typstContent.replace(
+    new RegExp(
+      `(${LTR_ISOLATE}\\(ב׳:ד׳\\)${POP_DIRECTIONAL_ISOLATE})\\s*\\n\\s*(${RTL_ISOLATE}סנהדרין:)`,
+      "gu"
+    ),
+    "$1 $2"
+  );
+
+  const orderedCitation = joinedCitation.replace(
+    new RegExp(
+      `${LTR_ISOLATE}(\\(ב׳:ד׳\\))${POP_DIRECTIONAL_ISOLATE}\\s+${RTL_ISOLATE}סנהדרין:\\s*(מֶּלֶךְ\\s+פוֹרֵץ\\s+(?:\\\\)?\\[גֶדֶר(?:\\\\)?\\]\\s+לַעֲשׂוֹת\\s+לוֹ\\s+דֶרֶךְ)${POP_DIRECTIONAL_ISOLATE}`,
+      "gu"
+    ),
+    `${LTR_EMBEDDING}${RTL_EMBEDDING}$2${POP_DIRECTIONAL_FORMATTING} ${RTL_EMBEDDING}:סנהדרין${POP_DIRECTIONAL_FORMATTING} $1${POP_DIRECTIONAL_FORMATTING}`
+  );
+
+  return orderedCitation.replace(
     new RegExp(
       `${RTL_ISOLATE}(מֶּלֶךְ\\s+פוֹרֵץ)${POP_DIRECTIONAL_ISOLATE}\\s+(?:\\\\)?\\[${RTL_ISOLATE}(גֶדֶר)${POP_DIRECTIONAL_ISOLATE}(?:\\\\)?\\]\\s+${RTL_ISOLATE}(לַעֲשׂוֹת\\s+לוֹ\\s+דֶרֶךְ)${POP_DIRECTIONAL_ISOLATE}`,
       "gu"

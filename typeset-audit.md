@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 48 (7 high, 41 medium)
+Findings: 50 (7 high, 43 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -73,6 +73,10 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0302.png](typeset-audit-pages/page-0302.png), [page-0303.png](typeset-audit-pages/page-0303.png)
   - א׳:ב׳)⁩⁩, and then it says ⁧אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם ⁦(ישעיהו נ״א:י״ב)⁩⁩ lat...
   - normalized: א׳:ב׳), and then it says אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם                  later on
+- Typst source, page 364, Dvar Torah Pesach 5785, line 12096
+  - visual: [page-0363.png](typeset-audit-pages/page-0363.png), [page-0364.png](typeset-audit-pages/page-0364.png)
+  - ...en a single line from the ⁧משנה⁩ in ‪‫מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ‬ ‫:סנהדרין‬ (ב׳:ד׳)‬ - A king has the right to break
+  - normalized: ...en a single line from the משנה in מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ :סנהדרין         - A king has the right to break
 - Typst source, page 370, Pesach Sheini 5785, line 12303
   - visual: [page-0370.png](typeset-audit-pages/page-0370.png)
   - ט׳:ז׳)⁩⁩? Why should we be left out? Why
@@ -179,6 +183,12 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0467.png](typeset-audit-pages/page-0467.png)
   - ‫⁩השבת‬. “⁧‫ ”⁩ועל דבר זה‬refers to what he said before, that ⁧‫ ⁩שבת‬is the ⁧‫השלמה‬,⁩...
   - normalized: השבת. “ ”ועל דבר זהrefers to what he said before, that  שבתis the השלמה, the
+## MEDIUM - space before punctuation in Typst source
+
+- Typst source, page 364, Dvar Torah Pesach 5785, line 12096
+  - visual: [page-0363.png](typeset-audit-pages/page-0363.png), [page-0364.png](typeset-audit-pages/page-0364.png)
+  - ...tten a single line from the ⁧משנה⁩ in ‪‫מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ‬ ‫:סנהדרין‬ (ב׳:ד׳)‬ - A king has the right to break
+  - normalized: ...tten a single line from the משנה in מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ :סנהדרין (ב׳:ד׳) - A king has the right to break
 ## MEDIUM - space before sentence punctuation
 
 - PDF visual text, page 1, ר’ יששכר בנימין ,  I’m here with your     אייניקל Ari, who is being    מקיים כיבוד אב . [Even though there’s a whole, line 27
