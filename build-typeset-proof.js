@@ -20,6 +20,7 @@ const LTR_ISOLATE = "\u2066";
 const RTL_ISOLATE = "\u2067";
 const POP_DIRECTIONAL_ISOLATE = "\u2069";
 const RTL_REFERENCE_MARKER = "\uE010";
+const PRESERVED_HEBREW_COMMA_MARKER = "\uE011";
 const HEBREW_LETTERS = "[\\u0590-\\u05FF\\uFB1D-\\uFB4F]";
 const HEBREW_BASE_LETTERS = "[\\u05D0-\\u05EA\\uFB1D-\\uFB4F]";
 const HEBREW_INTERNAL_QUOTE = "(?:\\\\[\"']|[\"'׳״])";
@@ -105,6 +106,10 @@ const HEBREW_ACRONYM_CONTINUATION_PHRASE_RE = new RegExp(
 );
 const HEBREW_COMMA_PHRASE_SEQUENCE_RE = new RegExp(
   `${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN})*(?:,\\s*${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN})*){1,8},?`,
+  "gu"
+);
+const HEBREW_COMMA_QUOTE_BEFORE_ENGLISH_RE = new RegExp(
+  `(?=[^.\\n]*[\\u0591-\\u05C7])${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){1,80},\\s*${HEBREW_TOKEN}(?:\\s+${HEBREW_TOKEN}){1,80}(?=\\s*[.?!]\\s+[A-Z])`,
   "gu"
 );
 const HEBREW_QUESTION_PHRASE_RE = new RegExp(
@@ -1421,7 +1426,11 @@ function isolateHebrewRuns(typstContent) {
     return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match)}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
-  const hebrewCommaPhraseSafeContent = hebrewHyphenatedSafeContent.replace(HEBREW_COMMA_PHRASE_SEQUENCE_RE, (match, offset, fullText) => {
+  const hebrewCommaQuoteSafeContent = hebrewHyphenatedSafeContent.replace(HEBREW_COMMA_QUOTE_BEFORE_ENGLISH_RE, (match) => {
+    return protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(match).replace(",", `${PRESERVED_HEBREW_COMMA_MARKER},${PRESERVED_HEBREW_COMMA_MARKER}`)}${POP_DIRECTIONAL_ISOLATE}`);
+  });
+
+  const hebrewCommaPhraseSafeContent = hebrewCommaQuoteSafeContent.replace(HEBREW_COMMA_PHRASE_SEQUENCE_RE, (match, offset, fullText) => {
     return protect(isolateHebrewCommaPhrase(
       match,
       followedByEnglish(fullText, offset + match.length)
@@ -1847,7 +1856,9 @@ function applyTextRules(typstContent) {
       )
     )
   ));
-  return result.replace(/\uE100(\d+)\uE101/g, (_match, index) => protectedParagraphBreaks[Number(index)]);
+  return result
+    .replace(new RegExp(PRESERVED_HEBREW_COMMA_MARKER, "g"), "")
+    .replace(/\uE100(\d+)\uE101/g, (_match, index) => protectedParagraphBreaks[Number(index)]);
 }
 
 function pageSettings(size) {

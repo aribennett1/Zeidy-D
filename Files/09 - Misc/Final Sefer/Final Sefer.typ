@@ -2764,7 +2764,7 @@ of someone who will descend from him ⁧דורות⁩ later? We cannot act on th
 ⁧עתיד⁩ for something that he is not responsible for now.
 
 This idea is interesting. When ⁧יוסף⁩ was looking for his brothers, the
-⁧פסוק⁩ says (37:17): ⁧נָסְעוּ מִזֶּה⁩. The ⁧מדרש רבה⁩ (84:14) explains: ⁧נָסְעוּ מִזֶּה⁩⁦,⁩ ⁧מִמִּדּוֹתָיו שֶׁל מָקוֹם⁩. The brothers had left ⁦הקדוש ברוך הוא'⁩s midos. ⁦הקדוש ברוך
+⁧פסוק⁩ says (37:17): ⁧נָסְעוּ מִזֶּה⁩. The ⁧מדרש רבה⁩ (84:14) explains: ⁧נָסְעוּ מִזֶּה, מִמִּדּוֹתָיו שֶׁל מָקוֹם⁩. The brothers had left ⁦הקדוש ברוך הוא'⁩s midos. ⁦הקדוש ברוך
 הוא'⁩s midah is to judge a person by where he is now - not by his future
 ⁧עבירות⁩. This is the ⁧מידה⁩ of Hashem. However, the brothers failed in this
 regard. They left the ⁧מידה⁩ of Hashem and conspired to kill ⁧יוסף⁩. They
@@ -5235,7 +5235,7 @@ Kanievsky's#metadata(none) <person-index-rebbetzin-kanievsky-360> father R’ El
 little girl, about ten years old, after R’ Elyashiv#metadata(none) <person-index-r-elyashiv-354> would finish ⁧שמונה עשרה⁩⁦,⁩ he would take three steps back and stand there for a period of
 time. She once asked him what he was saying. He told her that before
 finishing the ⁧יהי רצון⁩ at the end of ⁧שמונה עשרה⁩⁦,⁩ he would recite ⁦פרק
-קכ״א⁩, which begins ⁧שִׁיר לַמַּעֲלוֹת⁩⁦,⁩ ⁧אֶשָּׂא עֵינַי אֶל הֶהָרִים⁩. Why did he do this? R’
+קכ״א⁩, which begins ⁧שִׁיר לַמַּעֲלוֹת, אֶשָּׂא עֵינַי אֶל הֶהָרִים⁩. Why did he do this? R’
 Elyashiv's#metadata(none) <person-index-r-elyashiv-355> grandfather was a famous ⁧גאון⁩ and ⁧בעל קבלה⁩⁦,⁩ known as the ⁧לֶשֶם⁩⁦,⁩ well known in his own right. The ⁧לֶשֶם⁩ told R’ Elyashiv#metadata(none) <person-index-r-elyashiv-356> that saying this
 ⁧פרק⁩ was a ⁧סגולה⁩ for certain things. R’ Elyashiv#metadata(none) <person-index-r-elyashiv-357> said that he loved
 ⁧סגולות⁩ \[which is fascinating to hear from a Litvak, that he believed in
@@ -13038,7 +13038,7 @@ there's the pasuk ⁧אַחַת שָׁאַלְתִּי מֵאֵת ה׳⁩ - th
 asking for. Then we go home and we wash and we have a nice fresh roll
 and a little scrambled egg or whatever, and then we bentch. In bentching
 we say: \
-⁧הקדוש ברוך הוא⁩⁦,⁩ I need -⁧לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרֶוַח הַצָּלָה וְהַצְלָחָה בְּרָכָה וִישׁוּעָה, נֶחָמָה, פַּרְנָסָה וְכַלְכָּלָה, וְרַחֲמִים, וְחַיִּים וְשָׁלוֹם, וְכָל טוֹב⁩. And ⁧הקדוש ברוך הוא⁩⁦,⁩ in
+⁧הקדוש ברוך הוא⁩⁦,⁩ I need -⁧לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרֶוַח הַצָּלָה וְהַצְלָחָה בְּרָכָה וִישׁוּעָה, נֶחָמָה, פַּרְנָסָה וְכַלְכָּלָה, וְרַחֲמִים,  וְחַיִּים וְשָׁלוֹם, וְכָל טוֹב⁩. And ⁧הקדוש ברוך הוא⁩⁦,⁩ in
 case I left anything out, ⁧וּמִכָּל טוּב לְעוֹלָם אַל יְחַסְּרֵנוּ⁩ - If I forgot
 something, please throw in all the other good stuff that You can do.
 

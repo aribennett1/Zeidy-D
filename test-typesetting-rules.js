@@ -461,6 +461,13 @@ test("closes an unclosed nested Hebrew source before English prose", () => {
   );
 });
 
+test("keeps a comma-separated Hebrew quotation together before English prose", () => {
+  assert.equal(
+    applyTextRules("which begins שִׁיר לַמַּעֲלוֹת, אֶשָּׂא עֵינַי אֶל הֶהָרִים. Why"),
+    `which begins ${RTL_ISOLATE}שִׁיר לַמַּעֲלוֹת, אֶשָּׂא עֵינַי אֶל הֶהָרִים${POP_DIRECTIONAL_ISOLATE}. Why`
+  );
+});
+
 test("moves a leading Hebrew source after its English-clause quote", () => {
   assert.equal(
     applyTextRules("The last word is (אבות ד׳:א׳) אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ. The"),
@@ -1853,6 +1860,21 @@ test("docx: Ki Seitzei 5784 keeps midah keneged midah and bais hachaim in RTL or
     typst,
     `in the ${RTL_ISOLATE}בית החיים${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}מדה כנגד מדה${POP_DIRECTIONAL_ISOLATE}.`,
     "LTR comma between bais hachaim and midah keneged midah"
+  );
+});
+
+test("docx: Ki Sisa 5785 keeps the Shir Lamaalos quotation in source order", () => {
+  const typst = convertedDocx("/ki-sisa/5785/");
+
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}שִׁיר לַמַּעֲלוֹת, אֶשָּׂא עֵינַי אֶל הֶהָרִים${POP_DIRECTIONAL_ISOLATE}. Why`,
+    "Shir Lamaalos quotation in logical order"
+  );
+  assertNotContains(
+    typst,
+    `${RTL_ISOLATE}שִׁיר לַמַּעֲלוֹת${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} ${RTL_ISOLATE}אֶשָּׂא עֵינַי אֶל הֶהָרִים${POP_DIRECTIONAL_ISOLATE}`,
+    "split Shir Lamaalos quotation"
   );
 });
 
