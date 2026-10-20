@@ -454,6 +454,20 @@ test("preserves an English source paragraph break after punctuation", () => {
   );
 });
 
+test("closes an unclosed nested Hebrew source before English prose", () => {
+  assert.equal(
+    applyTextRules("There is a (מדרש תנחומא (תצוה ה׳:ה׳ on the פסוק."),
+    `There is a ${RTL_ISOLATE}מדרש תנחומא ${LTR_ISOLATE}(תצוה ה׳:ה׳)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE} on the ${RTL_ISOLATE}פסוק${POP_DIRECTIONAL_ISOLATE}.`
+  );
+});
+
+test("moves a leading Hebrew source after its English-clause quote", () => {
+  assert.equal(
+    applyTextRules("The last word is (אבות ד׳:א׳) אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ. The"),
+    `The last word is ${RTL_ISOLATE}אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ ${LTR_ISOLATE}(אבות ד׳:א׳)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}. The`
+  );
+});
+
 test("removes spaces before closing parenthesis", () => {
   assert.equal(
     normalizePunctuationSpacing("it is the בית הלוי ). He says"),

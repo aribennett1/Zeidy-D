@@ -1679,9 +1679,10 @@ while in his presence.
 Now, he brings another point from the ⁧ספר טעמי המנהגים⁩ that another
 possibility is that there may very well be a ⁧גזר דין⁩ against ⁧ראובן בן יעקב⁩⁦,⁩ so it would be important not to mention his name at a ⁧ביקור חולים⁩
 visit. In serious situations, one of the techniques we have to disrupt
-that is to change his name, because that the ⁧גזר דין⁩ against ⁧ראובן בן יעקב⁩ is not the same thing as a ⁧גזר דין⁩ against ⁧ראובן רפאל בן יעקב⁩⁦,⁩ for
-example. When we change the name, that ⁧גזר דין⁩ is no longer applicable
-to this person because this is a different person with a different name.
+that is to change his name, because the ⁧גזר דין⁩ against ⁧ראובן בן יעקב⁩ is
+not the same thing as a ⁧גזר דין⁩ against ⁧ראובן רפאל בן יעקב⁩⁦,⁩ for example.
+When we change the name, that ⁧גזר דין⁩ is no longer applicable to this
+person because this is a different person with a different name.
 
 Now, another fascinating aspect of this brought down from the Munkatcher
 Rebbe, #metadata(none) <person-index-munkatcher-rebbe-80> the ⁧מנחת אלעזר⁩⁦,⁩ #metadata(none) <person-index-munkatcher-rebbe-81> ⁧זכותו יגן עלינו⁩⁦,⁩ and is mentioned in a number of
@@ -2584,11 +2585,12 @@ regaling us with stories. One of his stories was about R’ Ovadia Yosef.#metada
 Quite a number of years ago, R’ Ovadia's#metadata(none) <person-index-r-ovadia-yosef-162> son developed an ear problem.
 When he sought medical attention, he was told that there was no one in
 Israel capable of helping him and he should go to America to seek out
-Dr. Goldstein's#metadata(none) <person-index-dr-allen-goldstein-153> care and advice. Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-154> examined him and told
-that he could assist him by operating on him, which he arranged. While
-in surgery, the intercom in the operating room blared out, “Dr.
-Goldstein, #metadata(none) <person-index-dr-allen-goldstein-155> Rabbi Yosef is calling from Israel.” Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-156> responded, “Tell Rabbi Yosef I'm in the middle of surgery and I'll call him back
-when the surgery is done.
+Dr. Goldstein's#metadata(none) <person-index-dr-allen-goldstein-153> care and advice. Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-154> examined him and
+determined that he could treat the problem surgically, and arranged to
+perform the operation. While in surgery, the intercom in the operating
+room blared out, “Dr. Goldstein, #metadata(none) <person-index-dr-allen-goldstein-155> Rabbi Yosef is calling from Israel.”
+Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-156> responded, “Tell Rabbi Yosef I'm in the middle of surgery
+and I'll call him back when the surgery is done.”
 
 When he completed his work, he called Rav Yosef and told him that the
 surgery was quite successful, everything was accomplished, and that his
@@ -4939,7 +4941,7 @@ grandchildren.
 Baruch Hashem, we are in the midst of preparing for a fantastic, beautiful ⁧שמחה⁩. In recognition of that, we will find a connection
 between ⁧פרשת תצוה⁩ and the upcoming ⁧שמחה⁩ between Chaim and Bracha.#metadata(none) <person-index-bracha-340>
 
-The ⁧פרשה⁩ begins with ⁧וְאַתָּה תְּצַוֶּה⁩. There is a (⁧מדרש תנחומא⁩ (⁧תצוה ה׳⁩: ⁧ה׳⁩ on
+The ⁧פרשה⁩ begins with ⁧וְאַתָּה תְּצַוֶּה⁩. There is a ⁧מדרש תנחומא ⁦(תצוה ה׳:ה׳)⁩⁩ on
 the ⁧פסוק⁩ in ⁧שיר השירים⁩ ⁦(א:ט״ו)⁩: ⁧הִנָּךְ יָפָה עֵינַיִךְ יוֹנִים⁩ - “your eyes are like
 doves.” The ⁧מדרש⁩ explains: ⁧מַה הַיּוֹנָה הֵבִיאָה אוֹרָה לָעוֹלָם, אַף אַתֶּם שֶׁנִּמְשַׁלְתֶּם כַּיּוֹנָה, הָבִיאוּ שֶׁמֶן זַיִת וְהַדְלִיקוּ⁩ - just as the ⁧יונה⁩⁦,⁩ in various ways, brings
 light to the world, so too, you bring ⁧שמן זית⁩⁦,⁩ light it, and bring
@@ -4979,7 +4981,7 @@ more ⁧שלום בית⁩ in the house.
 It's a great lesson for us all, a great lesson to learn, and in our
 hectic society, we're constantly seeking more and more and more. Maybe
 we should stop and take a moment to reflect and be satisfied with what
-we've got. The last word is ⁦(אבות ד׳:א׳)⁩ ⁧אֵיזֶהוּ עָשִׁיר⁩⁦,⁩ ⁧הַשָּׂמֵחַ בְּחֶלְקוֹ⁩. The
+we've got. The last word is ⁧אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ ⁦(אבות ד׳:א׳)⁩⁩. The
 true richness in the world, the true satisfaction, is in being satisfied
 with what ⁧הקדוש ברוך הוא⁩ gives us. Not to say the famous line of the
 rich man, “I just want a little bit more”. Let us be happy with what
