@@ -22,7 +22,7 @@ Use a generated Typst pipeline:
 
 1. `routes.json` is the source of truth for each leaf's route, content directory, and base filename.
 2. `build-typeset-proof.js` reads selected routes.
-3. Full-book order starts with `Rabbi Oelbaum Haskama`, then `About the Name`, then the regular route order beginning with Bereshis.
+3. Full-book order starts with the table of contents, then the haskamos and remaining front matter, then the regular route order beginning with Bereshis.
 4. Pandoc converts each `.docx` to Typst body content.
 5. The generator strips the duplicate first-line title from Pandoc output.
 6. The generator adds a consistent centered Typst heading.
@@ -129,7 +129,7 @@ English hyphenation is disabled globally in the Typst template. Paragraphs still
 
 Paragraph first-line indentation is disabled globally in the Typst template.
 
-Full-book builds insert a Typst-generated table of contents after the front matter and before the first regular article. Front matter headings are marked `outlined: false`, so the table of contents starts with the main book entries. Front matter and table-of-contents pages do not show page numbers; the page counter restarts at `1` for the first regular article. The Haskama still keeps its QR/link footer, but without a visible page number.
+Full-book builds insert a Typst-generated table of contents first, before the haskamos and remaining front matter. Front matter headings are marked `outlined: false`, so the table of contents starts with the main book entries. Front matter and table-of-contents pages do not show page numbers; the page counter restarts at `1` for the first regular article. The Haskama still keeps its QR/link footer, but without a visible page number.
 
 `scan-person-index-candidates.js` starts the person-index workflow. It scans all `.docx` files with broad patterns for capitalized English phrases, English honorifics such as `R'`, `Rabbi`, and `Rav`, Hebrew acronyms, and Hebrew title/name phrases. It writes `person-index-candidates.md` for review and `person-index-candidates.json` for later prompting. The scanner honors `person-index-review.json` by hiding candidates already marked `ignore` or `false-positive`, so review decisions can survive future rescans.
 

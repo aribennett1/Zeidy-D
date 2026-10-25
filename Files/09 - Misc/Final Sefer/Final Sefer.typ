@@ -131,6 +131,14 @@
   it
 }
 
+#set page(header: none, footer: none)
+#outline(
+  title: [Contents],
+  target: heading.where(level: 1),
+)
+
+#pagebreak()
+
 #set page(header: none, footer: none, margin: 0in)
 
 
@@ -759,13 +767,6 @@ the Torah he has given over to me.
 My hope is that these vertlach will continue to be learned, repeated, and shared, and that the enthusiasm for Torah with which Zeidy gave them
 over will continue with his children, grandchildren, great-grandchildren, and, b'ezras Hashem, for generations to come.
 
-#pagebreak()
-
-#set page(header: none, footer: none)
-#outline(
-  title: [Contents],
-  target: heading.where(level: 1),
-)
 #pagebreak(to: "odd")
 #counter(page).update(1)
 

@@ -2394,7 +2394,16 @@ function renderTypstDocument(entries, options, indexState = null) {
 
   console.error(`Converting ${entries.length} article${entries.length === 1 ? "" : "s"} from source files...`);
 
-  let insertedTableOfContents = false;
+  if (options.all) {
+    parts.push(`#set page(header: none, footer: none)
+#outline(
+  title: [Contents],
+  target: heading.where(level: 1),
+)
+`);
+  }
+
+  let startedMainMatter = false;
 
   entries.forEach((entry, index) => {
     console.error(`[${index + 1}/${entries.length}] ${entry.title}`);
@@ -2414,26 +2423,14 @@ function renderTypstDocument(entries, options, indexState = null) {
     const body = entry.isPdfPage
       ? renderPdfPage(entry, qrRelativePath, pdfTextOverlay)
       : convertDocxToTypst(entry, isFrontMatter ? null : indexState);
-    const shouldInsertTableOfContents =
-      options.all && !insertedTableOfContents && !isFrontMatter;
-
-    if (shouldInsertTableOfContents) {
-      if (index > 0) {
-        parts.push("#pagebreak()\n");
-      }
-
-      parts.push(`#set page(header: none, footer: none)
-#outline(
-  title: [Contents],
-  target: heading.where(level: 1),
-)
-#pagebreak(to: "odd")
+    if (options.all && !startedMainMatter && !isFrontMatter) {
+      parts.push(`#pagebreak(to: "odd")
 #counter(page).update(1)
 `);
-      insertedTableOfContents = true;
+      startedMainMatter = true;
     } else if (entry.pdfPageSpread && (index > 0 || options.all)) {
       parts.push("#pagebreak(to: \"even\")\n");
-    } else if (index > 0) {
+    } else if (index > 0 || options.all) {
       parts.push("#pagebreak()\n");
     }
 
