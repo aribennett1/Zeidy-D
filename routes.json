@@ -888,6 +888,7 @@
       "baseFilename": "Rosh Chodesh"
     },
     "/rabbi-oelbaum/": {
+      "title": "Rabbi Oelbaum Haskama",
       "contentPath": "07 - Haskamos/01 - Rabbi Oelbaum",
       "baseFilename": "Rabbi Oelbaum",
       "pdfPage": "Rabbi Oelbaum.pdf",
@@ -922,44 +923,53 @@
       }
     },
     "/biale-rebbe/": {
+      "title": "Biale Rebbe Haskama",
       "contentPath": "07 - Haskamos/Biale Rebbe",
       "baseFilename": "Biale Rebbe",
       "pdfPage": "Biale Rebbe.pdf"
     },
     "/rabbi-dovid-hoffman/": {
+      "title": "Rabbi Dovid Hoffman Haskama",
       "contentPath": "07 - Haskamos/Rabbi Dovid Hoffman",
       "baseFilename": "Rabbi Dovid Hoffman"
     },
     "/rabbi-dovid-weinberger/": {
+      "title": "Rabbi Dovid Weinberger Haskama",
       "contentPath": "07 - Haskamos/Rabbi Dovid Weinberger",
       "baseFilename": "Rabbi Dovid Weinberger",
       "pdfPage": "Rabbi Dovid Weinberger.pdf"
     },
     "/rabbi-eliyahu-safran/": {
+      "title": "Eliyahu Safran Haskama",
       "contentPath": "07 - Haskamos/Rabbi Eliyahu Safran",
       "baseFilename": "Eliyahu Safran Haskama"
     },
     "/rabbi-menachem-genack/": {
+      "title": "Rabbi Menachem Genack Haskama",
       "contentPath": "07 - Haskamos/Rabbi Menachem Genack",
       "baseFilename": "Rabbi Menachem Genack",
       "pdfPage": "Rabbi Menachem Genack.pdf"
     },
     "/rabbi-peretz-steinberg/": {
+      "title": "Rabbi Peretz Steinberg Haskama",
       "contentPath": "07 - Haskamos/Rabbi Peretz Steinberg",
       "baseFilename": "Rabbi Peretz Steinberg",
       "pdfPage": "Rabbi Peretz Steinberg.pdf"
     },
     "/rabbi-pesach-krohn/": {
+      "title": "Rabbi Pesach Krohn Haskama",
       "contentPath": "07 - Haskamos/Rabbi Pesach Krohn",
       "baseFilename": "Rabbi Pesach Krohn",
       "pdfPage": "Rabbi Pesach Krohn.pdf"
     },
     "/rabbi-yaakov-gibber/": {
+      "title": "Rabbi Yaakov Gibber Haskama",
       "contentPath": "07 - Haskamos/Rabbi Yaakov Gibber",
       "baseFilename": "Rabbi Yaakov Gibber",
       "pdfPage": "Rabbi Yaakov Gibber.pdf"
     },
     "/rabbi-yossi-bennett/": {
+      "title": "Rabbi Yossi Bennett Haskama",
       "contentPath": "07 - Haskamos/Rabbi Yossi Bennett",
       "baseFilename": "Rabbi Yossi Bennett"
     },

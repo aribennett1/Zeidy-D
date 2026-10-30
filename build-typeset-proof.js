@@ -2425,7 +2425,6 @@ function renderTypstDocument(entries, options, indexState = null) {
       : convertDocxToTypst(entry, isFrontMatter ? null : indexState);
     if (options.all && !startedMainMatter && !isFrontMatter) {
       parts.push(`#pagebreak(to: "odd")
-#counter(page).update(1)
 `);
       startedMainMatter = true;
     } else if (entry.pdfPageSpread && (index > 0 || options.all)) {
@@ -2434,22 +2433,30 @@ function renderTypstDocument(entries, options, indexState = null) {
       parts.push("#pagebreak()\n");
     }
 
-    const header = isFrontMatter ? "none" : "page-number-header()";
+    if (options.all && index === 0 && isFrontMatter) {
+      parts.push('#counter(page).update(1)\n');
+    }
+
+    const header = (entry.isPdfPage && entry.isHaskama)
+      ? "none" : "page-number-header()";
+    const foreground = entry.isPdfPage && entry.isHaskama
+      ? 'context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }'
+      : "none";
     const footer = entry.hasFooter && !entry.isPdfPage
       ? `article-footer(${typstString(entry.url)}, ${typstString(qrRelativePath)})`
       : "none";
     const headingTitle = typstHeadingContent(entry.title);
     const headingAnchor = entry.anchor ? ` <${entry.anchor}>` : "";
-    const heading = entry.isPdfPage || entry.isHaskama
-      ? ""
+    const heading = entry.isHaskama || entry.isPdfPage
+      ? `#place[#hide[#heading(level: 1)[${headingTitle}]]]`
       : isFrontMatter
-      ? `#heading(level: 1, outlined: false)[${headingTitle}]`
+      ? `#heading(level: 1)[${headingTitle}]`
       : entry.title.includes("\n")
       ? `#heading(level: 1)[${headingTitle}]`
       : `= ${headingTitle}${headingAnchor}`;
     const margin = entry.isPdfPage ? "0in" : typstPageMargin(settings);
 
-    parts.push(`#set page(header: ${header}, footer: ${footer}, margin: ${margin})
+    parts.push(`#set page(header: ${header}, footer: ${footer}, foreground: ${foreground}, margin: ${margin})
 ${heading}
 
 ${body}

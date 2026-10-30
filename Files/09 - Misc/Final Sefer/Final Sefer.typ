@@ -139,8 +139,10 @@
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: 0in)
+#counter(page).update(1)
 
+#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#place[#hide[#heading(level: 1)[Rabbi Oelbaum Haskama]]]
 
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
@@ -207,8 +209,8 @@ continue through your children, your ⁧אייניקלעך⁩⁦,⁩ and your �
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: 0in)
-
+#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#place[#hide[#heading(level: 1)[Biale Rebbe Haskama]]]
 
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
@@ -224,13 +226,13 @@ continue through your children, your ⁧אייניקלעך⁩⁦,⁩ and your �
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: (
+#set page(header: page-number-header(), footer: none, foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-
+#place[#hide[#heading(level: 1)[Rabbi Dovid Hoffman Haskama]]]
 
 Rabbi Dovid Hoffman
 
@@ -290,8 +292,8 @@ Dovid Yoel Hoffman
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: 0in)
-
+#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#place[#hide[#heading(level: 1)[Rabbi Dovid Weinberger Haskama]]]
 
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
@@ -307,13 +309,13 @@ Dovid Yoel Hoffman
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: (
+#set page(header: page-number-header(), footer: none, foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-
+#place[#hide[#heading(level: 1)[Eliyahu Safran Haskama]]]
 
 It is with great pride and pleasure that I share my accolades and praise
 with my long time friend Dr. Leslie Bennett, whom I have known since our
@@ -348,8 +350,8 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: 0in)
-
+#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#place[#hide[#heading(level: 1)[Rabbi Menachem Genack Haskama]]]
 
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
@@ -359,8 +361,8 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: 0in)
-
+#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#place[#hide[#heading(level: 1)[Rabbi Peretz Steinberg Haskama]]]
 
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
@@ -370,8 +372,8 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: 0in)
-
+#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#place[#hide[#heading(level: 1)[Rabbi Pesach Krohn Haskama]]]
 
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
@@ -381,8 +383,8 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: 0in)
-
+#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#place[#hide[#heading(level: 1)[Rabbi Yaakov Gibber Haskama]]]
 
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
@@ -392,13 +394,13 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: (
+#set page(header: page-number-header(), footer: none, foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-
+#place[#hide[#heading(level: 1)[Rabbi Yossi Bennett Haskama]]]
 
 #align(center)[
 ⁧”אין שמחה כשמחת התורה“⁩]
@@ -493,13 +495,13 @@ July 27#super[th], 2026
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: (
+#set page(header: page-number-header(), footer: none, foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-#heading(level: 1, outlined: false)[About the Name]
+#heading(level: 1)[About the Name]
 
 #align(right)[
 ⁧וָאֹמַר מָה אֵלֶּה אֲדֹנִי וַיֹּאמֶר אֵלַי הַמַּלְאָךְ #strong[הַדֹּבֵר בִּי] אֲנִי אַרְאֶךָּ מָה הֵמָּה אֵלֶּה (זכריה א:ט)⁩]
@@ -537,13 +539,13 @@ of ⁧הַדֹּבֵר⁩ is the same as ⁧ארי⁩.
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: (
+#set page(header: page-number-header(), footer: none, foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-#heading(level: 1, outlined: false)[Preface - Zeidy]
+#heading(level: 1)[Preface - Zeidy]
 
 #align(center)[
 ⁧ישמחו השמים ותגל הארץ⁩]
@@ -641,13 +643,13 @@ Rabbi Gedalia Zlotowitz - ArtScroll/Mesorah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, margin: (
+#set page(header: page-number-header(), footer: none, foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
     bottom: 0.82in,
   ))
-#heading(level: 1, outlined: false)[Foreword - Ari]
+#heading(level: 1)[Foreword - Ari]
 
 #align(center)[
 “Someday, I want to write a sefer with all of my vertlach.”]
@@ -768,9 +770,8 @@ My hope is that these vertlach will continue to be learned, repeated, and shared
 over will continue with his children, grandchildren, great-grandchildren, and, b'ezras Hashem, for generations to come.
 
 #pagebreak(to: "odd")
-#counter(page).update(1)
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5784/", "../../01 - Bereshis/01 - Bereshis/5784/Bereshis 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5784/", "../../01 - Bereshis/01 - Bereshis/5784/Bereshis 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -820,7 +821,7 @@ emphasize.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5785/", "../../01 - Bereshis/01 - Bereshis/5785/Bereshis 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5785/", "../../01 - Bereshis/01 - Bereshis/5785/Bereshis 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -863,7 +864,7 @@ us.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5786/(1)/", "../../01 - Bereshis/01 - Bereshis/5786/Bereshis (1)/Bereshis 5786 (1).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5786/(1)/", "../../01 - Bereshis/01 - Bereshis/5786/Bereshis (1)/Bereshis 5786 (1).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -941,7 +942,7 @@ task, but it's doable only because the Torah says so.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5786/(2)/", "../../01 - Bereshis/01 - Bereshis/5786/Bereshis (2)/Bereshis 5786 (2).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5786/(2)/", "../../01 - Bereshis/01 - Bereshis/5786/Bereshis (2)/Bereshis 5786 (2).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1041,7 +1042,7 @@ received my prize.”
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/noach/5784/(1)/", "../../01 - Bereshis/02 - Noach/5784/Noach 5784 (1)/Noach 5784 (1).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/noach/5784/(1)/", "../../01 - Bereshis/02 - Noach/5784/Noach 5784 (1)/Noach 5784 (1).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1100,7 +1101,7 @@ We're not ⁧בני נח⁩⁦,⁩ we're ⁧בני אברהם⁩⁦,⁩ ⁧יצ�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/noach/5784/(2)/", "../../01 - Bereshis/02 - Noach/5784/Noach 5784 (2)/Noach 5784 (2).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/noach/5784/(2)/", "../../01 - Bereshis/02 - Noach/5784/Noach 5784 (2)/Noach 5784 (2).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1134,7 +1135,7 @@ it. That's the way to do a ⁧מצוה⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/noach/5785/", "../../01 - Bereshis/02 - Noach/5785/Noach 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/noach/5785/", "../../01 - Bereshis/02 - Noach/5785/Noach 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1198,7 +1199,7 @@ does that word mean?” So, we have to work on that. And in the ⁧זכות⁩ o
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/noach/5786/", "../../01 - Bereshis/02 - Noach/5786/Noach 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/noach/5786/", "../../01 - Bereshis/02 - Noach/5786/Noach 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1246,7 +1247,7 @@ ultimate purpose and achievement.”
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lech-lecha/5784/", "../../01 - Bereshis/03 - Lech Lecha/5784/Lech Lecha 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lech-lecha/5784/", "../../01 - Bereshis/03 - Lech Lecha/5784/Lech Lecha 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1314,7 +1315,7 @@ we succeed not by our own might, but by the help of Hashem's hand, with
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lech-lecha/5785/", "../../01 - Bereshis/03 - Lech Lecha/5785/Lech Lecha 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lech-lecha/5785/", "../../01 - Bereshis/03 - Lech Lecha/5785/Lech Lecha 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1399,7 +1400,7 @@ always shown self-sacrifice. May we soon witness ⁧גאולה⁩ and the coming
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lech-lecha/5786/(1)/", "../../01 - Bereshis/03 - Lech Lecha/5786/ Lech Lecha (1)/Lech Lecha 5786 (1).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lech-lecha/5786/(1)/", "../../01 - Bereshis/03 - Lech Lecha/5786/ Lech Lecha (1)/Lech Lecha 5786 (1).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1464,7 +1465,7 @@ level of ⁧אברהם אבינו⁩ and to be better people and to serve ⁧ה�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lech-lecha/5786/(2)/", "../../01 - Bereshis/03 - Lech Lecha/5786/ Lech Lecha (2)/Lech Lecha 5786 (2).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lech-lecha/5786/(2)/", "../../01 - Bereshis/03 - Lech Lecha/5786/ Lech Lecha (2)/Lech Lecha 5786 (2).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1525,7 +1526,7 @@ is also what our focus should be.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayairah/5784/", "../../01 - Bereshis/04 - Vayairah/5784/Vayairah 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayairah/5784/", "../../01 - Bereshis/04 - Vayairah/5784/Vayairah 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1580,7 +1581,7 @@ that way, they will be of the highest quality. In the ⁧זכות⁩ of those
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayairah/5785/", "../../01 - Bereshis/04 - Vayairah/5785/Vayairah 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayairah/5785/", "../../01 - Bereshis/04 - Vayairah/5785/Vayairah 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1639,7 +1640,7 @@ it.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayairah/5786/(1)/", "../../01 - Bereshis/04 - Vayairah/5786/Vayairah (1)/Vayairah 5786 (1).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayairah/5786/(1)/", "../../01 - Bereshis/04 - Vayairah/5786/Vayairah (1)/Vayairah 5786 (1).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1710,7 +1711,7 @@ have a ⁧רפואה שלמה⁩. All the ⁧חולים⁩ in ⁧כלל ישרא
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayairah/5786/(2)/", "../../01 - Bereshis/04 - Vayairah/5786/Vayairah (2)/Vayairah 5786 (2).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayairah/5786/(2)/", "../../01 - Bereshis/04 - Vayairah/5786/Vayairah (2)/Vayairah 5786 (2).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1750,7 +1751,7 @@ got up and he said, “I now know that there is such a concept as ⁧תחית ה
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chayai-sara/5784/", "../../01 - Bereshis/05 - Chayai Sara/5784/Chayai Sara 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chayai-sara/5784/", "../../01 - Bereshis/05 - Chayai Sara/5784/Chayai Sara 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1822,7 +1823,7 @@ others; we all have room to improve in our mitzvos.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chayai-sara/5785/", "../../01 - Bereshis/05 - Chayai Sara/5785/Chayai Sara 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chayai-sara/5785/", "../../01 - Bereshis/05 - Chayai Sara/5785/Chayai Sara 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1875,7 +1876,7 @@ descendants.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chayai-sara/5786/", "../../01 - Bereshis/05 - Chayai Sara/5786/Chayai Sara 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chayai-sara/5786/", "../../01 - Bereshis/05 - Chayai Sara/5786/Chayai Sara 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1939,7 +1940,7 @@ train themselves to do that, and take my word for it, it's worth it.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chayai-sara/5787/", "../../01 - Bereshis/05 - Chayai Sara/5787/Chayai Sara 5787.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chayai-sara/5787/", "../../01 - Bereshis/05 - Chayai Sara/5787/Chayai Sara 5787.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -1978,7 +1979,7 @@ chain until ⁧ביאת גואל צדק במהרה בימינו אמן⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/toldos/5784/", "../../01 - Bereshis/06 - Toldos/5784/Toldos 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/toldos/5784/", "../../01 - Bereshis/06 - Toldos/5784/Toldos 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2035,7 +2036,7 @@ true ⁧שלמות⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/toldos/5785/", "../../01 - Bereshis/06 - Toldos/5785/Toldos 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/toldos/5785/", "../../01 - Bereshis/06 - Toldos/5785/Toldos 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2106,7 +2107,7 @@ see everyone in the best light.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/toldos/5786/", "../../01 - Bereshis/06 - Toldos/5786/Toldos 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/toldos/5786/", "../../01 - Bereshis/06 - Toldos/5786/Toldos 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2143,7 +2144,7 @@ our efforts at all times. In that ⁧זכות⁩⁦,⁩ we will be ⁧זוכה�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaitzei/5783/", "../../01 - Bereshis/07 - Vayaitzei/5783/Vayaitzei 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaitzei/5783/", "../../01 - Bereshis/07 - Vayaitzei/5783/Vayaitzei 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2184,7 +2185,7 @@ upon us.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaitzei/5784/", "../../01 - Bereshis/07 - Vayaitzei/5784/Vayaitzei 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaitzei/5784/", "../../01 - Bereshis/07 - Vayaitzei/5784/Vayaitzei 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2258,7 +2259,7 @@ ways, to emulate them and improve ourselves.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaitzei/5785/", "../../01 - Bereshis/07 - Vayaitzei/5785/Vayaitzei 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaitzei/5785/", "../../01 - Bereshis/07 - Vayaitzei/5785/Vayaitzei 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2313,7 +2314,7 @@ ourselves and all of ⁧כלל ישראל⁩⁦,⁩ and b’ezras Hashem, furthe
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayishlach/5783/", "../../01 - Bereshis/08 - Vayishlach/5783/Vayishlach 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayishlach/5783/", "../../01 - Bereshis/08 - Vayishlach/5783/Vayishlach 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2362,7 +2363,7 @@ came before us.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayishlach/5784/", "../../01 - Bereshis/08 - Vayishlach/5784/Vayishlach 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayishlach/5784/", "../../01 - Bereshis/08 - Vayishlach/5784/Vayishlach 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2456,7 +2457,7 @@ May our ⁧עבודה⁩ be ⁧מקובל⁩⁦,⁩ and in that ⁧זכות⁩�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayishlach/5785/", "../../01 - Bereshis/08 - Vayishlach/5785/Vayishlach 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayishlach/5785/", "../../01 - Bereshis/08 - Vayishlach/5785/Vayishlach 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2532,7 +2533,7 @@ to rise above ⁧הרגל⁩ and transform ourselves into a ⁧ראש⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayishlach/5786/", "../../01 - Bereshis/08 - Vayishlach/5786/Vayishlach 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayishlach/5786/", "../../01 - Bereshis/08 - Vayishlach/5786/Vayishlach 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2610,7 +2611,7 @@ efforts be successful.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaishev/5783/", "../../01 - Bereshis/09 - Vayaishev/5783/Vayaishev 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaishev/5783/", "../../01 - Bereshis/09 - Vayaishev/5783/Vayaishev 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2670,7 +2671,7 @@ always speak and think positively about them. By doing so, may we merit
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaishev/5784/", "../../01 - Bereshis/09 - Vayaishev/5784/Vayaishev 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaishev/5784/", "../../01 - Bereshis/09 - Vayaishev/5784/Vayaishev 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2738,7 +2739,7 @@ Hashem to bring about our ultimate ⁧ישועה⁩ and ⁧גאולה שלמה�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaishev/5785/", "../../01 - Bereshis/09 - Vayaishev/5785/Vayaishev 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayaishev/5785/", "../../01 - Bereshis/09 - Vayaishev/5785/Vayaishev 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2785,7 +2786,7 @@ find success.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mikeitz/5783/", "../../01 - Bereshis/10 - Mikeitz/5783/Mikeitz 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mikeitz/5783/", "../../01 - Bereshis/10 - Mikeitz/5783/Mikeitz 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2841,7 +2842,7 @@ happy Chanukah!
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mikeitz/5784/", "../../01 - Bereshis/10 - Mikeitz/5784/Mikeitz 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mikeitz/5784/", "../../01 - Bereshis/10 - Mikeitz/5784/Mikeitz 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2906,7 +2907,7 @@ lesson and use it to become better people.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mikeitz/5785/", "../../01 - Bereshis/10 - Mikeitz/5785/Mikeitz 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mikeitz/5785/", "../../01 - Bereshis/10 - Mikeitz/5785/Mikeitz 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -2971,7 +2972,7 @@ doing so, we achieve both ⁧אריכות ימים⁩ and ⁧אריכות שני
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayigash/5783/", "../../01 - Bereshis/10 - Vayigash/5783/Vayigash 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayigash/5783/", "../../01 - Bereshis/10 - Vayigash/5783/Vayigash 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3033,7 +3034,7 @@ should continue to meet by ⁧שמחות⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayigash/5784/", "../../01 - Bereshis/10 - Vayigash/5784/Vayigash 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayigash/5784/", "../../01 - Bereshis/10 - Vayigash/5784/Vayigash 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3092,7 +3093,7 @@ will bring about the ⁧ישועה⁩ that we're looking for.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayigash/5785/", "../../01 - Bereshis/10 - Vayigash/5785/Vayigash 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayigash/5785/", "../../01 - Bereshis/10 - Vayigash/5785/Vayigash 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3186,7 +3187,7 @@ families, and all of ⁧כלל ישראל⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayechi/5783/", "../../01 - Bereshis/11 - Vayechi/5783/Vayechi 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayechi/5783/", "../../01 - Bereshis/11 - Vayechi/5783/Vayechi 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3273,7 +3274,7 @@ the ⁧מסורה עד ביאת גואל צדק⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayechi/5784/", "../../01 - Bereshis/11 - Vayechi/5784/Vayechi 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayechi/5784/", "../../01 - Bereshis/11 - Vayechi/5784/Vayechi 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3320,7 +3321,7 @@ should be able to serve ⁧הקדוש ברוך הוא⁩⁦,⁩ and in that ⁧�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayechi/5785/", "../../01 - Bereshis/11 - Vayechi/5785/Vayechi 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayechi/5785/", "../../01 - Bereshis/11 - Vayechi/5785/Vayechi 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3392,7 +3393,7 @@ endeavor.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shemos/5783/", "../../02 - Shemos/01 - Shemos/5783/Shemos 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shemos/5783/", "../../02 - Shemos/01 - Shemos/5783/Shemos 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3460,7 +3461,7 @@ them in our family, we should have a lot of ⁧שמחות⁩⁦,⁩ and we shoul
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shemos/5784/", "../../02 - Shemos/01 - Shemos/5784/Shemos 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shemos/5784/", "../../02 - Shemos/01 - Shemos/5784/Shemos 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3528,7 +3529,7 @@ B’ezras Hashem, we should all hear good news.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shemos/5785/", "../../02 - Shemos/01 - Shemos/5785/Shemos 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shemos/5785/", "../../02 - Shemos/01 - Shemos/5785/Shemos 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3593,7 +3594,7 @@ and be a ⁧נחת⁩ for ⁧כלל ישראל⁩ and for all those who came bef
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeira/5783/", "../../02 - Shemos/02 - Vaeira/5783/Vaeira 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeira/5783/", "../../02 - Shemos/02 - Vaeira/5783/Vaeira 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3655,7 +3656,7 @@ for this very fundamental ⁧קשיא⁩ of ⁧בחירה חפשית⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeira/5784/", "../../02 - Shemos/02 - Vaeira/5784/Vaeira 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeira/5784/", "../../02 - Shemos/02 - Vaeira/5784/Vaeira 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3722,7 +3723,7 @@ Yirtzeh Hashem to ⁧ביאת גואל צדק⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeira/5785/", "../../02 - Shemos/02 - Vaeira/5785/Vaeira 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeira/5785/", "../../02 - Shemos/02 - Vaeira/5785/Vaeira 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3805,7 +3806,7 @@ know what we're talking about and what we stand for, for our ⁧דור דורו�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bo/5783/", "../../02 - Shemos/03 - Bo/5783/Bo 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bo/5783/", "../../02 - Shemos/03 - Bo/5783/Bo 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3846,7 +3847,7 @@ times.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bo/5784/", "../../02 - Shemos/03 - Bo/5784/Bo 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bo/5784/", "../../02 - Shemos/03 - Bo/5784/Bo 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3890,7 +3891,7 @@ succeed in ⁧עולם הזה⁩ with our ⁧עבודה⁩ of bringing ⁧אור
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bo/5785/", "../../02 - Shemos/03 - Bo/5785/Bo 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bo/5785/", "../../02 - Shemos/03 - Bo/5785/Bo 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3957,7 +3958,7 @@ the ⁧מסורה⁩⁦,⁩ elevate ourselves in ⁧רוחניות⁩⁦,⁩ do 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/beshalach/5783/(1)/", "../../02 - Shemos/04 - Beshalach/5783/Beshalach 5783 (1)/Beshalach 5783 (1).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/beshalach/5783/(1)/", "../../02 - Shemos/04 - Beshalach/5783/Beshalach 5783 (1)/Beshalach 5783 (1).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -3988,7 +3989,7 @@ is the ⁧מנהיג העולם⁩ and that everything occurs ⁧בהשגחת ה
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/beshalach/5783/(2)/", "../../02 - Shemos/04 - Beshalach/5783/Beshalach 5783 (2)/Beshalach 5783 (2).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/beshalach/5783/(2)/", "../../02 - Shemos/04 - Beshalach/5783/Beshalach 5783 (2)/Beshalach 5783 (2).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4012,7 +4013,7 @@ speak thoughtfully. This corresponds to the pasuk in ⁧משלי⁩ (21:23): ⁧
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/beshalach/5784/", "../../02 - Shemos/04 - Beshalach/5784/Beshalach 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/beshalach/5784/", "../../02 - Shemos/04 - Beshalach/5784/Beshalach 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4065,7 +4066,7 @@ bedrock ⁧אמונה⁩ that that is the truth.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/beshalach/5785/", "../../02 - Shemos/04 - Beshalach/5785/Beshalach 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/beshalach/5785/", "../../02 - Shemos/04 - Beshalach/5785/Beshalach 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4135,7 +4136,7 @@ that it is our efforts that caused us to be successful; rather, everything we ac
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yisro/5783/", "../../02 - Shemos/05 - Yisro/5783/Yisro 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yisro/5783/", "../../02 - Shemos/05 - Yisro/5783/Yisro 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4181,7 +4182,7 @@ number of ⁧מצוות⁩⁦,⁩ but they are not ⁧עבדי ה׳⁩. In contr
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yisro/5784/", "../../02 - Shemos/05 - Yisro/5784/Yisro 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yisro/5784/", "../../02 - Shemos/05 - Yisro/5784/Yisro 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4262,7 +4263,7 @@ come quickly and everyone should have ⁧ישועות ונחמות⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yisro/5785/", "../../02 - Shemos/05 - Yisro/5785/Yisro 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yisro/5785/", "../../02 - Shemos/05 - Yisro/5785/Yisro 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4314,7 +4315,7 @@ he attained by witnessing Hashem's ⁧כח⁩ is a lesson for us in ⁧יראת 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mishpatim/5783/", "../../02 - Shemos/06 - Mishpatim/5783/Mishpatim 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mishpatim/5783/", "../../02 - Shemos/06 - Mishpatim/5783/Mishpatim 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4402,7 +4403,7 @@ before, it's a great idea to hear it one more time.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mishpatim/5784/(1)/", "../../02 - Shemos/06 - Mishpatim/5784/Mishpatim 5784 (1)/Mishpatim (1)  5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mishpatim/5784/(1)/", "../../02 - Shemos/06 - Mishpatim/5784/Mishpatim 5784 (1)/Mishpatim (1)  5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4464,7 +4465,7 @@ will benefit the most from our ⁧עבודת השם⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mishpatim/5784/(2)/", "../../02 - Shemos/06 - Mishpatim/5784/Mishpatim 5784 (2)/Mishpatim (2)  5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mishpatim/5784/(2)/", "../../02 - Shemos/06 - Mishpatim/5784/Mishpatim 5784 (2)/Mishpatim (2)  5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4510,7 +4511,7 @@ That was the ⁧גדלות⁩ of ⁧אהרן הכהן⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mishpatim/5785/", "../../02 - Shemos/06 - Mishpatim/5785/Mishpatim 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/mishpatim/5785/", "../../02 - Shemos/06 - Mishpatim/5785/Mishpatim 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4584,7 +4585,7 @@ did.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/teruma/5783/", "../../02 - Shemos/07 - Teruma/5783/Teruma 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/teruma/5783/", "../../02 - Shemos/07 - Teruma/5783/Teruma 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4637,7 +4638,7 @@ with integrity to build a ⁧משכן לשם ולתפארת. יְהִי רָצו
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/teruma/5784/", "../../02 - Shemos/07 - Teruma/5784/Teruma 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/teruma/5784/", "../../02 - Shemos/07 - Teruma/5784/Teruma 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4702,7 +4703,7 @@ This is the beautiful connection between the beginning and the end of
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/teruma/5785/", "../../02 - Shemos/07 - Teruma/5785/Teruma 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/teruma/5785/", "../../02 - Shemos/07 - Teruma/5785/Teruma 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4815,7 +4816,7 @@ will be proud of us.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tetzaveh/5783/", "../../02 - Shemos/08 - Tetzaveh/5783/Tetzaveh 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tetzaveh/5783/", "../../02 - Shemos/08 - Tetzaveh/5783/Tetzaveh 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4864,7 +4865,7 @@ blessings that ⁧הקודש ברוך הוא⁩ gave us, to fulfill the ⁧מצ�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tetzaveh/5784/(1)/", "../../02 - Shemos/08 - Tetzaveh/5784/Tetzaveh 5784 (1)/Tetzaveh (1) 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tetzaveh/5784/(1)/", "../../02 - Shemos/08 - Tetzaveh/5784/Tetzaveh 5784 (1)/Tetzaveh (1) 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4928,7 +4929,7 @@ successful in that ⁧לדור דורות⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tetzaveh/5784/(2)/", "../../02 - Shemos/08 - Tetzaveh/5784/Tetzaveh 5784 (2)/Tetzaveh (2) 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tetzaveh/5784/(2)/", "../../02 - Shemos/08 - Tetzaveh/5784/Tetzaveh 5784 (2)/Tetzaveh (2) 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -4993,7 +4994,7 @@ have a lot of ⁧ברכות⁩ from all of them. And I'm looking forward to a hu
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tetzaveh/5785/", "../../02 - Shemos/08 - Tetzaveh/5785/Tetzaveh 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tetzaveh/5785/", "../../02 - Shemos/08 - Tetzaveh/5785/Tetzaveh 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5076,7 +5077,7 @@ cause ⁧כלל ישראל⁩ a ⁧תשועה גדולה⁩⁦,⁩ in all aspect
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-sisa/5783/", "../../02 - Shemos/09 - Ki Sisa/5783/Ki Sisa 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-sisa/5783/", "../../02 - Shemos/09 - Ki Sisa/5783/Ki Sisa 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5154,7 +5155,7 @@ may we be ⁧זוכה⁩ to hear great ⁧שמחות⁩ in all of ⁧כלל יש
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-sisa/5784/", "../../02 - Shemos/09 - Ki Sisa/5784/Ki Sisa 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-sisa/5784/", "../../02 - Shemos/09 - Ki Sisa/5784/Ki Sisa 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5215,7 +5216,7 @@ it lasts forever.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-sisa/5785/", "../../02 - Shemos/09 - Ki Sisa/5785/Ki Sisa 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-sisa/5785/", "../../02 - Shemos/09 - Ki Sisa/5785/Ki Sisa 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5289,7 +5290,7 @@ us. In that ⁧זכות⁩⁦,⁩ we shall see the ⁧משיח צדקנו, במ�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel/5784/", "../../02 - Shemos/10 - Vayakhel/5784/Vayakhel 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel/5784/", "../../02 - Shemos/10 - Vayakhel/5784/Vayakhel 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5347,7 +5348,7 @@ absence.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel/5785/", "../../02 - Shemos/10 - Vayakhel/5785/Vayakhel 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel/5785/", "../../02 - Shemos/10 - Vayakhel/5785/Vayakhel 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5421,7 +5422,7 @@ look it up. ⁧תוספות⁩ says this in ⁧שבועות, דף ג ע״א, ד�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pekudei/5784/", "../../02 - Shemos/11 - Pekudei/5784/Pekudei 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pekudei/5784/", "../../02 - Shemos/11 - Pekudei/5784/Pekudei 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5464,7 +5465,7 @@ this week's ⁧פרשה⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pekudei/5785/", "../../02 - Shemos/11 - Pekudei/5785/Pekudei 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pekudei/5785/", "../../02 - Shemos/11 - Pekudei/5785/Pekudei 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5551,7 +5552,7 @@ to ⁧שמחות⁩⁦,⁩ ⁧נחת⁩⁦,⁩ ⁧געזונט⁩⁦,⁩ and the
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel-pekudei/5783/", "../../02 - Shemos/12 - Vayakhel-Pekudei/5783/Vayakhel-Pekudei 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel-pekudei/5783/", "../../02 - Shemos/12 - Vayakhel-Pekudei/5783/Vayakhel-Pekudei 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5616,7 +5617,7 @@ everything that we do, in ⁧עבודת הבורא⁩⁦,⁩ in ⁧רוחניו�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayikra/5783/", "../../03 - Vayikra/01 - Vayikra/5783/Vayikra 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayikra/5783/", "../../03 - Vayikra/01 - Vayikra/5783/Vayikra 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5669,7 +5670,7 @@ footsteps.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayikra/5784/", "../../03 - Vayikra/01 - Vayikra/5784/Vayikra 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayikra/5784/", "../../03 - Vayikra/01 - Vayikra/5784/Vayikra 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5717,7 +5718,7 @@ humility, be able to admit our mistakes, and grow from them.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayikra/5785/", "../../03 - Vayikra/01 - Vayikra/5785/Vayikra 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayikra/5785/", "../../03 - Vayikra/01 - Vayikra/5785/Vayikra 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5831,7 +5832,7 @@ truly means: one who translates his physical existence into doing the
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tzav/5783/", "../../03 - Vayikra/02 - Tzav/5783/Tzav 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tzav/5783/", "../../03 - Vayikra/02 - Tzav/5783/Tzav 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5928,7 +5929,7 @@ coming of ⁧משיח צדקנו, במהרה בימינו⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tzav/5784/", "../../03 - Vayikra/02 - Tzav/5784/Tzav 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tzav/5784/", "../../03 - Vayikra/02 - Tzav/5784/Tzav 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -5993,7 +5994,7 @@ Im Yirtzeh Hashem, may our family continue to grow both in ⁧כמות⁩ and
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tzav/5785/", "../../03 - Vayikra/02 - Tzav/5785/Tzav 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tzav/5785/", "../../03 - Vayikra/02 - Tzav/5785/Tzav 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6104,7 +6105,7 @@ your unique light.”
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini/5783/", "../../03 - Vayikra/03 - Shmini/5783/Shmini 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini/5783/", "../../03 - Vayikra/03 - Shmini/5783/Shmini 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6153,7 +6154,7 @@ and fulfill all of Hashem's ⁧ציוויים⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini/5784/", "../../03 - Vayikra/03 - Shmini/5784/Shmini 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini/5784/", "../../03 - Vayikra/03 - Shmini/5784/Shmini 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6198,7 +6199,7 @@ deepest ⁧רצון⁩ of ⁧וְשָׁכַנְתִּי בְּתוֹכָם⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini/5785/", "../../03 - Vayikra/03 - Shmini/5785/Shmini 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini/5785/", "../../03 - Vayikra/03 - Shmini/5785/Shmini 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6258,7 +6259,7 @@ kids, colleagues, co-workers, spouses, or relatives.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tazria/5784/", "../../03 - Vayikra/04 - Tazria/5784/Tazria 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tazria/5784/", "../../03 - Vayikra/04 - Tazria/5784/Tazria 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6312,7 +6313,7 @@ it. Through this, we serve Hashem and fulfill our role as an ⁧אור לגוי�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/metzora/5784/", "../../03 - Vayikra/05 - Metzora/5784/Metzora 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/metzora/5784/", "../../03 - Vayikra/05 - Metzora/5784/Metzora 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6386,7 +6387,7 @@ to learn.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tazria-metzora/5783/", "../../03 - Vayikra/06 - Tazria-Metzora/5783/Tazria-Metzora 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tazria-metzora/5783/", "../../03 - Vayikra/06 - Tazria-Metzora/5783/Tazria-Metzora 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6446,7 +6447,7 @@ world, the ⁧טומאה⁩ that follows is proportionately greater.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tazria-metzora/5785/", "../../03 - Vayikra/06 - Tazria-Metzora/5785/Tazria-Metzora 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tazria-metzora/5785/", "../../03 - Vayikra/06 - Tazria-Metzora/5785/Tazria-Metzora 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6530,7 +6531,7 @@ navigate challenges successfully and have ⁧הצלחה⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/achrei-mos/5784/", "../../03 - Vayikra/07 - Achrei Mos/5784/Achrei Mos 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/achrei-mos/5784/", "../../03 - Vayikra/07 - Achrei Mos/5784/Achrei Mos 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6592,7 +6593,7 @@ and every one of us.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/kedoshim/5784/", "../../03 - Vayikra/08 - Kedoshim/5784/Kedoshim 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/kedoshim/5784/", "../../03 - Vayikra/08 - Kedoshim/5784/Kedoshim 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6665,7 +6666,7 @@ other Yid.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/achrei-mos-kedoshim/5783/", "../../03 - Vayikra/09 -  Achrei Mos-Kedoshim/5783/Achrei Mos-Kedoshim 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/achrei-mos-kedoshim/5783/", "../../03 - Vayikra/09 -  Achrei Mos-Kedoshim/5783/Achrei Mos-Kedoshim 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6738,7 +6739,7 @@ with each of their children according to the level that each requires, and to in
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/achrei-mos-kedoshim/5785/", "../../03 - Vayikra/09 -  Achrei Mos-Kedoshim/5785/Achrei Mos-Kedoshim 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/achrei-mos-kedoshim/5785/", "../../03 - Vayikra/09 -  Achrei Mos-Kedoshim/5785/Achrei Mos-Kedoshim 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6835,7 +6836,7 @@ finally end, and may we merit to come together with ⁧משיח צדקנו⁩ to
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/emor/5783/", "../../03 - Vayikra/10 - Emor/5783/Emor 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/emor/5783/", "../../03 - Vayikra/10 - Emor/5783/Emor 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6926,7 +6927,7 @@ of the year.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/emor/5784/", "../../03 - Vayikra/10 - Emor/5784/Emor 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/emor/5784/", "../../03 - Vayikra/10 - Emor/5784/Emor 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -6991,7 +6992,7 @@ for?” Ideally, let us all serve Hashem and be successful in it.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/emor/5785/", "../../03 - Vayikra/10 - Emor/5785/Emor 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/emor/5785/", "../../03 - Vayikra/10 - Emor/5785/Emor 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7100,7 +7101,7 @@ with this sefer and look through it, it's really quite enlightening.)
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behar/5784/", "../../03 - Vayikra/11 - Behar/5784/Behar 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behar/5784/", "../../03 - Vayikra/11 - Behar/5784/Behar 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7149,7 +7150,7 @@ that with you.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bechukosai/5784/", "../../03 - Vayikra/12 - Bechukosai/5784/Bechukosai 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bechukosai/5784/", "../../03 - Vayikra/12 - Bechukosai/5784/Bechukosai 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7234,7 +7235,7 @@ greater level your ⁧קדושה⁩. And ⁧בעזרת השם⁩ you'll be able 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behar-bechukosai/5783/", "../../03 - Vayikra/13 - Behar-Bechukosai/5783/Behar-Bechukosai 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behar-bechukosai/5783/", "../../03 - Vayikra/13 - Behar-Bechukosai/5783/Behar-Bechukosai 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7290,7 +7291,7 @@ have to believe that whatever Hashem promises will happen
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behar-bechukosai/5785/", "../../03 - Vayikra/13 - Behar-Bechukosai/5785/Behar-Bechukosai 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behar-bechukosai/5785/", "../../03 - Vayikra/13 - Behar-Bechukosai/5785/Behar-Bechukosai 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7363,7 +7364,7 @@ these ⁧מצוות⁩ very quickly when ⁧משיח⁩ will come ⁧במהרה 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bamidbar/5783/", "../../04 - Bamidbar/01 - Bamidbar/5783/Bamidbar 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bamidbar/5783/", "../../04 - Bamidbar/01 - Bamidbar/5783/Bamidbar 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7416,7 +7417,7 @@ His memory should be a ⁧ברכה⁩⁦,⁩ and he should be a ⁧מליץ יו
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bamidbar/5784/", "../../04 - Bamidbar/01 - Bamidbar/5784/Bamidbar 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bamidbar/5784/", "../../04 - Bamidbar/01 - Bamidbar/5784/Bamidbar 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7480,7 +7481,7 @@ most successful in developing his own ⁧עבודת השם⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bamidbar/5785/", "../../04 - Bamidbar/01 - Bamidbar/5785/Bamidbar 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bamidbar/5785/", "../../04 - Bamidbar/01 - Bamidbar/5785/Bamidbar 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7590,7 +7591,7 @@ on our ⁧תפילין⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/naso/5783/", "../../04 - Bamidbar/02 - Naso/5783/Naso 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/naso/5783/", "../../04 - Bamidbar/02 - Naso/5783/Naso 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7693,7 +7694,7 @@ would be entitled to do ⁧ברכת כהנים⁩⁦,⁩ and he can even say it 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/naso/5784/", "../../04 - Bamidbar/02 - Naso/5784/Naso 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/naso/5784/", "../../04 - Bamidbar/02 - Naso/5784/Naso 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7746,7 +7747,7 @@ our ability, and even greater.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/naso/5785/", "../../04 - Bamidbar/02 - Naso/5785/Naso 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/naso/5785/", "../../04 - Bamidbar/02 - Naso/5785/Naso 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7798,7 +7799,7 @@ that we can learn. We have to get going and start doing our portion of
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/naso/5785/story/", "../../04 - Bamidbar/02 - Naso/Story 5785/Story 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/naso/5785/story/", "../../04 - Bamidbar/02 - Naso/Story 5785/Story 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7845,7 +7846,7 @@ hearing and worth repeating.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behaloscha/5783/", "../../04 - Bamidbar/03 - Behaloscha/5783/Behaloscha 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behaloscha/5783/", "../../04 - Bamidbar/03 - Behaloscha/5783/Behaloscha 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7912,7 +7913,7 @@ opportunities are.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behaloscha/5784/", "../../04 - Bamidbar/03 - Behaloscha/5784/Behaloscha 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behaloscha/5784/", "../../04 - Bamidbar/03 - Behaloscha/5784/Behaloscha 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -7957,7 +7958,7 @@ We were hoping ⁧הלוואי⁩ that it should continue. And in ⁧זכות⁩
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behaloscha/5785/", "../../04 - Bamidbar/03 - Behaloscha/5785/Behaloscha 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/behaloscha/5785/", "../../04 - Bamidbar/03 - Behaloscha/5785/Behaloscha 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8020,7 +8021,7 @@ comes, we will see it ⁧בחוש⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shlach/5783/", "../../04 - Bamidbar/04 - Shlach/5783/Shlach 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shlach/5783/", "../../04 - Bamidbar/04 - Shlach/5783/Shlach 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8096,7 +8097,7 @@ what to do?” But we can learn a fantastic lesson from this story. If the
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shlach/5784/", "../../04 - Bamidbar/04 - Shlach/5784/Shlach 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shlach/5784/", "../../04 - Bamidbar/04 - Shlach/5784/Shlach 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8191,7 +8192,7 @@ asking for. The good things we ask for are means to an end. In that
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shlach/5785/", "../../04 - Bamidbar/04 - Shlach/5785/Shlach 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shlach/5785/", "../../04 - Bamidbar/04 - Shlach/5785/Shlach 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8251,7 +8252,7 @@ pause to think and to realize who we truly can be if we work at it.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/korach/5783/", "../../04 - Bamidbar/05 - Korach/5783/Korach 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/korach/5783/", "../../04 - Bamidbar/05 - Korach/5783/Korach 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8321,7 +8322,7 @@ a ⁧גוט געזונט זומער⁩⁦,⁩ and may we hear only ⁧בשורו
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/korach/5784/", "../../04 - Bamidbar/05 - Korach/5784/Korach 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/korach/5784/", "../../04 - Bamidbar/05 - Korach/5784/Korach 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8391,7 +8392,7 @@ everyone around us. May it all be ⁧לטובה⁩⁦,⁩ and in the ⁧זכות
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/korach/5785/", "../../04 - Bamidbar/05 - Korach/5785/Korach 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/korach/5785/", "../../04 - Bamidbar/05 - Korach/5785/Korach 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8500,7 +8501,7 @@ giving him a gift, and that is a tremendous ⁧זכות⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chukas/5784/(1)/", "../../04 - Bamidbar/06 - Chukas/5784/Chukas (1)/Chukas 5784 (1).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chukas/5784/(1)/", "../../04 - Bamidbar/06 - Chukas/5784/Chukas (1)/Chukas 5784 (1).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8627,7 +8628,7 @@ very soon, ⁧במהרה בימינו אמן⁩
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chukas/5784/(2)/", "../../04 - Bamidbar/06 - Chukas/5784/Chukas (2)/Chukas 5784 (2).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chukas/5784/(2)/", "../../04 - Bamidbar/06 - Chukas/5784/Chukas (2)/Chukas 5784 (2).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8684,7 +8685,7 @@ make a difference. One person can make a difference.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chukas/5785/", "../../04 - Bamidbar/06 - Chukas/5785/Chukas 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chukas/5785/", "../../04 - Bamidbar/06 - Chukas/5785/Chukas 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8783,7 +8784,7 @@ over all of us. That's the real Iron Dome - Hakodosh Baruch Hu's ⁧יד הגד�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/balak/5784/", "../../04 - Bamidbar/07 - Balak/5784/Balak 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/balak/5784/", "../../04 - Bamidbar/07 - Balak/5784/Balak 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8882,7 +8883,7 @@ gift and make ourselves into true ⁧עבדי השם⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/balak/5785/", "../../04 - Bamidbar/07 - Balak/5785/Balak 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/balak/5785/", "../../04 - Bamidbar/07 - Balak/5785/Balak 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -8961,7 +8962,7 @@ the ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-660> in ⁧פרשת �
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chukas-balak/5783/", "../../04 - Bamidbar/08 - Chukas-Balak/5783/Chukas-Balak 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chukas-balak/5783/", "../../04 - Bamidbar/08 - Chukas-Balak/5783/Chukas-Balak 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9074,7 +9075,7 @@ in that ⁧זכות⁩ we should have ⁧שלום על ישראל⁩ and ⁧מש
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pinchas/5783/", "../../04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pinchas/5783/", "../../04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9140,7 +9141,7 @@ investment we can ever have.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pinchas/5784/", "../../04 - Bamidbar/09 - Pinchas/5784/Pinchas 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pinchas/5784/", "../../04 - Bamidbar/09 - Pinchas/5784/Pinchas 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9216,7 +9217,7 @@ influence on all of ⁧כלל ישראל⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pinchas/5785/", "../../04 - Bamidbar/09 - Pinchas/5785/Pinchas 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pinchas/5785/", "../../04 - Bamidbar/09 - Pinchas/5785/Pinchas 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9305,7 +9306,7 @@ can be ⁧מקיים⁩ the ⁧מצוה⁩ of ⁧כיבוד אב⁩ even after 1
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/matos-maasei/5783/", "../../04 - Bamidbar/10 - Matos-Maasei/5783/Matos-Maasei 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/matos-maasei/5783/", "../../04 - Bamidbar/10 - Matos-Maasei/5783/Matos-Maasei 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9366,7 +9367,7 @@ should strive to duplicate even one little fraction of his work.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/matos-maasei/5784/", "../../04 - Bamidbar/10 - Matos-Maasei/5784/Matos-Maasei 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/matos-maasei/5784/", "../../04 - Bamidbar/10 - Matos-Maasei/5784/Matos-Maasei 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9430,7 +9431,7 @@ of our tongue.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/matos-maasei/5785/", "../../04 - Bamidbar/10 - Matos-Maasei/5785/Matos-Maasei 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/matos-maasei/5785/", "../../04 - Bamidbar/10 - Matos-Maasei/5785/Matos-Maasei 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9554,7 +9555,7 @@ realize how powerful our ⁧תפילה⁩ is.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/devarim/5783/", "../../05 - Devarim/01 - Devarim/5783/Devarim 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/devarim/5783/", "../../05 - Devarim/01 - Devarim/5783/Devarim 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9600,7 +9601,7 @@ Let's utilize the opportunity.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/devarim/5784/", "../../05 - Devarim/01 - Devarim/5784/Devarim 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/devarim/5784/", "../../05 - Devarim/01 - Devarim/5784/Devarim 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9648,7 +9649,7 @@ elements that we need in order to ensure that we'll have, ⁧אם ירצה הש�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/devarim/5785/", "../../05 - Devarim/01 - Devarim/5785/Devarim 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/devarim/5785/", "../../05 - Devarim/01 - Devarim/5785/Devarim 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9722,7 +9723,7 @@ not just me - I don't have a monopoly on leadership.”
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeschanan/5783/", "../../05 - Devarim/02 - Vaeschanan/5783/Vaeschanan 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeschanan/5783/", "../../05 - Devarim/02 - Vaeschanan/5783/Vaeschanan 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9773,7 +9774,7 @@ the things that the world thinks are big down here are nothing up there, as we w
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeschanan/5784/", "../../05 - Devarim/02 - Vaeschanan/5784/Vaeschanan 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeschanan/5784/", "../../05 - Devarim/02 - Vaeschanan/5784/Vaeschanan 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9834,7 +9835,7 @@ between every member of ⁧כלל ישראל⁩. And through this, ⁧חברים
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeschanan/5785/", "../../05 - Devarim/02 - Vaeschanan/5785/Vaeschanan 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vaeschanan/5785/", "../../05 - Devarim/02 - Vaeschanan/5785/Vaeschanan 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -9960,7 +9961,7 @@ This is the lesson that we get. No matter what our role in life is, our
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/eikev/5783/", "../../05 - Devarim/03 - Eikev/5783/Eikev 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/eikev/5783/", "../../05 - Devarim/03 - Eikev/5783/Eikev 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10011,7 +10012,7 @@ in ⁧עבודת הבורא⁩ and fulfill our ⁧תפקיד⁩ in this world.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/eikev/5784/", "../../05 - Devarim/03 - Eikev/5784/Eikev 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/eikev/5784/", "../../05 - Devarim/03 - Eikev/5784/Eikev 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10070,7 +10071,7 @@ we will see the great ⁧נחמה⁩⁦,⁩ and ⁧הלוואי משיח⁩ shou
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/eikev/5785/", "../../05 - Devarim/03 - Eikev/5785/Eikev 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/eikev/5785/", "../../05 - Devarim/03 - Eikev/5785/Eikev 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10159,7 +10160,7 @@ hear only ⁧בשרות טובות⁩⁦,⁩ and Hashem should send ⁧ישוע�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/re'eh/5783/", "../../05 - Devarim/04 - Re'eh/5783/Re'eh 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/re'eh/5783/", "../../05 - Devarim/04 - Re'eh/5783/Re'eh 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10206,7 +10207,7 @@ and get all of those ⁧ברכות⁩ and ⁧והקרן קיימת לו לעול
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/re'eh/5784/", "../../05 - Devarim/04 - Re'eh/5784/Re'eh 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/re'eh/5784/", "../../05 - Devarim/04 - Re'eh/5784/Re'eh 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10251,7 +10252,7 @@ require ⁧ישועות⁩ and ⁧רפואות⁩ should have them.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/re'eh/5785/", "../../05 - Devarim/04 - Re'eh/5785/Re'eh 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/re'eh/5785/", "../../05 - Devarim/04 - Re'eh/5785/Re'eh 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10305,7 +10306,7 @@ improve our own ⁧צדקה⁩ to the best of our abilities.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shoftim/5783/", "../../05 - Devarim/05 - Shoftim/5783/Shoftim 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shoftim/5783/", "../../05 - Devarim/05 - Shoftim/5783/Shoftim 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10364,7 +10365,7 @@ A ⁧מצבה⁩ means end. It's all over. ⁧מצבה⁩ is what cemeteries are
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shoftim/5784/", "../../05 - Devarim/05 - Shoftim/5784/Shoftim 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shoftim/5784/", "../../05 - Devarim/05 - Shoftim/5784/Shoftim 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10419,7 +10420,7 @@ have a ⁧ישועה במהרה⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shoftim/5785/", "../../05 - Devarim/05 - Shoftim/5785/Shoftim 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shoftim/5785/", "../../05 - Devarim/05 - Shoftim/5785/Shoftim 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10488,7 +10489,7 @@ Torah, if only one delves deeply enough.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-seitzei/5783/", "../../05 - Devarim/06 - Ki Seitzei/5783/Ki Seitzei 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-seitzei/5783/", "../../05 - Devarim/06 - Ki Seitzei/5783/Ki Seitzei 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10563,7 +10564,7 @@ to accomplish.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-seitzei/5784/(1)/", "../../05 - Devarim/06 - Ki Seitzei/5784/Ki Seitzei 5784 (1)/Ki Seitzei 5784 (1).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-seitzei/5784/(1)/", "../../05 - Devarim/06 - Ki Seitzei/5784/Ki Seitzei 5784 (1)/Ki Seitzei 5784 (1).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10611,7 +10612,7 @@ do, and we should have ⁧אמתע ייִדישע נחת⁩ from all of our chil
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-seitzei/5784/(2)/", "../../05 - Devarim/06 - Ki Seitzei/5784/Ki Seitzei 5784 (2)/Ki Seitzei 5784 (2).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-seitzei/5784/(2)/", "../../05 - Devarim/06 - Ki Seitzei/5784/Ki Seitzei 5784 (2)/Ki Seitzei 5784 (2).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10702,7 +10703,7 @@ itself.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-seitzei/5785/", "../../05 - Devarim/06 - Ki Seitzei/5785/Ki Seitzei 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-seitzei/5785/", "../../05 - Devarim/06 - Ki Seitzei/5785/Ki Seitzei 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10791,7 +10792,7 @@ and get rid of the antisemitism which stems from us.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-savo/5783/", "../../05 - Devarim/07 - Ki Savo/5783/Ki Savo 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-savo/5783/", "../../05 - Devarim/07 - Ki Savo/5783/Ki Savo 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10847,7 +10848,7 @@ battle until ⁧משיח⁩ will come ⁧במהרה בימינו אמן⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-savo/5784/", "../../05 - Devarim/07 - Ki Savo/5784/Ki Savo 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-savo/5784/", "../../05 - Devarim/07 - Ki Savo/5784/Ki Savo 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10936,7 +10937,7 @@ glad I could share it with you.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-savo/5785/", "../../05 - Devarim/07 - Ki Savo/5785/Ki Savo 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-savo/5785/", "../../05 - Devarim/07 - Ki Savo/5785/Ki Savo 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -10996,7 +10997,7 @@ maintain you ⁧לעולם ועד⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-savo/5786/", "../../05 - Devarim/07 - Ki Savo/5786/Ki Savo 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ki-savo/5786/", "../../05 - Devarim/07 - Ki Savo/5786/Ki Savo 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11108,7 +11109,7 @@ about his Zeidy's ⁧גדלות⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/nitzavim/5785/", "../../05 - Devarim/08 -  Nitzavim/5785/Nitzavim 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/nitzavim/5785/", "../../05 - Devarim/08 -  Nitzavim/5785/Nitzavim 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11165,7 +11166,7 @@ others around us, always assuming that we are not on their ⁧מדרגה⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayailech/5786/", "../../05 - Devarim/09 - Vayailech/5786/Vayailech 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayailech/5786/", "../../05 - Devarim/09 - Vayailech/5786/Vayailech 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11245,7 +11246,7 @@ our children and ⁧אייניקלעך⁩ will continue that ⁧מסורה עד 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/nitzavim-vayailech/5783/", "../../05 - Devarim/10 - Nitzavim-Vayailech/5783/Nitzavim-Vayailech 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/nitzavim-vayailech/5783/", "../../05 - Devarim/10 - Nitzavim-Vayailech/5783/Nitzavim-Vayailech 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11305,7 +11306,7 @@ this year.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/nitzavim-vayailech/5784/", "../../05 - Devarim/10 - Nitzavim-Vayailech/5784/Nitzavim-Vayailech 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/nitzavim-vayailech/5784/", "../../05 - Devarim/10 - Nitzavim-Vayailech/5784/Nitzavim-Vayailech 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11340,7 +11341,7 @@ success. It seems simple. We just have to keep on thinking of it. ⁧אם ירצ
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ha'azinu/5784/", "../../05 - Devarim/11 - Ha'azinu/5784/Ha'azinu 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ha'azinu/5784/", "../../05 - Devarim/11 - Ha'azinu/5784/Ha'azinu 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11409,7 +11410,7 @@ Encyclopedia Britannica (Today, Google).
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ha'azinu/5785/", "../../05 - Devarim/11 - Ha'azinu/5785/Ha'azinu 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ha'azinu/5785/", "../../05 - Devarim/11 - Ha'azinu/5785/Ha'azinu 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11479,7 +11480,7 @@ should get all the good things that we ask for in a ⁧גוטן אופן⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ha'azinu/5786/", "../../05 - Devarim/11 - Ha'azinu/5786/Ha'azinu 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/ha'azinu/5786/", "../../05 - Devarim/11 - Ha'azinu/5786/Ha'azinu 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11532,7 +11533,7 @@ we will have, all comes strictly and solely from ⁧הקדוש ברוך הוא�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/v'zos-habracha/5784/", "../../05 - Devarim/12 - V'zos Habracha/5784/V'zos Habracha 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/v'zos-habracha/5784/", "../../05 - Devarim/12 - V'zos Habracha/5784/V'zos Habracha 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11571,7 +11572,7 @@ those voids.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/v'zos-habracha/5785/", "../../05 - Devarim/12 - V'zos Habracha/5785/V'zos Habracha 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/v'zos-habracha/5785/", "../../05 - Devarim/12 - V'zos Habracha/5785/V'zos Habracha 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11626,7 +11627,7 @@ ways of ⁧משה⁩ and lead a life full of ⁧קדושה⁩⁦,⁩ all to beco
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/v'zos-habracha/5786/", "../../05 - Devarim/12 - V'zos Habracha/5786/V'zos Habracha 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/v'zos-habracha/5786/", "../../05 - Devarim/12 - V'zos Habracha/5786/V'zos Habracha 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11678,7 +11679,7 @@ continue to do everything we can to the best of our ability.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5783/dvar-torah/", "../../06 - Yom Tov/01 - Pesach/5783/Dvar Torah/Dvar Torah Pesach 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5783/dvar-torah/", "../../06 - Yom Tov/01 - Pesach/5783/Dvar Torah/Dvar Torah Pesach 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11733,7 +11734,7 @@ your ⁧חמץ⁩ does not become a ⁧גר⁩. Good Yom Tov!
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5783/mussaf/", "../../06 - Yom Tov/01 - Pesach/5783/Mussaf/Mussaf Yom Tov 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5783/mussaf/", "../../06 - Yom Tov/01 - Pesach/5783/Mussaf/Mussaf Yom Tov 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11771,7 +11772,7 @@ ultimate degree in the ⁧בית המקדש, במהרה בימינו⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5783/story/", "../../06 - Yom Tov/01 - Pesach/5783/Story/Story Pesach 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5783/story/", "../../06 - Yom Tov/01 - Pesach/5783/Story/Story Pesach 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -11837,7 +11838,7 @@ year that ⁧פסח⁩ was nine days long.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5784/", "../../06 - Yom Tov/01 - Pesach/5784/Pesach 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5784/", "../../06 - Yom Tov/01 - Pesach/5784/Pesach 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12046,7 +12047,7 @@ our job. The ⁧ארבע כוסות⁩ are good too.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5785/dvar-torah/", "../../06 - Yom Tov/01 - Pesach/5785/Dvar Torah/Dvar Torah Pesach 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5785/dvar-torah/", "../../06 - Yom Tov/01 - Pesach/5785/Dvar Torah/Dvar Torah Pesach 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12117,7 +12118,7 @@ for them, for us, and for all generations, ⁧עד ביאת גואל צדק במ
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5785/story-1/", "../../06 - Yom Tov/01 - Pesach/5785/Story 1/Story Pesach 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5785/story-1/", "../../06 - Yom Tov/01 - Pesach/5785/Story 1/Story Pesach 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12184,7 +12185,7 @@ Have a wonderful ⁧סדר⁩⁦,⁩ and a wonderful ⁧יום טוב⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5785/story-2/", "../../06 - Yom Tov/01 - Pesach/5785/Story 2/Story 2 Pesach 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach/5785/story-2/", "../../06 - Yom Tov/01 - Pesach/5785/Story 2/Story 2 Pesach 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12257,7 +12258,7 @@ continue to carry across generations.”
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach-sheini/5784/", "../../06 - Yom Tov/02 - Pesach Sheini/5784/Pesach Sheini 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach-sheini/5784/", "../../06 - Yom Tov/02 - Pesach Sheini/5784/Pesach Sheini 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12287,7 +12288,7 @@ should be ⁧זוכה⁩⁦,⁩ as we just said, to celebrate ⁧פסח שני�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach-sheini/5785/", "../../06 - Yom Tov/02 - Pesach Sheini/5785/Pesach Sheini 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pesach-sheini/5785/", "../../06 - Yom Tov/02 - Pesach Sheini/5785/Pesach Sheini 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12332,7 +12333,7 @@ B’ezras Hashem, in the ⁧זכות⁩ of that genuine effort, we will be answe
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lag-baomer/5784/", "../../06 - Yom Tov/03 - Lag Baomer/5784/Lag Baomer 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lag-baomer/5784/", "../../06 - Yom Tov/03 - Lag Baomer/5784/Lag Baomer 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12398,7 +12399,7 @@ Let's learn this from ⁦ל״ג בעומר⁩. Let's learn it from the ⁧תלמ
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lag-baomer/5785/", "../../06 - Yom Tov/03 - Lag Baomer/5785/Lag Baomer 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/lag-baomer/5785/", "../../06 - Yom Tov/03 - Lag Baomer/5785/Lag Baomer 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12459,7 +12460,7 @@ In that ⁧זכות⁩⁦,⁩ may we receive the ⁧תורה⁩ anew and may ⁧
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shavuos/5783/", "../../06 - Yom Tov/04 - Shavuos/5783/Shavuos 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shavuos/5783/", "../../06 - Yom Tov/04 - Shavuos/5783/Shavuos 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12535,7 +12536,7 @@ well and ⁧געזונט⁩ - are what gave us the ability to get the ⁧תור�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shavuos/5784/", "../../06 - Yom Tov/04 - Shavuos/5784/Shavuos 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shavuos/5784/", "../../06 - Yom Tov/04 - Shavuos/5784/Shavuos 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12594,7 +12595,7 @@ the entire world.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shavuos/5785/", "../../06 - Yom Tov/04 - Shavuos/5785/Shavuos 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shavuos/5785/", "../../06 - Yom Tov/04 - Shavuos/5785/Shavuos 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12652,7 +12653,7 @@ been worth the time I spent relaying it to you.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/17-tamuz/5784/", "../../06 - Yom Tov/05 - 17 Tamuz/5784/17 Tamuz 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/17-tamuz/5784/", "../../06 - Yom Tov/05 - 17 Tamuz/5784/17 Tamuz 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12685,7 +12686,7 @@ davening, ⁧וְתֶחֱזֶינָה עֵינֵינוּ בְּשׁוּבְךָ 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/17-tamuz/5785/", "../../06 - Yom Tov/05 - 17 Tamuz/5785/17 Tamuz 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/17-tamuz/5785/", "../../06 - Yom Tov/05 - 17 Tamuz/5785/17 Tamuz 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12731,7 +12732,7 @@ brought down the ⁧לוחות⁩. Have a meaningful and easy fast.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/9-av/5783/", "../../06 - Yom Tov/06 - 9 Av/5783/9 Av 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/9-av/5783/", "../../06 - Yom Tov/06 - 9 Av/5783/9 Av 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12784,7 +12785,7 @@ about what we lost.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/9-av/5784/", "../../06 - Yom Tov/06 - 9 Av/5784/9 Av 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/9-av/5784/", "../../06 - Yom Tov/06 - 9 Av/5784/9 Av 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12868,7 +12869,7 @@ your heart. And what comes from the heart will go into the heart.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/9-av/5785/", "../../06 - Yom Tov/06 - 9 Av/5785/9 Av 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/9-av/5785/", "../../06 - Yom Tov/06 - 9 Av/5785/9 Av 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12924,7 +12925,7 @@ really for the good.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/15-av/5784/", "../../06 - Yom Tov/07 - 15 Av/5784/15 Av 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/15-av/5784/", "../../06 - Yom Tov/07 - 15 Av/5784/15 Av 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -12977,7 +12978,7 @@ prepared to encounter ⁧הקדוש ברוך הוא מלך מלכי המלכים
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/15-av/5785/", "../../06 - Yom Tov/07 - 15 Av/5785/15 Av 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/15-av/5785/", "../../06 - Yom Tov/07 - 15 Av/5785/15 Av 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13022,7 +13023,7 @@ true reason for ⁧ביאת גואל צדק⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/elul/5784/", "../../06 - Yom Tov/08 - Elul/5784/Elul 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/elul/5784/", "../../06 - Yom Tov/08 - Elul/5784/Elul 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13066,7 +13067,7 @@ give us all the good things we ask for ⁧לטובה⁩⁦,⁩ and to have a won
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/elul/5785/", "../../06 - Yom Tov/08 - Elul/5785/Elul 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/elul/5785/", "../../06 - Yom Tov/08 - Elul/5785/Elul 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13110,7 +13111,7 @@ proper use, then we can then be successful in our life's journey towards
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/5784/", "../../06 - Yom Tov/09 - Rosh Hashana/5784/Rosh Hashana 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/5784/", "../../06 - Yom Tov/09 - Rosh Hashana/5784/Rosh Hashana 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13196,7 +13197,7 @@ matter what ever we do, it should be successful.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/5785/", "../../06 - Yom Tov/09 - Rosh Hashana/5785/Rosh Hashana 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/5785/", "../../06 - Yom Tov/09 - Rosh Hashana/5785/Rosh Hashana 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13284,7 +13285,7 @@ the whole year. We're davening for all of ⁧כלל ישראל⁩. We're davenin
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/5786/", "../../06 - Yom Tov/09 - Rosh Hashana/5786/Rosh Hashana 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/5786/", "../../06 - Yom Tov/09 - Rosh Hashana/5786/Rosh Hashana 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13358,7 +13359,7 @@ good year, a year of ⁧טובה⁩⁦,⁩ of ⁧ברכה⁩⁦,⁩ of ⁧פרנ
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/how-to-do-teshuva/", "../../06 - Yom Tov/09 - Rosh Hashana/How to do Teshuva/How to do Teshuva.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/how-to-do-teshuva/", "../../06 - Yom Tov/09 - Rosh Hashana/How to do Teshuva/How to do Teshuva.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13434,7 +13435,7 @@ be cleansed. ⁧בעזרת השם⁩⁦,⁩ we should have a ⁧גיט געבע�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/rosh-hashana-in-berditchev/", "../../06 - Yom Tov/09 - Rosh Hashana/Rosh Hashana in Berditchev/Rosh Hashana in Berditchev.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-hashana/rosh-hashana-in-berditchev/", "../../06 - Yom Tov/09 - Rosh Hashana/Rosh Hashana in Berditchev/Rosh Hashana in Berditchev.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13531,7 +13532,7 @@ all in the ⁧ספר החיים⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yom-kippur/5784/", "../../06 - Yom Tov/10 - Yom Kippur/5784/Yom Kippur 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yom-kippur/5784/", "../../06 - Yom Tov/10 - Yom Kippur/5784/Yom Kippur 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13607,7 +13608,7 @@ We want to get through ⁧יום כיפור בשלום⁩. We want to see our ch
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yom-kippur/5785/", "../../06 - Yom Tov/10 - Yom Kippur/5785/Yom Kippur 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yom-kippur/5785/", "../../06 - Yom Tov/10 - Yom Kippur/5785/Yom Kippur 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13678,7 +13679,7 @@ be found ⁧זכאי בדין⁩ and have a ⁧גוט געבענטשט געזו�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yom-kippur/5786/", "../../06 - Yom Tov/10 - Yom Kippur/5786/Yom Kippur 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/yom-kippur/5786/", "../../06 - Yom Tov/10 - Yom Kippur/5786/Yom Kippur 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13727,7 +13728,7 @@ accordingly.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/sukkos/5784/", "../../06 - Yom Tov/11 - Sukkos/5784/Sukkos 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/sukkos/5784/", "../../06 - Yom Tov/11 - Sukkos/5784/Sukkos 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13761,7 +13762,7 @@ of ⁦י״ד אייר⁩. So there are two ⁧פסחים⁩. There are so many �
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/sukkos/5785/", "../../06 - Yom Tov/11 - Sukkos/5785/Sukkos 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/sukkos/5785/", "../../06 - Yom Tov/11 - Sukkos/5785/Sukkos 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13826,7 +13827,7 @@ the Torah wants us to enjoy.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/sukkos/5786/", "../../06 - Yom Tov/11 - Sukkos/5786/Sukkos 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/sukkos/5786/", "../../06 - Yom Tov/11 - Sukkos/5786/Sukkos 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13883,7 +13884,7 @@ and hope to emulate.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/hoshana-raba/5784/", "../../06 - Yom Tov/12 - Hoshana Raba/5784/Hoshana Raba 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/hoshana-raba/5784/", "../../06 - Yom Tov/12 - Hoshana Raba/5784/Hoshana Raba 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13932,7 +13933,7 @@ these as ⁧מצוות⁩\.”
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/hoshana-raba/5785/", "../../06 - Yom Tov/12 - Hoshana Raba/5785/Hoshana Raba 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/hoshana-raba/5785/", "../../06 - Yom Tov/12 - Hoshana Raba/5785/Hoshana Raba 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -13999,7 +14000,7 @@ a moment's thought, at least one moment.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/hoshana-raba/5786/", "../../06 - Yom Tov/12 - Hoshana Raba/5786/Hoshana Raba 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/hoshana-raba/5786/", "../../06 - Yom Tov/12 - Hoshana Raba/5786/Hoshana Raba 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14065,7 +14066,7 @@ in the ⁧זכות⁩ of ⁧דוד המלך⁩ and the ⁧ערבה⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini-atzeres/5784/", "../../06 - Yom Tov/13 - Shmini Atzeres/5784/Shmini Atzeres 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini-atzeres/5784/", "../../06 - Yom Tov/13 - Shmini Atzeres/5784/Shmini Atzeres 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14137,7 +14138,7 @@ worthy of.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini-atzeres/5785/", "../../06 - Yom Tov/13 - Shmini Atzeres/5785/Shmini Atzeres 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini-atzeres/5785/", "../../06 - Yom Tov/13 - Shmini Atzeres/5785/Shmini Atzeres 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14206,7 +14207,7 @@ because that is our special day. We have that special day so we can have
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini-atzeres/5786/(1)/", "../../06 - Yom Tov/13 - Shmini Atzeres/5786/Shmini Atzeres (1)/Shmini Atzeres (1) 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini-atzeres/5786/(1)/", "../../06 - Yom Tov/13 - Shmini Atzeres/5786/Shmini Atzeres (1)/Shmini Atzeres (1) 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14241,7 +14242,7 @@ has for us, and we should reciprocate and have the ⁧חיבה⁩ back.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini-atzeres/5786/(2)/", "../../06 - Yom Tov/13 - Shmini Atzeres/5786/Shmini Atzeres (2)/Shmini Atzeres (2) 5786.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/shmini-atzeres/5786/(2)/", "../../06 - Yom Tov/13 - Shmini Atzeres/5786/Shmini Atzeres (2)/Shmini Atzeres (2) 5786.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14311,7 +14312,7 @@ Hashem, we hope that closeness should continue the whole year.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/simchas-torah/5784/", "../../06 - Yom Tov/14 - Simchas Torah/5784/Simchas Torah 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/simchas-torah/5784/", "../../06 - Yom Tov/14 - Simchas Torah/5784/Simchas Torah 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14386,7 +14387,7 @@ concerned about everybody else, relatives and non-relatives alike.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/simchas-torah/5785/", "../../06 - Yom Tov/14 - Simchas Torah/5785/Simchas Torah 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/simchas-torah/5785/", "../../06 - Yom Tov/14 - Simchas Torah/5785/Simchas Torah 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14447,7 +14448,7 @@ I wanted to share that with you. May you have a very ⁦שמחה'דיק⁩ and �
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/simchas-torah/5786/(1)/", "../../06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (1)/Simchas Torah 5786 (1).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/simchas-torah/5786/(1)/", "../../06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (1)/Simchas Torah 5786 (1).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14498,7 +14499,7 @@ challenges: the ⁧שמחה⁩ of love and compassion, the ⁧שמחה⁩ of per
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/simchas-torah/5786/(2)/", "../../06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/simchas-torah/5786/(2)/", "../../06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14543,7 +14544,7 @@ to celebrate.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chanukah/5783/", "../../06 - Yom Tov/15 - Chanukah/5783/Chanukah 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chanukah/5783/", "../../06 - Yom Tov/15 - Chanukah/5783/Chanukah 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14619,7 +14620,7 @@ it at the right time and do the right thing.”
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chanukah/5784/", "../../06 - Yom Tov/15 - Chanukah/5784/Chanukah 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chanukah/5784/", "../../06 - Yom Tov/15 - Chanukah/5784/Chanukah 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14675,7 +14676,7 @@ merited that day. If we do this properly, we can extend the spirit of
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chanukah/5785/", "../../06 - Yom Tov/15 - Chanukah/5785/Chanukah 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/chanukah/5785/", "../../06 - Yom Tov/15 - Chanukah/5785/Chanukah 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14716,7 +14717,7 @@ deep into our ⁧נשמות⁩⁦,⁩ and give us a tremendous ⁧ישועה⁩ 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/10-teves/5785/", "../../06 - Yom Tov/16 - 10 Teves/5785/10 Teves 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/10-teves/5785/", "../../06 - Yom Tov/16 - 10 Teves/5785/10 Teves 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14767,7 +14768,7 @@ beginning of the ⁧בנין⁩. Have a meaningful fast and a good ⁧ערב ש�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tu-beshvat/5784/", "../../06 - Yom Tov/17 - Tu Beshvat/5784/Tu Beshvat 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tu-beshvat/5784/", "../../06 - Yom Tov/17 - Tu Beshvat/5784/Tu Beshvat 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14833,7 +14834,7 @@ we cannot see, renews our ⁧אמונה⁩⁦,⁩ and brings us to the ultimate 
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tu-beshvat/5785/", "../../06 - Yom Tov/17 - Tu Beshvat/5785/Tu Beshvat 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/tu-beshvat/5785/", "../../06 - Yom Tov/17 - Tu Beshvat/5785/Tu Beshvat 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14891,7 +14892,7 @@ the ultimate ⁧גאולה, במהרה בימינו⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim-katon/5784/", "../../06 - Yom Tov/18 - Purim Katon/5784/Purim Katon 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim-katon/5784/", "../../06 - Yom Tov/18 - Purim Katon/5784/Purim Katon 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14974,7 +14975,7 @@ with ⁧שמחה⁩ is different than a ⁧תפילה⁩ of ⁧צער⁩. Have a
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5783/krovitz/", "../../06 - Yom Tov/19 - Purim/5783/Krovitz/Krovitz.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5783/krovitz/", "../../06 - Yom Tov/19 - Purim/5783/Krovitz/Krovitz.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -14991,7 +14992,7 @@ But what is ⁧קרובץ⁩? Nobody knows what ⁧קרובץ⁩ is. ⁧קרוב
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5783/dvar-torah/", "../../06 - Yom Tov/19 - Purim/5783/Purim Dvar Torah 5783/Purim Dvar Torah 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5783/dvar-torah/", "../../06 - Yom Tov/19 - Purim/5783/Purim Dvar Torah 5783/Purim Dvar Torah 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -15049,7 +15050,7 @@ legacy will be lost forever. Have a ⁧פריילעכן פורים⁩!
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5783/story/", "../../06 - Yom Tov/19 - Purim/5783/Story Purim 5783/Story Purim 5783.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5783/story/", "../../06 - Yom Tov/19 - Purim/5783/Story Purim 5783/Story Purim 5783.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -15110,7 +15111,7 @@ Happy Purim!
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5784/", "../../06 - Yom Tov/19 - Purim/5784/Purim 5784.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5784/", "../../06 - Yom Tov/19 - Purim/5784/Purim 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -15190,7 +15191,7 @@ which we could all learn. Happy ⁧פורים⁩!
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5785/", "../../06 - Yom Tov/19 - Purim/5785/Purim 5785.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/purim/5785/", "../../06 - Yom Tov/19 - Purim/5785/Purim 5785.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -15261,7 +15262,7 @@ experiences as a means to spiritual growth. May we be ⁧זוכה⁩ to a real
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-chodesh/", "../../06 - Yom Tov/20 - Rosh Chodesh/Rosh Chodesh.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rosh-chodesh/", "../../06 - Yom Tov/20 - Rosh Chodesh/Rosh Chodesh.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -15320,7 +15321,7 @@ Yidden. When you're ⁧מהנה⁩ another Yid, you're doing ⁧רצון השם,
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bentching/", "../Bentching/Bentching.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bentching/", "../Bentching/Bentching.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -15353,7 +15354,7 @@ bench, and with all the tefillos that you do.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bris/", "../Bris/Bris.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bris/", "../Bris/Bris.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
@@ -15394,7 +15395,7 @@ is a potential ⁧משה⁩.
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rabbi-oelbaum-shabbos/", "../Rabbi Oelbaum Shabbos/Shabbos - The Gift of Olam Haba in This World.png"), margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/rabbi-oelbaum-shabbos/", "../Rabbi Oelbaum Shabbos/Shabbos - The Gift of Olam Haba in This World.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
