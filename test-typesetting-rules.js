@@ -2834,3 +2834,61 @@ test("docx: Tzav 5784 keeps the full mother's name and ayin-heh in one RTL phras
   assertNotContains(typst, `${LTR_ISOLATE}רייזל בת מרדכי צבי`,
     "suffix must not move the end of the name into a new LTR phrase");
 });
+
+
+test("keeps internal quote marks inside a complete Hebrew phrase", () => {
+  for (const mark of ['״', '"', "'", '׳']) {
+    const phrase = `בבא בתרא דף ע${mark}א עמוד א׳`;
+    const result = applyTextRules(`Chazal tell us in ${phrase} that we learn`);
+    assert.match(result, /^Chazal tell us in \u2067בבא בתרא דף ע[״"'׳]א עמוד א׳\u2069 that we learn$/u);
+    assert.equal((result.match(/\u2067/g) || []).length, 1);
+    assertNotContains(result, LTR_ISOLATE, "no separate acronym block");
+  }
+});
+
+test("keeps an internal-quote phrase intact across a soft line break", () => {
+  assert.equal(
+    applyTextRules('in בבא בתרא דף ע״א\nעמוד א׳ that we learn'),
+    `in ${RTL_ISOLATE}בבא בתרא דף ע״א עמוד א׳${POP_DIRECTIONAL_ISOLATE} that we learn`
+  );
+});
+
+test("docx: Shavuos 5784 keeps the complete Bava Basra reference in one RTL phrase", () => {
+  const typst = convertedDocx("/shavuos/5784/");
+  assertContains(typst,
+    `Chazal tell us in ${RTL_ISOLATE}בבא בתרא דף ע״א עמוד א׳${POP_DIRECTIONAL_ISOLATE} that`,
+    "the daf abbreviation does not split off amud aleph");
+});
+
+test("keeps two- and three-letter daf numbers with the complete reference", () => {
+  for (const number of ["נ״ה", "קי״א"]) {
+    assert.equal(
+      applyTextRules(`in ברכות דף ${number} עמוד ב׳ teaches us`),
+      `in ${RTL_ISOLATE}ברכות דף ${number} עמוד ב׳${POP_DIRECTIONAL_ISOLATE} teaches us`
+    );
+  }
+});
+
+test("daf rule does not change ordinary acronym phrases", () => {
+  assert.equal(
+    applyTextRules("There is a יסודותדיק רמב״ן at the beginning"),
+    `There is a ${LTR_ISOLATE}יסודותדיק רמב״ן${POP_DIRECTIONAL_ISOLATE} at the beginning`
+  );
+  assert.equal(
+    applyTextRules("written by ר׳ שלמה גנצפריד זצ״ל - a tremendous"),
+    `written by ${LTR_ISOLATE}ר׳ שלמה גנצפריד זצ״ל${POP_DIRECTIONAL_ISOLATE} - a tremendous`
+  );
+});
+
+test("docx: Naso 5785 keeps daf numbers and amud labels in the same RTL phrase", () => {
+  const typst = convertedDocx("/naso/5785/");
+  assertContains(typst,
+    `in ${RTL_ISOLATE}ברכות דף נ״ה עמוד ב׳${POP_DIRECTIONAL_ISOLATE} teaches us`,
+    "Berachos 55b stays together");
+  assertContains(typst,
+    `${RTL_ISOLATE}דף נ״ז עמוד ב׳${POP_DIRECTIONAL_ISOLATE}`,
+    "the subsequent 57b reference stays together");
+  assertContains(typst,
+    `${RTL_ISOLATE}ברכות דף ס״ד עמוד א׳${POP_DIRECTIONAL_ISOLATE}`,
+    "the subsequent 64a reference stays together across source wrapping");
+});

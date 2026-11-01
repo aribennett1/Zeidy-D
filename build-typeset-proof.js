@@ -1465,7 +1465,23 @@ function isolateHebrewRuns(typstContent) {
     }
   );
 
-  const acronymCommaSequenceSafeContent = honorificSuffixSafeContent.replace(HEBREW_ACRONYM_COMMA_SEQUENCE_RE, (match) => {
+  // A two- or three-letter abbreviation immediately after דף is a page
+  // number within the reference, not a separate acronym phrase.
+  const dafReferenceSafeContent = honorificSuffixSafeContent.replace(
+    HEBREW_PHRASE_RE,
+    (match, offset, fullText) => {
+      const tokens = match.match(new RegExp(HEBREW_TOKEN, "gu")) || [];
+      const hasDafNumber = tokens.some((token, index) => {
+        if (tokens[index - 1] !== "דף") return false;
+        const letters = token.match(/[א-ת]/gu) || [];
+        return letters.length >= 2 && letters.length <= 3 && /[א-ת]["'׳״][א-ת]/u.test(token);
+      });
+      if (!hasDafNumber) return match;
+      return protect(isolateHebrewPhrase(match, followedByEnglish(fullText, offset + match.length)));
+    }
+  );
+
+  const acronymCommaSequenceSafeContent = dafReferenceSafeContent.replace(HEBREW_ACRONYM_COMMA_SEQUENCE_RE, (match) => {
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
