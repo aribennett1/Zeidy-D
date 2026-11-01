@@ -4682,14 +4682,14 @@ pins. And then he brings down a ⁧פסוק⁩ from ⁧ישעיה⁩: ⁧וּמ�
 what I thought was quite fascinating. And the ⁧פסוק⁩ in (⁧ישעיה⁩ (⁦ל״ג׃כ׳⁩
 that ⁦רש״י⁩#metadata(none) <person-index-rashi-306> brings is: ⁧אֹהֶל בַּל יִצְעָן⁩ - a tent shall not be removed; ⁧בַּל יִסַּע יְתֵדֹתָיו⁩ - And the ⁧יתדות⁩ will never be taken out; ⁧לָנֶצַח⁩ - forever. So the
 last ⁦רש״י⁩#metadata(none) <person-index-rashi-307> in ⁧תרומה⁩⁦,⁩ the last word of that ⁦רש״י⁩#metadata(none) <person-index-rashi-308> is ⁧לָנֶצַח⁩⁦,⁩ forever, and I
-thought this is quite fascinating (This is my vort, I hope I'm not
-wrong). ⁦רש״י⁩'s#metadata(none) <person-index-rashi-309> implication here is that all this ⁧נדיבת לב⁩⁦,⁩ all the
-heartfelt generosity, was given for what? A ⁧משכן⁩ - a temporary structure
-that would only exist during the time ⁧בני ישראל⁩ were in the ⁧מדבר⁩. How
-could people be enthusiastic about contributing to something with such a
-finite lifespan? Typically, we donate to causes we believe will last for
-⁧נצחיות⁩. We want our contributions to have lasting value. What is ⁦רש״י⁩#metadata(none) <person-index-rashi-310>
-teaching us by quoting this ⁧פסוק⁩?
+thought this is quite fascinating ⁦(This is my vort, ⁧לענית דעתי⁩⁦,⁩ I hope
+I'm not wrong).⁩ ⁦רש״י⁩'s#metadata(none) <person-index-rashi-309> implication here is that all this ⁧נדיבת לב⁩⁦,⁩ all
+the heartfelt generosity, was given for what? A ⁧משכן⁩ - a temporary
+structure that would only exist during the time ⁧בני ישראל⁩ were in the
+⁧מדבר⁩. How could people be enthusiastic about contributing to something
+with such a finite lifespan? Typically, we donate to causes we believe
+will last for ⁧נצחיות⁩. We want our contributions to have lasting value.
+What is ⁦רש״י⁩#metadata(none) <person-index-rashi-310> teaching us by quoting this ⁧פסוק⁩?
 
 Yes, the ⁧משכן⁩ was temporary, but it was the forerunner of both ⁧בתי מקדש⁩.
 Many elements of the ⁧משכן⁩ - the ⁧מנורה⁩⁦,⁩ the ⁧ארון⁩⁦,⁩ ⁧מזבח הזהב⁩⁦,⁩ and even
@@ -4831,17 +4831,22 @@ constantly keep ⁧הקודש ברוך הוא⁩ in front of us at all times.
 
 This concept is brought down in this week's ⁧פרשה⁩⁦,⁩ ⁧פרשת תצוה⁩⁦,⁩ through an
 interesting ⁧פסוק⁩. In fact, a ⁧מדרש פליאה⁩ uses this ⁧פסוק⁩ to make a
-fascinating point. The ⁧מדרש⁩ asks: which ⁧מצוה⁩⁦,⁩ if you had to choose just
-one of the ⁦תרי״ג מצוות⁩, includes all the other ⁧מצוות⁩? There is a ⁧מחלוקת⁩
-quoted in the introduction of ⁧הכותב⁩⁦,⁩ a ⁧פירוש⁩ on ⁧עין יעקב⁩.
+fascinating point. I heard this vort from my father, ⁧עליו השלום⁩⁦,⁩ who
+heard it from Rabbi David Hollander#metadata(none) <person-index-rabbi-david-hollander-331> ⁦זצ״ל⁩, the ⁧מרא דאתרא⁩ of Mount Eden
+Shul in the Bronx, where we grew up. This was his ⁧דרשה⁩ on ⁧פרשת תצוה⁩. The
+⁧מדרש⁩ asks: which ⁧מצוה⁩⁦,⁩ \[in his cute way he would say is the most
+important ⁧מצוה⁩ in the ⁧תורה⁩⁦,⁩ of course it's not such a thing, they're all
+equally important\] if you had to choose just one of the ⁦תרי״ג מצוות⁩, includes all the other ⁧מצוות⁩? There is a ⁧מחלוקת⁩ quoted in the
+introduction of ⁧הכותב⁩⁦,⁩ a ⁧פירוש⁩ on ⁧עין יעקב⁩.
 
 ⁧בן זומא⁩ says it's ⁦(דברים ו:ד)⁩ ⁧שְׁמַע יִשְׂרָאֵל ה׳ אֱלֹקֵינוּ ה׳ אֶחָד⁩⁦,⁩ where we are
-⁧מקבל אחדות השם⁩ and ⁧עול מלכות שמים⁩. ⁧בן ננס⁩ says it's ⁧וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ ⁦(ויקרא י״ט:י״ח)⁩⁩ which pertains to ⁧בין אדם לחבירו⁩⁦,⁩ a tremendously
+⁧מקבל אחדות השם⁩ and ⁧עול מלכות שמים⁩. ⁧בן ננס⁩ says it's (⁧וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ⁩
+(⁦ויקרא י״ט⁩: ⁦י״ח⁩ which pertains to ⁧בין אדם לחבירו⁩⁦,⁩ a tremendously
 important ⁧יסוד⁩. Finally, ⁧שמעון בן פזי⁩ brings down the ⁧פסוק⁩ from our
 ⁧פרשה⁩: ⁧אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם ⁦(שמות
 כ״ט:ל״ט)⁩⁩, referring to the ⁧קרבן תמיד⁩.
 
-\[⁦רש״י⁩#metadata(none) <person-index-rashi-332> points out that ⁧תמיד⁩ does not mean it was brought continuously
+\[⁦רש״י⁩#metadata(none) <person-index-rashi-333> points out that ⁧תמיד⁩ does not mean it was brought continuously
 without interruption, but rather that it was brought every single day
 without ⁧הפסק⁩\.\] Morning and evening, every single day, the ⁧קרבן תמיד⁩
 was offered. Through this ⁧קרבן⁩⁦,⁩ we represent, signify, and declare ⁧שויתי ה׳ לנגדי תמיד⁩⁦,⁩ that ⁧הקודש ברוך הוא⁩ is constantly before us.
@@ -4853,7 +4858,7 @@ we find ourselves in, it comes from ⁧הקב״ה⁩. ⁧מצוות⁩ such as �
 
 Why do we specifically have two ⁧קרבנות⁩ each day - one in the morning and
 one at night? Many ⁧פשטים⁩ are offered, but one of the simplest yet most
-meaningful comes from ⁧ספר מעינה של תורה⁩⁦,⁩ #metadata(none) <person-index-m-eino-shel-torah-331> quoting the ⁧הדרש והעיון⁩. A
+meaningful comes from ⁧ספר מעינה של תורה⁩⁦,⁩ #metadata(none) <person-index-m-eino-shel-torah-332> quoting the ⁧הדרש והעיון⁩. A
 person's life can be divided into two phases: the first half is a time
 of ascent, and the second half is a time of descent.
 
@@ -4873,7 +4878,7 @@ blessings that ⁧הקודש ברוך הוא⁩ gave us, to fulfill the ⁧מצ�
   ))
 = Tetzaveh (1) 5784
 
-⁧פרשת תצוה⁩ is unique, as the ⁧בעל הטורים⁩#metadata(none) <person-index-baal-haturim-333> points out, because it is one of
+⁧פרשת תצוה⁩ is unique, as the ⁧בעל הטורים⁩#metadata(none) <person-index-baal-haturim-334> points out, because it is one of
 the rare ⁧פרשיות⁩ after the birth of ⁧משה רבינו⁩ where his name is not
 mentioned. Everyone is familiar with the ⁧מדרש⁩ which explains that this
 is due to ⁦משה רבינו'⁩s statement (32:32) ⁧מְחֵנִי נָא מִסִּפְרְךָ⁩. A ⁧קללת חכם⁩⁦,⁩ even
@@ -4897,20 +4902,6 @@ had another function: once a year on ⁧יום כיפור⁩⁦,⁩ as the ⁧פ
 (30:10): ⁧וְכִפֶּר אַהֲרֹן עַל קַרְנֹתָיו אַחַת בַּשָּׁנָה מִדַּם חַטַּאת הַכִּפֻּרִים אַחַת בַּשָּׁנָה⁩. Even
 though this was a once-a-year event, it held an element of ⁧תמיד⁩⁦,⁩ of
 constancy, reinforcing the central theme of this ⁧פרשה⁩.
-
-This leads to an interesting ⁧מחלוקת⁩ in the ⁧מדרש⁩ about which ⁧פסוק⁩ in the
-⁧תורה⁩ includes all others. I heard this vort from my father, ⁧עליו השלום⁩⁦,⁩ who heard it from Rabbi David Hollander#metadata(none) <person-index-rabbi-david-hollander-334> ⁦עליו השלום זצ״ל⁩, the ⁧מרא דאתרא⁩
-of Mount Eden Shul in the Bronx, where we grew up. This was his ⁧דרשה⁩ on
-⁧פרשת תצוה⁩.
-
-Which ⁧פסוק⁩⁦,⁩ \[in his cute way he would say is the most important ⁧פסוק⁩ in
-the ⁧תורה⁩⁦,⁩ of course it's not such a thing, they're all equally
-important\], but the ⁧מדרש⁩ says which ⁧פסוק⁩ is ⁧כולל⁩ all of the other
-⁧פסוקים⁩ in the ⁧תורה⁩? ⁧בן זומא⁩ says ⁧שְׁמַע יִשְׂרָאֵל ה׳ אֱלֹקֵינוּ ה׳ אֶחָד⁩ ⁦(דברים ו:ד)⁩\; ⁧בן ננס⁩ says ⁧וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ⁩ ⁦(ויקרא י״ט:י״ח)⁩\; ⁧שמעון בן פזי⁩ says from
-our ⁧פרשה⁩⁦,⁩ and also repeated in ⁧פינחס⁩: ⁧אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם ⁦(שמות כ״ט:ל״ט)⁩⁩ the ⁧פסוק⁩ which refers famously to
-the ⁧קרבן תמיד⁩. All the ⁧מצוות⁩ in the ⁧תורה⁩ are intended to create a
-continuous connection to ⁧הקדוש ברוך הוא⁩. The goal is ⁧שויתי ה׳ לנגדי תמיד⁩
-\- maintaining the awareness of ⁧ה׳⁩ before us at all times.
 
 In English, ⁧להבדיל⁩⁦,⁩ we use the term “constant,” but there's another
 crucial word: “consistent.” Our relationship with ⁧הקדוש ברוך הוא⁩ must be
@@ -15604,7 +15595,7 @@ faith in the ultimate truth of ⁧להגיד כי ישר ה׳ צורי ולא ע
 
 #index-row(("Avudraham",), (label("person-index-avudraham-1117"),))
 
-#index-row(("Baal Haturim",), (label("person-index-baal-haturim-226"), label("person-index-baal-haturim-333"), label("person-index-baal-haturim-368"), label("person-index-baal-haturim-553")))
+#index-row(("Baal Haturim",), (label("person-index-baal-haturim-226"), label("person-index-baal-haturim-334"), label("person-index-baal-haturim-368"), label("person-index-baal-haturim-553")))
 
 #index-row(("Baal Shem Tov",), (label("person-index-baal-shem-tov-15"), label("person-index-baal-shem-tov-16"), label("person-index-baal-shem-tov-17"), label("person-index-baal-shem-tov-18"), label("person-index-baal-shem-tov-19"), label("person-index-baal-shem-tov-20"), label("person-index-baal-shem-tov-21"), label("person-index-baal-shem-tov-461"), label("person-index-baal-shem-tov-462"), label("person-index-baal-shem-tov-463"), label("person-index-baal-shem-tov-464"), label("person-index-baal-shem-tov-607"), label("person-index-baal-shem-tov-608"), label("person-index-baal-shem-tov-609"), label("person-index-baal-shem-tov-610"), label("person-index-baal-shem-tov-611")))
 
@@ -15756,7 +15747,7 @@ faith in the ultimate truth of ⁧להגיד כי ישר ה׳ צורי ולא ע
 
 #index-row(("Hirsch, R’ Samson Raphael",), (label("person-index-r-samson-raphael-hirsch-240"), label("person-index-r-samson-raphael-hirsch-241"), label("person-index-r-samson-raphael-hirsch-390"), label("person-index-r-samson-raphael-hirsch-391")))
 
-#index-row(("Hollander, R’ David",), (label("person-index-rabbi-david-hollander-334"),))
+#index-row(("Hollander, R’ David",), (label("person-index-rabbi-david-hollander-331"),))
 
 #index-row(("Holtzberg, Rebbetzin Rivky",), (label("person-index-rebbetzin-rivky-holtzberg-764"),))
 
@@ -15822,7 +15813,7 @@ faith in the ultimate truth of ⁧להגיד כי ישר ה׳ צורי ולא ע
 
 #index-row(("Lubavitcher Rebbe", "(R’ Menachem Mendel Schneerson)",), (label("person-index-lubavitcher-rebbe-155"), label("person-index-lubavitcher-rebbe-156"), label("person-index-lubavitcher-rebbe-696"), label("person-index-lubavitcher-rebbe-796"), label("person-index-lubavitcher-rebbe-797")))
 
-#index-row(("M’eino Shel Torah",), (label("person-index-m-eino-shel-torah-37"), label("person-index-m-eino-shel-torah-38"), label("person-index-m-eino-shel-torah-45"), label("person-index-m-eino-shel-torah-106"), label("person-index-m-eino-shel-torah-171"), label("person-index-m-eino-shel-torah-282"), label("person-index-m-eino-shel-torah-331"), label("person-index-m-eino-shel-torah-418"), label("person-index-m-eino-shel-torah-588"), label("person-index-m-eino-shel-torah-653"), label("person-index-m-eino-shel-torah-750"), label("person-index-m-eino-shel-torah-758")))
+#index-row(("M’eino Shel Torah",), (label("person-index-m-eino-shel-torah-37"), label("person-index-m-eino-shel-torah-38"), label("person-index-m-eino-shel-torah-45"), label("person-index-m-eino-shel-torah-106"), label("person-index-m-eino-shel-torah-171"), label("person-index-m-eino-shel-torah-282"), label("person-index-m-eino-shel-torah-332"), label("person-index-m-eino-shel-torah-418"), label("person-index-m-eino-shel-torah-588"), label("person-index-m-eino-shel-torah-653"), label("person-index-m-eino-shel-torah-750"), label("person-index-m-eino-shel-torah-758")))
 
 #index-row(("Mabit",), (label("person-index-mabit-568"),))
 
@@ -15926,7 +15917,7 @@ faith in the ultimate truth of ⁧להגיד כי ישר ה׳ צורי ולא ע
 
 #index-row(("Rashba",), (label("person-index-rashba-206"), label("person-index-rashba-207")))
 
-#index-row(("Rashi",), (label("person-index-rashi-3"), label("person-index-rashi-4"), label("person-index-rashi-9"), label("person-index-rashi-10"), label("person-index-rashi-11"), label("person-index-rashi-12"), label("person-index-rashi-13"), label("person-index-rashi-32"), label("person-index-rashi-39"), label("person-index-rashi-40"), label("person-index-rashi-41"), label("person-index-rashi-47"), label("person-index-rashi-48"), label("person-index-rashi-66"), label("person-index-rashi-67"), label("person-index-rashi-74"), label("person-index-rashi-83"), label("person-index-rashi-97"), label("person-index-rashi-98"), label("person-index-rashi-107"), label("person-index-rashi-108"), label("person-index-rashi-109"), label("person-index-rashi-110"), label("person-index-rashi-111"), label("person-index-rashi-112"), label("person-index-rashi-113"), label("person-index-rashi-116"), label("person-index-rashi-120"), label("person-index-rashi-124"), label("person-index-rashi-141"), label("person-index-rashi-157"), label("person-index-rashi-177"), label("person-index-rashi-196"), label("person-index-rashi-197"), label("person-index-rashi-208"), label("person-index-rashi-218"), label("person-index-rashi-219"), label("person-index-rashi-261"), label("person-index-rashi-266"), label("person-index-rashi-267"), label("person-index-rashi-268"), label("person-index-rashi-283"), label("person-index-rashi-284"), label("person-index-rashi-302"), label("person-index-rashi-303"), label("person-index-rashi-304"), label("person-index-rashi-305"), label("person-index-rashi-306"), label("person-index-rashi-307"), label("person-index-rashi-308"), label("person-index-rashi-309"), label("person-index-rashi-310"), label("person-index-rashi-322"), label("person-index-rashi-323"), label("person-index-rashi-324"), label("person-index-rashi-325"), label("person-index-rashi-326"), label("person-index-rashi-327"), label("person-index-rashi-328"), label("person-index-rashi-332"), label("person-index-rashi-359"), label("person-index-rashi-366"), label("person-index-rashi-387"), label("person-index-rashi-392"), label("person-index-rashi-394"), label("person-index-rashi-402"), label("person-index-rashi-403"), label("person-index-rashi-404"), label("person-index-rashi-407"), label("person-index-rashi-409"), label("person-index-rashi-439"), label("person-index-rashi-440"), label("person-index-rashi-441"), label("person-index-rashi-493"), label("person-index-rashi-512"), label("person-index-rashi-545"), label("person-index-rashi-546"), label("person-index-rashi-552"), label("person-index-rashi-558"), label("person-index-rashi-559"), label("person-index-rashi-560"), label("person-index-rashi-561"), label("person-index-rashi-562"), label("person-index-rashi-569"), label("person-index-rashi-614"), label("person-index-rashi-615"), label("person-index-rashi-616"), label("person-index-rashi-644"), label("person-index-rashi-645"), label("person-index-rashi-646"), label("person-index-rashi-647"), label("person-index-rashi-648"), label("person-index-rashi-649"), label("person-index-rashi-665"), label("person-index-rashi-675"), label("person-index-rashi-676"), label("person-index-rashi-677"), label("person-index-rashi-690"), label("person-index-rashi-692"), label("person-index-rashi-714"), label("person-index-rashi-749"), label("person-index-rashi-774"), label("person-index-rashi-775"), label("person-index-rashi-776"), label("person-index-rashi-777"), label("person-index-rashi-784"), label("person-index-rashi-785"), label("person-index-rashi-786"), label("person-index-rashi-794"), label("person-index-rashi-812"), label("person-index-rashi-813"), label("person-index-rashi-838"), label("person-index-rashi-867"), label("person-index-rashi-868"), label("person-index-rashi-910"), label("person-index-rashi-919"), label("person-index-rashi-977"), label("person-index-rashi-1065"), label("person-index-rashi-1066"), label("person-index-rashi-1070"), label("person-index-rashi-1167"), label("person-index-rashi-1168")))
+#index-row(("Rashi",), (label("person-index-rashi-3"), label("person-index-rashi-4"), label("person-index-rashi-9"), label("person-index-rashi-10"), label("person-index-rashi-11"), label("person-index-rashi-12"), label("person-index-rashi-13"), label("person-index-rashi-32"), label("person-index-rashi-39"), label("person-index-rashi-40"), label("person-index-rashi-41"), label("person-index-rashi-47"), label("person-index-rashi-48"), label("person-index-rashi-66"), label("person-index-rashi-67"), label("person-index-rashi-74"), label("person-index-rashi-83"), label("person-index-rashi-97"), label("person-index-rashi-98"), label("person-index-rashi-107"), label("person-index-rashi-108"), label("person-index-rashi-109"), label("person-index-rashi-110"), label("person-index-rashi-111"), label("person-index-rashi-112"), label("person-index-rashi-113"), label("person-index-rashi-116"), label("person-index-rashi-120"), label("person-index-rashi-124"), label("person-index-rashi-141"), label("person-index-rashi-157"), label("person-index-rashi-177"), label("person-index-rashi-196"), label("person-index-rashi-197"), label("person-index-rashi-208"), label("person-index-rashi-218"), label("person-index-rashi-219"), label("person-index-rashi-261"), label("person-index-rashi-266"), label("person-index-rashi-267"), label("person-index-rashi-268"), label("person-index-rashi-283"), label("person-index-rashi-284"), label("person-index-rashi-302"), label("person-index-rashi-303"), label("person-index-rashi-304"), label("person-index-rashi-305"), label("person-index-rashi-306"), label("person-index-rashi-307"), label("person-index-rashi-308"), label("person-index-rashi-309"), label("person-index-rashi-310"), label("person-index-rashi-322"), label("person-index-rashi-323"), label("person-index-rashi-324"), label("person-index-rashi-325"), label("person-index-rashi-326"), label("person-index-rashi-327"), label("person-index-rashi-328"), label("person-index-rashi-333"), label("person-index-rashi-359"), label("person-index-rashi-366"), label("person-index-rashi-387"), label("person-index-rashi-392"), label("person-index-rashi-394"), label("person-index-rashi-402"), label("person-index-rashi-403"), label("person-index-rashi-404"), label("person-index-rashi-407"), label("person-index-rashi-409"), label("person-index-rashi-439"), label("person-index-rashi-440"), label("person-index-rashi-441"), label("person-index-rashi-493"), label("person-index-rashi-512"), label("person-index-rashi-545"), label("person-index-rashi-546"), label("person-index-rashi-552"), label("person-index-rashi-558"), label("person-index-rashi-559"), label("person-index-rashi-560"), label("person-index-rashi-561"), label("person-index-rashi-562"), label("person-index-rashi-569"), label("person-index-rashi-614"), label("person-index-rashi-615"), label("person-index-rashi-616"), label("person-index-rashi-644"), label("person-index-rashi-645"), label("person-index-rashi-646"), label("person-index-rashi-647"), label("person-index-rashi-648"), label("person-index-rashi-649"), label("person-index-rashi-665"), label("person-index-rashi-675"), label("person-index-rashi-676"), label("person-index-rashi-677"), label("person-index-rashi-690"), label("person-index-rashi-692"), label("person-index-rashi-714"), label("person-index-rashi-749"), label("person-index-rashi-774"), label("person-index-rashi-775"), label("person-index-rashi-776"), label("person-index-rashi-777"), label("person-index-rashi-784"), label("person-index-rashi-785"), label("person-index-rashi-786"), label("person-index-rashi-794"), label("person-index-rashi-812"), label("person-index-rashi-813"), label("person-index-rashi-838"), label("person-index-rashi-867"), label("person-index-rashi-868"), label("person-index-rashi-910"), label("person-index-rashi-919"), label("person-index-rashi-977"), label("person-index-rashi-1065"), label("person-index-rashi-1066"), label("person-index-rashi-1070"), label("person-index-rashi-1167"), label("person-index-rashi-1168")))
 
 #index-row(("Rebbe Shnayar Zalman of Liadi", "(the Alter Rebbe)",), (label("person-index-rebbe-shnayar-zalman-of-liadi-617"),))
 
