@@ -9054,7 +9054,7 @@ a ⁧זיווג⁩. ⁧א׳⁩ goes with ⁧ט׳⁩⁦,⁩ makes 10. ⁧ב׳⁩ 
 with ⁧ז׳⁩⁦,⁩ makes 10. ⁧ד׳⁩ goes with ⁧ו׳⁩ makes 10. But ⁧ה⁩ is stuck in the
 middle without a partner. Similarly with the numbers that are in the
 decades. ⁧י׳⁩ goes with ⁧צ׳⁩⁦,⁩ ⁧כ׳⁩ goes with ⁧פ׳⁩⁦,⁩ they all go together except
-for. ⁧נ׳ ה׳⁩ and ⁧נ׳⁩ are the ⁧אותיות⁩ that have no ⁧זיווג⁩.
+for ⁧נ׳⁩. ⁧ה׳⁩ and ⁧נ׳⁩ are the ⁧אותיות⁩ that have no ⁧זיווג⁩.
 
 ⁧הֶן עָם לְבָדָד יִשְׁכֹּן⁩ - Even though they're all by themselves and have no
 partner, they still stick together. There is a ⁧שלום⁩ and an ⁧אחדות⁩ between

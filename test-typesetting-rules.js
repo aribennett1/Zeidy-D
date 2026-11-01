@@ -665,6 +665,15 @@ test("adds space after sentence punctuation between isolated Hebrew runs", () =>
   );
 });
 
+test("keeps a period between Hebrew letter names in English sentence order", () => {
+  for (const separator of [" ", "\n"]) {
+    assert.equal(
+      applyTextRules(`together except for נ׳.${separator}ה׳ and נ׳ are the אותיות that have no זיווג.`),
+      `together except for ${RTL_ISOLATE}נ׳${POP_DIRECTIONAL_ISOLATE}.${separator}${RTL_ISOLATE}ה׳${POP_DIRECTIONAL_ISOLATE} and ${RTL_ISOLATE}נ׳${POP_DIRECTIONAL_ISOLATE} are the ${RTL_ISOLATE}אותיות${POP_DIRECTIONAL_ISOLATE} that have no ${RTL_ISOLATE}זיווג${POP_DIRECTIONAL_ISOLATE}.`
+    );
+  }
+});
+
 test("keeps Hebrew citation colons tight", () => {
   assert.equal(
     normalizePunctuationSpacing("כ״א : ל״ז"),
@@ -2182,6 +2191,17 @@ test("docx: Chukas-Balak 5783 keeps hen and hei-nun in logical order", () => {
     `${RTL_ISOLATE}הן, ה${POP_DIRECTIONAL_ISOLATE}-${RTL_ISOLATE}נ${POP_DIRECTIONAL_ISOLATE}`,
     "split hei-nun after comma phrase"
   );
+});
+
+test("docx: Chukas-Balak 5783 separates final nun from the next sentence's hei", () => {
+  const typst = convertedDocx("/chukas-balak/5783/").replace(/\s+/g, " ");
+  assertContains(
+    typst,
+    `together except for ${RTL_ISOLATE}נ׳${POP_DIRECTIONAL_ISOLATE}. ${RTL_ISOLATE}ה׳${POP_DIRECTIONAL_ISOLATE} and ${RTL_ISOLATE}נ׳${POP_DIRECTIONAL_ISOLATE} are the ${RTL_ISOLATE}אותיות${POP_DIRECTIONAL_ISOLATE} that have no ${RTL_ISOLATE}זיווג${POP_DIRECTIONAL_ISOLATE}.`,
+    "nun ends the first sentence; period and one space precede the separate hei"
+  );
+  assertNotContains(typst, `${RTL_ISOLATE}נ׳ ה׳${POP_DIRECTIONAL_ISOLATE}`,
+    "nun and hei must not merge across the sentence boundary");
 });
 
 test("docx: Pinchas 5784 flips nested Hebrew quote marks inside Rashi", () => {
