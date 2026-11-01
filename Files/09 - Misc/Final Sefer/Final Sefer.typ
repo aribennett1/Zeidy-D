@@ -15988,9 +15988,9 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("A Short Vort",), (label("person-index-a-short-vort-515"), label("person-index-a-short-vort-672"), label("person-index-a-short-vort-769"), label("person-index-a-short-vort-807"), label("person-index-a-short-vort-1047"), label("person-index-a-short-vort-1069"), label("person-index-a-short-vort-1105"), label("person-index-a-short-vort-1119")))
 
-#index-row(("R’ Yechezkel Abramsky",), (label("person-index-r-abramsky-858"), label("person-index-r-abramsky-859"), label("person-index-r-abramsky-860")))
+#index-row(("Abramsky, R’ Yechezkel",), (label("person-index-r-abramsky-858"), label("person-index-r-abramsky-859"), label("person-index-r-abramsky-860")))
 
-#index-row(("R’ Nosson Adler",), (label("person-index-r-nosson-adler-134"), label("person-index-r-nosson-adler-135")))
+#index-row(("Adler, R’ Nosson",), (label("person-index-r-nosson-adler-134"), label("person-index-r-nosson-adler-135")))
 
 #index-row(("Ahavas Torah",), (label("person-index-ahavas-torah-756"), label("person-index-ahavas-torah-757"), label("person-index-ahavas-torah-758")))
 
@@ -16018,45 +16018,45 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Bais Yosef",), (label("person-index-bais-yosef-1123"),))
 
-#index-row(("R’ Yeshaya Bardaki",), (label("person-index-r-yeshaya-bardaki-1054"),))
+#index-row(("Bardaki, R’ Yeshaya",), (label("person-index-r-yeshaya-bardaki-1054"),))
 
-#index-row(("Rebbetzin Barzam",), (label("person-index-rebbetzin-barzam-125"),))
+#index-row(("Barzam, Rebbetzin",), (label("person-index-rebbetzin-barzam-125"),))
 
 #index-row(("Be’er Mayim Chaim",), (label("person-index-be-er-mayim-chaim-242"), label("person-index-be-er-mayim-chaim-243")))
 
-#index-row(("R’ Mordechai Becher",), (label("person-index-r-mordechai-becher-585"),))
+#index-row(("Becher, R’ Mordechai",), (label("person-index-r-mordechai-becher-585"),))
 
 #index-row(("Belzer Rebbe",), (label("person-index-the-belzer-rebbe-22"), label("person-index-the-belzer-rebbe-122"), label("person-index-the-belzer-rebbe-725"), label("person-index-the-belzer-rebbe-726"), label("person-index-the-belzer-rebbe-861")))
 
-#index-row(("R’ Mordechai Benet",), (label("person-index-r-mordechai-benet-339"),))
+#index-row(("Benet, R’ Mordechai",), (label("person-index-r-mordechai-benet-339"),))
 
-#index-row(("Dovid Bennett",), (label("person-index-dovid-bennett-705"),))
+#index-row(("Bennett, Dovid",), (label("person-index-dovid-bennett-705"),))
 
-#index-row(("Ellie Bennett",), (label("person-index-ellie-bennett-633"),))
+#index-row(("Bennett, Ellie",), (label("person-index-ellie-bennett-633"),))
 
-#index-row(("Tzvi Asher Bennett",), (label("person-index-tzvi-asher-bennett-51"), label("person-index-tzvi-asher-bennett-52")))
+#index-row(("Bennett, Tzvi Asher",), (label("person-index-tzvi-asher-bennett-51"), label("person-index-tzvi-asher-bennett-52")))
 
-#index-row(("Zeidy Bennett",), (label("person-index-zeidy-bennett-117"),))
+#index-row(("Bennett, Zeidy",), (label("person-index-zeidy-bennett-117"),))
 
-#index-row(("R’ Yitzchok Berkovits",), (label("person-index-r-yitzchok-berkovits-775"), label("person-index-r-yitzchok-berkovits-776"), label("person-index-r-yitzchok-berkovits-777"), label("person-index-r-yitzchok-berkovits-778")))
+#index-row(("Berkovits, R’ Yitzchok",), (label("person-index-r-yitzchok-berkovits-775"), label("person-index-r-yitzchok-berkovits-776"), label("person-index-r-yitzchok-berkovits-777"), label("person-index-r-yitzchok-berkovits-778")))
 
-#index-row(("R’ Shiya Berlin",), (label("person-index-r-shiya-berlin-1092"), label("person-index-r-shiya-berlin-1093"), label("person-index-r-shiya-berlin-1094"), label("person-index-r-shiya-berlin-1095")))
+#index-row(("Berlin, R’ Shiya",), (label("person-index-r-shiya-berlin-1092"), label("person-index-r-shiya-berlin-1093"), label("person-index-r-shiya-berlin-1094"), label("person-index-r-shiya-berlin-1095")))
 
-#index-row(("R’ Abraham Besdin",), (label("person-index-rabbi-abraham-besdin-202"),))
+#index-row(("Besdin, R’ Abraham",), (label("person-index-rabbi-abraham-besdin-202"),))
 
-#index-row(("R’ Elimelech Biderman",), (label("person-index-r-elimelech-biderman-924"), label("person-index-r-elimelech-biderman-957"), label("person-index-r-elimelech-biderman-958"), label("person-index-r-elimelech-biderman-986"), label("person-index-r-elimelech-biderman-1096"), label("person-index-r-elimelech-biderman-1097"), label("person-index-r-elimelech-biderman-1098"), label("person-index-r-elimelech-biderman-1111"), label("person-index-r-elimelech-biderman-1112"), label("person-index-r-elimelech-biderman-1113"), label("person-index-r-elimelech-biderman-1124"), label("person-index-r-elimelech-biderman-1125"), label("person-index-r-elimelech-biderman-1127"), label("person-index-r-elimelech-biderman-1128"), label("person-index-r-elimelech-biderman-1129"), label("person-index-r-elimelech-biderman-1139")))
+#index-row(("Biderman, R’ Elimelech",), (label("person-index-r-elimelech-biderman-924"), label("person-index-r-elimelech-biderman-957"), label("person-index-r-elimelech-biderman-958"), label("person-index-r-elimelech-biderman-986"), label("person-index-r-elimelech-biderman-1096"), label("person-index-r-elimelech-biderman-1097"), label("person-index-r-elimelech-biderman-1098"), label("person-index-r-elimelech-biderman-1111"), label("person-index-r-elimelech-biderman-1112"), label("person-index-r-elimelech-biderman-1113"), label("person-index-r-elimelech-biderman-1124"), label("person-index-r-elimelech-biderman-1125"), label("person-index-r-elimelech-biderman-1127"), label("person-index-r-elimelech-biderman-1128"), label("person-index-r-elimelech-biderman-1129"), label("person-index-r-elimelech-biderman-1139")))
 
-#index-row(("R’ Matis Blum",), (label("person-index-r-blum-282"), label("person-index-r-blum-954")))
+#index-row(("Blum, R’ Matis",), (label("person-index-r-blum-282"), label("person-index-r-blum-954")))
 
 #index-row(("Bobbi D",), (label("person-index-bobbi-569"), label("person-index-bobbi-765"), label("person-index-bobbi-801"), label("person-index-bobbi-1055"), label("person-index-bobbi-1167")))
 
 #index-row(("Bracha",), (label("person-index-bracha-45"), label("person-index-bracha-46"), label("person-index-bracha-86"), label("person-index-bracha-119"), label("person-index-bracha-340"), label("person-index-bracha-341"), label("person-index-bracha-497"), label("person-index-bracha-597"), label("person-index-bracha-763")))
 
-#index-row(("R’ Aharon Mordechai Brisk",), (label("person-index-r-aharon-mordechai-brisk-526"),))
+#index-row(("Brisk, R’ Aharon Mordechai",), (label("person-index-r-aharon-mordechai-brisk-526"),))
 
 #index-row(("Brisker Rav",), (label("person-index-brisker-rav-35"), label("person-index-brisker-rav-36"), label("person-index-brisker-rav-193"), label("person-index-brisker-rav-194"), label("person-index-brisker-rav-195"), label("person-index-brisker-rav-196"), label("person-index-brisker-rav-197"), label("person-index-brisker-rav-501"), label("person-index-brisker-rav-502"), label("person-index-brisker-rav-503"), label("person-index-brisker-rav-504")))
 
-#index-row(("R’ Irving Bunim",), (label("person-index-rav-irving-bunim-468"),))
+#index-row(("Bunim, R’ Irving",), (label("person-index-rav-irving-bunim-468"),))
 
 #index-row(("Chafetz Chaim",), (label("person-index-chafetz-chaim-423"), label("person-index-chafetz-chaim-424"), label("person-index-chafetz-chaim-425"), label("person-index-chafetz-chaim-426"), label("person-index-chafetz-chaim-427"), label("person-index-chafetz-chaim-428"), label("person-index-chafetz-chaim-469"), label("person-index-chafetz-chaim-471"), label("person-index-chafetz-chaim-598"), label("person-index-chafetz-chaim-708"), label("person-index-chafetz-chaim-709"), label("person-index-chafetz-chaim-710"), label("person-index-chafetz-chaim-711"), label("person-index-chafetz-chaim-712"), label("person-index-chafetz-chaim-713"), label("person-index-chafetz-chaim-714"), label("person-index-chafetz-chaim-715"), label("person-index-chafetz-chaim-868"), label("person-index-chafetz-chaim-1014"), label("person-index-chafetz-chaim-1015"), label("person-index-chafetz-chaim-1016"), label("person-index-chafetz-chaim-1017"), label("person-index-chafetz-chaim-1018"), label("person-index-chafetz-chaim-1019"), label("person-index-chafetz-chaim-1020"), label("person-index-chafetz-chaim-1021"), label("person-index-chafetz-chaim-1022")))
 
@@ -16066,11 +16066,11 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Chasam Sofer",), (label("person-index-chasam-sofer-53"), label("person-index-chasam-sofer-54"), label("person-index-chasam-sofer-55"), label("person-index-chasam-sofer-56"), label("person-index-chasam-sofer-57"), label("person-index-chasam-sofer-58"), label("person-index-chasam-sofer-59"), label("person-index-chasam-sofer-60"), label("person-index-chasam-sofer-61"), label("person-index-chasam-sofer-78"), label("person-index-chasam-sofer-136"), label("person-index-chasam-sofer-137"), label("person-index-chasam-sofer-396"), label("person-index-chasam-sofer-472"), label("person-index-chasam-sofer-690"), label("person-index-chasam-sofer-691"), label("person-index-chasam-sofer-692"), label("person-index-chasam-sofer-842"), label("person-index-chasam-sofer-965"), label("person-index-chasam-sofer-1126"), label("person-index-chasam-sofer-1175"), label("person-index-chasam-sofer-1176")))
 
-#index-row(("R’ Yirachmiel Chasid",), (label("person-index-rav-yirachmiel-chasid-967"),))
+#index-row(("Chasid, R’ Yirachmiel",), (label("person-index-rav-yirachmiel-chasid-967"),))
 
-#index-row(("R’ Leib Chasman (Ohr Yahel)",), (label("person-index-r-leib-chasman-717"), label("person-index-r-leib-chasman-718")))
+#index-row(("Chasman, R’ Leib (Ohr Yahel)",), (label("person-index-r-leib-chasman-717"), label("person-index-r-leib-chasman-718")))
 
-#index-row(("R’ Erez Chazani",), (label("person-index-r-erez-chazani-104"),))
+#index-row(("Chazani, R’ Erez",), (label("person-index-r-erez-chazani-104"),))
 
 #index-row(("Chazon Ish",), (label("person-index-the-chazon-ish-588"),))
 
@@ -16082,41 +16082,41 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Da’as Zekainim",), (label("person-index-da-as-zekainim-189"),))
 
-#index-row(("R’ Chaim Dahan",), (label("person-index-r-chaim-dahan-1079"),))
+#index-row(("Dahan, R’ Chaim",), (label("person-index-r-chaim-dahan-1079"),))
 
 #index-row(("Divrei Si’ach",), (label("person-index-divrei-si-ach-994"),))
 
 #index-row(("Divrei Yechezkel",), (label("person-index-divrei-yechezkel-545"),))
 
-#index-row(("R’ Moshe Donnebaum",), (label("person-index-r-moshe-donnebaum-730"),))
+#index-row(("Donnebaum, R’ Moshe",), (label("person-index-r-moshe-donnebaum-730"),))
 
-#index-row(("R’ Pinchas Doron",), (label("person-index-rav-pinchas-doron-66"),))
+#index-row(("Doron, R’ Pinchas",), (label("person-index-rav-pinchas-doron-66"),))
 
 #index-row(("Dubno Maggid",), (label("person-index-dubno-maggid-677"), label("person-index-dubno-maggid-961"), label("person-index-dubno-maggid-1076"), label("person-index-dubno-maggid-1077")))
 
-#index-row(("R’ Yonasan Eibschutz",), (label("person-index-r-yonasan-eibschutz-634"), label("person-index-r-yonasan-eibschutz-863"), label("person-index-r-yonasan-eibschutz-864")))
+#index-row(("Eibschutz, R’ Yonasan",), (label("person-index-r-yonasan-eibschutz-634"), label("person-index-r-yonasan-eibschutz-863"), label("person-index-r-yonasan-eibschutz-864")))
 
-#index-row(("R’ Yosef Engel",), (label("person-index-r-yosef-engel-527"), label("person-index-r-yosef-engel-528")))
+#index-row(("Engel, R’ Yosef",), (label("person-index-r-yosef-engel-527"), label("person-index-r-yosef-engel-528")))
 
-#index-row(("R’ Yissocher Englard",), (label("person-index-r-yissocher-englard-377"),))
+#index-row(("Englard, R’ Yissocher",), (label("person-index-r-yissocher-englard-377"),))
 
-#index-row(("R’ Pesach Eliyahu Falk",), (label("person-index-r-pesach-eliyahu-falk-786"), label("person-index-r-pesach-eliyahu-falk-787")))
+#index-row(("Falk, R’ Pesach Eliyahu",), (label("person-index-r-pesach-eliyahu-falk-786"), label("person-index-r-pesach-eliyahu-falk-787")))
 
-#index-row(("R’ Moshe Feinstein",), (label("person-index-r-moshe-feinstein-344"), label("person-index-r-moshe-feinstein-513"), label("person-index-r-moshe-feinstein-589"), label("person-index-r-moshe-feinstein-693"), label("person-index-r-moshe-feinstein-779")))
+#index-row(("Feinstein, R’ Moshe",), (label("person-index-r-moshe-feinstein-344"), label("person-index-r-moshe-feinstein-513"), label("person-index-r-moshe-feinstein-589"), label("person-index-r-moshe-feinstein-693"), label("person-index-r-moshe-feinstein-779")))
 
 #index-row(("Festivals of Faith",), (label("person-index-festivals-of-faith-941"), label("person-index-festivals-of-faith-962")))
 
-#index-row(("R’ Gedalia Finkel",), (label("person-index-r-gedalia-finkel-865"),))
+#index-row(("Finkel, R’ Gedalia",), (label("person-index-r-gedalia-finkel-865"),))
 
-#index-row(("R’ Yona Fradkin",), (label("person-index-rabbi-yona-fradkin-1104"),))
+#index-row(("Fradkin, R’ Yona",), (label("person-index-rabbi-yona-fradkin-1104"),))
 
-#index-row(("R’ Yissocher Frand",), (label("person-index-r-yissocher-frand-624"), label("person-index-r-yissocher-frand-625"), label("person-index-r-yissocher-frand-974"), label("person-index-r-yissocher-frand-975")))
+#index-row(("Frand, R’ Yissocher",), (label("person-index-r-yissocher-frand-624"), label("person-index-r-yissocher-frand-625"), label("person-index-r-yissocher-frand-974"), label("person-index-r-yissocher-frand-975")))
 
-#index-row(("R’ Shlomo Ganzfried",), (label("person-index-r-shlomo-ganzfried-198"), label("person-index-r-shlomo-ganzfried-249"), label("person-index-r-shlomo-ganzfried-250"), label("person-index-r-shlomo-ganzfried-301"), label("person-index-r-shlomo-ganzfried-413"), label("person-index-r-shlomo-ganzfried-414"), label("person-index-r-shlomo-ganzfried-661"), label("person-index-r-shlomo-ganzfried-662"), label("person-index-r-shlomo-ganzfried-759"), label("person-index-r-shlomo-ganzfried-854"), label("person-index-r-shlomo-ganzfried-855")))
+#index-row(("Ganzfried, R’ Shlomo",), (label("person-index-r-shlomo-ganzfried-198"), label("person-index-r-shlomo-ganzfried-249"), label("person-index-r-shlomo-ganzfried-250"), label("person-index-r-shlomo-ganzfried-301"), label("person-index-r-shlomo-ganzfried-413"), label("person-index-r-shlomo-ganzfried-414"), label("person-index-r-shlomo-ganzfried-661"), label("person-index-r-shlomo-ganzfried-662"), label("person-index-r-shlomo-ganzfried-759"), label("person-index-r-shlomo-ganzfried-854"), label("person-index-r-shlomo-ganzfried-855")))
 
-#index-row(("R’ Avraham Genachowski",), (label("person-index-r-avraham-genachowski-824"), label("person-index-r-avraham-genachowski-825"), label("person-index-r-avraham-genachowski-826"), label("person-index-r-avraham-genachowski-827")))
+#index-row(("Genachowski, R’ Avraham",), (label("person-index-r-avraham-genachowski-824"), label("person-index-r-avraham-genachowski-825"), label("person-index-r-avraham-genachowski-826"), label("person-index-r-avraham-genachowski-827")))
 
-#index-row(("R’ Menachem Genack",), (label("person-index-r-menachem-genack-150"), label("person-index-r-menachem-genack-828")))
+#index-row(("Genack, R’ Menachem",), (label("person-index-r-menachem-genack-150"), label("person-index-r-menachem-genack-828")))
 
 #index-row(("Gerrer Rebbe", "(Chidushei HaRim, R’ Yitzchak Meir", "Alter)",), (label("person-index-chidushei-harim-247"), label("person-index-chidushei-harim-317"), label("person-index-chidushei-harim-318"), label("person-index-chidushei-harim-319"), label("person-index-chidushei-harim-514"), label("person-index-chidushei-harim-959"), label("person-index-chidushei-harim-960"), label("person-index-chidushei-harim-1114")))
 
@@ -16126,65 +16126,65 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Gerrer Rebbe", "(Sfas Emes, R’ Yehudah Aryeh Leib", "Alter)",), (label("person-index-sfas-emes-347"), label("person-index-sfas-emes-348"), label("person-index-sfas-emes-349"), label("person-index-sfas-emes-546"), label("person-index-sfas-emes-547")))
 
-#index-row(("R’ Reuven Gesheid",), (label("person-index-rabbi-reuven-gesheid-483"),))
+#index-row(("Gesheid, R’ Reuven",), (label("person-index-rabbi-reuven-gesheid-483"),))
 
-#index-row(("R’ Ephraim Goldberg",), (label("person-index-r-ephraim-goldberg-67"),))
+#index-row(("Goldberg, R’ Ephraim",), (label("person-index-r-ephraim-goldberg-67"),))
 
-#index-row(("Dr. Allen Goldstein",), (label("person-index-dr-allen-goldstein-151"), label("person-index-dr-allen-goldstein-152"), label("person-index-dr-allen-goldstein-153"), label("person-index-dr-allen-goldstein-154"), label("person-index-dr-allen-goldstein-155"), label("person-index-dr-allen-goldstein-156"), label("person-index-dr-allen-goldstein-157"), label("person-index-dr-allen-goldstein-158")))
+#index-row(("Goldstein, Dr. Allen",), (label("person-index-dr-allen-goldstein-151"), label("person-index-dr-allen-goldstein-152"), label("person-index-dr-allen-goldstein-153"), label("person-index-dr-allen-goldstein-154"), label("person-index-dr-allen-goldstein-155"), label("person-index-dr-allen-goldstein-156"), label("person-index-dr-allen-goldstein-157"), label("person-index-dr-allen-goldstein-158")))
 
-#index-row(("R’ Yosef Shlomo Goldstein",), (label("person-index-r-yosef-shlomo-goldstein-558"), label("person-index-r-yosef-shlomo-goldstein-559")))
+#index-row(("Goldstein, R’ Yosef Shlomo",), (label("person-index-r-yosef-shlomo-goldstein-558"), label("person-index-r-yosef-shlomo-goldstein-559")))
 
-#index-row(("R’ Jeremy Golker",), (label("person-index-rabbi-jeremy-golker-922"),))
+#index-row(("Golker, R’ Jeremy",), (label("person-index-rabbi-jeremy-golker-922"),))
 
-#index-row(("R’ Aaron Goodman",), (label("person-index-r-aaron-goodman-138"),))
+#index-row(("Goodman, R’ Aaron",), (label("person-index-r-aaron-goodman-138"),))
 
-#index-row(("R’ Yeruchem Gorelick",), (label("person-index-rav-yeruchem-gorelick-856"),))
+#index-row(("Gorelick, R’ Yeruchem",), (label("person-index-rav-yeruchem-gorelick-856"),))
 
-#index-row(("R’ Shai Graucher",), (label("person-index-rabbi-shai-graucher-505"),))
+#index-row(("Graucher, R’ Shai",), (label("person-index-rabbi-shai-graucher-505"),))
 
-#index-row(("R’ Yaakov Mordechai Greenwald",), (label("person-index-r-yaakov-mordechai-greenwald-1145"),))
+#index-row(("Greenwald, R’ Yaakov Mordechai",), (label("person-index-r-yaakov-mordechai-greenwald-1145"),))
 
-#index-row(("R’ Leibel Groner",), (label("person-index-rabbi-leibel-groner-700"),))
+#index-row(("Groner, R’ Leibel",), (label("person-index-rabbi-leibel-groner-700"),))
 
-#index-row(("R’ Reuven Grozovsky",), (label("person-index-r-reuven-grozovsky-364"),))
+#index-row(("Grozovsky, R’ Reuven",), (label("person-index-r-reuven-grozovsky-364"),))
 
-#index-row(("R’ Akiva Grunblatt",), (label("person-index-r-akiva-grunblatt-599"),))
+#index-row(("Grunblatt, R’ Akiva",), (label("person-index-r-akiva-grunblatt-599"),))
 
 #index-row(("Grunchi Getches",), (label("person-index-grunchi-getches-141"), label("person-index-grunchi-getches-142")))
 
-#index-row(("R’ Yaron Halbertal",), (label("person-index-r-yaron-halbertal-1168"),))
+#index-row(("Halbertal, R’ Yaron",), (label("person-index-r-yaron-halbertal-1168"),))
 
 #index-row(("Halekach V'Halibuv",), (label("person-index-halekach-vehalibuv-1160"),))
 
-#index-row(("R’ Tzvi Hersh Heller",), (label("person-index-rav-tzvi-hersh-heller-663"),))
+#index-row(("Heller, R’ Tzvi Hersh",), (label("person-index-rav-tzvi-hersh-heller-663"),))
 
-#index-row(("R’ Nachum Dovid Herman",), (label("person-index-r-nachum-dovid-herman-143"),))
+#index-row(("Herman, R’ Nachum Dovid",), (label("person-index-r-nachum-dovid-herman-143"),))
 
-#index-row(("R’ Samson Raphael Hirsch",), (label("person-index-r-samson-raphael-hirsch-244"), label("person-index-r-samson-raphael-hirsch-245"), label("person-index-r-samson-raphael-hirsch-393"), label("person-index-r-samson-raphael-hirsch-394")))
+#index-row(("Hirsch, R’ Samson Raphael",), (label("person-index-r-samson-raphael-hirsch-244"), label("person-index-r-samson-raphael-hirsch-245"), label("person-index-r-samson-raphael-hirsch-393"), label("person-index-r-samson-raphael-hirsch-394")))
 
-#index-row(("R’ David Hollander",), (label("person-index-rabbi-david-hollander-338"),))
+#index-row(("Hollander, R’ David",), (label("person-index-rabbi-david-hollander-338"),))
 
-#index-row(("Rebbetzin Rivky Holtzberg",), (label("person-index-rebbetzin-rivky-holtzberg-770"),))
+#index-row(("Holtzberg, Rebbetzin Rivky",), (label("person-index-rebbetzin-rivky-holtzberg-770"),))
 
 #index-row(("Homiler Rav",), (label("person-index-homiler-rav-1106"), label("person-index-homiler-rav-1107")))
 
-#index-row(("Sorolle Idels",), (label("person-index-sorolle-idels-635"),))
+#index-row(("Idels, Sorolle",), (label("person-index-sorolle-idels-635"),))
 
 #index-row(("Iturei Torah",), (label("person-index-iturei-torah-184"), label("person-index-iturei-torah-185")))
 
-#index-row(("R’ YY Jacobson",), (label("person-index-rabbi-yy-jacobson-409"),))
+#index-row(("Jacobson, R’ YY",), (label("person-index-rabbi-yy-jacobson-409"),))
 
-#index-row(("R’ Yaakov Kamenetsky",), (label("person-index-r-yaakov-kamenetsky-721"), label("person-index-r-yaakov-kamenetsky-1170")))
+#index-row(("Kamenetsky, R’ Yaakov",), (label("person-index-r-yaakov-kamenetsky-721"), label("person-index-r-yaakov-kamenetsky-1170")))
 
-#index-row(("R’ Chaim Kanievsky",), (label("person-index-r-chaim-kanievsky-126"), label("person-index-r-chaim-kanievsky-127"), label("person-index-r-chaim-kanievsky-231"), label("person-index-r-chaim-kanievsky-232"), label("person-index-r-chaim-kanievsky-233"), label("person-index-r-chaim-kanievsky-293"), label("person-index-r-chaim-kanievsky-294"), label("person-index-r-chaim-kanievsky-352"), label("person-index-r-chaim-kanievsky-435"), label("person-index-r-chaim-kanievsky-436"), label("person-index-r-chaim-kanievsky-488"), label("person-index-r-chaim-kanievsky-489"), label("person-index-r-chaim-kanievsky-506"), label("person-index-r-chaim-kanievsky-551"), label("person-index-r-chaim-kanievsky-570"), label("person-index-r-chaim-kanievsky-571"), label("person-index-r-chaim-kanievsky-575"), label("person-index-r-chaim-kanievsky-576"), label("person-index-r-chaim-kanievsky-586"), label("person-index-r-chaim-kanievsky-587"), label("person-index-r-chaim-kanievsky-590"), label("person-index-r-chaim-kanievsky-591"), label("person-index-r-chaim-kanievsky-678"), label("person-index-r-chaim-kanievsky-696"), label("person-index-r-chaim-kanievsky-706"), label("person-index-r-chaim-kanievsky-995"), label("person-index-r-chaim-kanievsky-996")))
+#index-row(("Kanievsky, R’ Chaim",), (label("person-index-r-chaim-kanievsky-126"), label("person-index-r-chaim-kanievsky-127"), label("person-index-r-chaim-kanievsky-231"), label("person-index-r-chaim-kanievsky-232"), label("person-index-r-chaim-kanievsky-233"), label("person-index-r-chaim-kanievsky-293"), label("person-index-r-chaim-kanievsky-294"), label("person-index-r-chaim-kanievsky-352"), label("person-index-r-chaim-kanievsky-435"), label("person-index-r-chaim-kanievsky-436"), label("person-index-r-chaim-kanievsky-488"), label("person-index-r-chaim-kanievsky-489"), label("person-index-r-chaim-kanievsky-506"), label("person-index-r-chaim-kanievsky-551"), label("person-index-r-chaim-kanievsky-570"), label("person-index-r-chaim-kanievsky-571"), label("person-index-r-chaim-kanievsky-575"), label("person-index-r-chaim-kanievsky-576"), label("person-index-r-chaim-kanievsky-586"), label("person-index-r-chaim-kanievsky-587"), label("person-index-r-chaim-kanievsky-590"), label("person-index-r-chaim-kanievsky-591"), label("person-index-r-chaim-kanievsky-678"), label("person-index-r-chaim-kanievsky-696"), label("person-index-r-chaim-kanievsky-706"), label("person-index-r-chaim-kanievsky-995"), label("person-index-r-chaim-kanievsky-996")))
 
-#index-row(("Rebbetzin Kanievsky",), (label("person-index-rebbetzin-kanievsky-353"), label("person-index-rebbetzin-kanievsky-354")))
+#index-row(("Kanievsky, Rebbetzin",), (label("person-index-rebbetzin-kanievsky-353"), label("person-index-rebbetzin-kanievsky-354")))
 
-#index-row(("R’ Nissan Kaplan",), (label("person-index-r-nissan-kaplan-1120"),))
+#index-row(("Kaplan, R’ Nissan",), (label("person-index-r-nissan-kaplan-1120"),))
 
-#index-row(("Moshe Katz",), (label("person-index-moshe-katz-997"), label("person-index-moshe-katz-998"), label("person-index-moshe-katz-999")))
+#index-row(("Katz, Moshe",), (label("person-index-moshe-katz-997"), label("person-index-moshe-katz-998"), label("person-index-moshe-katz-999")))
 
-#index-row(("R’ Pinchas Kehati",), (label("person-index-r-pinchas-kehati-285"),))
+#index-row(("Kehati, R’ Pinchas",), (label("person-index-r-pinchas-kehati-285"),))
 
 #index-row(("Kitzur Shulchan Aruch",), (label("person-index-kitzur-shulchan-aruch-199"), label("person-index-kitzur-shulchan-aruch-664"), label("person-index-kitzur-shulchan-aruch-665"), label("person-index-kitzur-shulchan-aruch-666"), label("person-index-kitzur-shulchan-aruch-667"), label("person-index-kitzur-shulchan-aruch-857")))
 
@@ -16192,39 +16192,39 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Kli Yakar",), (label("person-index-kli-yakar-320"), label("person-index-kli-yakar-760")))
 
-#index-row(("R’ Chaim Yosef Kofman",), (label("person-index-r-chaim-yosef-kofman-415"), label("person-index-r-chaim-yosef-kofman-449")))
+#index-row(("Kofman, R’ Chaim Yosef",), (label("person-index-r-chaim-yosef-kofman-415"), label("person-index-r-chaim-yosef-kofman-449")))
 
 #index-row(("Kol HaTorah",), (label("person-index-kol-hatorah-139"), label("person-index-kol-hatorah-219"), label("person-index-kol-hatorah-560"), label("person-index-kol-hatorah-788")))
 
 #index-row(("Kol Rom",), (label("person-index-kol-rom-345"),))
 
-#index-row(("R’ Kormornick",), (label("person-index-r-kormornick-300"), label("person-index-r-kormornick-673"), label("person-index-r-kormornick-771"), label("person-index-r-kormornick-772"), label("person-index-r-kormornick-1048"), label("person-index-r-kormornick-1108"), label("person-index-r-kormornick-1133"), label("person-index-r-kormornick-1134")))
+#index-row(("Kormornick, R’",), (label("person-index-r-kormornick-300"), label("person-index-r-kormornick-673"), label("person-index-r-kormornick-771"), label("person-index-r-kormornick-772"), label("person-index-r-kormornick-1048"), label("person-index-r-kormornick-1108"), label("person-index-r-kormornick-1133"), label("person-index-r-kormornick-1134")))
 
-#index-row(("R’ Aharon Kotler",), (label("person-index-rav-aharon-kotler-470"), label("person-index-rav-aharon-kotler-626")))
+#index-row(("Kotler, R’ Aharon",), (label("person-index-rav-aharon-kotler-470"), label("person-index-rav-aharon-kotler-626")))
 
 #index-row(("Kotzker Rebbe",), (label("person-index-the-kotzker-rebbe-218"), label("person-index-the-kotzker-rebbe-1182")))
 
-#index-row(("R’ Pesach Krohn",), (label("person-index-rav-pesach-krohn-968"),))
+#index-row(("Krohn, R’ Pesach",), (label("person-index-rav-pesach-krohn-968"),))
 
-#index-row(("R’ Zundel Kroizer",), (label("person-index-r-zundel-kroizer-987"),))
+#index-row(("Kroizer, R’ Zundel",), (label("person-index-r-zundel-kroizer-987"),))
 
-#index-row(("R’ Label Lam",), (label("person-index-r-label-lam-365"),))
+#index-row(("Lam, R’ Label",), (label("person-index-r-label-lam-365"),))
 
-#index-row(("R’ Avraham Landau of Chekhanov",), (label("person-index-r-avraham-landau-of-chekhanov-1062"),))
+#index-row(("Landau, R’ Avraham of Chekhanov",), (label("person-index-r-avraham-landau-of-chekhanov-1062"),))
 
-#index-row(("R’ Menachem Mendel Chaim Landau",), (label("person-index-r-menachem-mendel-chaim-landau-1063"),))
+#index-row(("Landau, R’ Menachem Mendel Chaim",), (label("person-index-r-menachem-mendel-chaim-landau-1063"),))
 
-#index-row(("R’ Lieb M’Lichev",), (label("person-index-r-lieb-m-lichev-1140"),))
+#index-row(("Leib, R’ Lieb M’Lichev",), (label("person-index-r-lieb-m-lichev-1140"),))
 
-#index-row(("R’ Boruch Ber Leibowitz",), (label("person-index-r-boruch-ber-leibowitz-989"),))
+#index-row(("Leibowitz, R’ Boruch Ber",), (label("person-index-r-boruch-ber-leibowitz-989"),))
 
-#index-row(("R’ Yechezkel Levenstein",), (label("person-index-r-yechezkel-levenstein-1033"), label("person-index-r-yechezkel-levenstein-1034")))
+#index-row(("Levenstein, R’ Yechezkel",), (label("person-index-r-yechezkel-levenstein-1033"), label("person-index-r-yechezkel-levenstein-1034")))
 
-#index-row(("R’ Levi Yitzchok of Berditchev",), (label("person-index-r-levi-yitzchok-of-berditchev-23"), label("person-index-r-levi-yitzchok-of-berditchev-24"), label("person-index-r-levi-yitzchok-of-berditchev-147"), label("person-index-r-levi-yitzchok-of-berditchev-148"), label("person-index-r-levi-yitzchok-of-berditchev-149"), label("person-index-r-levi-yitzchok-of-berditchev-600"), label("person-index-r-levi-yitzchok-of-berditchev-601"), label("person-index-r-levi-yitzchok-of-berditchev-602"), label("person-index-r-levi-yitzchok-of-berditchev-900"), label("person-index-r-levi-yitzchok-of-berditchev-901"), label("person-index-r-levi-yitzchok-of-berditchev-902"), label("person-index-r-levi-yitzchok-of-berditchev-903"), label("person-index-r-levi-yitzchok-of-berditchev-904"), label("person-index-r-levi-yitzchok-of-berditchev-905"), label("person-index-r-levi-yitzchok-of-berditchev-906"), label("person-index-r-levi-yitzchok-of-berditchev-907"), label("person-index-r-levi-yitzchok-of-berditchev-908"), label("person-index-r-levi-yitzchok-of-berditchev-909"), label("person-index-r-levi-yitzchok-of-berditchev-910"), label("person-index-r-levi-yitzchok-of-berditchev-911"), label("person-index-r-levi-yitzchok-of-berditchev-912"), label("person-index-r-levi-yitzchok-of-berditchev-913"), label("person-index-r-levi-yitzchok-of-berditchev-914"), label("person-index-r-levi-yitzchok-of-berditchev-915"), label("person-index-r-levi-yitzchok-of-berditchev-1002"), label("person-index-r-levi-yitzchok-of-berditchev-1003"), label("person-index-r-levi-yitzchok-of-berditchev-1004"), label("person-index-r-levi-yitzchok-of-berditchev-1005"), label("person-index-r-levi-yitzchok-of-berditchev-1028"), label("person-index-r-levi-yitzchok-of-berditchev-1029"), label("person-index-r-levi-yitzchok-of-berditchev-1030"), label("person-index-r-levi-yitzchok-of-berditchev-1035"), label("person-index-r-levi-yitzchok-of-berditchev-1036")))
+#index-row(("Levi, R’ Yitzchok of Berditchev",), (label("person-index-r-levi-yitzchok-of-berditchev-23"), label("person-index-r-levi-yitzchok-of-berditchev-24"), label("person-index-r-levi-yitzchok-of-berditchev-147"), label("person-index-r-levi-yitzchok-of-berditchev-148"), label("person-index-r-levi-yitzchok-of-berditchev-149"), label("person-index-r-levi-yitzchok-of-berditchev-600"), label("person-index-r-levi-yitzchok-of-berditchev-601"), label("person-index-r-levi-yitzchok-of-berditchev-602"), label("person-index-r-levi-yitzchok-of-berditchev-900"), label("person-index-r-levi-yitzchok-of-berditchev-901"), label("person-index-r-levi-yitzchok-of-berditchev-902"), label("person-index-r-levi-yitzchok-of-berditchev-903"), label("person-index-r-levi-yitzchok-of-berditchev-904"), label("person-index-r-levi-yitzchok-of-berditchev-905"), label("person-index-r-levi-yitzchok-of-berditchev-906"), label("person-index-r-levi-yitzchok-of-berditchev-907"), label("person-index-r-levi-yitzchok-of-berditchev-908"), label("person-index-r-levi-yitzchok-of-berditchev-909"), label("person-index-r-levi-yitzchok-of-berditchev-910"), label("person-index-r-levi-yitzchok-of-berditchev-911"), label("person-index-r-levi-yitzchok-of-berditchev-912"), label("person-index-r-levi-yitzchok-of-berditchev-913"), label("person-index-r-levi-yitzchok-of-berditchev-914"), label("person-index-r-levi-yitzchok-of-berditchev-915"), label("person-index-r-levi-yitzchok-of-berditchev-1002"), label("person-index-r-levi-yitzchok-of-berditchev-1003"), label("person-index-r-levi-yitzchok-of-berditchev-1004"), label("person-index-r-levi-yitzchok-of-berditchev-1005"), label("person-index-r-levi-yitzchok-of-berditchev-1028"), label("person-index-r-levi-yitzchok-of-berditchev-1029"), label("person-index-r-levi-yitzchok-of-berditchev-1030"), label("person-index-r-levi-yitzchok-of-berditchev-1035"), label("person-index-r-levi-yitzchok-of-berditchev-1036")))
 
-#index-row(("R’ Aryeh Levine",), (label("person-index-r-aryeh-levine-976"), label("person-index-r-aryeh-levine-977")))
+#index-row(("Levine, R’ Aryeh",), (label("person-index-r-aryeh-levine-976"), label("person-index-r-aryeh-levine-977")))
 
-#index-row(("R’ Yerucham Levovitz",), (label("person-index-r-yerucham-levovitz-299"),))
+#index-row(("Levovitz, R’ Yerucham",), (label("person-index-r-yerucham-levovitz-299"),))
 
 #index-row(("Lubavitcher Rebbe", "(R’ Menachem Mendel Schneerson)",), (label("person-index-lubavitcher-rebbe-159"), label("person-index-lubavitcher-rebbe-160"), label("person-index-lubavitcher-rebbe-701"), label("person-index-lubavitcher-rebbe-802"), label("person-index-lubavitcher-rebbe-803")))
 
@@ -16240,27 +16240,27 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Malbim",), (label("person-index-malbim-789"), label("person-index-malbim-1183"), label("person-index-malbim-1184"), label("person-index-malbim-1185"), label("person-index-malbim-1186"), label("person-index-malbim-1187"), label("person-index-malbim-1188"), label("person-index-malbim-1189"), label("person-index-malbim-1190"), label("person-index-malbim-1191"), label("person-index-malbim-1192"), label("person-index-malbim-1193"), label("person-index-malbim-1194")))
 
-#index-row(("Asher Malool",), (label("person-index-asher-malool-1169"),))
+#index-row(("Malool, Asher",), (label("person-index-asher-malool-1169"),))
 
 #index-row(("Man of Faith",), (label("person-index-man-of-faith-203"),))
 
-#index-row(("Chaim Mandel",), (label("person-index-chaim-mandel-400"),))
+#index-row(("Mandel, Chaim",), (label("person-index-chaim-mandel-400"),))
 
-#index-row(("R’ Shmuel Marcus",), (label("person-index-r-shmuel-marcus-1155"),))
+#index-row(("Marcus, R’ Shmuel",), (label("person-index-r-shmuel-marcus-1155"),))
 
-#index-row(("R’ Meir’l of Premishlan",), (label("person-index-r-meir-l-of-premishlan-95"), label("person-index-r-meir-l-of-premishlan-96"), label("person-index-r-meir-l-of-premishlan-97"), label("person-index-r-meir-l-of-premishlan-98"), label("person-index-r-meir-l-of-premishlan-118"), label("person-index-r-meir-l-of-premishlan-173"), label("person-index-r-meir-l-of-premishlan-174"), label("person-index-r-meir-l-of-premishlan-1064"), label("person-index-r-meir-l-of-premishlan-1065"), label("person-index-r-meir-l-of-premishlan-1066")))
+#index-row(("Meir, R’ Meir’l of Premishlan",), (label("person-index-r-meir-l-of-premishlan-95"), label("person-index-r-meir-l-of-premishlan-96"), label("person-index-r-meir-l-of-premishlan-97"), label("person-index-r-meir-l-of-premishlan-98"), label("person-index-r-meir-l-of-premishlan-118"), label("person-index-r-meir-l-of-premishlan-173"), label("person-index-r-meir-l-of-premishlan-174"), label("person-index-r-meir-l-of-premishlan-1064"), label("person-index-r-meir-l-of-premishlan-1065"), label("person-index-r-meir-l-of-premishlan-1066")))
 
-#index-row(("R’ Dovid Meisels",), (label("person-index-r-dovid-meisels-1044"),))
+#index-row(("Meisels, R’ Dovid",), (label("person-index-r-dovid-meisels-1044"),))
 
-#index-row(("R’ Mendel of Rimanov",), (label("person-index-r-mendel-of-rimanov-548"), label("person-index-r-mendel-of-rimanov-1006")))
+#index-row(("Mendel, R’ of Rimanov",), (label("person-index-r-mendel-of-rimanov-548"), label("person-index-r-mendel-of-rimanov-1006")))
 
-#index-row(("R’ Mendelson",), (label("person-index-r-mendelson-507"), label("person-index-r-mendelson-508"), label("person-index-r-mendelson-509")))
+#index-row(("Mendelson, R’",), (label("person-index-r-mendelson-507"), label("person-index-r-mendelson-508"), label("person-index-r-mendelson-509")))
 
 #index-row(("Meshech Chochma",), (label("person-index-meshech-chochma-1046"),))
 
-#index-row(("R’ Alter Metzger",), (label("person-index-r-alter-metzger-804"),))
+#index-row(("Metzger, R’ Alter",), (label("person-index-r-alter-metzger-804"),))
 
-#index-row(("R’ Avigdor Miller",), (label("person-index-r-avigdor-miller-266"), label("person-index-r-avigdor-miller-422"), label("person-index-r-avigdor-miller-593"), label("person-index-r-avigdor-miller-845")))
+#index-row(("Miller, R’ Avigdor",), (label("person-index-r-avigdor-miller-266"), label("person-index-r-avigdor-miller-422"), label("person-index-r-avigdor-miller-593"), label("person-index-r-avigdor-miller-845")))
 
 #index-row(("Minchas Chein",), (label("person-index-minchas-chain-220"), label("person-index-minchas-chain-878"), label("person-index-minchas-chain-879")))
 
@@ -16268,37 +16268,37 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Munkatcher Rebbe",), (label("person-index-munkatcher-rebbe-80"), label("person-index-munkatcher-rebbe-81"), label("person-index-munkatcher-rebbe-473"), label("person-index-munkatcher-rebbe-474"), label("person-index-munkatcher-rebbe-766"), label("person-index-munkatcher-rebbe-767"), label("person-index-munkatcher-rebbe-795"), label("person-index-munkatcher-rebbe-796"), label("person-index-munkatcher-rebbe-797")))
 
-#index-row(("R’ Nachman",), (label("person-index-r-nachman-28"),))
+#index-row(("Nachman, R’",), (label("person-index-r-nachman-28"),))
 
-#index-row(("R’ Naftali of Ropshitz",), (label("person-index-r-naftali-of-ropshitz-1007"),))
+#index-row(("Naftali, R’ of Ropshitz",), (label("person-index-r-naftali-of-ropshitz-1007"),))
 
-#index-row(("R’ Shmelke of Nikolsburg",), (label("person-index-reb-shmelke-of-nikolsburg-29"), label("person-index-reb-shmelke-of-nikolsburg-30")))
+#index-row(("Nikolsburg, R’ Shmelke of",), (label("person-index-reb-shmelke-of-nikolsburg-29"), label("person-index-reb-shmelke-of-nikolsburg-30")))
 
 #index-row(("Nodeh Byehuda",), (label("person-index-nodeh-byehuda-643"), label("person-index-nodeh-byehuda-884"), label("person-index-nodeh-byehuda-885"), label("person-index-nodeh-byehuda-886"), label("person-index-nodeh-byehuda-887"), label("person-index-nodeh-byehuda-888"), label("person-index-nodeh-byehuda-889"), label("person-index-nodeh-byehuda-890"), label("person-index-nodeh-byehuda-891"), label("person-index-nodeh-byehuda-892"), label("person-index-nodeh-byehuda-893"), label("person-index-nodeh-byehuda-894"), label("person-index-nodeh-byehuda-895"), label("person-index-nodeh-byehuda-896"), label("person-index-nodeh-byehuda-897"), label("person-index-nodeh-byehuda-898")))
 
-#index-row(("R’ Moshe Oelbaum",), (label("person-index-r-moshe-oelbaum-552"),))
+#index-row(("Oelbaum, R’ Moshe",), (label("person-index-r-moshe-oelbaum-552"),))
 
-#index-row(("R’ Noach Isaac Oelbaum",), (label("person-index-r-noach-isaac-oelbaum-31"), label("person-index-r-noach-isaac-oelbaum-75"), label("person-index-r-noach-isaac-oelbaum-82"), label("person-index-r-noach-isaac-oelbaum-99"), label("person-index-r-noach-isaac-oelbaum-106"), label("person-index-r-noach-isaac-oelbaum-123"), label("person-index-r-noach-isaac-oelbaum-144"), label("person-index-r-noach-isaac-oelbaum-180"), label("person-index-r-noach-isaac-oelbaum-186"), label("person-index-r-noach-isaac-oelbaum-221"), label("person-index-r-noach-isaac-oelbaum-238"), label("person-index-r-noach-isaac-oelbaum-295"), label("person-index-r-noach-isaac-oelbaum-296"), label("person-index-r-noach-isaac-oelbaum-297"), label("person-index-r-noach-isaac-oelbaum-350"), label("person-index-r-noach-isaac-oelbaum-355"), label("person-index-r-noach-isaac-oelbaum-366"), label("person-index-r-noach-isaac-oelbaum-401"), label("person-index-r-noach-isaac-oelbaum-402"), label("person-index-r-noach-isaac-oelbaum-403"), label("person-index-r-noach-isaac-oelbaum-475"), label("person-index-r-noach-isaac-oelbaum-476"), label("person-index-r-noach-isaac-oelbaum-495"), label("person-index-r-noach-isaac-oelbaum-498"), label("person-index-r-noach-isaac-oelbaum-499"), label("person-index-r-noach-isaac-oelbaum-500"), label("person-index-r-noach-isaac-oelbaum-577"), label("person-index-r-noach-isaac-oelbaum-617"), label("person-index-r-noach-isaac-oelbaum-618"), label("person-index-r-noach-isaac-oelbaum-644"), label("person-index-r-noach-isaac-oelbaum-668"), label("person-index-r-noach-isaac-oelbaum-669"), label("person-index-r-noach-isaac-oelbaum-722"), label("person-index-r-noach-isaac-oelbaum-880"), label("person-index-r-noach-isaac-oelbaum-881"), label("person-index-r-noach-isaac-oelbaum-956"), label("person-index-r-noach-isaac-oelbaum-992"), label("person-index-r-noach-isaac-oelbaum-1080"), label("person-index-r-noach-isaac-oelbaum-1130"), label("person-index-r-noach-isaac-oelbaum-1195")))
+#index-row(("Oelbaum, R’ Noach Isaac",), (label("person-index-r-noach-isaac-oelbaum-31"), label("person-index-r-noach-isaac-oelbaum-75"), label("person-index-r-noach-isaac-oelbaum-82"), label("person-index-r-noach-isaac-oelbaum-99"), label("person-index-r-noach-isaac-oelbaum-106"), label("person-index-r-noach-isaac-oelbaum-123"), label("person-index-r-noach-isaac-oelbaum-144"), label("person-index-r-noach-isaac-oelbaum-180"), label("person-index-r-noach-isaac-oelbaum-186"), label("person-index-r-noach-isaac-oelbaum-221"), label("person-index-r-noach-isaac-oelbaum-238"), label("person-index-r-noach-isaac-oelbaum-295"), label("person-index-r-noach-isaac-oelbaum-296"), label("person-index-r-noach-isaac-oelbaum-297"), label("person-index-r-noach-isaac-oelbaum-350"), label("person-index-r-noach-isaac-oelbaum-355"), label("person-index-r-noach-isaac-oelbaum-366"), label("person-index-r-noach-isaac-oelbaum-401"), label("person-index-r-noach-isaac-oelbaum-402"), label("person-index-r-noach-isaac-oelbaum-403"), label("person-index-r-noach-isaac-oelbaum-475"), label("person-index-r-noach-isaac-oelbaum-476"), label("person-index-r-noach-isaac-oelbaum-495"), label("person-index-r-noach-isaac-oelbaum-498"), label("person-index-r-noach-isaac-oelbaum-499"), label("person-index-r-noach-isaac-oelbaum-500"), label("person-index-r-noach-isaac-oelbaum-577"), label("person-index-r-noach-isaac-oelbaum-617"), label("person-index-r-noach-isaac-oelbaum-618"), label("person-index-r-noach-isaac-oelbaum-644"), label("person-index-r-noach-isaac-oelbaum-668"), label("person-index-r-noach-isaac-oelbaum-669"), label("person-index-r-noach-isaac-oelbaum-722"), label("person-index-r-noach-isaac-oelbaum-880"), label("person-index-r-noach-isaac-oelbaum-881"), label("person-index-r-noach-isaac-oelbaum-956"), label("person-index-r-noach-isaac-oelbaum-992"), label("person-index-r-noach-isaac-oelbaum-1080"), label("person-index-r-noach-isaac-oelbaum-1130"), label("person-index-r-noach-isaac-oelbaum-1195")))
 
 #index-row(("Ohel Torah",), (label("person-index-ohel-torah-48"),))
 
-#index-row(("Mr. Olasky",), (label("person-index-mr-olasky-519"), label("person-index-mr-olasky-520"), label("person-index-mr-olasky-521"), label("person-index-mr-olasky-522")))
+#index-row(("Olasky, Mr.",), (label("person-index-mr-olasky-519"), label("person-index-mr-olasky-520"), label("person-index-mr-olasky-521"), label("person-index-mr-olasky-522")))
 
 #index-row(("Otzer Plo’os HaTorah",), (label("person-index-otzer-plo-os-hatorah-62"), label("person-index-otzer-plo-os-hatorah-83"), label("person-index-otzer-plo-os-hatorah-90"), label("person-index-otzer-plo-os-hatorah-91"), label("person-index-otzer-plo-os-hatorah-321"), label("person-index-otzer-plo-os-hatorah-322"), label("person-index-otzer-plo-os-hatorah-323"), label("person-index-otzer-plo-os-hatorah-324"), label("person-index-otzer-plo-os-hatorah-477"), label("person-index-otzer-plo-os-hatorah-478"), label("person-index-otzer-plo-os-hatorah-479"), label("person-index-otzer-plo-os-hatorah-529"), label("person-index-otzer-plo-os-hatorah-645"), label("person-index-otzer-plo-os-hatorah-646"), label("person-index-otzer-plo-os-hatorah-679"), label("person-index-otzer-plo-os-hatorah-727"), label("person-index-otzer-plo-os-hatorah-761"), label("person-index-otzer-plo-os-hatorah-768"), label("person-index-otzer-plo-os-hatorah-798"), label("person-index-otzer-plo-os-hatorah-832")))
 
-#index-row(("R’ Avraham Pam",), (label("person-index-r-avraham-pam-416"), label("person-index-r-avraham-pam-417"), label("person-index-r-avraham-pam-418"), label("person-index-r-avraham-pam-450"), label("person-index-r-avraham-pam-451"), label("person-index-r-avraham-pam-703"), label("person-index-r-avraham-pam-1081"), label("person-index-r-avraham-pam-1082"), label("person-index-r-avraham-pam-1083"), label("person-index-r-avraham-pam-1084"), label("person-index-r-avraham-pam-1085"), label("person-index-r-avraham-pam-1086"), label("person-index-r-avraham-pam-1087"), label("person-index-r-avraham-pam-1088")))
+#index-row(("Pam, R’ Avraham",), (label("person-index-r-avraham-pam-416"), label("person-index-r-avraham-pam-417"), label("person-index-r-avraham-pam-418"), label("person-index-r-avraham-pam-450"), label("person-index-r-avraham-pam-451"), label("person-index-r-avraham-pam-703"), label("person-index-r-avraham-pam-1081"), label("person-index-r-avraham-pam-1082"), label("person-index-r-avraham-pam-1083"), label("person-index-r-avraham-pam-1084"), label("person-index-r-avraham-pam-1085"), label("person-index-r-avraham-pam-1086"), label("person-index-r-avraham-pam-1087"), label("person-index-r-avraham-pam-1088")))
 
-#index-row(("R’ Chaim Alter Panet",), (label("person-index-r-chaim-alter-panet-342"),))
+#index-row(("Panet, R’ Chaim Alter",), (label("person-index-r-chaim-alter-panet-342"),))
 
 #index-row(("Peninim MiShulchan Gavoa",), (label("person-index-peninim-mishulchan-gavoa-367"), label("person-index-peninim-mishulchan-gavoa-368"), label("person-index-peninim-mishulchan-gavoa-430"), label("person-index-peninim-mishulchan-gavoa-694")))
 
-#index-row(("R’ Itzele Peterburger",), (label("person-index-rav-itzele-peterburger-404"),))
+#index-row(("Peterburger, R’ Itzele",), (label("person-index-rav-itzele-peterburger-404"),))
 
-#index-row(("R’ Shimshon Pincus",), (label("person-index-r-shimshon-pincus-869"), label("person-index-r-shimshon-pincus-870")))
+#index-row(("Pincus, R’ Shimshon",), (label("person-index-r-shimshon-pincus-869"), label("person-index-r-shimshon-pincus-870")))
 
 #index-row(("Pirkei Drabi Eliezer",), (label("person-index-pirkei-drabi-eliezer-92"), label("person-index-pirkei-drabi-eliezer-93"), label("person-index-pirkei-drabi-eliezer-1161")))
 
-#index-row(("R’ Mendy Pollak",), (label("person-index-r-mendy-pollak-530"), label("person-index-r-mendy-pollak-799")))
+#index-row(("Pollak, R’ Mendy",), (label("person-index-r-mendy-pollak-530"), label("person-index-r-mendy-pollak-799")))
 
 #index-row(("Pri Eitz Chaim",), (label("person-index-pri-eitz-chaim-723"),))
 
@@ -16312,7 +16312,7 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("R’ Guttman",), (label("person-index-r-guttman-452"), label("person-index-r-guttman-453")))
 
-#index-row(("R’ Baruch Rabinowitz",), (label("person-index-r-baruch-rabinowitz-1089"),))
+#index-row(("Rabinowitz, R’ Baruch",), (label("person-index-r-baruch-rabinowitz-1089"),))
 
 #index-row(("Raivid",), (label("person-index-raivid-204"), label("person-index-raivid-205"), label("person-index-raivid-206"), label("person-index-raivid-1196")))
 
@@ -16324,7 +16324,7 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Ramchal",), (label("person-index-ramchal-1202"), label("person-index-ramchal-1203"), label("person-index-ramchal-1204"), label("person-index-ramchal-1205"), label("person-index-ramchal-1206"), label("person-index-ramchal-1207"), label("person-index-ramchal-1208"), label("person-index-ramchal-1209"), label("person-index-ramchal-1210"), label("person-index-ramchal-1211"), label("person-index-ramchal-1212"), label("person-index-ramchal-1213"), label("person-index-ramchal-1214"), label("person-index-ramchal-1215"), label("person-index-ramchal-1216"), label("person-index-ramchal-1217")))
 
-#index-row(("R’ Rapps",), (label("person-index-rabbi-rapps-1164"), label("person-index-rabbi-rapps-1165"), label("person-index-rabbi-rapps-1166")))
+#index-row(("Rapps, R’",), (label("person-index-rabbi-rapps-1164"), label("person-index-rabbi-rapps-1165"), label("person-index-rabbi-rapps-1166")))
 
 #index-row(("Rashash",), (label("person-index-rashash-784"),))
 
@@ -16338,41 +16338,41 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Ritva",), (label("person-index-ritva-785"),))
 
-#index-row(("R’ Bernard Rosenzweig",), (label("person-index-r-rosenzweig-5"),))
+#index-row(("Rosenzweig, R’ Bernard",), (label("person-index-r-rosenzweig-5"),))
 
 #index-row(("Rosh",), (label("person-index-rosh-833"), label("person-index-rosh-834"), label("person-index-rosh-835"), label("person-index-rosh-836"), label("person-index-rosh-866"), label("person-index-rosh-973"), label("person-index-rosh-1031"), label("person-index-rosh-1032"), label("person-index-rosh-1058")))
 
-#index-row(("R’ Chaim Leibish Rottenberg",), (label("person-index-r-chaim-leibish-rottenberg-728"), label("person-index-r-chaim-leibish-rottenberg-729")))
+#index-row(("Rottenberg, R’ Chaim Leibish",), (label("person-index-r-chaim-leibish-rottenberg-728"), label("person-index-r-chaim-leibish-rottenberg-729")))
 
 #index-row(("Ruzhiner",), (label("person-index-the-ruzhiner-33"), label("person-index-the-ruzhiner-1067"), label("person-index-the-ruzhiner-1068")))
 
-#index-row(("R’ Mordechai Sabato",), (label("person-index-r-mordechai-sabato-1156"), label("person-index-r-mordechai-sabato-1157")))
+#index-row(("Sabato, R’ Mordechai",), (label("person-index-r-mordechai-sabato-1156"), label("person-index-r-mordechai-sabato-1157")))
 
-#index-row(("R’ Yisroel Salanter",), (label("person-index-r-yisroel-salanter-190"),))
+#index-row(("Salanter, R’ Yisroel",), (label("person-index-r-yisroel-salanter-190"),))
 
 #index-row(("Sanzer Rav",), (label("person-index-the-sanzer-rav-1131"),))
 
-#index-row(("R’ Herschel Schachter",), (label("person-index-r-herschel-schachter-77"), label("person-index-r-herschel-schachter-843"), label("person-index-r-herschel-schachter-1144")))
+#index-row(("Schachter, R’ Herschel",), (label("person-index-r-herschel-schachter-77"), label("person-index-r-herschel-schachter-843"), label("person-index-r-herschel-schachter-1144")))
 
-#index-row(("R’ Fabian Schonfeld",), (label("person-index-r-fabian-schonfeld-363"),))
+#index-row(("Schonfeld, R’ Fabian",), (label("person-index-r-fabian-schonfeld-363"),))
 
-#index-row(("R’ Avraham Schorr",), (label("person-index-r-avraham-schorr-1162"),))
+#index-row(("Schorr, R’ Avraham",), (label("person-index-r-avraham-schorr-1162"),))
 
-#index-row(("R’ Gedalia Schorr",), (label("person-index-r-gedalia-schorr-252"), label("person-index-r-gedalia-schorr-253"), label("person-index-r-gedalia-schorr-254"), label("person-index-r-gedalia-schorr-655"), label("person-index-r-gedalia-schorr-656"), label("person-index-r-gedalia-schorr-657"), label("person-index-r-gedalia-schorr-993"), label("person-index-r-gedalia-schorr-1163")))
+#index-row(("Schorr, R’ Gedalia",), (label("person-index-r-gedalia-schorr-252"), label("person-index-r-gedalia-schorr-253"), label("person-index-r-gedalia-schorr-254"), label("person-index-r-gedalia-schorr-655"), label("person-index-r-gedalia-schorr-656"), label("person-index-r-gedalia-schorr-657"), label("person-index-r-gedalia-schorr-993"), label("person-index-r-gedalia-schorr-1163")))
 
-#index-row(("R’ Moshe Schwab",), (label("person-index-r-moshe-schwab-1049"), label("person-index-r-moshe-schwab-1050"), label("person-index-r-moshe-schwab-1051")))
+#index-row(("Schwab, R’ Moshe",), (label("person-index-r-moshe-schwab-1049"), label("person-index-r-moshe-schwab-1050"), label("person-index-r-moshe-schwab-1051")))
 
-#index-row(("R’ Shimshon Schwab",), (label("person-index-rav-shimshon-schwab-978"),))
+#index-row(("Schwab, R’ Shimshon",), (label("person-index-rav-shimshon-schwab-978"),))
 
-#index-row(("R’ Sholom Schwadron",), (label("person-index-r-sholom-schwadron-720"), label("person-index-r-sholom-schwadron-1024")))
+#index-row(("Schwadron, R’ Sholom",), (label("person-index-r-sholom-schwadron-720"), label("person-index-r-sholom-schwadron-1024")))
 
-#index-row(("R’ Yehuda Zev Segal",), (label("person-index-r-yehuda-zev-segal-1115"), label("person-index-r-yehuda-zev-segal-1116"), label("person-index-r-yehuda-zev-segal-1117"), label("person-index-r-yehuda-zev-segal-1118")))
+#index-row(("Segal, R’ Yehuda Zev",), (label("person-index-r-yehuda-zev-segal-1115"), label("person-index-r-yehuda-zev-segal-1116"), label("person-index-r-yehuda-zev-segal-1117"), label("person-index-r-yehuda-zev-segal-1118")))
 
-#index-row(("R’ Pinchas Zalman Segol",), (label("person-index-r-pinchas-zalman-segol-762"),))
+#index-row(("Segol, R’ Pinchas Zalman",), (label("person-index-r-pinchas-zalman-segol-762"),))
 
 #index-row(("Shach",), (label("person-index-shach-213"), label("person-index-shach-837"), label("person-index-shach-838"), label("person-index-shach-839"), label("person-index-shach-840"), label("person-index-shach-841"), label("person-index-shach-867")))
 
-#index-row(("R’ Meir Shapiro",), (label("person-index-r-meir-shapiro-629"), label("person-index-r-meir-shapiro-630"), label("person-index-r-meir-shapiro-631")))
+#index-row(("Shapiro, R’ Meir",), (label("person-index-r-meir-shapiro-629"), label("person-index-r-meir-shapiro-630"), label("person-index-r-meir-shapiro-631")))
 
 #index-row(("Sharei Teshuva",), (label("person-index-sharei-teshuva-594"),))
 
@@ -16380,53 +16380,53 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Shem Mishmuel",), (label("person-index-shem-mishmuel-333"), label("person-index-shem-mishmuel-334"), label("person-index-shem-mishmuel-1072"), label("person-index-shem-mishmuel-1073")))
 
-#index-row(("R’ Simcha Sheps",), (label("person-index-r-simcha-sheps-239"), label("person-index-r-simcha-sheps-248"), label("person-index-r-simcha-sheps-346"), label("person-index-r-simcha-sheps-531"), label("person-index-r-simcha-sheps-820"), label("person-index-r-simcha-sheps-821"), label("person-index-r-simcha-sheps-822"), label("person-index-r-simcha-sheps-823")))
+#index-row(("Sheps, R’ Simcha",), (label("person-index-r-simcha-sheps-239"), label("person-index-r-simcha-sheps-248"), label("person-index-r-simcha-sheps-346"), label("person-index-r-simcha-sheps-531"), label("person-index-r-simcha-sheps-820"), label("person-index-r-simcha-sheps-821"), label("person-index-r-simcha-sheps-822"), label("person-index-r-simcha-sheps-823")))
 
-#index-row(("R’ Moshe Sherer",), (label("person-index-r-moshe-sherer-984"),))
+#index-row(("Sherer, R’ Moshe",), (label("person-index-r-moshe-sherer-984"),))
 
-#index-row(("R’ Shimon Bar Yochai",), (label("person-index-r-shimon-bar-yochai-227"), label("person-index-r-shimon-bar-yochai-932"), label("person-index-r-shimon-bar-yochai-933"), label("person-index-r-shimon-bar-yochai-934"), label("person-index-r-shimon-bar-yochai-949"), label("person-index-r-shimon-bar-yochai-950"), label("person-index-r-shimon-bar-yochai-951"), label("person-index-r-shimon-bar-yochai-952")))
+#index-row(("Shimon, R’ Bar Yochai",), (label("person-index-r-shimon-bar-yochai-227"), label("person-index-r-shimon-bar-yochai-932"), label("person-index-r-shimon-bar-yochai-933"), label("person-index-r-shimon-bar-yochai-934"), label("person-index-r-shimon-bar-yochai-949"), label("person-index-r-shimon-bar-yochai-950"), label("person-index-r-shimon-bar-yochai-951"), label("person-index-r-shimon-bar-yochai-952")))
 
 #index-row(("Shiniver Rebbe", "(R’ Yechezkel Shraga)",), (label("person-index-shiniver-rebbe-481"), label("person-index-shiniver-rebbe-482"), label("person-index-shiniver-rebbe-926"), label("person-index-shiniver-rebbe-927"), label("person-index-shiniver-rebbe-935"), label("person-index-shiniver-rebbe-936"), label("person-index-shiniver-rebbe-937"), label("person-index-shiniver-rebbe-938")))
 
-#index-row(("R’ Chaim Shmuelevitz",), (label("person-index-r-chaim-shmuelevitz-191"), label("person-index-r-chaim-shmuelevitz-192"), label("person-index-r-chaim-shmuelevitz-228")))
+#index-row(("Shmuelevitz, R’ Chaim",), (label("person-index-r-chaim-shmuelevitz-191"), label("person-index-r-chaim-shmuelevitz-192"), label("person-index-r-chaim-shmuelevitz-228")))
 
-#index-row(("R’ Aharon Leib Shteinman",), (label("person-index-r-aharon-leib-shteinman-129"), label("person-index-r-aharon-leib-shteinman-130"), label("person-index-r-aharon-leib-shteinman-131"), label("person-index-r-aharon-leib-shteinman-132"), label("person-index-r-aharon-leib-shteinman-603"), label("person-index-r-aharon-leib-shteinman-604"), label("person-index-r-aharon-leib-shteinman-605"), label("person-index-r-aharon-leib-shteinman-606"), label("person-index-r-aharon-leib-shteinman-607"), label("person-index-r-aharon-leib-shteinman-608"), label("person-index-r-aharon-leib-shteinman-609"), label("person-index-r-aharon-leib-shteinman-610")))
+#index-row(("Shteinman, R’ Aharon Leib",), (label("person-index-r-aharon-leib-shteinman-129"), label("person-index-r-aharon-leib-shteinman-130"), label("person-index-r-aharon-leib-shteinman-131"), label("person-index-r-aharon-leib-shteinman-132"), label("person-index-r-aharon-leib-shteinman-603"), label("person-index-r-aharon-leib-shteinman-604"), label("person-index-r-aharon-leib-shteinman-605"), label("person-index-r-aharon-leib-shteinman-606"), label("person-index-r-aharon-leib-shteinman-607"), label("person-index-r-aharon-leib-shteinman-608"), label("person-index-r-aharon-leib-shteinman-609"), label("person-index-r-aharon-leib-shteinman-610")))
 
-#index-row(("R’ Simcha Bunim of Peshischa",), (label("person-index-r-simcha-bunim-of-peshischa-831"),))
+#index-row(("Simcha, R’ Bunim of Peshischa",), (label("person-index-r-simcha-bunim-of-peshischa-831"),))
 
-#index-row(("R’ Yoel Sirkis (Bach)",), (label("person-index-r-yoel-sirkis-731"), label("person-index-r-yoel-sirkis-732"), label("person-index-r-yoel-sirkis-733"), label("person-index-r-yoel-sirkis-734"), label("person-index-r-yoel-sirkis-735"), label("person-index-r-yoel-sirkis-736"), label("person-index-r-yoel-sirkis-737"), label("person-index-r-yoel-sirkis-738"), label("person-index-r-yoel-sirkis-739"), label("person-index-r-yoel-sirkis-740"), label("person-index-r-yoel-sirkis-741"), label("person-index-r-yoel-sirkis-742"), label("person-index-r-yoel-sirkis-743"), label("person-index-r-yoel-sirkis-744"), label("person-index-r-yoel-sirkis-745"), label("person-index-r-yoel-sirkis-746"), label("person-index-r-yoel-sirkis-747")))
+#index-row(("Sirkis, R’ Yoel (Bach)",), (label("person-index-r-yoel-sirkis-731"), label("person-index-r-yoel-sirkis-732"), label("person-index-r-yoel-sirkis-733"), label("person-index-r-yoel-sirkis-734"), label("person-index-r-yoel-sirkis-735"), label("person-index-r-yoel-sirkis-736"), label("person-index-r-yoel-sirkis-737"), label("person-index-r-yoel-sirkis-738"), label("person-index-r-yoel-sirkis-739"), label("person-index-r-yoel-sirkis-740"), label("person-index-r-yoel-sirkis-741"), label("person-index-r-yoel-sirkis-742"), label("person-index-r-yoel-sirkis-743"), label("person-index-r-yoel-sirkis-744"), label("person-index-r-yoel-sirkis-745"), label("person-index-r-yoel-sirkis-746"), label("person-index-r-yoel-sirkis-747")))
 
-#index-row(("R’ Ahron Soloveichik",), (label("person-index-r-ahron-soloveichik-351"), label("person-index-r-ahron-soloveichik-555")))
+#index-row(("Soloveichik, R’ Ahron",), (label("person-index-r-ahron-soloveichik-351"), label("person-index-r-ahron-soloveichik-555")))
 
-#index-row(("R’ Yoshe Ber Soloveitchik",), (label("person-index-r-yoshe-ber-6"), label("person-index-r-yoshe-ber-42"), label("person-index-r-yoshe-ber-162"), label("person-index-r-yoshe-ber-163"), label("person-index-r-yoshe-ber-214"), label("person-index-r-yoshe-ber-215"), label("person-index-r-yoshe-ber-216"), label("person-index-r-yoshe-ber-217"), label("person-index-r-yoshe-ber-812"), label("person-index-r-yoshe-ber-813")))
+#index-row(("Soloveitchik, R’ Yoshe Ber",), (label("person-index-r-yoshe-ber-6"), label("person-index-r-yoshe-ber-42"), label("person-index-r-yoshe-ber-162"), label("person-index-r-yoshe-ber-163"), label("person-index-r-yoshe-ber-214"), label("person-index-r-yoshe-ber-215"), label("person-index-r-yoshe-ber-216"), label("person-index-r-yoshe-ber-217"), label("person-index-r-yoshe-ber-812"), label("person-index-r-yoshe-ber-813")))
 
-#index-row(("R’ Shlomo Zalman Sonnenfeld",), (label("person-index-r-shlomo-zalman-sonnenfeld-532"),))
+#index-row(("Sonnenfeld, R’ Shlomo Zalman",), (label("person-index-r-shlomo-zalman-sonnenfeld-532"),))
 
-#index-row(("R’ Yosef Chaim Sonnenfeld",), (label("person-index-r-yosef-chaim-sonnenfeld-240"), label("person-index-r-yosef-chaim-sonnenfeld-246"), label("person-index-r-yosef-chaim-sonnenfeld-361"), label("person-index-r-yosef-chaim-sonnenfeld-457"), label("person-index-r-yosef-chaim-sonnenfeld-458"), label("person-index-r-yosef-chaim-sonnenfeld-459"), label("person-index-r-yosef-chaim-sonnenfeld-460"), label("person-index-r-yosef-chaim-sonnenfeld-461"), label("person-index-r-yosef-chaim-sonnenfeld-462"), label("person-index-r-yosef-chaim-sonnenfeld-533"), label("person-index-r-yosef-chaim-sonnenfeld-534"), label("person-index-r-yosef-chaim-sonnenfeld-535"), label("person-index-r-yosef-chaim-sonnenfeld-536"), label("person-index-r-yosef-chaim-sonnenfeld-537"), label("person-index-r-yosef-chaim-sonnenfeld-538"), label("person-index-r-yosef-chaim-sonnenfeld-539"), label("person-index-r-yosef-chaim-sonnenfeld-540"), label("person-index-r-yosef-chaim-sonnenfeld-541"), label("person-index-r-yosef-chaim-sonnenfeld-542"), label("person-index-r-yosef-chaim-sonnenfeld-875"), label("person-index-r-yosef-chaim-sonnenfeld-876"), label("person-index-r-yosef-chaim-sonnenfeld-877")))
+#index-row(("Sonnenfeld, R’ Yosef Chaim",), (label("person-index-r-yosef-chaim-sonnenfeld-240"), label("person-index-r-yosef-chaim-sonnenfeld-246"), label("person-index-r-yosef-chaim-sonnenfeld-361"), label("person-index-r-yosef-chaim-sonnenfeld-457"), label("person-index-r-yosef-chaim-sonnenfeld-458"), label("person-index-r-yosef-chaim-sonnenfeld-459"), label("person-index-r-yosef-chaim-sonnenfeld-460"), label("person-index-r-yosef-chaim-sonnenfeld-461"), label("person-index-r-yosef-chaim-sonnenfeld-462"), label("person-index-r-yosef-chaim-sonnenfeld-533"), label("person-index-r-yosef-chaim-sonnenfeld-534"), label("person-index-r-yosef-chaim-sonnenfeld-535"), label("person-index-r-yosef-chaim-sonnenfeld-536"), label("person-index-r-yosef-chaim-sonnenfeld-537"), label("person-index-r-yosef-chaim-sonnenfeld-538"), label("person-index-r-yosef-chaim-sonnenfeld-539"), label("person-index-r-yosef-chaim-sonnenfeld-540"), label("person-index-r-yosef-chaim-sonnenfeld-541"), label("person-index-r-yosef-chaim-sonnenfeld-542"), label("person-index-r-yosef-chaim-sonnenfeld-875"), label("person-index-r-yosef-chaim-sonnenfeld-876"), label("person-index-r-yosef-chaim-sonnenfeld-877")))
 
-#index-row(("R’ Zalman Sorotzkin", "(Lutzker Rav, Oznayim LaTorah)",), (label("person-index-r-zalman-sorotzkin-14"), label("person-index-r-zalman-sorotzkin-63"), label("person-index-r-zalman-sorotzkin-64"), label("person-index-r-zalman-sorotzkin-65"), label("person-index-r-zalman-sorotzkin-258"), label("person-index-r-zalman-sorotzkin-273"), label("person-index-r-zalman-sorotzkin-315"), label("person-index-r-zalman-sorotzkin-316"), label("person-index-r-zalman-sorotzkin-384"), label("person-index-r-zalman-sorotzkin-385"), label("person-index-r-zalman-sorotzkin-386"), label("person-index-r-zalman-sorotzkin-387"), label("person-index-r-zalman-sorotzkin-388"), label("person-index-r-zalman-sorotzkin-389"), label("person-index-r-zalman-sorotzkin-398"), label("person-index-r-zalman-sorotzkin-399"), label("person-index-r-zalman-sorotzkin-445"), label("person-index-r-zalman-sorotzkin-446"), label("person-index-r-zalman-sorotzkin-447"), label("person-index-r-zalman-sorotzkin-448"), label("person-index-r-zalman-sorotzkin-698"), label("person-index-r-zalman-sorotzkin-699"), label("person-index-r-zalman-sorotzkin-806")))
+#index-row(("Sorotzkin, R’ Zalman", "(Lutzker Rav, Oznayim LaTorah)",), (label("person-index-r-zalman-sorotzkin-14"), label("person-index-r-zalman-sorotzkin-63"), label("person-index-r-zalman-sorotzkin-64"), label("person-index-r-zalman-sorotzkin-65"), label("person-index-r-zalman-sorotzkin-258"), label("person-index-r-zalman-sorotzkin-273"), label("person-index-r-zalman-sorotzkin-315"), label("person-index-r-zalman-sorotzkin-316"), label("person-index-r-zalman-sorotzkin-384"), label("person-index-r-zalman-sorotzkin-385"), label("person-index-r-zalman-sorotzkin-386"), label("person-index-r-zalman-sorotzkin-387"), label("person-index-r-zalman-sorotzkin-388"), label("person-index-r-zalman-sorotzkin-389"), label("person-index-r-zalman-sorotzkin-398"), label("person-index-r-zalman-sorotzkin-399"), label("person-index-r-zalman-sorotzkin-445"), label("person-index-r-zalman-sorotzkin-446"), label("person-index-r-zalman-sorotzkin-447"), label("person-index-r-zalman-sorotzkin-448"), label("person-index-r-zalman-sorotzkin-698"), label("person-index-r-zalman-sorotzkin-699"), label("person-index-r-zalman-sorotzkin-806")))
 
-#index-row(("R’ Yitzchok Elchonon Spektor",), (label("person-index-r-yitzchok-elchonon-437"), label("person-index-r-yitzchok-elchonon-438")))
+#index-row(("Spektor, R’ Yitzchok Elchonon",), (label("person-index-r-yitzchok-elchonon-437"), label("person-index-r-yitzchok-elchonon-438")))
 
 #index-row(("Spinka Rebbe",), (label("person-index-spinka-rebbe-918"), label("person-index-spinka-rebbe-919"), label("person-index-spinka-rebbe-920"), label("person-index-spinka-rebbe-921")))
 
-#index-row(("R’ Yechiel Spiro",), (label("person-index-yechiel-spiro-985"),))
+#index-row(("Spiro, R’ Yechiel",), (label("person-index-yechiel-spiro-985"),))
 
-#index-row(("R’ Peretz Steinberg",), (label("person-index-rabbi-peretz-steinberg-724"),))
+#index-row(("Steinberg, R’ Peretz",), (label("person-index-rabbi-peretz-steinberg-724"),))
 
 #index-row(("Steipler",), (label("person-index-steipler-133"), label("person-index-steipler-234")))
 
-#index-row(("R’ Moshe Sternbuch",), (label("person-index-r-moshe-sternbuch-408"),))
+#index-row(("Sternbuch, R’ Moshe",), (label("person-index-r-moshe-sternbuch-408"),))
 
-#index-row(("R’ Aryeh Strickoff",), (label("person-index-r-aryeh-strickoff-1141"), label("person-index-r-aryeh-strickoff-1142"), label("person-index-r-aryeh-strickoff-1158")))
+#index-row(("Strickoff, R’ Aryeh",), (label("person-index-r-aryeh-strickoff-1141"), label("person-index-r-aryeh-strickoff-1142"), label("person-index-r-aryeh-strickoff-1158")))
 
 #index-row(("Tapuchei Chaim",), (label("person-index-tapuchei-chaim-343"),))
 
-#index-row(("R’ Yekusiel Yehuda Teitelbaum", "(Ba’al Yaitav Lev)",), (label("person-index-r-yekusiel-yehuda-teitelbaum-748"), label("person-index-r-yekusiel-yehuda-teitelbaum-749")))
+#index-row(("Teitelbaum, R’ Yekusiel Yehuda", "(Ba’al Yaitav Lev)",), (label("person-index-r-yekusiel-yehuda-teitelbaum-748"), label("person-index-r-yekusiel-yehuda-teitelbaum-749")))
 
-#index-row(("R’ Yoel Teitelbaum (Satmar Rebbe)",), (label("person-index-r-yoel-teitelbaum-107"), label("person-index-r-yoel-teitelbaum-164"), label("person-index-r-yoel-teitelbaum-165"), label("person-index-r-yoel-teitelbaum-750"), label("person-index-r-yoel-teitelbaum-751"), label("person-index-r-yoel-teitelbaum-1052"), label("person-index-r-yoel-teitelbaum-1099"), label("person-index-r-yoel-teitelbaum-1109")))
+#index-row(("Teitelbaum, R’ Yoel (Satmar Rebbe)",), (label("person-index-r-yoel-teitelbaum-107"), label("person-index-r-yoel-teitelbaum-164"), label("person-index-r-yoel-teitelbaum-165"), label("person-index-r-yoel-teitelbaum-750"), label("person-index-r-yoel-teitelbaum-751"), label("person-index-r-yoel-teitelbaum-1052"), label("person-index-r-yoel-teitelbaum-1099"), label("person-index-r-yoel-teitelbaum-1109")))
 
-#index-row(("R’ Moshe Tendler",), (label("person-index-rav-moshe-tendler-671"),))
+#index-row(("Tendler, R’ Moshe",), (label("person-index-rav-moshe-tendler-671"),))
 
 #index-row(("The Weekly Vort",), (label("person-index-the-weekly-vort-487"),))
 
@@ -16440,41 +16440,41 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Torah Treasures",), (label("person-index-torah-treasures-623"), label("person-index-torah-treasures-793")))
 
-#index-row(("Dovid Tribuch",), (label("person-index-dovid-tribuch-70"),))
+#index-row(("Tribuch, Dovid",), (label("person-index-dovid-tribuch-70"),))
 
-#index-row(("R’ Dr. Abraham Twerski",), (label("person-index-rabbi-dr-abraham-twerski-383"), label("person-index-rabbi-dr-abraham-twerski-429"), label("person-index-rabbi-dr-abraham-twerski-1135")))
+#index-row(("Twerski, R’ Dr. Abraham",), (label("person-index-rabbi-dr-abraham-twerski-383"), label("person-index-rabbi-dr-abraham-twerski-429"), label("person-index-rabbi-dr-abraham-twerski-1135")))
 
-#index-row(("R’ Tzadka",), (label("person-index-r-tzadka-1025"), label("person-index-r-tzadka-1026")))
+#index-row(("Tzadka, R’",), (label("person-index-r-tzadka-1025"), label("person-index-r-tzadka-1026")))
 
 #index-row(("Tziporen Shamir",), (label("person-index-tziporen-shamir-1027"),))
 
-#index-row(("R’ Tzvi Elimelech of Dinov", "(Bnei Yissaschar)",), (label("person-index-r-tzvi-elimelech-of-dinov-683"), label("person-index-r-tzvi-elimelech-of-dinov-684"), label("person-index-r-tzvi-elimelech-of-dinov-685"), label("person-index-r-tzvi-elimelech-of-dinov-686"), label("person-index-r-tzvi-elimelech-of-dinov-990"), label("person-index-r-tzvi-elimelech-of-dinov-991"), label("person-index-r-tzvi-elimelech-of-dinov-1008"), label("person-index-r-tzvi-elimelech-of-dinov-1009"), label("person-index-r-tzvi-elimelech-of-dinov-1121"), label("person-index-r-tzvi-elimelech-of-dinov-1132")))
+#index-row(("Tzvi, R’ Elimelech of Dinov", "(Bnei Yissaschar)",), (label("person-index-r-tzvi-elimelech-of-dinov-683"), label("person-index-r-tzvi-elimelech-of-dinov-684"), label("person-index-r-tzvi-elimelech-of-dinov-685"), label("person-index-r-tzvi-elimelech-of-dinov-686"), label("person-index-r-tzvi-elimelech-of-dinov-990"), label("person-index-r-tzvi-elimelech-of-dinov-991"), label("person-index-r-tzvi-elimelech-of-dinov-1008"), label("person-index-r-tzvi-elimelech-of-dinov-1009"), label("person-index-r-tzvi-elimelech-of-dinov-1121"), label("person-index-r-tzvi-elimelech-of-dinov-1132")))
 
-#index-row(("R’ Tzvi Hirsch HaKohen of Rimanov", "(R’ Hersh Mesharais)",), (label("person-index-r-tzvi-hirsch-hakohen-of-rimanov-1010"), label("person-index-r-tzvi-hirsch-hakohen-of-rimanov-1011")))
+#index-row(("Tzvi Hirsch, R’ HaKohen of Rimanov", "(R’ Hersh Mesharais)",), (label("person-index-r-tzvi-hirsch-hakohen-of-rimanov-1010"), label("person-index-r-tzvi-hirsch-hakohen-of-rimanov-1011")))
 
 #index-row(("Vilna Gaon",), (label("person-index-vilna-gaon-71"), label("person-index-vilna-gaon-72"), label("person-index-vilna-gaon-73"), label("person-index-vilna-gaon-74"), label("person-index-vilna-gaon-121"), label("person-index-vilna-gaon-236"), label("person-index-vilna-gaon-237"), label("person-index-vilna-gaon-255"), label("person-index-vilna-gaon-256"), label("person-index-vilna-gaon-257"), label("person-index-vilna-gaon-289"), label("person-index-vilna-gaon-431"), label("person-index-vilna-gaon-432"), label("person-index-vilna-gaon-433"), label("person-index-vilna-gaon-434"), label("person-index-vilna-gaon-543"), label("person-index-vilna-gaon-544"), label("person-index-vilna-gaon-632"), label("person-index-vilna-gaon-659"), label("person-index-vilna-gaon-660"), label("person-index-vilna-gaon-687"), label("person-index-vilna-gaon-688"), label("person-index-vilna-gaon-689"), label("person-index-vilna-gaon-707"), label("person-index-vilna-gaon-773"), label("person-index-vilna-gaon-774"), label("person-index-vilna-gaon-794"), label("person-index-vilna-gaon-882"), label("person-index-vilna-gaon-883"), label("person-index-vilna-gaon-1100"), label("person-index-vilna-gaon-1174")))
 
-#index-row(("R’ Chaim Vital",), (label("person-index-r-chaim-vital-1101"),))
+#index-row(("Vital, R’ Chaim",), (label("person-index-r-chaim-vital-1101"),))
 
-#index-row(("Judah Wallace",), (label("person-index-judah-wallace-523"), label("person-index-judah-wallace-524"), label("person-index-judah-wallace-525")))
+#index-row(("Wallace, Judah",), (label("person-index-judah-wallace-523"), label("person-index-judah-wallace-524"), label("person-index-judah-wallace-525")))
 
-#index-row(("R’ Elchonon Wasserman",), (label("person-index-r-elchonon-wasserman-871"), label("person-index-r-elchonon-wasserman-872")))
+#index-row(("Wasserman, R’ Elchonon",), (label("person-index-r-elchonon-wasserman-871"), label("person-index-r-elchonon-wasserman-872")))
 
-#index-row(("R’ Beryl Weisbord",), (label("person-index-r-beryl-weisbord-274"),))
+#index-row(("Weisbord, R’ Beryl",), (label("person-index-r-beryl-weisbord-274"),))
 
-#index-row(("Zeidy Weiss",), (label("person-index-zeidy-weiss-7"), label("person-index-zeidy-weiss-595"), label("person-index-zeidy-weiss-596"), label("person-index-zeidy-weiss-939")))
+#index-row(("Weiss, Zeidy",), (label("person-index-zeidy-weiss-7"), label("person-index-zeidy-weiss-595"), label("person-index-zeidy-weiss-596"), label("person-index-zeidy-weiss-939")))
 
-#index-row(("R’ Michael Dovid Weissmandl",), (label("person-index-r-michael-dovid-weissmandl-1146"), label("person-index-r-michael-dovid-weissmandl-1147"), label("person-index-r-michael-dovid-weissmandl-1148"), label("person-index-r-michael-dovid-weissmandl-1149"), label("person-index-r-michael-dovid-weissmandl-1150"), label("person-index-r-michael-dovid-weissmandl-1151"), label("person-index-r-michael-dovid-weissmandl-1152"), label("person-index-r-michael-dovid-weissmandl-1153")))
+#index-row(("Weissmandl, R’ Michael Dovid",), (label("person-index-r-michael-dovid-weissmandl-1146"), label("person-index-r-michael-dovid-weissmandl-1147"), label("person-index-r-michael-dovid-weissmandl-1148"), label("person-index-r-michael-dovid-weissmandl-1149"), label("person-index-r-michael-dovid-weissmandl-1150"), label("person-index-r-michael-dovid-weissmandl-1151"), label("person-index-r-michael-dovid-weissmandl-1152"), label("person-index-r-michael-dovid-weissmandl-1153")))
 
-#index-row(("R’ Avi Wiesenfeld",), (label("person-index-r-avi-wiesenfeld-554"),))
+#index-row(("Wiesenfeld, R’ Avi",), (label("person-index-r-avi-wiesenfeld-554"),))
 
-#index-row(("R’ Moshe Wolfson",), (label("person-index-r-moshe-wolfson-953"), label("person-index-r-moshe-wolfson-963"), label("person-index-r-moshe-wolfson-966"), label("person-index-r-moshe-wolfson-1059")))
+#index-row(("Wolfson, R’ Moshe",), (label("person-index-r-moshe-wolfson-953"), label("person-index-r-moshe-wolfson-963"), label("person-index-r-moshe-wolfson-966"), label("person-index-r-moshe-wolfson-1059")))
 
-#index-row(("R’ Yaakov of Lelov",), (label("person-index-r-yaakov-of-lelov-1038"),))
+#index-row(("Yaakov, R’ of Lelov",), (label("person-index-r-yaakov-of-lelov-1038"),))
 
-#index-row(("R’ Yaakov of Premishel",), (label("person-index-r-yaakov-of-premishel-1012"),))
+#index-row(("Yaakov, R’ of Premishel",), (label("person-index-r-yaakov-of-premishel-1012"),))
 
-#index-row(("R’ Yaakov Yitzchak of Peshischa",), (label("person-index-r-yaakov-yitzchak-of-peshischa-1039"), label("person-index-r-yaakov-yitzchak-of-peshischa-1040"), label("person-index-r-yaakov-yitzchak-of-peshischa-1041"), label("person-index-r-yaakov-yitzchak-of-peshischa-1042")))
+#index-row(("Yaakov Yitzchak of Peshischa, R’",), (label("person-index-r-yaakov-yitzchak-of-peshischa-1039"), label("person-index-r-yaakov-yitzchak-of-peshischa-1040"), label("person-index-r-yaakov-yitzchak-of-peshischa-1041"), label("person-index-r-yaakov-yitzchak-of-peshischa-1042")))
 
 #index-row(("Yaivitz",), (label("person-index-yaivitz-647"),))
 
@@ -16484,14 +16484,14 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Yismach Yisrael",), (label("person-index-yismach-yisrael-1102"), label("person-index-yismach-yisrael-1103")))
 
-#index-row(("R’ Ovadia Yosef",), (label("person-index-r-ovadia-yosef-166"), label("person-index-r-ovadia-yosef-167"), label("person-index-r-ovadia-yosef-168"), label("person-index-r-ovadia-yosef-169")))
+#index-row(("Yosef, R’ Ovadia",), (label("person-index-r-ovadia-yosef-166"), label("person-index-r-ovadia-yosef-167"), label("person-index-r-ovadia-yosef-168"), label("person-index-r-ovadia-yosef-169")))
 
-#index-row(("R’ Yossele of Torchin",), (label("person-index-r-yossele-of-torchin-1013"),))
+#index-row(("Yossele, R’ of Torchin",), (label("person-index-r-yossele-of-torchin-1013"),))
 
-#index-row(("R’ Zev of Strickov",), (label("person-index-r-zev-of-strickov-241"),))
+#index-row(("Zev, R’ of Strickov",), (label("person-index-r-zev-of-strickov-241"),))
 
-#index-row(("Zev Wolf Zicherman",), (label("person-index-zev-wolf-zicherman-648"),))
+#index-row(("Zicherman, Zev Wolf",), (label("person-index-zev-wolf-zicherman-648"),))
 
-#index-row(("R’ Yitzchok Zilberstein",), (label("person-index-r-yitzchok-zilberstein-105"), label("person-index-r-yitzchok-zilberstein-378"), label("person-index-r-yitzchok-zilberstein-379"), label("person-index-r-yitzchok-zilberstein-380"), label("person-index-r-yitzchok-zilberstein-381"), label("person-index-r-yitzchok-zilberstein-382"), label("person-index-r-yitzchok-zilberstein-578"), label("person-index-r-yitzchok-zilberstein-579"), label("person-index-r-yitzchok-zilberstein-580"), label("person-index-r-yitzchok-zilberstein-581"), label("person-index-r-yitzchok-zilberstein-829"), label("person-index-r-yitzchok-zilberstein-1000"), label("person-index-r-yitzchok-zilberstein-1001"), label("person-index-r-yitzchok-zilberstein-1154")))
+#index-row(("Zilberstein, R’ Yitzchok",), (label("person-index-r-yitzchok-zilberstein-105"), label("person-index-r-yitzchok-zilberstein-378"), label("person-index-r-yitzchok-zilberstein-379"), label("person-index-r-yitzchok-zilberstein-380"), label("person-index-r-yitzchok-zilberstein-381"), label("person-index-r-yitzchok-zilberstein-382"), label("person-index-r-yitzchok-zilberstein-578"), label("person-index-r-yitzchok-zilberstein-579"), label("person-index-r-yitzchok-zilberstein-580"), label("person-index-r-yitzchok-zilberstein-581"), label("person-index-r-yitzchok-zilberstein-829"), label("person-index-r-yitzchok-zilberstein-1000"), label("person-index-r-yitzchok-zilberstein-1001"), label("person-index-r-yitzchok-zilberstein-1154")))
 
-#index-row(("R’ Alexander Ziskind",), (label("person-index-r-alexander-ziskind-940"),))
+#index-row(("Ziskind, R’ Alexander",), (label("person-index-r-alexander-ziskind-940"),))

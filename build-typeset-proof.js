@@ -877,7 +877,7 @@ function uniqueValues(values) {
 }
 
 async function loadPersonIndex() {
-  const { loadSortDecisions, sortKey } = require("./person-index-sorting");
+  const { loadSortDecisions, sortKey, indexDisplayName } = require("./person-index-sorting");
   const sorting = await loadSortDecisions();
   let review;
 
@@ -903,7 +903,8 @@ async function loadPersonIndex() {
     }))
     .filter((person) => person.displayName && person.aliases.length > 0)
     .sort((a, b) => sortIndexDisplayName(sortKey(a, sorting)).localeCompare(sortIndexDisplayName(sortKey(b, sorting)))
-      || sortIndexDisplayName(a.displayName).localeCompare(sortIndexDisplayName(b.displayName)));
+      || sortIndexDisplayName(a.displayName).localeCompare(sortIndexDisplayName(b.displayName)))
+    .map(person => ({ ...person, indexDisplayName: indexDisplayName(person, sorting) }));
 }
 
 function escapeRegexChar(char) {
@@ -2247,7 +2248,7 @@ function renderPersonIndex(indexState) {
   for (const { person, markers } of rows) {
     const labels = markers.map(typstLabel).join(", ");
     const tuple = markers.length === 1 ? `(${labels},)` : `(${labels})`;
-    const nameLines = wrapIndexDisplayName(person.displayName)
+    const nameLines = wrapIndexDisplayName(person.indexDisplayName || person.displayName)
       .map(typstString)
       .join(", ");
     parts.push(`#index-row((${nameLines},), ${tuple})\n`);

@@ -4,7 +4,7 @@
 const fs = require("node:fs/promises");
 const path = require("node:path");
 const readline = require("node:readline");
-const { SORT_FILE, lastNameKey, loadSortDecisions } = require("./person-index-sorting");
+const { SORT_FILE, lastNameKey, indexDisplayName, loadSortDecisions } = require("./person-index-sorting");
 
 async function main() {
   const args = process.argv.slice(2);
@@ -15,7 +15,7 @@ Review every selected index name. Enter F for the full current name, L for
 last-name sorting, C for a custom sort key, or Q to quit. Press Enter after
 each choice. Parenthetical aliases are ignored when finding the last name.
 Choices save immediately to person-index-sort.json; reruns resume automatically.
---include-reviewed lets you revise saved choices. Display names stay unchanged.
+--include-reviewed lets you revise saved choices. L and C entries print surname/custom name first, followed by a comma.
 Unreviewed or renamed entries keep their current full-name sorting.`);
     return;
   }
@@ -48,7 +48,7 @@ Unreviewed or renamed entries keep their current full-name sorting.`);
         if (mode === "F") key = person.displayName;
         else if (mode === "L") key = last;
         else if (mode === "C") {
-          key = await ask("Custom sort key (surname first): ");
+          key = await ask('Custom name or full "Last name, First name" label: ');
           if (key === null) return;
           if (!key) continue;
         } else continue;
@@ -58,7 +58,7 @@ Unreviewed or renamed entries keep their current full-name sorting.`);
       const temp = `${SORT_FILE}.${process.pid}.tmp`;
       await fs.writeFile(temp, JSON.stringify(decisions, null, 2) + "\n");
       await fs.rename(temp, SORT_FILE);
-      console.log(`Saved: ${key}`);
+      console.log(`Saved: ${key}\nIndex label: ${indexDisplayName(person, decisions)}`);
     }
     console.log("\nReview complete. Rebuild the book to apply the saved sorting.");
   } finally {

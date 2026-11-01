@@ -167,7 +167,10 @@ Use `C` for a custom sort key for compound surnames or other exceptions, and
 Each answer is saved immediately in `person-index-sort.json`, keyed by the
 existing person ID. Rerunning resumes with unanswered or renamed entries.
 Use `npm run review-person-index-sorting -- --include-reviewed` to revise choices.
-The typesetting build reads this JSON and changes only the index order, not
-printed names or alias matching. Unreviewed names keep full-name sorting.
+The typesetting build reads this JSON and uses the saved choices for index order and printed labels. Last-name entries
+print as `Last name, First name`; custom entries print the custom name first
+with the remaining name after a comma. For precise custom formatting, enter
+the complete `Last name, First name` label at the C prompt. Existing choices
+are supported without re-review. Alias matching remains unchanged. Unreviewed names keep full-name sorting.
 Rebuild with `npm run build-typeset-proof -- --all --output 'Final Sefer'` to
 apply your saved choices to the PDF.

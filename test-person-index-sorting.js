@@ -4,11 +4,19 @@ const fs = require("node:fs/promises");
 const os = require("node:os");
 const path = require("node:path");
 const { spawnSync } = require("node:child_process");
-const { lastNameKey, sortKey, loadSortDecisions } = require("./person-index-sorting");
+const { lastNameKey, sortKey, indexDisplayName, loadSortDecisions } = require("./person-index-sorting");
 
 (async () => {
-  assert.equal(lastNameKey("R’ Leib Chasman (Ohr Yahel)"), "Chasman R’ Leib");
+  assert.equal(lastNameKey("R’ Leib Chasman (Ohr Yahel)"), "Chasman, R’ Leib");
   assert.equal(lastNameKey("Rashi"), "Rashi");
+  const label = (name, mode, key) => indexDisplayName({ id: "p", displayName: name }, {
+    people: { p: { displayName: name, mode, sortKey: key } },
+  });
+  assert.equal(label("R’ Leib Chasman (Ohr Yahel)", "L", "Chasman R’ Leib"), "Chasman, R’ Leib (Ohr Yahel)");
+  assert.equal(label("R’ Avraham Landau of Chekhanov", "C", "Landau R’ Avraham"), "Landau, R’ Avraham of Chekhanov");
+  assert.equal(label("R’ Tzvi Hirsch of Rimanov", "C", "Tzvi Hirsch"), "Tzvi Hirsch, R’ of Rimanov");
+  assert.equal(label("R’ David de Sola", "C", "de Sola, R’ David"), "de Sola, R’ David");
+  assert.equal(label("A Short Vort", "F", "A Short Vort"), "A Short Vort");
   const dir = await fs.mkdtemp(path.join(os.tmpdir(), "index-sorting-"));
   try {
     for (const file of ["person-index-sorting.js", "review-person-index-sorting.js"]) {
@@ -27,12 +35,12 @@ const { lastNameKey, sortKey, loadSortDecisions } = require("./person-index-sort
     const file = path.join(dir, "person-index-sort.json");
     let saved = await loadSortDecisions(file);
     assert.equal(saved.people.book.sortKey, "A Short Vort");
-    assert.equal(saved.people.person.sortKey, "Goodman R’ Aaron");
+    assert.equal(saved.people.person.sortKey, "Goodman, R’ Aaron");
     assert.equal(Object.keys(saved.people).length, 2);
     assert.match(run("c\nde Sola David\n"), /1 names to review/);
     saved = await loadSortDecisions(file);
     assert.equal(saved.people.compound.sortKey, "de Sola David");
-    assert.equal(sortKey({ id: "person", displayName: "R’ Aaron Goodman" }, saved), "Goodman R’ Aaron");
+    assert.equal(sortKey({ id: "person", displayName: "R’ Aaron Goodman" }, saved), "Goodman, R’ Aaron");
     assert.equal(sortKey({ id: "person", displayName: "Changed Name" }, saved), "Changed Name");
     assert.match(run(""), /0 names to review/);
     await fs.writeFile(file, "{broken");
