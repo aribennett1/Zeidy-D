@@ -15415,7 +15415,7 @@ particularly suited to Shabbos?
 
 Another thing that deserves to be looked at and analyzed: we know that
 in the ⁧נוסח⁩ of ⁧תפילת שבת⁩⁦,⁩ after ⁧ברכו⁩⁦,⁩ we say ⁧יוצר אור ובורא חושך עושה שלום ובורא את הכל⁩. If one looks at the source of this ⁧פסוק⁩ in the ⁧נביא⁩⁦,⁩ the ⁧פסוק⁩ actually reads ⁧יוצר אור ובורא חושך עושה שלום ובורא רע⁩. However, Chazal use ⁧ובורא את הכל⁩ rather than the pasuk's ⁧ובורא רע⁩. On Shabbos, we
-continue with ⁧יוצר הכל הכל ירוממוך סלה והכל יאמרו אין קדוש כה׳ והכל ישבחוך הכל יודוך⁩. Why this repeated emphasis on ⁧הכל⁩? And why, in ⁧נוסח אשכנז⁩⁦,⁩ is ⁧מה רבו מעשיך ה׳⁩⁦,⁩ which we say during the week, omitted from the
+continue with ⁧הכל יודוך והכל ישבחוך והכל יאמרו אין קדוש כה׳ הכל ירוממוך סלה יוצר הכל⁩. Why this repeated emphasis on ⁧הכל⁩? And why, in ⁧נוסח אשכנז⁩⁦,⁩ is ⁧מה רבו מעשיך ה׳⁩⁦,⁩ which we say during the week, omitted from the
 Shabbos ⁧פיוט⁩?
 
 The foundation of the answer is one of the most difficult questions in
