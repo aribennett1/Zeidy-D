@@ -1,0 +1,1300 @@
+{
+  "version": 1,
+  "people": {
+    "a-short-vort": {
+      "displayName": "A Short Vort",
+      "mode": "F",
+      "sortKey": "A Short Vort"
+    },
+    "ahavas-torah": {
+      "displayName": "Ahavas Torah",
+      "mode": "F",
+      "sortKey": "Ahavas Torah"
+    },
+    "alshich": {
+      "displayName": "Alshich",
+      "mode": "F",
+      "sortKey": "Alshich"
+    },
+    "alter-of-slabodka": {
+      "displayName": "Alter of Slabodka (R’ Nosson Tzvi Finkel)",
+      "mode": "F",
+      "sortKey": "Alter of Slabodka (R’ Nosson Tzvi Finkel)"
+    },
+    "apter-rav": {
+      "displayName": "Apter Rav (R’ Avraham Yehoshua Heshel)",
+      "mode": "F",
+      "sortKey": "Apter Rav (R’ Avraham Yehoshua Heshel)"
+    },
+    "ari": {
+      "displayName": "Ari",
+      "mode": "F",
+      "sortKey": "Ari"
+    },
+    "arizal": {
+      "displayName": "Arizal",
+      "mode": "F",
+      "sortKey": "Arizal"
+    },
+    "aruch-hashulchan": {
+      "displayName": "Aruch HaShulchan",
+      "mode": "F",
+      "sortKey": "Aruch HaShulchan"
+    },
+    "asher-malool": {
+      "displayName": "Asher Malool",
+      "mode": "L",
+      "sortKey": "Malool Asher"
+    },
+    "avudraham": {
+      "displayName": "Avudraham",
+      "mode": "F",
+      "sortKey": "Avudraham"
+    },
+    "baal-haturim": {
+      "displayName": "Baal Haturim",
+      "mode": "F",
+      "sortKey": "Baal Haturim"
+    },
+    "baal-shem-tov": {
+      "displayName": "Baal Shem Tov",
+      "mode": "F",
+      "sortKey": "Baal Shem Tov"
+    },
+    "bais-halevi": {
+      "displayName": "Bais Halevi",
+      "mode": "F",
+      "sortKey": "Bais Halevi"
+    },
+    "bais-shlomo": {
+      "displayName": "Bais Shlomo",
+      "mode": "F",
+      "sortKey": "Bais Shlomo"
+    },
+    "bais-yosef": {
+      "displayName": "Bais Yosef",
+      "mode": "F",
+      "sortKey": "Bais Yosef"
+    },
+    "be-er-mayim-chaim": {
+      "displayName": "Be’er Mayim Chaim",
+      "mode": "F",
+      "sortKey": "Be’er Mayim Chaim"
+    },
+    "the-belzer-rebbe": {
+      "displayName": "Belzer Rebbe",
+      "mode": "F",
+      "sortKey": "Belzer Rebbe"
+    },
+    "bobbi": {
+      "displayName": "Bobbi D",
+      "mode": "F",
+      "sortKey": "Bobbi D"
+    },
+    "bracha": {
+      "displayName": "Bracha",
+      "mode": "F",
+      "sortKey": "Bracha"
+    },
+    "brisker-rav": {
+      "displayName": "Brisker Rav",
+      "mode": "F",
+      "sortKey": "Brisker Rav"
+    },
+    "chafetz-chaim": {
+      "displayName": "Chafetz Chaim",
+      "mode": "F",
+      "sortKey": "Chafetz Chaim"
+    },
+    "chaim-mandel": {
+      "displayName": "Chaim Mandel",
+      "mode": "L",
+      "sortKey": "Mandel Chaim"
+    },
+    "chaim-shyesh-bahem": {
+      "displayName": "Chaim Shyesh BaHem",
+      "mode": "F",
+      "sortKey": "Chaim Shyesh BaHem"
+    },
+    "chanukas-hatorah-hechadash": {
+      "displayName": "Chanukas HaTorah HeChadash",
+      "mode": "F",
+      "sortKey": "Chanukas HaTorah HeChadash"
+    },
+    "chasam-sofer": {
+      "displayName": "Chasam Sofer",
+      "mode": "F",
+      "sortKey": "Chasam Sofer"
+    },
+    "the-chazon-ish": {
+      "displayName": "Chazon Ish",
+      "mode": "F",
+      "sortKey": "Chazon Ish"
+    },
+    "chida": {
+      "displayName": "Chida",
+      "mode": "F",
+      "sortKey": "Chida"
+    },
+    "chizkuni": {
+      "displayName": "Chizkuni",
+      "mode": "F",
+      "sortKey": "Chizkuni"
+    },
+    "chozeh-milublin": {
+      "displayName": "Chozeh MiLublin",
+      "mode": "F",
+      "sortKey": "Chozeh MiLublin"
+    },
+    "da-as-zekainim": {
+      "displayName": "Da’as Zekainim",
+      "mode": "F",
+      "sortKey": "Da’as Zekainim"
+    },
+    "divrei-si-ach": {
+      "displayName": "Divrei Si’ach",
+      "mode": "F",
+      "sortKey": "Divrei Si’ach"
+    },
+    "divrei-yechezkel": {
+      "displayName": "Divrei Yechezkel",
+      "mode": "F",
+      "sortKey": "Divrei Yechezkel"
+    },
+    "dovid-bennett": {
+      "displayName": "Dovid Bennett",
+      "mode": "L",
+      "sortKey": "Bennett Dovid"
+    },
+    "dovid-tribuch": {
+      "displayName": "Dovid Tribuch",
+      "mode": "L",
+      "sortKey": "Tribuch Dovid"
+    },
+    "dr-allen-goldstein": {
+      "displayName": "Dr. Allen Goldstein",
+      "mode": "L",
+      "sortKey": "Goldstein Dr. Allen"
+    },
+    "dubno-maggid": {
+      "displayName": "Dubno Maggid",
+      "mode": "F",
+      "sortKey": "Dubno Maggid"
+    },
+    "ellie-bennett": {
+      "displayName": "Ellie Bennett",
+      "mode": "L",
+      "sortKey": "Bennett Ellie"
+    },
+    "festivals-of-faith": {
+      "displayName": "Festivals of Faith",
+      "mode": "F",
+      "sortKey": "Festivals of Faith"
+    },
+    "chidushei-harim": {
+      "displayName": "Gerrer Rebbe (Chidushei HaRim, R’ Yitzchak Meir Alter)",
+      "mode": "F",
+      "sortKey": "Gerrer Rebbe (Chidushei HaRim, R’ Yitzchak Meir Alter)"
+    },
+    "imrei-emes": {
+      "displayName": "Gerrer Rebbe (Imrei Emes, R’ Avraham Mordechai Alter)",
+      "mode": "F",
+      "sortKey": "Gerrer Rebbe (Imrei Emes, R’ Avraham Mordechai Alter)"
+    },
+    "gerrer-rebbe-r-avraham-mordechai": {
+      "displayName": "Gerrer Rebbe (R’ Avraham Mordechai)",
+      "mode": "F",
+      "sortKey": "Gerrer Rebbe (R’ Avraham Mordechai)"
+    },
+    "sfas-emes": {
+      "displayName": "Gerrer Rebbe (Sfas Emes, R’ Yehudah Aryeh Leib Alter)",
+      "mode": "F",
+      "sortKey": "Gerrer Rebbe (Sfas Emes, R’ Yehudah Aryeh Leib Alter)"
+    },
+    "grunchi-getches": {
+      "displayName": "Grunchi Getches",
+      "mode": "F",
+      "sortKey": "Grunchi Getches"
+    },
+    "halekach-vehalibuv": {
+      "displayName": "Halekach V'Halibuv",
+      "mode": "F",
+      "sortKey": "Halekach V'Halibuv"
+    },
+    "homiler-rav": {
+      "displayName": "Homiler Rav",
+      "mode": "F",
+      "sortKey": "Homiler Rav"
+    },
+    "iturei-torah": {
+      "displayName": "Iturei Torah",
+      "mode": "F",
+      "sortKey": "Iturei Torah"
+    },
+    "judah-wallace": {
+      "displayName": "Judah Wallace",
+      "mode": "L",
+      "sortKey": "Wallace Judah"
+    },
+    "kitzur-shulchan-aruch": {
+      "displayName": "Kitzur Shulchan Aruch",
+      "mode": "F",
+      "sortKey": "Kitzur Shulchan Aruch"
+    },
+    "klausenberger-rebbe": {
+      "displayName": "Klausenberger Rebbe",
+      "mode": "F",
+      "sortKey": "Klausenberger Rebbe"
+    },
+    "kli-yakar": {
+      "displayName": "Kli Yakar",
+      "mode": "F",
+      "sortKey": "Kli Yakar"
+    },
+    "kol-hatorah": {
+      "displayName": "Kol HaTorah",
+      "mode": "F",
+      "sortKey": "Kol HaTorah"
+    },
+    "kol-rom": {
+      "displayName": "Kol Rom",
+      "mode": "F",
+      "sortKey": "Kol Rom"
+    },
+    "the-kotzker-rebbe": {
+      "displayName": "Kotzker Rebbe",
+      "mode": "F",
+      "sortKey": "Kotzker Rebbe"
+    },
+    "lubavitcher-rebbe": {
+      "displayName": "Lubavitcher Rebbe (R’ Menachem Mendel Schneerson)",
+      "mode": "F",
+      "sortKey": "Lubavitcher Rebbe (R’ Menachem Mendel Schneerson)"
+    },
+    "m-eino-shel-torah": {
+      "displayName": "M’eino Shel Torah",
+      "mode": "F",
+      "sortKey": "M’eino Shel Torah"
+    },
+    "mabit": {
+      "displayName": "Mabit",
+      "mode": "F",
+      "sortKey": "Mabit"
+    },
+    "maggid-of-mezritch": {
+      "displayName": "Maggid of Mezritch",
+      "mode": "F",
+      "sortKey": "Maggid of Mezritch"
+    },
+    "maharil": {
+      "displayName": "Maharil",
+      "mode": "F",
+      "sortKey": "Maharil"
+    },
+    "maharsha": {
+      "displayName": "Maharsha",
+      "mode": "F",
+      "sortKey": "Maharsha"
+    },
+    "malbim": {
+      "displayName": "Malbim",
+      "mode": "F",
+      "sortKey": "Malbim"
+    },
+    "man-of-faith": {
+      "displayName": "Man of Faith",
+      "mode": "F",
+      "sortKey": "Man of Faith"
+    },
+    "meshech-chochma": {
+      "displayName": "Meshech Chochma",
+      "mode": "F",
+      "sortKey": "Meshech Chochma"
+    },
+    "minchas-chain": {
+      "displayName": "Minchas Chein",
+      "mode": "F",
+      "sortKey": "Minchas Chein"
+    },
+    "moreshes-simchas-hatorah": {
+      "displayName": "Moreshes Simchas HaTorah",
+      "mode": "F",
+      "sortKey": "Moreshes Simchas HaTorah"
+    },
+    "moshe-katz": {
+      "displayName": "Moshe Katz",
+      "mode": "L",
+      "sortKey": "Katz Moshe"
+    },
+    "mr-olasky": {
+      "displayName": "Mr. Olasky",
+      "mode": "L",
+      "sortKey": "Olasky Mr."
+    },
+    "munkatcher-rebbe": {
+      "displayName": "Munkatcher Rebbe",
+      "mode": "F",
+      "sortKey": "Munkatcher Rebbe"
+    },
+    "nodeh-byehuda": {
+      "displayName": "Nodeh Byehuda",
+      "mode": "F",
+      "sortKey": "Nodeh Byehuda"
+    },
+    "ohel-torah": {
+      "displayName": "Ohel Torah",
+      "mode": "F",
+      "sortKey": "Ohel Torah"
+    },
+    "otzer-plo-os-hatorah": {
+      "displayName": "Otzer Plo’os HaTorah",
+      "mode": "F",
+      "sortKey": "Otzer Plo’os HaTorah"
+    },
+    "peninim-mishulchan-gavoa": {
+      "displayName": "Peninim MiShulchan Gavoa",
+      "mode": "F",
+      "sortKey": "Peninim MiShulchan Gavoa"
+    },
+    "pirkei-drabi-eliezer": {
+      "displayName": "Pirkei Drabi Eliezer",
+      "mode": "F",
+      "sortKey": "Pirkei Drabi Eliezer"
+    },
+    "pri-eitz-chaim": {
+      "displayName": "Pri Eitz Chaim",
+      "mode": "F",
+      "sortKey": "Pri Eitz Chaim"
+    },
+    "r-aaron-goodman": {
+      "displayName": "R’ Aaron Goodman",
+      "mode": "L",
+      "sortKey": "Goodman R’ Aaron"
+    },
+    "rabbi-abraham-besdin": {
+      "displayName": "R’ Abraham Besdin",
+      "mode": "L",
+      "sortKey": "Besdin R’ Abraham"
+    },
+    "rav-aharon-kotler": {
+      "displayName": "R’ Aharon Kotler",
+      "mode": "L",
+      "sortKey": "Kotler R’ Aharon"
+    },
+    "r-aharon-leib-shteinman": {
+      "displayName": "R’ Aharon Leib Shteinman",
+      "mode": "L",
+      "sortKey": "Shteinman R’ Aharon Leib"
+    },
+    "r-aharon-mordechai-brisk": {
+      "displayName": "R’ Aharon Mordechai Brisk",
+      "mode": "L",
+      "sortKey": "Brisk R’ Aharon Mordechai"
+    },
+    "r-ahron-soloveichik": {
+      "displayName": "R’ Ahron Soloveichik",
+      "mode": "L",
+      "sortKey": "Soloveichik R’ Ahron"
+    },
+    "r-akiva-grunblatt": {
+      "displayName": "R’ Akiva Grunblatt",
+      "mode": "L",
+      "sortKey": "Grunblatt R’ Akiva"
+    },
+    "r-alexander-ziskind": {
+      "displayName": "R’ Alexander Ziskind",
+      "mode": "L",
+      "sortKey": "Ziskind R’ Alexander"
+    },
+    "r-alter-metzger": {
+      "displayName": "R’ Alter Metzger",
+      "mode": "L",
+      "sortKey": "Metzger R’ Alter"
+    },
+    "r-aryeh-levine": {
+      "displayName": "R’ Aryeh Levine",
+      "mode": "L",
+      "sortKey": "Levine R’ Aryeh"
+    },
+    "r-aryeh-strickoff": {
+      "displayName": "R’ Aryeh Strickoff",
+      "mode": "L",
+      "sortKey": "Strickoff R’ Aryeh"
+    },
+    "r-avi-wiesenfeld": {
+      "displayName": "R’ Avi Wiesenfeld",
+      "mode": "L",
+      "sortKey": "Wiesenfeld R’ Avi"
+    },
+    "r-avigdor-miller": {
+      "displayName": "R’ Avigdor Miller",
+      "mode": "L",
+      "sortKey": "Miller R’ Avigdor"
+    },
+    "r-avraham-genachowski": {
+      "displayName": "R’ Avraham Genachowski",
+      "mode": "L",
+      "sortKey": "Genachowski R’ Avraham"
+    },
+    "r-avraham-landau-of-chekhanov": {
+      "displayName": "R’ Avraham Landau of Chekhanov",
+      "mode": "C",
+      "sortKey": "Landau R’ Avraham"
+    },
+    "r-avraham-pam": {
+      "displayName": "R’ Avraham Pam",
+      "mode": "L",
+      "sortKey": "Pam R’ Avraham"
+    },
+    "r-avraham-schorr": {
+      "displayName": "R’ Avraham Schorr",
+      "mode": "L",
+      "sortKey": "Schorr R’ Avraham"
+    },
+    "r-baruch-rabinowitz": {
+      "displayName": "R’ Baruch Rabinowitz",
+      "mode": "L",
+      "sortKey": "Rabinowitz R’ Baruch"
+    },
+    "r-berkovits": {
+      "displayName": "R’ Yitzchok Berkovits",
+      "mode": "L",
+      "sortKey": "Berkovits R’ Yitzchok"
+    },
+    "r-beryl-weisbord": {
+      "displayName": "R’ Beryl Weisbord",
+      "mode": "L",
+      "sortKey": "Weisbord R’ Beryl"
+    },
+    "r-boruch-ber-leibowitz": {
+      "displayName": "R’ Boruch Ber Leibowitz",
+      "mode": "L",
+      "sortKey": "Leibowitz R’ Boruch Ber"
+    },
+    "r-chaim-alter-panet": {
+      "displayName": "R’ Chaim Alter Panet",
+      "mode": "L",
+      "sortKey": "Panet R’ Chaim Alter"
+    },
+    "r-chaim-dahan": {
+      "displayName": "R’ Chaim Dahan",
+      "mode": "L",
+      "sortKey": "Dahan R’ Chaim"
+    },
+    "r-chaim-kanievsky": {
+      "displayName": "R’ Chaim Kanievsky",
+      "mode": "L",
+      "sortKey": "Kanievsky R’ Chaim"
+    },
+    "r-chaim-leibish-rottenberg": {
+      "displayName": "R’ Chaim Leibish Rottenberg",
+      "mode": "L",
+      "sortKey": "Rottenberg R’ Chaim Leibish"
+    },
+    "r-chaim-meir-of-pinczow": {
+      "displayName": "R’ Chaim Meir of Pinczow",
+      "mode": "L",
+      "sortKey": "Pinczow R’ Chaim Meir of"
+    },
+    "r-chaim-shmuelevitz": {
+      "displayName": "R’ Chaim Shmuelevitz",
+      "mode": "L",
+      "sortKey": "Shmuelevitz R’ Chaim"
+    },
+    "r-chaim-vital": {
+      "displayName": "R’ Chaim Vital",
+      "mode": "L",
+      "sortKey": "Vital R’ Chaim"
+    },
+    "r-chaim-yosef-kofman": {
+      "displayName": "R’ Chaim Yosef Kofman",
+      "mode": "L",
+      "sortKey": "Kofman R’ Chaim Yosef"
+    },
+    "rabbi-david-hollander": {
+      "displayName": "R’ David Hollander",
+      "mode": "L",
+      "sortKey": "Hollander R’ David"
+    },
+    "r-dovid-meisels": {
+      "displayName": "R’ Dovid Meisels",
+      "mode": "L",
+      "sortKey": "Meisels R’ Dovid"
+    },
+    "rabbi-dr-abraham-twerski": {
+      "displayName": "R’ Dr. Abraham Twerski",
+      "mode": "L",
+      "sortKey": "Twerski R’ Dr. Abraham"
+    },
+    "r-elchonon-wasserman": {
+      "displayName": "R’ Elchonon Wasserman",
+      "mode": "L",
+      "sortKey": "Wasserman R’ Elchonon"
+    },
+    "r-elimelech-biderman": {
+      "displayName": "R’ Elimelech Biderman",
+      "mode": "L",
+      "sortKey": "Biderman R’ Elimelech"
+    },
+    "r-elimelech-of-lizhensk": {
+      "displayName": "R’ Elimelech of Lizhensk",
+      "mode": "F",
+      "sortKey": "R’ Elimelech of Lizhensk"
+    },
+    "r-elyashiv": {
+      "displayName": "R’ Elyashiv",
+      "mode": "F",
+      "sortKey": "R’ Elyashiv"
+    },
+    "r-ephraim-goldberg": {
+      "displayName": "R’ Ephraim Goldberg",
+      "mode": "L",
+      "sortKey": "Goldberg R’ Ephraim"
+    },
+    "r-erez-chazani": {
+      "displayName": "R’ Erez Chazani",
+      "mode": "L",
+      "sortKey": "Chazani R’ Erez"
+    },
+    "r-fabian-schonfeld": {
+      "displayName": "R’ Fabian Schonfeld",
+      "mode": "L",
+      "sortKey": "Schonfeld R’ Fabian"
+    },
+    "r-gedalia-finkel": {
+      "displayName": "R’ Gedalia Finkel",
+      "mode": "L",
+      "sortKey": "Finkel R’ Gedalia"
+    },
+    "r-gedalia-schorr": {
+      "displayName": "R’ Gedalia Schorr",
+      "mode": "L",
+      "sortKey": "Schorr R’ Gedalia"
+    },
+    "rabbi-gesheid": {
+      "displayName": "R’ Gesheid",
+      "mode": "F",
+      "sortKey": "R’ Gesheid"
+    },
+    "rav-gifter": {
+      "displayName": "R’ Gifter",
+      "mode": "F",
+      "sortKey": "R’ Gifter"
+    },
+    "r-guttman": {
+      "displayName": "R’ Guttman",
+      "mode": "F",
+      "sortKey": "R’ Guttman"
+    },
+    "r-herschel-schachter": {
+      "displayName": "R’ Herschel Schachter",
+      "mode": "L",
+      "sortKey": "Schachter R’ Herschel"
+    },
+    "rav-irving-bunim": {
+      "displayName": "R’ Irving Bunim",
+      "mode": "L",
+      "sortKey": "Bunim R’ Irving"
+    },
+    "rav-itzele-peterburger": {
+      "displayName": "R’ Itzele Peterburger",
+      "mode": "L",
+      "sortKey": "Peterburger R’ Itzele"
+    },
+    "rabbi-jeremy-golker": {
+      "displayName": "R’ Jeremy Golker",
+      "mode": "L",
+      "sortKey": "Golker R’ Jeremy"
+    },
+    "r-kormornick": {
+      "displayName": "R’ Kormornick",
+      "mode": "L",
+      "sortKey": "Kormornick R’"
+    },
+    "r-label-lam": {
+      "displayName": "R’ Label Lam",
+      "mode": "L",
+      "sortKey": "Lam R’ Label"
+    },
+    "r-leib-chasman": {
+      "displayName": "R’ Leib Chasman (Ohr Yahel)",
+      "mode": "L",
+      "sortKey": "Chasman R’ Leib"
+    },
+    "rabbi-leibel-groner": {
+      "displayName": "R’ Leibel Groner",
+      "mode": "L",
+      "sortKey": "Groner R’ Leibel"
+    },
+    "r-levi-yitzchok-of-berditchev": {
+      "displayName": "R’ Levi Yitzchok of Berditchev",
+      "mode": "C",
+      "sortKey": "Levi"
+    },
+    "r-lieb-m-lichev": {
+      "displayName": "R’ Lieb M’Lichev",
+      "mode": "C",
+      "sortKey": "Leib"
+    },
+    "r-blum": {
+      "displayName": "R’ Matis Blum",
+      "mode": "L",
+      "sortKey": "Blum R’ Matis"
+    },
+    "r-meir-shapiro": {
+      "displayName": "R’ Meir Shapiro",
+      "mode": "L",
+      "sortKey": "Shapiro R’ Meir"
+    },
+    "r-meir-l-of-premishlan": {
+      "displayName": "R’ Meir’l of Premishlan",
+      "mode": "C",
+      "sortKey": "Meir"
+    },
+    "r-menachem-genack": {
+      "displayName": "R’ Menachem Genack",
+      "mode": "L",
+      "sortKey": "Genack R’ Menachem"
+    },
+    "r-menachem-mendel-chaim-landau": {
+      "displayName": "R’ Menachem Mendel Chaim Landau",
+      "mode": "L",
+      "sortKey": "Landau R’ Menachem Mendel Chaim"
+    },
+    "r-mendel-of-rimanov": {
+      "displayName": "R’ Mendel of Rimanov",
+      "mode": "C",
+      "sortKey": "Mendel"
+    },
+    "r-mendelson": {
+      "displayName": "R’ Mendelson",
+      "mode": "L",
+      "sortKey": "Mendelson R’"
+    },
+    "r-mendy-pollak": {
+      "displayName": "R’ Mendy Pollak",
+      "mode": "L",
+      "sortKey": "Pollak R’ Mendy"
+    },
+    "r-michael-dovid-weissmandl": {
+      "displayName": "R’ Michael Dovid Weissmandl",
+      "mode": "L",
+      "sortKey": "Weissmandl R’ Michael Dovid"
+    },
+    "r-mordechai-becher": {
+      "displayName": "R’ Mordechai Becher",
+      "mode": "L",
+      "sortKey": "Becher R’ Mordechai"
+    },
+    "r-mordechai-benet": {
+      "displayName": "R’ Mordechai Benet",
+      "mode": "L",
+      "sortKey": "Benet R’ Mordechai"
+    },
+    "r-mordechai-sabato": {
+      "displayName": "R’ Mordechai Sabato",
+      "mode": "L",
+      "sortKey": "Sabato R’ Mordechai"
+    },
+    "r-moshe-donnebaum": {
+      "displayName": "R’ Moshe Donnebaum",
+      "mode": "L",
+      "sortKey": "Donnebaum R’ Moshe"
+    },
+    "r-moshe-feinstein": {
+      "displayName": "R’ Moshe Feinstein",
+      "mode": "L",
+      "sortKey": "Feinstein R’ Moshe"
+    },
+    "r-moshe-oelbaum": {
+      "displayName": "R’ Moshe Oelbaum",
+      "mode": "L",
+      "sortKey": "Oelbaum R’ Moshe"
+    },
+    "r-moshe-schwab": {
+      "displayName": "R’ Moshe Schwab",
+      "mode": "L",
+      "sortKey": "Schwab R’ Moshe"
+    },
+    "r-moshe-sherer": {
+      "displayName": "R’ Moshe Sherer",
+      "mode": "L",
+      "sortKey": "Sherer R’ Moshe"
+    },
+    "r-moshe-sternbuch": {
+      "displayName": "R’ Moshe Sternbuch",
+      "mode": "L",
+      "sortKey": "Sternbuch R’ Moshe"
+    },
+    "rav-moshe-tendler": {
+      "displayName": "R’ Moshe Tendler",
+      "mode": "L",
+      "sortKey": "Tendler R’ Moshe"
+    },
+    "r-moshe-wolfson": {
+      "displayName": "R’ Moshe Wolfson",
+      "mode": "L",
+      "sortKey": "Wolfson R’ Moshe"
+    },
+    "r-nachman": {
+      "displayName": "R’ Nachman",
+      "mode": "L",
+      "sortKey": "Nachman R’"
+    },
+    "r-nachum-dovid-herman": {
+      "displayName": "R’ Nachum Dovid Herman",
+      "mode": "L",
+      "sortKey": "Herman R’ Nachum Dovid"
+    },
+    "r-naftali-of-ropshitz": {
+      "displayName": "R’ Naftali of Ropshitz",
+      "mode": "C",
+      "sortKey": "Naftali"
+    },
+    "r-nissan-kaplan": {
+      "displayName": "R’ Nissan Kaplan",
+      "mode": "L",
+      "sortKey": "Kaplan R’ Nissan"
+    },
+    "r-noach-isaac-oelbaum": {
+      "displayName": "R’ Noach Isaac Oelbaum",
+      "mode": "L",
+      "sortKey": "Oelbaum R’ Noach Isaac"
+    },
+    "r-nosson-adler": {
+      "displayName": "R’ Nosson Adler",
+      "mode": "L",
+      "sortKey": "Adler R’ Nosson"
+    },
+    "r-ovadia-yosef": {
+      "displayName": "R’ Ovadia Yosef",
+      "mode": "L",
+      "sortKey": "Yosef R’ Ovadia"
+    },
+    "rabbi-peretz-steinberg": {
+      "displayName": "R’ Peretz Steinberg",
+      "mode": "L",
+      "sortKey": "Steinberg R’ Peretz"
+    },
+    "r-pesach-eliyahu-falk": {
+      "displayName": "R’ Pesach Eliyahu Falk",
+      "mode": "L",
+      "sortKey": "Falk R’ Pesach Eliyahu"
+    },
+    "rav-pesach-krohn": {
+      "displayName": "R’ Pesach Krohn",
+      "mode": "L",
+      "sortKey": "Krohn R’ Pesach"
+    },
+    "rav-pinchas-doron": {
+      "displayName": "R’ Pinchas Doron",
+      "mode": "L",
+      "sortKey": "Doron R’ Pinchas"
+    },
+    "r-pinchas-kehati": {
+      "displayName": "R’ Pinchas Kehati",
+      "mode": "L",
+      "sortKey": "Kehati R’ Pinchas"
+    },
+    "r-pinchas-zalman-segol": {
+      "displayName": "R’ Pinchas Zalman Segol",
+      "mode": "L",
+      "sortKey": "Segol R’ Pinchas Zalman"
+    },
+    "rabbi-rapps": {
+      "displayName": "R’ Rapps",
+      "mode": "L",
+      "sortKey": "Rapps R’"
+    },
+    "rabbi-reuven-gesheid": {
+      "displayName": "R’ Reuven Gesheid",
+      "mode": "L",
+      "sortKey": "Gesheid R’ Reuven"
+    },
+    "r-reuven-grozovsky": {
+      "displayName": "R’ Reuven Grozovsky",
+      "mode": "L",
+      "sortKey": "Grozovsky R’ Reuven"
+    },
+    "r-rosenzweig": {
+      "displayName": "R’ Bernard Rosenzweig",
+      "mode": "L",
+      "sortKey": "Rosenzweig R’ Bernard"
+    },
+    "r-samson-raphael-hirsch": {
+      "displayName": "R’ Samson Raphael Hirsch",
+      "mode": "L",
+      "sortKey": "Hirsch R’ Samson Raphael"
+    },
+    "rav-shach": {
+      "displayName": "R’ Shach",
+      "mode": "L",
+      "sortKey": "Shach R’"
+    },
+    "rabbi-shai-graucher": {
+      "displayName": "R’ Shai Graucher",
+      "mode": "L",
+      "sortKey": "Graucher R’ Shai"
+    },
+    "r-shimon-bar-yochai": {
+      "displayName": "R’ Shimon Bar Yochai",
+      "mode": "C",
+      "sortKey": "Shimon"
+    },
+    "r-shimshon-pincus": {
+      "displayName": "R’ Shimshon Pincus",
+      "mode": "L",
+      "sortKey": "Pincus R’ Shimshon"
+    },
+    "rav-shimshon-schwab": {
+      "displayName": "R’ Shimshon Schwab",
+      "mode": "L",
+      "sortKey": "Schwab R’ Shimshon"
+    },
+    "r-shiya-berlin": {
+      "displayName": "R’ Shiya Berlin",
+      "mode": "L",
+      "sortKey": "Berlin R’ Shiya"
+    },
+    "r-shlomo-ganzfried": {
+      "displayName": "R’ Shlomo Ganzfried",
+      "mode": "L",
+      "sortKey": "Ganzfried R’ Shlomo"
+    },
+    "r-shlomo-zalman-sonnenfeld": {
+      "displayName": "R’ Shlomo Zalman Sonnenfeld",
+      "mode": "L",
+      "sortKey": "Sonnenfeld R’ Shlomo Zalman"
+    },
+    "reb-shmelke-of-nikolsburg": {
+      "displayName": "R’ Shmelke of Nikolsburg",
+      "mode": "L",
+      "sortKey": "Nikolsburg R’ Shmelke of"
+    },
+    "r-shmelke-schnitzler": {
+      "displayName": "R’ Shmelke Schnitzler",
+      "mode": "L",
+      "sortKey": "Schnitzler R’ Shmelke"
+    },
+    "r-shmuel-marcus": {
+      "displayName": "R’ Shmuel Marcus",
+      "mode": "L",
+      "sortKey": "Marcus R’ Shmuel"
+    },
+    "r-sholom-schwadron": {
+      "displayName": "R’ Sholom Schwadron",
+      "mode": "L",
+      "sortKey": "Schwadron R’ Sholom"
+    },
+    "r-simcha-bunim-of-peshischa": {
+      "displayName": "R’ Simcha Bunim of Peshischa",
+      "mode": "C",
+      "sortKey": "Simcha"
+    },
+    "r-simcha-sheps": {
+      "displayName": "R’ Simcha Sheps",
+      "mode": "L",
+      "sortKey": "Sheps R’ Simcha"
+    },
+    "r-tzadka": {
+      "displayName": "R’ Tzadka",
+      "mode": "C",
+      "sortKey": "Tzadka"
+    },
+    "r-tzvi-elimelech-of-dinov": {
+      "displayName": "R’ Tzvi Elimelech of Dinov (Bnei Yissaschar)",
+      "mode": "C",
+      "sortKey": "Tzvi"
+    },
+    "rav-tzvi-hersh-heller": {
+      "displayName": "R’ Tzvi Hersh Heller",
+      "mode": "L",
+      "sortKey": "Heller R’ Tzvi Hersh"
+    },
+    "r-tzvi-hirsch-hakohen-of-rimanov": {
+      "displayName": "R’ Tzvi Hirsch HaKohen of Rimanov (R’ Hersh Mesharais)",
+      "mode": "C",
+      "sortKey": "Tzvi Hirsch"
+    },
+    "r-yaakov-kamenetsky": {
+      "displayName": "R’ Yaakov Kamenetsky",
+      "mode": "L",
+      "sortKey": "Kamenetsky R’ Yaakov"
+    },
+    "r-yaakov-mordechai-greenwald": {
+      "displayName": "R’ Yaakov Mordechai Greenwald",
+      "mode": "L",
+      "sortKey": "Greenwald R’ Yaakov Mordechai"
+    },
+    "r-yaakov-of-lelov": {
+      "displayName": "R’ Yaakov of Lelov",
+      "mode": "C",
+      "sortKey": "Yaakov"
+    },
+    "r-yaakov-of-premishel": {
+      "displayName": "R’ Yaakov of Premishel",
+      "mode": "C",
+      "sortKey": "Yaakov"
+    },
+    "r-yaakov-yitzchak-of-peshischa": {
+      "displayName": "R’ Yaakov Yitzchak of Peshischa",
+      "mode": "C",
+      "sortKey": "Yaakov Yitzchak of Peshischa"
+    },
+    "r-yaron-halbertal": {
+      "displayName": "R’ Yaron Halbertal",
+      "mode": "L",
+      "sortKey": "Halbertal R’ Yaron"
+    },
+    "r-abramsky": {
+      "displayName": "R’ Yechezkel Abramsky",
+      "mode": "L",
+      "sortKey": "Abramsky R’ Yechezkel"
+    },
+    "r-yechezkel-levenstein": {
+      "displayName": "R’ Yechezkel Levenstein",
+      "mode": "L",
+      "sortKey": "Levenstein R’ Yechezkel"
+    },
+    "yechiel-spiro": {
+      "displayName": "R’ Yechiel Spiro",
+      "mode": "L",
+      "sortKey": "Spiro R’ Yechiel"
+    },
+    "r-yehuda-zev-segal": {
+      "displayName": "R’ Yehuda Zev Segal",
+      "mode": "L",
+      "sortKey": "Segal R’ Yehuda Zev"
+    },
+    "r-yekusiel-yehuda-teitelbaum": {
+      "displayName": "R’ Yekusiel Yehuda Teitelbaum (Ba’al Yaitav Lev)",
+      "mode": "L",
+      "sortKey": "Teitelbaum R’ Yekusiel Yehuda"
+    },
+    "r-yerucham-levovitz": {
+      "displayName": "R’ Yerucham Levovitz",
+      "mode": "L",
+      "sortKey": "Levovitz R’ Yerucham"
+    },
+    "rav-yeruchem-gorelick": {
+      "displayName": "R’ Yeruchem Gorelick",
+      "mode": "L",
+      "sortKey": "Gorelick R’ Yeruchem"
+    },
+    "r-yeshaya-bardaki": {
+      "displayName": "R’ Yeshaya Bardaki",
+      "mode": "L",
+      "sortKey": "Bardaki R’ Yeshaya"
+    },
+    "rav-yirachmiel-chasid": {
+      "displayName": "R’ Yirachmiel Chasid",
+      "mode": "L",
+      "sortKey": "Chasid R’ Yirachmiel"
+    },
+    "r-yisroel-salanter": {
+      "displayName": "R’ Yisroel Salanter",
+      "mode": "L",
+      "sortKey": "Salanter R’ Yisroel"
+    },
+    "r-yissocher-englard": {
+      "displayName": "R’ Yissocher Englard",
+      "mode": "L",
+      "sortKey": "Englard R’ Yissocher"
+    },
+    "r-yissocher-frand": {
+      "displayName": "R’ Yissocher Frand",
+      "mode": "L",
+      "sortKey": "Frand R’ Yissocher"
+    },
+    "r-yitzchok-berkovits": {
+      "displayName": "R’ Yitzchok Berkovits",
+      "mode": "L",
+      "sortKey": "Berkovits R’ Yitzchok"
+    },
+    "r-yitzchok-elchonon": {
+      "displayName": "R’ Yitzchok Elchonon Spektor",
+      "mode": "L",
+      "sortKey": "Spektor R’ Yitzchok Elchonon"
+    },
+    "r-yitzchok-zilberstein": {
+      "displayName": "R’ Yitzchok Zilberstein",
+      "mode": "L",
+      "sortKey": "Zilberstein R’ Yitzchok"
+    },
+    "r-yoel-sirkis": {
+      "displayName": "R’ Yoel Sirkis (Bach)",
+      "mode": "L",
+      "sortKey": "Sirkis R’ Yoel"
+    },
+    "r-yoel-teitelbaum": {
+      "displayName": "R’ Yoel Teitelbaum (Satmar Rebbe)",
+      "mode": "L",
+      "sortKey": "Teitelbaum R’ Yoel"
+    },
+    "rabbi-yona-fradkin": {
+      "displayName": "R’ Yona Fradkin",
+      "mode": "L",
+      "sortKey": "Fradkin R’ Yona"
+    },
+    "r-yonasan-eibschutz": {
+      "displayName": "R’ Yonasan Eibschutz",
+      "mode": "L",
+      "sortKey": "Eibschutz R’ Yonasan"
+    },
+    "r-yosef-chaim-sonnenfeld": {
+      "displayName": "R’ Yosef Chaim Sonnenfeld",
+      "mode": "L",
+      "sortKey": "Sonnenfeld R’ Yosef Chaim"
+    },
+    "r-yosef-engel": {
+      "displayName": "R’ Yosef Engel",
+      "mode": "L",
+      "sortKey": "Engel R’ Yosef"
+    },
+    "r-yosef-shlomo-goldstein": {
+      "displayName": "R’ Yosef Shlomo Goldstein",
+      "mode": "L",
+      "sortKey": "Goldstein R’ Yosef Shlomo"
+    },
+    "r-yoshe-ber": {
+      "displayName": "R’ Yoshe Ber Soloveitchik",
+      "mode": "L",
+      "sortKey": "Soloveitchik R’ Yoshe Ber"
+    },
+    "r-yossele-of-torchin": {
+      "displayName": "R’ Yossele of Torchin",
+      "mode": "C",
+      "sortKey": "Yossele"
+    },
+    "rabbi-yy-jacobson": {
+      "displayName": "R’ YY Jacobson",
+      "mode": "L",
+      "sortKey": "Jacobson R’ YY"
+    },
+    "r-zalman-sorotzkin": {
+      "displayName": "R’ Zalman Sorotzkin (Lutzker Rav, Oznayim LaTorah)",
+      "mode": "L",
+      "sortKey": "Sorotzkin R’ Zalman"
+    },
+    "r-zev-of-strickov": {
+      "displayName": "R’ Zev of Strickov",
+      "mode": "C",
+      "sortKey": "Zev"
+    },
+    "r-zundel-kroizer": {
+      "displayName": "R’ Zundel Kroizer",
+      "mode": "L",
+      "sortKey": "Kroizer R’ Zundel"
+    },
+    "raivid": {
+      "displayName": "Raivid",
+      "mode": "F",
+      "sortKey": "Raivid"
+    },
+    "rama": {
+      "displayName": "Rama",
+      "mode": "F",
+      "sortKey": "Rama"
+    },
+    "rambam": {
+      "displayName": "Rambam",
+      "mode": "F",
+      "sortKey": "Rambam"
+    },
+    "ramban": {
+      "displayName": "Ramban",
+      "mode": "F",
+      "sortKey": "Ramban"
+    },
+    "ramchal": {
+      "displayName": "Ramchal",
+      "mode": "F",
+      "sortKey": "Ramchal"
+    },
+    "rashash": {
+      "displayName": "Rashash",
+      "mode": "F",
+      "sortKey": "Rashash"
+    },
+    "rashba": {
+      "displayName": "Rashba",
+      "mode": "F",
+      "sortKey": "Rashba"
+    },
+    "rashi": {
+      "displayName": "Rashi",
+      "mode": "F",
+      "sortKey": "Rashi"
+    },
+    "rebbe-shnayar-zalman-of-liadi": {
+      "displayName": "Rebbe Shnayar Zalman of Liadi (the Alter Rebbe)",
+      "mode": "F",
+      "sortKey": "Rebbe Shnayar Zalman of Liadi (the Alter Rebbe)"
+    },
+    "rebbetzin-barzam": {
+      "displayName": "Rebbetzin Barzam",
+      "mode": "L",
+      "sortKey": "Barzam Rebbetzin"
+    },
+    "rebbetzin-kanievsky": {
+      "displayName": "Rebbetzin Kanievsky",
+      "mode": "L",
+      "sortKey": "Kanievsky Rebbetzin"
+    },
+    "rebbetzin-rivky-holtzberg": {
+      "displayName": "Rebbetzin Rivky Holtzberg",
+      "mode": "L",
+      "sortKey": "Holtzberg Rebbetzin Rivky"
+    },
+    "ridvaz": {
+      "displayName": "Ridvaz",
+      "mode": "F",
+      "sortKey": "Ridvaz"
+    },
+    "ritva": {
+      "displayName": "Ritva",
+      "mode": "F",
+      "sortKey": "Ritva"
+    },
+    "rosh": {
+      "displayName": "Rosh",
+      "mode": "F",
+      "sortKey": "Rosh"
+    },
+    "the-ruzhiner": {
+      "displayName": "Ruzhiner",
+      "mode": "F",
+      "sortKey": "Ruzhiner"
+    },
+    "the-sanzer-rav": {
+      "displayName": "Sanzer Rav",
+      "mode": "F",
+      "sortKey": "Sanzer Rav"
+    },
+    "shach": {
+      "displayName": "Shach",
+      "mode": "F",
+      "sortKey": "Shach"
+    },
+    "sharei-teshuva": {
+      "displayName": "Sharei Teshuva",
+      "mode": "F",
+      "sortKey": "Sharei Teshuva"
+    },
+    "sharei-yesodos": {
+      "displayName": "Sharei Yesodos",
+      "mode": "F",
+      "sortKey": "Sharei Yesodos"
+    },
+    "shem-mishmuel": {
+      "displayName": "Shem Mishmuel",
+      "mode": "F",
+      "sortKey": "Shem Mishmuel"
+    },
+    "shiniver-rebbe": {
+      "displayName": "Shiniver Rebbe (R’ Yechezkel Shraga)",
+      "mode": "F",
+      "sortKey": "Shiniver Rebbe (R’ Yechezkel Shraga)"
+    },
+    "sorolle-idels": {
+      "displayName": "Sorolle Idels",
+      "mode": "L",
+      "sortKey": "Idels Sorolle"
+    },
+    "spinka-rebbe": {
+      "displayName": "Spinka Rebbe",
+      "mode": "F",
+      "sortKey": "Spinka Rebbe"
+    },
+    "steipler": {
+      "displayName": "Steipler",
+      "mode": "F",
+      "sortKey": "Steipler"
+    },
+    "tapuchei-chaim": {
+      "displayName": "Tapuchei Chaim",
+      "mode": "F",
+      "sortKey": "Tapuchei Chaim"
+    },
+    "the-weekly-vort": {
+      "displayName": "The Weekly Vort",
+      "mode": "F",
+      "sortKey": "The Weekly Vort"
+    },
+    "tiferes-shlomo": {
+      "displayName": "Tiferes Shlomo",
+      "mode": "F",
+      "sortKey": "Tiferes Shlomo"
+    },
+    "tolaas-yaakov": {
+      "displayName": "Tolaas Yaakov",
+      "mode": "F",
+      "sortKey": "Tolaas Yaakov"
+    },
+    "torah-anytimes": {
+      "displayName": "Torah Anytimes",
+      "mode": "F",
+      "sortKey": "Torah Anytimes"
+    },
+    "torah-tavlin": {
+      "displayName": "Torah Tavlin",
+      "mode": "F",
+      "sortKey": "Torah Tavlin"
+    },
+    "torah-treasures": {
+      "displayName": "Torah Treasures",
+      "mode": "F",
+      "sortKey": "Torah Treasures"
+    },
+    "tziporen-shamir": {
+      "displayName": "Tziporen Shamir",
+      "mode": "F",
+      "sortKey": "Tziporen Shamir"
+    },
+    "tzvi-asher-bennett": {
+      "displayName": "Tzvi Asher Bennett",
+      "mode": "L",
+      "sortKey": "Bennett Tzvi Asher"
+    },
+    "vilna-gaon": {
+      "displayName": "Vilna Gaon",
+      "mode": "F",
+      "sortKey": "Vilna Gaon"
+    },
+    "yaivitz": {
+      "displayName": "Yaivitz",
+      "mode": "F",
+      "sortKey": "Yaivitz"
+    },
+    "yalkut-shimoni": {
+      "displayName": "Yalkut Shimoni",
+      "mode": "F",
+      "sortKey": "Yalkut Shimoni"
+    },
+    "the-yid-hakodosh": {
+      "displayName": "Yid Hakodosh",
+      "mode": "F",
+      "sortKey": "Yid Hakodosh"
+    },
+    "yismach-yisrael": {
+      "displayName": "Yismach Yisrael",
+      "mode": "F",
+      "sortKey": "Yismach Yisrael"
+    },
+    "zeidy-bennett": {
+      "displayName": "Zeidy Bennett",
+      "mode": "L",
+      "sortKey": "Bennett Zeidy"
+    },
+    "zeidy-weiss": {
+      "displayName": "Zeidy Weiss",
+      "mode": "L",
+      "sortKey": "Weiss Zeidy"
+    },
+    "zev-wolf-zicherman": {
+      "displayName": "Zev Wolf Zicherman",
+      "mode": "L",
+      "sortKey": "Zicherman Zev Wolf"
+    }
+  }
+}

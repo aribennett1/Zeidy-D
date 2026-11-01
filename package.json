@@ -11,11 +11,12 @@
     "fix-docx-spacing": "node fix-docx-spacing.js",
     "generate-qr-codes": "node generate-qr-codes.js",
     "review-spelling": "node review-spelling-candidates.js",
+    "review-person-index-sorting": "node review-person-index-sorting.js",
     "review-person-index-candidates": "node review-person-index-candidates.js",
     "scan-person-index-candidates": "node scan-person-index-candidates.js",
     "replace-docx-text": "node replace-docx-text.js",
     "scan-bidi-risks": "node scan-bidi-risks.js",
-    "test": "node test-typesetting-rules.js",
+    "test": "node test-person-index-sorting.js && node test-typesetting-rules.js",
     "build": "npm run fix-docx-spacing -- --apply && npm run build-typeset-proof -- --all --output 'Final Sefer' && npm run audit-typeset -- --render-pages"
   },
   "dependencies": {

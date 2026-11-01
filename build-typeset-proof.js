@@ -877,6 +877,8 @@ function uniqueValues(values) {
 }
 
 async function loadPersonIndex() {
+  const { loadSortDecisions, sortKey } = require("./person-index-sorting");
+  const sorting = await loadSortDecisions();
   let review;
 
   try {
@@ -900,7 +902,8 @@ async function loadPersonIndex() {
       aliases: uniqueValues([person.displayName, ...(person.aliases || [])]),
     }))
     .filter((person) => person.displayName && person.aliases.length > 0)
-    .sort((a, b) => sortIndexDisplayName(a.displayName).localeCompare(sortIndexDisplayName(b.displayName)));
+    .sort((a, b) => sortIndexDisplayName(sortKey(a, sorting)).localeCompare(sortIndexDisplayName(sortKey(b, sorting)))
+      || sortIndexDisplayName(a.displayName).localeCompare(sortIndexDisplayName(b.displayName)));
 }
 
 function escapeRegexChar(char) {

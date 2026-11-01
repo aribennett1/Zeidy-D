@@ -833,7 +833,7 @@ emphasize.
 ⁧זכות⁩ to hear the following vort from Zeidy Weiss, #metadata(none) <person-index-zeidy-weiss-7> ⁦ע״ה⁩, who was such a
 ⁧טייערער מענטש⁩. He said this so sweetly that it was unforgettable, as
 many of the things that he did, and it's good to pass it along to you.
-He heard it in the name of R’ Rosenzweig, #metadata(none) <person-index-r-rosenzweig-5> the ⁧מרא דאתרא⁩ of the ⁧קהל עדת ישורון⁩⁦,⁩ and he heard it from R’ Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-6> Soloveitchik - that's a pretty
+He heard it in the name of R’ Rosenzweig, #metadata(none) <person-index-r-rosenzweig-5> the ⁧מרא דאתרא⁩ of the ⁧קהל עדת ישורון⁩⁦,⁩ and he heard it from R’ Yoshe Ber Soloveitchik#metadata(none) <person-index-r-yoshe-ber-6> - that's a pretty
 impressive line of ⁧מאן דאמרין⁩.
 
 The pasuk says (1:16) ⁧וַיַּעַשׂ אֱלֹהִים אֶת שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים⁩ - ⁧הקדוש ברוך הוא⁩
@@ -1149,19 +1149,19 @@ family. My father was not a chassidish Yid. However, after Papa ⁧עליו הש
 took that upon myself as perhaps a commemoration or symbol of some of my
 own background.
 
-Many years ago Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-29> gave me a scorecard of the chassidish
+Many years ago Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-31> gave me a scorecard of the chassidish
 masters. ⁧חסידות⁩ started with the ⁧בעל שם⁩.#metadata(none) <person-index-baal-shem-tov-15> One of his many ⁧תלמידים⁩ was the
-⁧מגיד⁩ of Mezritch, #metadata(none) <person-index-maggid-of-mezritch-23> a gigantic personality. His student was Reb Shmelke of
-Nikolsburg.#metadata(none) <person-index-reb-shmelke-of-nikolsburg-30> You may have heard of some of these names. If anybody's
+⁧מגיד⁩ of Mezritch, #metadata(none) <person-index-maggid-of-mezritch-25> a gigantic personality. His student was Reb Shmelke of
+Nikolsburg.#metadata(none) <person-index-reb-shmelke-of-nikolsburg-29> You may have heard of some of these names. If anybody's
 interested, you can get back to me and I'll tell you where these places
 are and what they represent.
 
-⁧רבי לוי יצחק⁩#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-26> of Berditchev, ⁧זכותו יגן עלינו⁩⁦,⁩ one of our favorite people
-of the entire universe, became a ⁧חסיד⁩ through Reb Shmelke of Nikolsburg.#metadata(none) <person-index-reb-shmelke-of-nikolsburg-31>
-After that he became a ⁧תלמיד⁩ of the ⁧מגיד⁩ of Mezritch, #metadata(none) <person-index-maggid-of-mezritch-24> as Reb Shmelke
-introduced him. ⁧רב נחמן⁩#metadata(none) <person-index-r-nachman-28> of Breslov said that the day that ⁧רבי לוי יצחק⁩#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-27>
+⁧רבי לוי יצחק⁩#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-23> of Berditchev, ⁧זכותו יגן עלינו⁩⁦,⁩ one of our favorite people
+of the entire universe, became a ⁧חסיד⁩ through Reb Shmelke of Nikolsburg.#metadata(none) <person-index-reb-shmelke-of-nikolsburg-30>
+After that he became a ⁧תלמיד⁩ of the ⁧מגיד⁩ of Mezritch, #metadata(none) <person-index-maggid-of-mezritch-26> as Reb Shmelke
+introduced him. ⁧רב נחמן⁩#metadata(none) <person-index-r-nachman-28> of Breslov said that the day that ⁧רבי לוי יצחק⁩#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-24>
 was ⁧נפטר⁩⁦,⁩ the entire world went dark. And the Ruzhiner, #metadata(none) <person-index-the-ruzhiner-33> ⁦רבי ישראל
-מרוז'ין⁩, was a grandson of the ⁧מגיד⁩ of Mezritch.#metadata(none) <person-index-maggid-of-mezritch-25> The Belzer Rebbe#metadata(none) <person-index-the-belzer-rebbe-22> was
+מרוז'ין⁩, was a grandson of the ⁧מגיד⁩ of Mezritch.#metadata(none) <person-index-maggid-of-mezritch-27> The Belzer Rebbe#metadata(none) <person-index-the-belzer-rebbe-22> was
 one of the glorious products of that tradition, and that is my
 connection to them.
 
@@ -1208,8 +1208,8 @@ does that word mean?” So, we have to work on that. And in the ⁧זכות⁩ o
 = Noach 5786
 
 ⁧פרשת נח⁩ starts with a fundamental and fascinating question which
-continues up until our very day. The ⁧פרשה⁩ starts (6:9), ⁧אֵלֶּה תּוֹלְדֹת נֹחַ נֹחַ אִישׁ צַדִּיק⁩. Rashi#metadata(none) <person-index-rashi-40> says on these words ⁧תּוֹלְדוֹתֵיהֶם שֶׁל צַדִּיקִים מַעֲשִׂים טוֹבִים⁩.
-What is Rashi#metadata(none) <person-index-rashi-41> intimating, and what is the ⁧חידוש⁩ in these apparently
+continues up until our very day. The ⁧פרשה⁩ starts (6:9), ⁧אֵלֶּה תּוֹלְדֹת נֹחַ נֹחַ אִישׁ צַדִּיק⁩. Rashi#metadata(none) <person-index-rashi-39> says on these words ⁧תּוֹלְדוֹתֵיהֶם שֶׁל צַדִּיקִים מַעֲשִׂים טוֹבִים⁩.
+What is Rashi#metadata(none) <person-index-rashi-40> intimating, and what is the ⁧חידוש⁩ in these apparently
 simple words? The following answer is brought down by the ⁧אלכסנדר רבי⁩ in
 his ⁧ספר בית יעקב⁩ in the name of the ⁧ייד הקדוש מפשיסחא⁩#metadata(none) <person-index-the-yid-hakodosh-43> quoted in ⁧מעינה של תורה⁩⁦,⁩ #metadata(none) <person-index-m-eino-shel-torah-37> the wonderful set of seferim from ⁧ר׳ אלכסנדר זושא פרידמן⁩.
 
@@ -1230,7 +1230,7 @@ his children. He was worthy to be called the son that we're working so
 hard to make into a ⁧עושה מצוות⁩. He was working at everything that he
 could do to serve ⁧הקדוש ברוך הוא⁩ properly himself.
 
-That is what Rashi#metadata(none) <person-index-rashi-42> is intimating. ⁧תּוֹלְדוֹתֵיהֶם שֶׁל צַדִּיקִים מַעֲשִׂים טוֹבִים⁩ - He
+That is what Rashi#metadata(none) <person-index-rashi-41> is intimating. ⁧תּוֹלְדוֹתֵיהֶם שֶׁל צַדִּיקִים מַעֲשִׂים טוֹבִים⁩ - He
 was putting in efforts for ⁧מעשים טובים⁩. He was doing the efforts to
 ensure that everything that he did would be ⁧לשם שמים⁩ and that #emph[he]
 would be the result of his efforts. Not only his children - not a bad
@@ -1238,7 +1238,7 @@ thing, only the children - but that would be the result of working
 primarily on himself while not forgetting the children.
 
 The ⁧מעינה של תורה⁩#metadata(none) <person-index-m-eino-shel-torah-38> presents a fascinating vort immediately after the
-above from the Brisker Rav, #metadata(none) <person-index-brisker-rav-35> R’ Yoshe Ber, #metadata(none) <person-index-r-yoshe-ber-39> ⁦(I assume it is the ⁧בית הלוי⁩).⁩#metadata(none) <person-index-bais-halevi-34>
+above from the Brisker Rav, #metadata(none) <person-index-brisker-rav-35> R’ Yoshe Ber, #metadata(none) <person-index-r-yoshe-ber-42> ⁦(I assume it is the ⁧בית הלוי⁩).⁩#metadata(none) <person-index-bais-halevi-34>
 He says: All of my life, I constantly yearned that I should never come
 to the phrase ⁧ברא מזכה אבא⁩⁦,⁩ \[which is a famous saying in the ⁧גמרא⁩⁦,⁩ which means that after 120 years, the children are a ⁧זכות⁩ to their
 parents because they can continue in their ways.\] The Brisker Rav#metadata(none) <person-index-brisker-rav-36> said, “I don't want that. I want to be ⁧מזכה⁩ myself. I want to be able to say
@@ -1323,7 +1323,7 @@ we succeed not by our own might, but by the help of Hashem's hand, with
   ))
 = Lech Lecha 5785
 
-This ⁧דבר תורה⁩ is dedicated in honor of our ⁧אייניקל⁩ Tzvi Asher Bennett, #metadata(none) <person-index-tzvi-asher-bennett-61>
+This ⁧דבר תורה⁩ is dedicated in honor of our ⁧אייניקל⁩ Tzvi Asher Bennett, #metadata(none) <person-index-tzvi-asher-bennett-51>
 whose birthday is on ⁧פרשת לך לך⁩. Around the time he was born, he had a
 ⁧ברית⁩⁦,⁩ like every other ⁧יידיש⁩ boy.
 
@@ -1341,14 +1341,14 @@ our covenant, going back to ⁧אברהם אבינו⁩. While all ⁧מצוות
 given to us as a nation at ⁧הר סיני⁩⁦,⁩ ⁧ברית מילה⁩ originates with ⁧אברהם אבינו⁩⁦,⁩ and even though it was reconfirmed at ⁧הר סיני⁩⁦,⁩ it is inherently a
 ⁧מצוה⁩ of ⁧ספר בראשית⁩.
 
-In connection with ⁧ברית מילה⁩⁦,⁩ the ⁧ספר אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-60> includes an
-incredible ⁧מעשה⁩ that took place involving the ⁦חת״ם סופר⁩.#metadata(none) <person-index-chasam-sofer-51> I thought
+In connection with ⁧ברית מילה⁩⁦,⁩ the ⁧ספר אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-62> includes an
+incredible ⁧מעשה⁩ that took place involving the ⁦חת״ם סופר⁩.#metadata(none) <person-index-chasam-sofer-53> I thought
 sharing this ⁧מעשה⁩ would be a meaningful gift for our birthday boy, Tzvi
-Bennett.#metadata(none) <person-index-tzvi-asher-bennett-62> This ⁧מעשה פלא⁩ comes from a ⁧ספר⁩ called ⁧זכרון למשה⁩⁦,⁩ and tells a
+Bennett.#metadata(none) <person-index-tzvi-asher-bennett-52> This ⁧מעשה פלא⁩ comes from a ⁧ספר⁩ called ⁧זכרון למשה⁩⁦,⁩ and tells a
 fascinating story about performing a ⁧ברית מילה⁩ on a goy.
 
-The story goes that during the time of the ⁦חת״ם סופר⁩, #metadata(none) <person-index-chasam-sofer-52> a goy from a small
-hamlet near Pressburg, where the ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-53> lived, approached the rav of
+The story goes that during the time of the ⁦חת״ם סופר⁩, #metadata(none) <person-index-chasam-sofer-54> a goy from a small
+hamlet near Pressburg, where the ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-55> lived, approached the rav of
 his town. The goy expressed a sincere desire to become a ger. After
 examining his intentions and confirming that he was ⁧לשם שמים⁩⁦,⁩ the rav
 performed a conversion ⁧כדת וכדין⁩⁦,⁩ including a ⁧ברית מילה⁩. However, on the
@@ -1360,14 +1360,14 @@ accusations escalated into a ⁧סכנה⁩⁦,⁩ not only for that town but as
 threat of a nationwide pogrom.
 
 Desperate, the rav sought guidance and went to Pressburg to consult the
-⁦חת״ם סופר⁩.#metadata(none) <person-index-chasam-sofer-54> The ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-55> strongly reprimanded him, asking how he could
+⁦חת״ם סופר⁩.#metadata(none) <person-index-chasam-sofer-56> The ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-57> strongly reprimanded him, asking how he could
 perform a ⁧ברית מילה⁩ in such a small town without the necessary expertise
 or medical facilities, risking everyone's safety. However, since the
-deed was done, the ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-56> advised him on how to address this
+deed was done, the ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-58> advised him on how to address this
 dangerous situation.
 
 He told the rav that because he had endangered ⁧כלל ישראל⁩⁦,⁩ he must be
-⁧מוסר נפש⁩ for the welfare of the community. The ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-57> instructed the
+⁧מוסר נפש⁩ for the welfare of the community. The ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-59> instructed the
 rav to take the ger and the ⁧מוהל⁩ in a wagon to a nearby river, and to
 stage an accident by driving the wagon into the water, drowning them
 all. This way, the goyim would believe the man had died from an
@@ -1386,9 +1386,9 @@ They followed his instructions, and immediately, the ger's health
 improved, sparing the rav and ⁧מוהל⁩ from the need for self-sacrifice. The
 entire town rejoiced, and peace was restored.
 
-When the rav and the ⁧מוהל⁩ returned to the ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-58> to recount the
+When the rav and the ⁧מוהל⁩ returned to the ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-60> to recount the
 events, he revealed that he had sent ⁧אליהו⁩⁦,⁩ the ⁧מלאך הברית⁩⁦,⁩ to intervene
-and save the ger. The ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-59> explained that they merited this
+and save the ger. The ⁦חת״ם סופר⁩#metadata(none) <person-index-chasam-sofer-61> explained that they merited this
 miraculous assistance only because they had been willing to be ⁧מוסר נפש⁩
 for ⁧כלל ישראל⁩. In essence, he knew from the start that they would be
 protected, fulfilling the promise that ⁧כי שומר מצוה לא ידע דבר רע⁩ - those who fulfill ⁧מצוות⁩ will be shielded from harm.
@@ -1473,7 +1473,7 @@ level of ⁧אברהם אבינו⁩ and to be better people and to serve ⁧ה�
   ))
 = Lech Lecha 5786 (2)
 
-⁧לך לך⁩. I heard this vort from my ⁧טייערע⁩ son-in-law Dovid Tribuch, #metadata(none) <person-index-dovid-tribuch-66> who
+⁧לך לך⁩. I heard this vort from my ⁧טייערע⁩ son-in-law Dovid Tribuch, #metadata(none) <person-index-dovid-tribuch-70> who
 heard it from R’ Ephraim Goldberg.#metadata(none) <person-index-r-ephraim-goldberg-67> When Avram leaves ⁧חרן⁩ and is coming
 to ⁧ארץ ישראל⁩⁦,⁩ Hashem gives him a tremendous ⁧הבטחה⁩: (12:3) ⁧וַאֲבָרְכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר⁩. Rabbi Goldberg asked an interesting question. ⁧וַאֲבָרְכָה⁩ - whoever benches you; ⁧מְבָרְכֶיךָ⁩ - will be benched, I will bench them. Both
 words are the same verb. However, ⁧וּמְקַלֶּלְךָ⁩ - if they curse you, it doesn't
@@ -1495,11 +1495,11 @@ people.
 Speaking of being better people, what should our focus be? When Avram
 and Sarah were going to ⁧מצרים⁩⁦,⁩ Avram noticed that Sarah is beautiful
 (12:11) ⁧וַיְהִי כַּאֲשֶׁר הִקְרִיב לָבוֹא מִצְרָיְמָה וַיֹּאמֶר אֶל שָׂרַי אִשְׁתּוֹ הִנֵּה נָא יָדַעְתִּי כִּי אִשָּׁה יְפַת מַרְאֶה אָתְּ⁩ - Now I know that you are a beautiful, very attractive
-woman. Rashi#metadata(none) <person-index-rashi-69> says on these words ⁧מִדְרַש אַגָּדָה עַד עַכְשָׁו לֹא הִכִּיר בָּהּ מִתּוֹךְ צְנִיעוּת שֶׁבִּשְׁנֵיהֶם⁩ - Avram did not recognize her beauty because of their
+woman. Rashi#metadata(none) <person-index-rashi-68> says on these words ⁧מִדְרַש אַגָּדָה עַד עַכְשָׁו לֹא הִכִּיר בָּהּ מִתּוֹךְ צְנִיעוּת שֶׁבִּשְׁנֵיהֶם⁩ - Avram did not recognize her beauty because of their
 ⁧צניעות⁩⁦,⁩ their modesty; ⁧וְעַכְשָׁו הִכִּיר בָּה עַל יְדֵי מַעֲשֶׂה⁩ - But now he recognized
 it because they were in a situation where it will become an issue, become something to deal with.
 
-The ⁧קשיא⁩ posed by Rav Pinchas Doron#metadata(none) <person-index-rav-pinchas-doron-68> from ⁧ארץ ישראל⁩ in his sefer ⁦ביאור
+The ⁧קשיא⁩ posed by Rav Pinchas Doron#metadata(none) <person-index-rav-pinchas-doron-66> from ⁧ארץ ישראל⁩ in his sefer ⁦ביאור
 סתומות ברש״י⁩ is that a ⁧חתן⁩ has to see his ⁧כלה⁩ at least one time before
 they get married. Avram already recognized Sarah, he already knew of her
 beauty. Why is Avram saying now, ⁧הִנֵּה נָא יָדַעְתִּי כִּי אִשָּׁה יְפַת מַרְאֶה אָתְּ⁩ - Now I
@@ -1516,7 +1516,7 @@ was beautiful, because she was such an outstanding, beautiful person.
 But now that they were coming to ⁧מצרים⁩⁦,⁩ where there were people whose
 only conception of importance was externality and superficiality, Avram
 said, “Uh oh, now we have to recognize this because it could cause an
-issue.” Rashi#metadata(none) <person-index-rashi-70> is saying that it's only because of the ⁧מעשה⁩ that he now
+issue.” Rashi#metadata(none) <person-index-rashi-69> is saying that it's only because of the ⁧מעשה⁩ that he now
 recognized the greatness of her external beauty and said, “We have to
 deal with it.” But he really knew who she was, exactly what she looked
 like. She was such a majestic person that her external beauty served
@@ -1595,14 +1595,14 @@ from, as with every ⁧פסוק⁩ in the ⁧תורה⁩. This dramatic and enor
 has countless ⁧מפרשים⁩⁦,⁩ discussions, and even full ⁧ספרים⁩ written about it.
 There is one tiny ⁧קניטש⁩ about the ⁧עקדה⁩ which I hadn't seen before and
 thought was worth sharing here. It harkens back to an idea I once heard
-from Rabbi Noach Isaac Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-76> regarding ⁧והסר שטן מלפנינו ומאחרינו⁩.
+from Rabbi Noach Isaac Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-75> regarding ⁧והסר שטן מלפנינו ומאחרינו⁩.
 
 In ⁧פרשת חיי שרה⁩⁦,⁩ as we discussed last year, we see how the ⁧שטן⁩ used the
 ⁧עקדה⁩ as an opportunity to take ⁦שרה אמינו'⁩s ⁧נשמה⁩. ⁧אברהם⁩ passed that test.
 But even before that, the ⁧תורה⁩ gives us another deeply insightful
 example of ⁧פיינקייט⁩ and the wisdom and ⁧מוסר⁩ to be learned from the ⁧עקדה⁩.
 
-At the end of the ⁧עקדה⁩⁦,⁩ the ⁧פסוק⁩ states (22:19), ⁧וַיָּשׇׁב אַבְרָהָם אֶל נְעָרָיו וַיָּקֻמוּ וַיֵּלְכוּ יַחְדָּו⁩⁦,⁩ a ⁧פסוק⁩ whose simplicity belies its depth. ⁦רש״י⁩#metadata(none) <person-index-rashi-77>
+At the end of the ⁧עקדה⁩⁦,⁩ the ⁧פסוק⁩ states (22:19), ⁧וַיָּשׇׁב אַבְרָהָם אֶל נְעָרָיו וַיָּקֻמוּ וַיֵּלְכוּ יַחְדָּו⁩⁦,⁩ a ⁧פסוק⁩ whose simplicity belies its depth. ⁦רש״י⁩#metadata(none) <person-index-rashi-76>
 explains on the beginning of the ⁧עקדה⁩⁦,⁩ in the ⁧וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו פסוק⁩
 (22:8), that ⁧אברהם⁩ and ⁧יצחק⁩ went together in precisely the same way.
 ⁧אברהם⁩ knew he was going to offer his son as a ⁧קרבן⁩⁦,⁩ yet he went ⁧בשמחה⁩
@@ -1629,7 +1629,7 @@ underscores the greatness of these figures and their humility.
 \(This beautiful insight comes from ⁧ר' ולוולע בריסקער⁩. I always call him
 ⁧ר' ולוולע⁩ because ⁦ר' יושע בער סולובייצ'יק זצ״ל⁩, whom I was privileged to
 hear, always called his uncle ⁧ר' ולוולע⁩. No one else calls him that -
-except R’ Hershel Schachter.#metadata(none) <person-index-r-herschel-schachter-75> To everyone else, he is ⁧ר' יצחק זאב בריסקער⁩. But I call him ⁧ר' ולוולע⁩⁦,⁩ because that's how I heard his ⁧משפחה⁩
+except R’ Hershel Schachter.#metadata(none) <person-index-r-herschel-schachter-77> To everyone else, he is ⁧ר' יצחק זאב בריסקער⁩. But I call him ⁧ר' ולוולע⁩⁦,⁩ because that's how I heard his ⁧משפחה⁩
 call him.)
 
 This is classic ⁧בריסקער תורה⁩⁦,⁩ a tremendous insight that teaches us about
@@ -1656,7 +1656,7 @@ talking about? We're talking about ⁧אברהם⁩. If you go back to the end o
 pasuk, ⁧בְּעֶצֶם הַיּוֹם הַזֶּה נִמּוֹל אַבְרָהָם⁩. Then it says ⁧וַיֵּרָא אֵלָיו⁩. Why do we use a
 pronoun?
 
-The ⁧ספר אוצר פלאות התורה⁩⁦,⁩ #metadata(none) <person-index-otzer-plo-os-hatorah-82> a wonderful ⁧ספר⁩ which I've quoted many times, brings down a fascinating ⁧מנהג⁩. When a person is visiting a ⁧חולה⁩⁦,⁩ one
+The ⁧ספר אוצר פלאות התורה⁩⁦,⁩ #metadata(none) <person-index-otzer-plo-os-hatorah-83> a wonderful ⁧ספר⁩ which I've quoted many times, brings down a fascinating ⁧מנהג⁩. When a person is visiting a ⁧חולה⁩⁦,⁩ one
 should not say his name in his presence. He brings it down from the
 ⁧ילקוט ראובני⁩⁦,⁩ quoted in a sefer called ⁦סודי רזייא׳⁩. If someone goes in
 to visit a ⁧חולה⁩⁦,⁩ he should not mention him by name. He should say ⁧רפואה שלמה⁩ and ask “How are you? What can I do to help you? Let me help clean
@@ -1690,7 +1690,7 @@ Now, another fascinating aspect of this brought down from the Munkatcher
 Rebbe, #metadata(none) <person-index-munkatcher-rebbe-80> the ⁧מנחת אלעזר⁩⁦,⁩ #metadata(none) <person-index-munkatcher-rebbe-81> ⁧זכותו יגן עלינו⁩⁦,⁩ and is mentioned in a number of
 ⁧ספרים⁩ of his descendants, is that when we make the ⁧מי שברך⁩ for a ⁧חולה⁩ in
 shul, not to say the word ⁧החולה⁩. We say ⁧מי שברך אבותינו אברהם יצחק ויעקב הוא יברך את⁩⁦,⁩ and the ⁧לשון⁩ in every ⁧סידור⁩ says ⁧החולה⁩⁦,⁩ and then they give
-the names. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-83> quoted this a number of years ago, and we in
+the names. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-82> quoted this a number of years ago, and we in
 our shul changed our ⁧מנהג⁩ to not say the word ⁧החולה⁩⁦,⁩ we don't want to
 label this person as a ⁧חולה⁩. The sefer ⁧דרכי חיים ושלום⁩ brings that
 Chazal say in ⁧מסכת שבת⁩ that a person should always be ⁧מבקש רחמים⁩ that he
@@ -2049,7 +2049,7 @@ profound philosophical and logical questions. That ⁧פסוק⁩ is (25:28):
 “⁧וַיֶּאֱהַב יִצְחָק אֶת עֵשָׂו כִּי צַיִד בְּפִיו וְרִבְקָה אֹהֶבֶת אֶת יַעֲקֹב⁩”. All of the ⁧מפרשים⁩
 spend an enormous amount of time and effort trying to understand the
 meaning of this ⁧פסוק⁩. I have a beautiful ⁧פשט⁩⁦,⁩ a ⁧מדרש⁩⁦,⁩ from ⁧ר' מאיר מפרמישלאן⁩ (most of you know that's where I originally come from; Zeidy
-Bennett's#metadata(none) <person-index-zeidy-bennett-118> ⁧עלטערן⁩ came from ⁧פרמישלאן⁩)#metadata(none) <person-index-r-meir-l-of-premishlan-117> that sheds a little light on the
+Bennett's#metadata(none) <person-index-zeidy-bennett-117> ⁧עלטערן⁩ came from ⁧פרמישלאן⁩)#metadata(none) <person-index-r-meir-l-of-premishlan-118> that sheds a little light on the
 greatness of the ⁧אבות⁩.
 
 As we get older, it's extremely important not to see these stories as
@@ -2193,14 +2193,14 @@ upon us.
   ))
 = Vayaitzei 5784
 
-In this week's ⁧פרשה⁩⁦,⁩ ⁧פרשת ויצא⁩ it says (30:22): ⁧וַיִּזְכֹּר אֱלֹקִים אֶת רָחֵל וַיִּשְׁמַע אֵלֶיהָ אֱלֹקִים וַיִּפְתַּח אֶת רַחְמָהּ⁩. What does ⁦רש״י⁩#metadata(none) <person-index-rashi-131> say on this? That ⁧ה׳⁩
+In this week's ⁧פרשה⁩⁦,⁩ ⁧פרשת ויצא⁩ it says (30:22): ⁧וַיִּזְכֹּר אֱלֹקִים אֶת רָחֵל וַיִּשְׁמַע אֵלֶיהָ אֱלֹקִים וַיִּפְתַּח אֶת רַחְמָהּ⁩. What does ⁦רש״י⁩#metadata(none) <person-index-rashi-128> say on this? That ⁧ה׳⁩
 remembered ⁧רחל⁩ because she gave the signs to her sister ⁧לאה⁩⁦,⁩ enabling
 her to take her place and marry ⁧יעקב⁩. The topic we will discuss this
 week is ⁧ותרנות⁩ (the quality of yielding to others).
 
 There was once a gathering arranged before ⁧ראש השנה⁩ to inspire people in
-preparation for ⁧יום הדין⁩. The organizers asked ⁧רב חיים קניבסקי⁩#metadata(none) <person-index-r-chaim-kanievsky-129>
-(#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-130> on Chumash]. Permission granted by ArtScroll
+preparation for ⁧יום הדין⁩. The organizers asked ⁧רב חיים קניבסקי⁩#metadata(none) <person-index-r-chaim-kanievsky-126>
+(#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-127> on Chumash]. Permission granted by ArtScroll
 \/ Mesorah Publications) which ⁧מידה⁩ would be the most important to focus
 on. ⁧רב חיים⁩ responded that the key ⁧מידה⁩ is to be ⁧מוותר⁩ - to give in to
 others. People should never insist on their rights but should always be
@@ -2231,23 +2231,23 @@ son now act against his father's approach? ⁧רב חיים⁩ ruled that the
 father's conduct was influenced by the fleeting nature of ⁧עולם הזה⁩. Now, in the ⁧עולם האמת⁩⁦,⁩ the father fully appreciates the immense ⁧זכות⁩ of being
 ⁧מוותר⁩ and would eagerly embrace such a chance.
 
-⁧רב אהרן לייב שטיינמן⁩#metadata(none) <person-index-r-aharon-leib-shteinman-125> often emphasized that one never loses by being
+⁧רב אהרן לייב שטיינמן⁩#metadata(none) <person-index-r-aharon-leib-shteinman-129> often emphasized that one never loses by being
 ⁧מוותר⁩. Someone once asked him, “What have you gained from your ⁧ותרנות⁩”?
-⁧רב שטיינמן⁩#metadata(none) <person-index-r-aharon-leib-shteinman-126> replied, “I have often seen that ⁧ה׳⁩ protects me in matters of
+⁧רב שטיינמן⁩#metadata(none) <person-index-r-aharon-leib-shteinman-130> replied, “I have often seen that ⁧ה׳⁩ protects me in matters of
 ⁧צרכי ציבור⁩. Even when I lack crucial information, ⁧ה׳⁩ ensures I learn
 what I need to know.”
 
 When this was shared with ⁧רב חיים⁩⁦,⁩ someone asked how such protection is
 ⁧מידה כנגד מידה⁩ for being ⁧מוותר⁩. ⁧רב חיים⁩ explained that when dealing with
 ⁧צרכי ציבור⁩⁦,⁩ it is nearly impossible to avoid mistakes due to the
-complexities of life. Yet, because ⁧רב שטיינמן⁩#metadata(none) <person-index-r-aharon-leib-shteinman-127> consistently acted ⁧לפנים משורת הדין⁩⁦,⁩ Hashem treated him in kind, going beyond natural
+complexities of life. Yet, because ⁧רב שטיינמן⁩#metadata(none) <person-index-r-aharon-leib-shteinman-131> consistently acted ⁧לפנים משורת הדין⁩⁦,⁩ Hashem treated him in kind, going beyond natural
 expectations and ensuring he had the knowledge he needed.
 
-⁧רב שטיינמן⁩#metadata(none) <person-index-r-aharon-leib-shteinman-128> once used ⁧רב חיים⁩ himself as an example of the rewards of
+⁧רב שטיינמן⁩#metadata(none) <person-index-r-aharon-leib-shteinman-132> once used ⁧רב חיים⁩ himself as an example of the rewards of
 ⁧ותרנות⁩. He said, “When the Steipler#metadata(none) <person-index-steipler-133> passed away, halachah dictates that
 sons inherit before daughters. Yet ⁧רב חיים⁩⁦,⁩ the only son, gave up his
 rights to the ⁧ירושה⁩ and transferred the publishing rights of his
-father's ⁧ספרים⁩ -⁧קהילות יעקב⁩⁦,⁩ ⁧חיי עולם⁩⁦,⁩ ⁧שיורים של תורה⁩⁦,⁩ and ⁧ברכת פרץ⁩ - to his sister, the widowed Rebbetzin Barzam.#metadata(none) <person-index-rebbetzin-barzam-132> Did ⁧רב חיים⁩ lose anything
+father's ⁧ספרים⁩ -⁧קהילות יעקב⁩⁦,⁩ ⁧חיי עולם⁩⁦,⁩ ⁧שיורים של תורה⁩⁦,⁩ and ⁧ברכת פרץ⁩ - to his sister, the widowed Rebbetzin Barzam.#metadata(none) <person-index-rebbetzin-barzam-125> Did ⁧רב חיים⁩ lose anything
 from this act? Certainly not! Hashem repaid him in full measure”. When
 someone asked ⁧רב חיים⁩ why he gave up the rights to his father's sefarim, he responded with his characteristic humility: “⁧אבא⁩ lived in her house
 for many years. She deserved it.” To him, it wasn't extraordinary - it
@@ -2268,7 +2268,7 @@ ways, to emulate them and improve ourselves.
 = Vayaitzei 5785
 
 There is a fascinating discussion brought down in the wonderful Torah
-journal ⁧קול התורה⁩⁦,⁩ #metadata(none) <person-index-kol-hatorah-136> which comes out twice a year from England. In this
+journal ⁧קול התורה⁩⁦,⁩ #metadata(none) <person-index-kol-hatorah-139> which comes out twice a year from England. In this
 week's Parsha, ⁧ויצא⁩⁦,⁩ it delves into an intriguing problem regarding the
 tremendous ⁧נבואה⁩ to which ⁧יעקב אבינו⁩ was ⁧זוכה⁩⁦,⁩ the vision of the ⁧סֻלָּם מֻצָּב אַרְצָה⁩. In this ⁧נבואה⁩⁦,⁩ he saw ⁧הקדוש ברוך הוא⁩ and ⁧מלאכים⁩. Upon experiencing
 this, he exclaimed (28:16): ⁧אָכֵן יֵשׁ ה' בַּמָּקוֹם הַזֶּה⁩ and then further stated
@@ -2277,16 +2277,16 @@ the place of the ⁧בית המקדש⁩ - not only for now, but for all ⁧דו
 a tremendously holy place.
 
 The ⁧מפרשים⁩ raise an interesting question, brought down from a rebbi in
-Bnei Brak named R’ Aaron Goodman.#metadata(none) <person-index-r-aaron-goodman-137> The phrasing in the ⁧פסוק⁩ is peculiar:
+Bnei Brak named R’ Aaron Goodman.#metadata(none) <person-index-r-aaron-goodman-138> The phrasing in the ⁧פסוק⁩ is peculiar:
 ⁧אֵין זֶה כִּי אִם בֵּית אֱלֹקִים⁩. If you or I were speaking, we would say ⁧מַה נּוֹרָא הַמָּקוֹם הַזֶּה, כִּי זֶה בֵּית אֱלֹקִים⁩. What is the ⁧תורה⁩ teaching us with this
 specific phrasing?
 
-The ⁧חתם סופר⁩#metadata(none) <person-index-chasam-sofer-134> addresses this in ⁦שו״ת חתם סופר⁩, #metadata(none) <person-index-chasam-sofer-135> ⁦יורה דעה סימן רל״ג⁩, in the
-name of his rebbi, R’ Nosson Adler.#metadata(none) <person-index-r-nosson-adler-138> He explains, based on ⁧מדרשים⁩⁦,⁩ a
+The ⁧חתם סופר⁩#metadata(none) <person-index-chasam-sofer-136> addresses this in ⁦שו״ת חתם סופר⁩, #metadata(none) <person-index-chasam-sofer-137> ⁦יורה דעה סימן רל״ג⁩, in the
+name of his rebbi, R’ Nosson Adler.#metadata(none) <person-index-r-nosson-adler-134> He explains, based on ⁧מדרשים⁩⁦,⁩ a
 critical ⁧הלכה⁩ relevant to us. The ⁧מדרש⁩ states that in ⁧ארץ ישראל⁩⁦,⁩ ⁧עבודה זרה⁩ was so rampant that every high place - every ⁧הר גבוה⁩ or ⁧גִבְעָה נשואה⁩ - was associated with ⁧עבודה זרה⁩. The question then arises: how could ⁧הקדוש ברוך הוא⁩ choose a place that had ⁧עבודה זרה⁩ to house the ⁧בית המקדש⁩⁦?⁩
 Wouldn't the ⁧טומאה⁩ from the ⁧עבודה זרה⁩ render the location unfit?
 
-R’ Nosson Adler#metadata(none) <person-index-r-nosson-adler-139> answers with another ⁧מדרש⁩⁦,⁩ which explains that when
+R’ Nosson Adler#metadata(none) <person-index-r-nosson-adler-135> answers with another ⁧מדרש⁩⁦,⁩ which explains that when
 ⁧אברהם אבינו⁩ came for the ⁧עקדה⁩ and saw the ⁧מקום המקדש⁩ from afar, as we
 know (22:4) ⁧וַיַּרְא אֶת הַמָּקוֹם מֵרָחֹק⁩. At that time, the ⁧מקום המקדש⁩ was a
 valley, not a mountain. ⁧אברהם אבינו⁩ exclaimed that it was not fitting
@@ -2541,7 +2541,7 @@ to rise above ⁧הרגל⁩ and transform ourselves into a ⁧ראש⁩.
   ))
 = Vayishlach 5786
 
-⁧פרשת וישלח⁩. (32:4) ⁧וַיִּשְׁלַח יַעֲקֹב מַלְאָכִים לְפָנָיו אֶל עֵשָׂו אָחִיו אַרְצָה שֵׂעִיר שְׂדֵה אֱדוֹם⁩. Rashi#metadata(none) <person-index-rashi-169> says ⁧מלאכים ממש⁩⁦,⁩ that ⁧יעקב⁩ was on such a level of
+⁧פרשת וישלח⁩. (32:4) ⁧וַיִּשְׁלַח יַעֲקֹב מַלְאָכִים לְפָנָיו אֶל עֵשָׂו אָחִיו אַרְצָה שֵׂעִיר שְׂדֵה אֱדוֹם⁩. Rashi#metadata(none) <person-index-rashi-161> says ⁧מלאכים ממש⁩⁦,⁩ that ⁧יעקב⁩ was on such a level of
 accomplishment that he was able to utilize ⁧מלאכים⁩ in his service.
 
 I recently had shoulder surgery for a torn rotator cuff - Baruch Hashem
@@ -2553,18 +2553,18 @@ asked him when was the last time he had put on ⁧תפילין⁩. He answered m
 years ago. I asked him if I brought him my ⁧תפילין⁩⁦,⁩ would he put them on, and he said yes. To my delight, he put them on when I came the following
 week. He recalled that the last time he had put on ⁧תפילין⁩ was with a
 Lubavitcher chassid somewhere on a street, which prompted me to praise
-R’ Menachem Mendel, the last Lubavitcher Rebbe, #metadata(none) <person-index-lubavitcher-rebbe-158> for his genius and great
+R’ Menachem Mendel, the last Lubavitcher Rebbe, #metadata(none) <person-index-lubavitcher-rebbe-159> for his genius and great
 accomplishments. I mentioned that there's no city in the world that does
 not have a Lubavitcher outpost.
 
 As I was speaking to him, I recalled a story that I knew about Dr. Allen
-Goldstein, #metadata(none) <person-index-dr-allen-goldstein-150> ⁦ז״ל⁩, a famous doctor in our neighborhood, and how he became
+Goldstein, #metadata(none) <person-index-dr-allen-goldstein-151> ⁦ז״ל⁩, a famous doctor in our neighborhood, and how he became
 one of the world's most prominent ear, nose and throat doctors. He
-actually was both the Satmar Rebbe's#metadata(none) <person-index-r-yoel-teitelbaum-165> and R’ Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-167> Soloveitchik's
+actually was both the Satmar Rebbe's#metadata(none) <person-index-r-yoel-teitelbaum-164> and R’ Yoshe Ber Soloveitchik's#metadata(none) <person-index-r-yoshe-ber-162>
 ear, nose and throat specialist. When he was a young doctor, he was
 deciding what to do as a specialty. He was mature enough, even at that
 young age, to realize that he would need advice as to what he should do
-with his life, and decided to go to the Lubavitcher Rebbe#metadata(none) <person-index-lubavitcher-rebbe-159> to ask for
+with his life, and decided to go to the Lubavitcher Rebbe#metadata(none) <person-index-lubavitcher-rebbe-160> to ask for
 guidance. He put on his army uniform (he had been a lieutenant in the
 Public Health Service), and dressed up as a military officer went down
 to 770. He said the ⁧חסידים⁩ took one look at him and thought he was a
@@ -2575,34 +2575,34 @@ of training, ability and skill. The Rebbe asked him an interesting
 question. He said to him, “You'd like to help people by operating on
 their chests. If somebody has an earache and you help them with their
 earache, is that any different than helping somebody who has a chest
-problem?” Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-151> thought about it and came to the conclusion that
+problem?” Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-152> thought about it and came to the conclusion that
 the Rebbe was right, changed his life course, and became an outstanding
 ear, nose and throat doctor, known for keeping his office open till the
 wee hours in the morning with an office jammed with people.
 
-Besides being a genius in learning, a talmid of R’ Yoshe Ber, #metadata(none) <person-index-r-yoshe-ber-168> and a
-colleague R’ Menachem Genack#metadata(none) <person-index-r-menachem-genack-160> of OU fame, Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-152> was also a master
+Besides being a genius in learning, a talmid of R’ Yoshe Ber, #metadata(none) <person-index-r-yoshe-ber-163> and a
+colleague R’ Menachem Genack#metadata(none) <person-index-r-menachem-genack-150> of OU fame, Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-153> was also a master
 storyteller. When he was sitting ⁧שבעה⁩ for his mother ⁦ע״ה⁩, he was
-regaling us with stories. One of his stories was about R’ Ovadia Yosef.#metadata(none) <person-index-r-ovadia-yosef-161>
-Quite a number of years ago, R’ Ovadia's#metadata(none) <person-index-r-ovadia-yosef-162> son developed an ear problem.
+regaling us with stories. One of his stories was about R’ Ovadia Yosef.#metadata(none) <person-index-r-ovadia-yosef-166>
+Quite a number of years ago, R’ Ovadia's#metadata(none) <person-index-r-ovadia-yosef-167> son developed an ear problem.
 When he sought medical attention, he was told that there was no one in
 Israel capable of helping him and he should go to America to seek out
-Dr. Goldstein's#metadata(none) <person-index-dr-allen-goldstein-153> care and advice. Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-154> examined him and
+Dr. Goldstein's#metadata(none) <person-index-dr-allen-goldstein-154> care and advice. Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-155> examined him and
 determined that he could treat the problem surgically, and arranged to
 perform the operation. While in surgery, the intercom in the operating
-room blared out, “Dr. Goldstein, #metadata(none) <person-index-dr-allen-goldstein-155> Rabbi Yosef is calling from Israel.”
-Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-156> responded, “Tell Rabbi Yosef I'm in the middle of surgery
+room blared out, “Dr. Goldstein, #metadata(none) <person-index-dr-allen-goldstein-156> Rabbi Yosef is calling from Israel.”
+Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-157> responded, “Tell Rabbi Yosef I'm in the middle of surgery
 and I'll call him back when the surgery is done.”
 
 When he completed his work, he called Rav Yosef and told him that the
 surgery was quite successful, everything was accomplished, and that his
-son would have a ⁧רפואה שלמה⁩. R’ Ovadia#metadata(none) <person-index-r-ovadia-yosef-163> began to praise him and give him
+son would have a ⁧רפואה שלמה⁩. R’ Ovadia#metadata(none) <person-index-r-ovadia-yosef-168> began to praise him and give him
 many ⁧ברכות⁩ to show his ⁧הכרת הטוב⁩. He concluded by saying, “In gratitude
 for your help, I want to give you a special ⁧ברכה⁩⁦,⁩ I'm going to send down
 a ⁧מלאך⁩ from ⁧שמים⁩ who should stand at your right hand during all of your
-surgeries.” Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-157> replied, “Excuse me Rabbi, but the Satmar
-Rebbe#metadata(none) <person-index-r-yoel-teitelbaum-166> already promised me #underline[four] ⁧מלאכים⁩ to surround me during
-surgery.” Rav Ovadia#metadata(none) <person-index-r-ovadia-yosef-164> immediately responded, “Ah, what are four ⁧אשכנזי מלאכים⁩ compared to one ⁧ספרדי מלאך⁩\.” We were regaled with laughter, it
+surgeries.” Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-158> replied, “Excuse me Rabbi, but the Satmar
+Rebbe#metadata(none) <person-index-r-yoel-teitelbaum-165> already promised me #underline[four] ⁧מלאכים⁩ to surround me during
+surgery.” Rav Ovadia#metadata(none) <person-index-r-ovadia-yosef-169> immediately responded, “Ah, what are four ⁧אשכנזי מלאכים⁩ compared to one ⁧ספרדי מלאך⁩\.” We were regaled with laughter, it
 was so hilarious. So ⁧מלאכים ממש⁩ are still around, and they still can
 help us and they still do help us. We ask Hashem for His assistance
 through ⁧מלאכים⁩ and through ⁧הקדוש ברוך הוא⁩ Himself ⁧אין עוד מלבדו⁩ in all
@@ -3054,9 +3054,9 @@ discuss extensively why ⁧יעקב אבינו⁩ chose to describe his life neg
 rather than positively. Be that as it may, it is brought down in all the
 ⁧מפרשים⁩ that for these words, ⁦יעקב'⁩s life was shortened.
 
-⁧ר׳ חיים שמולביץ⁩#metadata(none) <person-index-r-chaim-shmuelevitz-190> and the ⁧דעת זקנים⁩#metadata(none) <person-index-da-as-zekainim-189> explain that there are 33 words in
+⁧ר׳ חיים שמולביץ⁩#metadata(none) <person-index-r-chaim-shmuelevitz-191> and the ⁧דעת זקנים⁩#metadata(none) <person-index-da-as-zekainim-189> explain that there are 33 words in
 ⁦יעקב'⁩s response, and these 33 words correspond to the 33 years by which
-⁦יעקב'⁩s life was shorter than ⁦יצחק'⁩s. ⁧ר׳ חיים שמולביץ⁩#metadata(none) <person-index-r-chaim-shmuelevitz-191> raises an
+⁦יעקב'⁩s life was shorter than ⁦יצחק'⁩s. ⁧ר׳ חיים שמולביץ⁩#metadata(none) <person-index-r-chaim-shmuelevitz-192> raises an
 interesting question: these 33 words include the words ⁧וַיֹּאמֶר פַּרְעֹה אֶל יַעֲקֹב כַּמָּה יְמֵי שְׁנֵי חַיֶּיךָ⁩ - which were spoken by ⁧פרעה⁩⁦,⁩ not ⁧יעקב⁩. Why should
 ⁧יעקב⁩ lose eight years of his life for words that ⁧פרעה⁩ spoke?
 
@@ -3071,7 +3071,7 @@ should show someone his white teeth rather than giving him a glass of
 milk. The ⁧מפרשים⁩ elaborate: a glass of milk quenches thirst temporarily, but a smile uplifts a person's spirit for much longer, brightening his
 day.
 
-⁧ר׳ ישראל סלנטר⁩#metadata(none) <person-index-r-yisroel-salanter-192> points out the enormous responsibility this places on us.
+⁧ר׳ ישראל סלנטר⁩#metadata(none) <person-index-r-yisroel-salanter-190> points out the enormous responsibility this places on us.
 Our faces are “public property.” A smile benefits everyone around us, while a frown can negatively affect others. As challenging as it may
 seem, we are obligated to present a cheerful face to those around us, regardless of our personal struggles. ⁧הֱוֵי מְקַבֵּל אֶת כָּל הָאָדָם בְּסֵבֶר פָּנִים יָפוֹת⁩
 is not merely advice; it is a direct ⁧ציווי⁩.
@@ -3112,7 +3112,7 @@ discussion on your way back to ⁧ארץ ישראל⁩ because you might lose fo
 and get lost on the road.”
 
 There are two parallel, beautiful ⁧דברי תורה⁩⁦,⁩ one from the ⁧אַפּרְיוֹן⁩ (which
-is from ⁧רב שלמה גאנצפריד⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-199> the famous author of the ⁧קיצור שולחן ערוך⁩)#metadata(none) <person-index-kitzur-shulchan-aruch-198> and
+is from ⁧רב שלמה גאנצפריד⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-198> the famous author of the ⁧קיצור שולחן ערוך⁩)#metadata(none) <person-index-kitzur-shulchan-aruch-199> and
 one from the Brisker Rav, #metadata(none) <person-index-brisker-rav-193> which complement each other. The ⁧אַפּרְיוֹן⁩ raises
 a question: If ⁧יוסף⁩ warns his brothers not to engage in ⁧הלכה⁩ during
 their travels, why didn't ⁧יעקב⁩ give them the same warning earlier? He
@@ -3195,10 +3195,10 @@ families, and all of ⁧כלל ישראל⁩.
   ))
 = Vayechi 5783
 
-R’ Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-204> Soloveitchik, the Rav of ⁧כלל ישראל⁩⁦,⁩ has a wonderful essay
+R’ Yoshe Ber Soloveitchik, #metadata(none) <person-index-r-yoshe-ber-214> the Rav of ⁧כלל ישראל⁩⁦,⁩ has a wonderful essay
 titled “The First Jewish Grandfather,” inspired by this week's ⁧פרשה⁩. It
-may be found in the sefer “Man of Faith#metadata(none) <person-index-man-of-faith-202> in the Modern World” by Rabbi
-Abraham Besdin.#metadata(none) <person-index-rabbi-abraham-besdin-203>
+may be found in the sefer “Man of Faith#metadata(none) <person-index-man-of-faith-203> in the Modern World” by Rabbi
+Abraham Besdin.#metadata(none) <person-index-rabbi-abraham-besdin-202>
 
 ⁧יעקב אבינו⁩ had two unique privileges not shared by the other ⁧אבות⁩. The
 first is that ⁦יעקב'⁩s names, ⁧יעקב⁩ and ⁧ישראל⁩⁦,⁩ became synonymous with ⁧כלל ישראל⁩. We are called ⁧בני ישראל⁩⁦,⁩ ⁧כלל ישראל⁩⁦,⁩ ⁧בני יעקב⁩⁦,⁩ and ⁧בית יעקב⁩. In
@@ -3216,7 +3216,7 @@ explicitly highlighted for the first time in this week's ⁧פרשה⁩⁦,⁩ �
 learn that the ⁧בני יוסף⁩ studied with their grandfather ⁧יעקב⁩ every day
 after he arrived in ⁧מצרים⁩. ⁧אפרים⁩⁦,⁩ as well as ⁧מנשה⁩⁦,⁩ learned with their
 Zeidy. It was the ⁧זקן⁩ who listened to their problems, worked with them, played with them, and planned with them. The most effective teacher, R’
-Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-205> says, is not one who lectures with a detachment, but rather
+Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-215> says, is not one who lectures with a detachment, but rather
 one who befriends his students, becoming a co-searcher of ⁧אמת⁩. This was
 the unique relationship that ⁧יעקב אבינו⁩ shared with his grandchildren.
 
@@ -3230,7 +3230,7 @@ a mythical figure, but a constant source of inspiration. We journey with
 him, feeling his trials in ⁧לך לך⁩. We tremble with ⁧יצחק⁩ at the ⁧עקדה⁩. We
 run with ⁧יעקב⁩ to ⁧חרן⁩. We share with ⁧לאה⁩ and ⁧רחל⁩ the birth of the ⁧שבטים⁩.
 
-R’ Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-206> offers a beautiful ⁧משל⁩ to illustrate this idea. “An old
+R’ Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-216> offers a beautiful ⁧משל⁩ to illustrate this idea. “An old
 rebbi enters a classroom filled with young students, young enough to be
 his grandchildren. He enters as an old man with a wrinkled face, his
 eyes reflecting the fatigue and sadness of old age. He sees his ⁧דור⁩
@@ -3240,12 +3240,12 @@ rebbi sits down and he sees before him rows of young beaming faces, clear eyes r
 Indian summer, and the students enjoying the spring of their lives, have
 any connection?” With hesitation he begins his ⁧שיעור⁩⁦,⁩ uncertain as to
 how it will proceed. Suddenly, the door opens, and his grandfather, ⁧רב חיים בריסקר⁩⁦,⁩ enters to help explain the ⁧גמרא⁩. Then, another figure
-enters - the ⁦ש״ך⁩, #metadata(none) <person-index-shach-217> followed by ⁧רבינו תם⁩⁦,⁩ ⁧רש״י⁩⁦,⁩ #metadata(none) <person-index-rashi-216> the ⁦רמב״ם⁩, #metadata(none) <person-index-rambam-211> the ⁦ראב״ד⁩, #metadata(none) <person-index-raivid-208> the
-⁦רשב״א⁩, #metadata(none) <person-index-rashba-214> ⁧רבי עקיבא⁩⁦,⁩ and more. Giants of past generations take their seats.
+enters - the ⁦ש״ך⁩, #metadata(none) <person-index-shach-213> followed by ⁧רבינו תם⁩⁦,⁩ ⁧רש״י⁩⁦,⁩ #metadata(none) <person-index-rashi-212> the ⁦רמב״ם⁩, #metadata(none) <person-index-rambam-207> the ⁦ראב״ד⁩, #metadata(none) <person-index-raivid-204> the
+⁦רשב״א⁩, #metadata(none) <person-index-rashba-210> ⁧רבי עקיבא⁩⁦,⁩ and more. Giants of past generations take their seats.
 The rebbi introduces these guests to his students, and a great dialogue
-begins. The ⁦רמב״ם⁩#metadata(none) <person-index-rambam-212> states a ⁧הלכה⁩\; the ⁦ראב״ד⁩#metadata(none) <person-index-raivid-209> sharply disagrees. Students
-defend the ⁦רמב״ם⁩, #metadata(none) <person-index-rambam-213> while others challenge the ⁦ראב״ד⁩.#metadata(none) <person-index-raivid-210> The rebbi softly
-corrects the students and suggests more restrained tones. The ⁦רשב״א⁩#metadata(none) <person-index-rashba-215>
+begins. The ⁦רמב״ם⁩#metadata(none) <person-index-rambam-208> states a ⁧הלכה⁩\; the ⁦ראב״ד⁩#metadata(none) <person-index-raivid-205> sharply disagrees. Students
+defend the ⁦רמב״ם⁩, #metadata(none) <person-index-rambam-209> while others challenge the ⁦ראב״ד⁩.#metadata(none) <person-index-raivid-206> The rebbi softly
+corrects the students and suggests more restrained tones. The ⁦רשב״א⁩#metadata(none) <person-index-rashba-211>
 smiles gently. ⁧רבינו תם⁩ gives his opinion. All of a sudden all of the
 ⁧דורות⁩ come together, the young students debate earlier generations with
 an air of familiarity. A crescendo of discussion ensues. All speak one
@@ -3259,7 +3259,7 @@ the final ⁧גאולה⁩. ⁧אליהו⁩ will come, ⁧וְהֵשִׁיב ל
 dialogue of the generations will come to actual fulfillment when ⁧משיח⁩
 comes.”
 
-R’ Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-207> concludes, “After a two or three hour ⁧שיעור⁩ the Rabbi
+R’ Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-217> concludes, “After a two or three hour ⁧שיעור⁩ the Rabbi
 emerges from the chamber young and rejuvenated! He has defeated age -
 the students look exhausted! The students are exhausted from this
 exercise. In the ⁧מסורה⁩ experience, years play no role. Hands, however
@@ -3490,7 +3490,7 @@ every time the ⁧תורה⁩ uses the phrase ⁧ויחר אף⁩ it indicates s
 ⁧עונש⁩⁦,⁩ because Hashem doesn't get angry, but anger ⁧כביכול⁩ flares up.
 However, ⁧רבי יהושע בן קרחה⁩ points out one exception: in our ⁧פסוק⁩⁦,⁩ ⁧משה רבינו⁩ doesn't receive any punishment.
 
-But, as always, there's a ⁧מחלוקת⁩. ⁧ר׳ שמעון בר יוחי⁩#metadata(none) <person-index-r-shimon-bar-yochai-228> disagrees and
+But, as always, there's a ⁧מחלוקת⁩. ⁧ר׳ שמעון בר יוחי⁩#metadata(none) <person-index-r-shimon-bar-yochai-227> disagrees and
 asserts that ⁧משה רבינו⁩ was indeed punished. How do we see this? The ⁧פסוק⁩
 says ⁧הֲלֹא אַהֲרֹן אָחִיךָ #strong[הַלֵּוִי] יָדַעְתִּי כִּי דַבֵּר יְדַבֵּר⁩. We know ⁧אַהֲרֹן⁩ is not
 referred to as a ⁧לוי⁩\; why does the ⁧תורה⁩ call him ⁧הלוי⁩? We know that
@@ -3502,7 +3502,7 @@ raises a question: even ⁧רבי יהושע בן קרחה⁩ would have to admi
 outcome is a punishment. After all, we know that ⁧אַהֲרֹן⁩ became the ⁧כהן גדול⁩ and ⁧משה⁩ remained a ⁧לוי⁩. So how could ⁧רבי יהושע בן קרחה⁩ claim that
 ⁧משה⁩ wasn't punished?
 
-R’ Chaim Shmuelevitz#metadata(none) <person-index-r-chaim-shmuelevitz-227> offers a powerful insight from the ⁧מדרש⁩. When ⁧ניסוך השמן⁩ was performed during ⁦אַהֲרֹן'⁩s inauguration as ⁧כהן גדול⁩⁦,⁩ ⁧משה רבינו⁩
+R’ Chaim Shmuelevitz#metadata(none) <person-index-r-chaim-shmuelevitz-228> offers a powerful insight from the ⁧מדרש⁩. When ⁧ניסוך השמן⁩ was performed during ⁦אַהֲרֹן'⁩s inauguration as ⁧כהן גדול⁩⁦,⁩ ⁧משה רבינו⁩
 witnessed the oil flowing over ⁦אַהֲרֹן'⁩s head, down his face, and onto his
 beard. The ⁧מדרש⁩ describes how ⁧משה⁩ was so thrilled and joyous that it was
 as if the oil was being poured on his own head. ⁦משה'⁩s joy at his
@@ -3666,7 +3666,7 @@ for this very fundamental ⁧קשיא⁩ of ⁧בחירה חפשית⁩.
 
 The ⁧פרשה⁩ begins ⁧וָאֵרָא אֶל אַבְרָהָם אֶל יִצְחָק וְאֶל יַעֲקֹב בְּאֵל שַׁקָּי וּשְׁמִי ה׳ לֹא נוֹדַעְתִּי לָהֶם⁩. What does this mean?
 
-The sefer ⁧שמחת התורה⁩ by R’ Simcha Sheps#metadata(none) <person-index-r-sheps-239> ⁦זצ״ל⁩ brings a fascinating idea
+The sefer ⁧שמחת התורה⁩ by R’ Simcha Sheps#metadata(none) <person-index-r-simcha-sheps-239> ⁦זצ״ל⁩ brings a fascinating idea
 from ⁦דברי חז״ל⁩ in ⁧בראשית רבה⁩. What does the name ⁧קל שקי⁩ signify? When
 ⁧הקדוש ברוך הוא⁩ created the world, it was expanding and had the potential
 to expand indefinitely. But Hashem said, ⁧די⁩ - enough! There are limits
@@ -3857,7 +3857,7 @@ times.
 
 In ⁧פרשת בא⁩ it says (12:2): ⁧הַחֹדֶשׁ הַזֶּה לָכֶם רֹאשׁ חֳדָשִׁים⁩⁦,⁩ the first ⁧מצוה⁩ given
 to ⁧כלל ישראל⁩ as a nation: ⁧רִאשׁוֹן הוּא לָכֶם לְחׇדְשֵׁי הַשָּׁנָה⁩. The sefer ⁧שמחת התורה⁩
-by R’ Simcha Sheps#metadata(none) <person-index-r-sheps-248> offers a fascinating insight. He brings a ⁧גמרא⁩ in
+by R’ Simcha Sheps#metadata(none) <person-index-r-simcha-sheps-248> offers a fascinating insight. He brings a ⁧גמרא⁩ in
 ⁦מנחות כ״ט ע״א⁩: ⁧תנא דבי רבי ישמעאל שלשה דברים היו קשין לו למשה⁩ - There
 were three topics that ⁧משה רבינו⁩ found particularly difficult; ⁧עד שהראה לו הקב״ה באצבעו⁩ - until ⁧הקדוש ברוך הוא⁩ explicitly showed ⁧משה⁩ each one
 with an ⁧אצבע⁩⁦,⁩ pointing and clarifying, “This is what I mean, this is
@@ -3899,9 +3899,9 @@ succeed in ⁧עולם הזה⁩ with our ⁧עבודה⁩ of bringing ⁧אור
   ))
 = Bo 5785
 
-The ⁧ספר אור גדליהו⁩⁦,⁩ #metadata(none) <person-index-r-gedalia-schorr-250> by ⁦רב גדליה שור זצ״ל⁩, #metadata(none) <person-index-r-gedalia-schorr-251> is a wonderful ⁧ספר⁩. Every time
+The ⁧ספר אור גדליהו⁩⁦,⁩ #metadata(none) <person-index-r-gedalia-schorr-252> by ⁦רב גדליה שור זצ״ל⁩, #metadata(none) <person-index-r-gedalia-schorr-253> is a wonderful ⁧ספר⁩. Every time
 it's reprinted, it sells out almost immediately, and there's a good
-reason for that - it's a truly enlightening set of ⁧ספרים⁩. On ⁧פרשת בא⁩⁦,⁩ the ⁧אור גדליהו⁩#metadata(none) <person-index-r-gedalia-schorr-252> writes that every ⁧מצוה⁩ has an integral and significant
+reason for that - it's a truly enlightening set of ⁧ספרים⁩. On ⁧פרשת בא⁩⁦,⁩ the ⁧אור גדליהו⁩#metadata(none) <person-index-r-gedalia-schorr-254> writes that every ⁧מצוה⁩ has an integral and significant
 component: ⁧זכר ליציאת מצרים⁩. We often say these words without
 understanding their depth because we're so accustomed to them. It
 doesn't just mean a remembrance of ⁧יציאת מצרים⁩. According to ⁧רב גדליה⁩⁦,⁩ performing a ⁧מצוה⁩ allows a person to be ⁧זוכה, בפועל⁩ - in an actual, physical sense - to the same inspiration and enlightenment that was
@@ -3923,14 +3923,14 @@ us, offering a glimpse of ⁧התגלות השכינה⁩. ⁧רב גדליה⁩
 ⁧גילוי שכינה⁩ is present in all ⁧מצוות⁩⁦,⁩ not just these four.
 
 A fascinating insight into a particular part of a ⁧מצוה⁩ comes from the
-⁧ספר אפיריון⁩⁦,⁩ written the ⁧בעל קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-kitzur-shulchan-aruch-249> R’ Shlomo Ganzfried.#metadata(none) <person-index-r-shlomo-ganzfried-253> He
+⁧ספר אפיריון⁩⁦,⁩ written the ⁧בעל קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-249> R’ Shlomo Ganzfried.#metadata(none) <person-index-r-shlomo-ganzfried-250> He
 says in this week's ⁧פרשה⁩ (12:39): ⁧וַיֹּאפוּ אֶת הַבָּצֵק⁩ - they baked the dough;
 ⁧עֻגֹת מַצּוֹת כִּי לֹא חָמֵץ כִּי גֹרְשׁוּ מִמִּצְרַיִם⁩. We say in the ⁧הגדה של פסח⁩: ⁧מַצָּה זוֹ שֶׁאָנוּ אוֹכְלִים, עַל שׁוּם מַה⁩⁦?⁩ ⁧עַל שׁוּם שֶׁלֹּא הִסְפִּיק בְּצֵקָם שֶׁל אֲבוֹתֵינוּ לְהַחֲמִיץ⁩ - Why are we
 eating this ⁧מצה⁩? We're eating this ⁧מצה⁩ because of the ⁧מצה⁩ that they ate
 in ⁧מצרים⁩⁦,⁩ which they did in a big, fast hurry, and didn't have enough
 time for it to become ⁧חמץ⁩.
 
-The ⁦רמב״ם⁩#metadata(none) <person-index-rambam-254> notes that ⁧מצה⁩ made with ⁧מי פירות⁩ (fruit juice) doesn't become
+The ⁦רמב״ם⁩#metadata(none) <person-index-rambam-251> notes that ⁧מצה⁩ made with ⁧מי פירות⁩ (fruit juice) doesn't become
 ⁧חמץ⁩⁦,⁩ as it lacks the ability to ferment. However, certain liquids -
 wine, oil, honey, and milk - are not used because they don't meet the
 criteria of ⁧לחם עוני⁩. Despite this, ⁧מצה⁩ made with these liquids won't
@@ -4083,11 +4083,11 @@ later, I realize that all these tapes, all the topics, and the entire
 Jewish year are interconnected, all emanating from a single source. So, when I discuss ⁧פרשת בשלח⁩ and connect it to ⁧על הנסים⁩ from ⁧חנוכה⁩⁦,⁩ it's not
 as disparate or jarring as one might initially think.
 
-The pasuk in ⁧פרשת בשלח⁩ says (14:14): ⁧ה׳ יִלָּחֵם לָכֶם וְאַתֶּם תַּחֲרִשׁוּן⁩. Rashi#metadata(none) <person-index-rashi-272>
+The pasuk in ⁧פרשת בשלח⁩ says (14:14): ⁧ה׳ יִלָּחֵם לָכֶם וְאַתֶּם תַּחֲרִשׁוּן⁩. Rashi#metadata(none) <person-index-rashi-270>
 comments: ⁧בִּשְׁבִילְכֶם⁩⁦,⁩ meaning that Hashem will fight for you. What does
-⁦רש״י⁩#metadata(none) <person-index-rashi-273> mean?
+⁦רש״י⁩#metadata(none) <person-index-rashi-271> mean?
 
-There's a ⁧גוואַלדיק⁩ vort on this pasuk from R’ Beryl Weisbord#metadata(none) <person-index-r-beryl-weisbord-267> in the
+There's a ⁧גוואַלדיק⁩ vort on this pasuk from R’ Beryl Weisbord#metadata(none) <person-index-r-beryl-weisbord-274> in the
 Chanukah sefer put out by ⁧ישיבת נר ישראל⁩⁦,⁩ titled ⁧ה׳ יִלָּחֵם לָכֶם⁩. He raises
 an intriguing question: In the ⁧נוסח⁩ of ⁧על הנסים⁩⁦,⁩ we praise Hashem for
 delivering ⁧גִבּוֹרִים בְּיַד חַלָּשִׁים, רַבִּים בְּיַד מְעַטִּים,  טְמֵאִים בְּיַד טְהוֹרִים, רְשָׁעִים בְּיַד צַדִּיקִים⁩, and ⁧זֵדִים בְּיַד עוֹסְקֵי תוֹרָתֶךָ⁩. The first two instances, ⁧גִבּוֹרִים⁩ and
@@ -4096,9 +4096,9 @@ However, the last three seem to be natural outcomes we would expect when
 engaging in ⁧תורה⁩ and ⁧מצוות⁩⁦,⁩ that Hashem will give us ⁧הצלחה⁩ in what we
 do. Where is the ⁧נס⁩ in these?
 
-R’ Beryl brings down a ⁦רמב״ן⁩#metadata(none) <person-index-ramban-269> at the beginning of ⁧פרשת וישלח⁩⁦,⁩ where ⁧יעקב⁩
+R’ Beryl brings down a ⁦רמב״ן⁩#metadata(none) <person-index-ramban-267> at the beginning of ⁧פרשת וישלח⁩⁦,⁩ where ⁧יעקב⁩
 prepared for three things: ⁧תפילה⁩⁦,⁩ ⁧דורון⁩⁦,⁩ and ⁧מלחמה⁩. Was ⁧יעקב⁩ truly
-preparing for a literal battle? The ⁦רמב״ן⁩#metadata(none) <person-index-ramban-270> explains that he was preparing
+preparing for a literal battle? The ⁦רמב״ן⁩#metadata(none) <person-index-ramban-268> explains that he was preparing
 to engage in a battle as a means to escape. This highlights the Jewish
 approach to ⁧מלחמה⁩: ⁧ה׳ יִלָּחֵם לָכֶם, ה׳ אִישׁ מִלְחָמָה⁩. ⁧כלל ישראל⁩ are not natural
 warriors; it is Hashem who fights for us. Any battle in which we engage
@@ -4106,7 +4106,7 @@ is merely a means to escape, with Hashem doing the real fighting.
 
 In ⁧על הנסים⁩⁦,⁩ we thank Hashem for ⁧נִּסִּים⁩⁦,⁩ ⁧פֻּרְקָן⁩⁦,⁩ ⁧גְּבוּרוֹת⁩⁦,⁩ ⁧תְּשׁוּעוֹת⁩⁦,⁩ and ⁧מִּלְחָמוֹת⁩.
 Interestingly, ⁧מִּלְחָמוֹת⁩ is mentioned last. This emphasizes that our
-gratitude extends beyond ⁧למעלה מן הטבע נסים⁩ to every single thing, ⁧פֻּרְקָן⁩⁦,⁩ ⁧גְּבוּרוֹת⁩⁦,⁩ and ⁧תְּשׁוּעוֹת⁩ that happens to us on a daily basis. As the ⁦רמב״ן⁩#metadata(none) <person-index-ramban-271>
+gratitude extends beyond ⁧למעלה מן הטבע נסים⁩ to every single thing, ⁧פֻּרְקָן⁩⁦,⁩ ⁧גְּבוּרוֹת⁩⁦,⁩ and ⁧תְּשׁוּעוֹת⁩ that happens to us on a daily basis. As the ⁦רמב״ן⁩#metadata(none) <person-index-ramban-269>
 writes, a person does not have a ⁧חלק⁩ in ⁧תורת משה⁩ until he believes that
 all of our activities, everything that we do our entire lives, is a ⁧נס⁩.
 There is no ⁧טבע⁩⁦,⁩ only Hashem's direct involvement.
@@ -4119,11 +4119,11 @@ working with swords, bows and arrows, they did not win because of their
 heroics, but rather because of ⁦הקדוש ברוך הוא'⁩s activities.
 
 Now we understand that even though we had a ⁧נצחון⁩⁦,⁩ and the ⁧נצחון⁩ was
-through ⁧נסים⁩ and ⁧נפלאות⁩⁦,⁩ it only was because of ⁧טְמֵאִים בְּיַד טְהוֹרִים וּרְשָׁעִים בְּיַד צַדִּיקִים וְזֵדִים בְּיַד עוֹסְקֵי תוֹרָתֶךָ⁩. ⁧מלחמה⁩ is successful only because ⁧ה׳ יִלָּחֵם לָכֶם וְאַתֶּם תַּחֲרִשׁוּן⁩. When ⁦רש״י⁩#metadata(none) <person-index-rashi-274> says ⁧בִּשְׁבִילְכֶם⁩⁦,⁩ he means that if you're
+through ⁧נסים⁩ and ⁧נפלאות⁩⁦,⁩ it only was because of ⁧טְמֵאִים בְּיַד טְהוֹרִים וּרְשָׁעִים בְּיַד צַדִּיקִים וְזֵדִים בְּיַד עוֹסְקֵי תוֹרָתֶךָ⁩. ⁧מלחמה⁩ is successful only because ⁧ה׳ יִלָּחֵם לָכֶם וְאַתֶּם תַּחֲרִשׁוּן⁩. When ⁦רש״י⁩#metadata(none) <person-index-rashi-272> says ⁧בִּשְׁבִילְכֶם⁩⁦,⁩ he means that if you're
 succeeding, understand that the cause of your success is Hashem. Here in
 ⁧בשלח⁩⁦,⁩ that's obvious. The splitting of the ⁧ים סוף⁩⁦,⁩ going through the ⁧ים⁩⁦,⁩ and drowning the ⁧מצריים⁩ was without human input. But even when it seems
 that something happens because of what we call ⁧טבע⁩⁦,⁩ we have to
-understand that it is also Hashem. In fact, the ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-268> says
+understand that it is also Hashem. In fact, the ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-273> says
 (14:31): ⁧וַיַּרְא יִשְׂרָאֵל אֶת הַיָּד הַגְּדֹלָה אֲשֶׁר עָשָׂה ה׳ בְּמִצְרַיִם⁩. Which was the
 greater of the two ⁧נסים⁩? The splitting of the sea and ⁧כלל ישראל⁩ going
 through it, with water standing up, or, the waters falling back down and
@@ -4192,7 +4192,7 @@ number of ⁧מצוות⁩⁦,⁩ but they are not ⁧עבדי ה׳⁩. In contr
 
 ⁧וַיִּחַן שָׁם יִשְׂרָאֵל נֶגֶד הָהָר⁩\(19:2), possibly the most beautiful pasuk in the
 Torah. ⁦רש״י⁩#metadata(none) <person-index-rashi-287> comments ⁧כְּאִישׁ אֶחָד בְּלֵב אֶחָד⁩. However, people often overlook
-the next pasuk: ⁧וּמֹשֶׁה עָלָה אֶל הָאֱלֹקִים⁩. The ⁧ספר דרש והעיון⁩⁦,⁩ quoted in ⁧מעינה של תורה⁩⁦,⁩ #metadata(none) <person-index-m-eino-shel-torah-284> offers a profound insight: if ⁧כלל ישראל⁩ achieves this
+the next pasuk: ⁧וּמֹשֶׁה עָלָה אֶל הָאֱלֹקִים⁩. The ⁧ספר דרש והעיון⁩⁦,⁩ quoted in ⁧מעינה של תורה⁩⁦,⁩ #metadata(none) <person-index-m-eino-shel-torah-286> offers a profound insight: if ⁧כלל ישראל⁩ achieves this
 tremendous ⁧אחדות⁩ and can stand against the ⁧יצר הרע⁩⁦,⁩ symbolized by a ⁧הר⁩⁦,⁩ then their leaders, like ⁧משה⁩⁦,⁩ can ascend higher, reaching ⁧הקדוש ברוך הוא⁩
 \- ⁧וּמֹשֶׁה עָלָה אֶל הָאֱלֹקִים⁩. He was able to rise higher because of them.
 
@@ -4204,12 +4204,12 @@ Instead, we should use success as a springboard to elevate ourselves
 further, continually striving to reach greater heights. Reflecting on
 the infinite nature of ⁧הקדוש ברוך הוא⁩ and the spiritual heights reached
 by ⁧גדולים⁩ like ⁧משה⁩⁦,⁩ ⁧רש״י⁩⁦,⁩ #metadata(none) <person-index-rashi-288> and the Vilna Gaon, #metadata(none) <person-index-vilna-gaon-289> we realize the potential
-within us. Even a simple bank teller like ⁧רב קהתי⁩#metadata(none) <person-index-r-pinchas-kehati-286> achieved greatness
+within us. Even a simple bank teller like ⁧רב קהתי⁩#metadata(none) <person-index-r-pinchas-kehati-285> achieved greatness
 through his ⁧פירוש⁩ on ⁧משניות⁩⁦,⁩ demonstrating that ordinary people can
 reach extraordinary spiritual levels.
 
-This theme ties into an enlightened teaching quoted by R’ Matis Blum#metadata(none) <person-index-r-blum-285>
-⁦זצ״ל⁩, ⁦(known for his ⁧תורה לדעת⁩ sheets),⁩ from the sefer ⁧חנוכת התורה החדש⁩.#metadata(none) <person-index-chanukas-hatorah-hechadash-282>
+This theme ties into an enlightened teaching quoted by R’ Matis Blum#metadata(none) <person-index-r-blum-282>
+⁦זצ״ל⁩, ⁦(known for his ⁧תורה לדעת⁩ sheets),⁩ from the sefer ⁧חנוכת התורה החדש⁩.#metadata(none) <person-index-chanukas-hatorah-hechadash-283>
 He references a Gemara in ⁦ע״ב שבת פח⁩: ⁧בְּשָׁעָה שֶׁעָלָה מֹשֶׁה לַמָּרוֹם⁩ - when ⁧משה⁩
 went up to ⁧שמים⁩⁦;⁩ ⁧אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא⁩ - the ⁧מלאכי השרת⁩⁦,⁩ who serve before Hashem, complained. ⁧רִבּוֹנוֹ שֶׁל עוֹלָם, מַה לִּילוּד אִשָּׁה בֵּינֵינוּ⁩
 \- Why is a ⁧בשר ודם⁩⁦,⁩ a person born of flesh and blood, coming here
@@ -4229,7 +4229,7 @@ here? What does this ⁧שַׁקְלָא וְטַרְיָא⁩ reveal? What were
 how did ⁧משה רבינו⁩ respond?
 
 On a basic level, we know the story: the ⁧מלאכים⁩ opposed the ⁧תורה⁩ being
-given to humanity. However, the ⁧חנוכת התורה החדש⁩#metadata(none) <person-index-chanukas-hatorah-hechadash-283> provides a deeper
+given to humanity. However, the ⁧חנוכת התורה החדש⁩#metadata(none) <person-index-chanukas-hatorah-hechadash-284> provides a deeper
 insight. The ⁧מלאכים⁩ argued that Man, inherently driven by a strong ⁧יצר הרע⁩⁦,⁩ would inevitably commit ⁧עבירות⁩ and neglect the ⁧תורה⁩. They believed
 that leaving the ⁧תורה⁩ in ⁧שמים⁩ would be more appropriate. Hashem's
 response to ⁧משה⁩⁦,⁩ ⁧חֲזוֹר לָהֶן תְּשׁוּבָה⁩⁦,⁩ meant not only to provide an answer, but also to highlight the concept of ⁧תשובה⁩ itself. Through ⁧תשובה⁩⁦,⁩ a
@@ -4323,7 +4323,7 @@ he attained by witnessing Hashem's ⁧כח⁩ is a lesson for us in ⁧יראת 
   ))
 = Mishpatim 5783
 
-Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-296> shared an insightful observation in ⁧פרשת יתרו⁩. There's a
+Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-295> shared an insightful observation in ⁧פרשת יתרו⁩. There's a
 ⁧מחלוקת⁩ about whether ⁦יתרו'⁩s arrival to join ⁧כלל ישראל⁩ occurred before
 ⁧מתן תורה⁩ or afterward. He posed an interesting question: According to
 the opinion that ⁧יתרו⁩ came after ⁧מתן תורה⁩⁦,⁩ why does the ⁧תורה⁩ place this
@@ -4333,7 +4333,7 @@ A possible answer is connected to the sequence of the ⁧פרשיות⁩ known a
 ⁧שובבים⁩⁦,⁩ which concludes with ⁧משפטים⁩. These ⁧פרשיות⁩ cover some of the most
 dramatic events in history: ⁧שִׁעבּוּד מצרים, יציאת מצרים⁩, and ⁧קבלת התורה⁩.
 One might think that ⁧מתן תורה⁩ represents the ultimate climax of this
-narrative. However, Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-297> explained that the true climax is
+narrative. However, Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-296> explained that the true climax is
 actually ⁧פרשת משפטים⁩.
 
 Why? Because ⁧מתן תורה⁩ was necessary as a foundation, but ⁧משפטים⁩
@@ -4341,7 +4341,7 @@ represents the real beginning of practical ⁧תורה⁩. Until this point, we'
 primarily been reading stories - important ones, certainly, as ⁧מעשה אבות סימן לבנים⁩. But ⁧משפטים⁩ marks the transition to ⁧הלכות⁩: learning about ⁧עבד עברי⁩⁦,⁩ ⁧שומרים⁩⁦,⁩ ⁧נזיקין⁩⁦,⁩ ⁧ממונות⁩⁦,⁩ and the many critical laws that guide the
 daily life of a Jew and help distinguish him as a member of ⁧כלל ישראל⁩.
 
-However, Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-298> emphasized that ⁧משפטים⁩ can only follow ⁧הר סיני⁩⁦,⁩ and ⁧הר סיני⁩ can only be reached through ⁧פרשת יתרו⁩. Why? Because ⁦יתרו'⁩s
+However, Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-297> emphasized that ⁧משפטים⁩ can only follow ⁧הר סיני⁩⁦,⁩ and ⁧הר סיני⁩ can only be reached through ⁧פרשת יתרו⁩. Why? Because ⁦יתרו'⁩s
 arrival and the way ⁧משה רבנו⁩ treated him with the utmost ⁧כבוד⁩ teach us a
 crucial lesson: the necessity of ⁧מידות⁩. Before we can receive ⁧תורה⁩⁦,⁩ we
 must first cultivate proper ⁧מידות⁩. Without ⁧מידות⁩⁦,⁩ ⁧מתן תורה⁩ is
@@ -4379,7 +4379,7 @@ condition worsened and worsened.
 
 Her children took turns staying with her so she would never be alone in
 the hospital. And the young hero of our story also took his turn, sitting at her bedside, repeating the holy words of ⁧תהילים⁩⁦,⁩ beseeching
-Hashem to heal his mother. It so happened that R’ Elyashiv#metadata(none) <person-index-r-elyashiv-295> was also
+Hashem to heal his mother. It so happened that R’ Elyashiv#metadata(none) <person-index-r-elyashiv-298> was also
 admitted to the hospital for treatment during that time. His disciples
 arranged to have a world-famous specialist flown in from the United
 States to supervise his care. Since he would be remaining in the
@@ -4648,13 +4648,13 @@ with integrity to build a ⁧משכן לשם ולתפארת. יְהִי רָצו
 
 ⁧פרשת תרומה⁩ is the famous ⁧פרשה⁩ that discusses the building of the ⁧משכן⁩.
 The second ⁧פסוק⁩ reads: ⁧דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְיִקְחוּ לִי תְּרוּמָה מֵאֵת כׇּל אִישׁ אֲשֶׁר יִדְּבֶנּוּ לִבּוֹ תִּקְחוּ אֶת תְּרוּמָתִי⁩. The ⁧מפרשים⁩ discuss this ⁧פסוק⁩ in great detail:
-What is the requirement for the contributions to the ⁧משכן⁩? The ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-306> writes that the main quality of the ⁧משכן⁩ was the ⁧נדיבת לב⁩⁦,⁩ every
+What is the requirement for the contributions to the ⁧משכן⁩? The ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-315> writes that the main quality of the ⁧משכן⁩ was the ⁧נדיבת לב⁩⁦,⁩ every
 single piece of material used in the ⁧משכן⁩ - gold, silver, copper, wood -
 was given with ⁧נדיבת לב⁩⁦,⁩ a sincere heart. Why was this ⁧נדיבת לב⁩ so
 crucial? Because it was necessary for ⁧השראת השכינה⁩ - for the ⁧שכינה⁩ to
 rest within the ⁧משכן⁩.
 
-The ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-307> continues: This is the defining quality of every ⁧בית הכנסת⁩. Just as the ⁧משכן⁩ was built through ⁧נדיבת הלב⁩⁦,⁩ ⁧בתי כנסיות⁩ are
+The ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-316> continues: This is the defining quality of every ⁧בית הכנסת⁩. Just as the ⁧משכן⁩ was built through ⁧נדיבת הלב⁩⁦,⁩ ⁧בתי כנסיות⁩ are
 established when Jews willingly contribute to glorify Hashem's name and
 create a ⁧קידוש השם⁩. This sincerity infuses the ⁧תפילות⁩ in those ⁧בתי כנסיות⁩ with a ⁧רֵיחַ נִיחֹחַ⁩ that is pleasing to Hashem. All of the
 institutions that we build on generosity like that fall into that
@@ -4666,29 +4666,29 @@ Typically, the beginning of a ⁧פרשה⁩ receives all the attention; those
 ⁧פרשה⁩ is not so ⁧מזלדיק⁩. However, let's see what we can glean from this
 ending.
 
-The last ⁧פסוק⁩ reads: ⁧לְכֹל כְּלֵי הַמִּשְׁכָּן בְּכֹל עֲבֹדָתוֹ וְכׇל יְתֵדֹתָיו וְכׇל יִתְדֹת הֶחָצֵר נְחֹשֶׁת⁩. This ⁧פסוק⁩ refers to the ⁧חצר⁩⁦,⁩ detailing the beams, curtains, hooks, and other elements surrounding it. These components enclosed the ⁧חצר⁩⁦,⁩ within which stood the ⁧משכן⁩ itself. ⁦רש״י⁩#metadata(none) <person-index-rashi-308> comments on this ⁧פסוק: שֶׁהָיוּ צְרִיכִין לַהֲקָמָתוֹ וּלְהוֹרָדָתוֹ⁩ - Because you have to put up the ⁧חצר⁩ and take it
+The last ⁧פסוק⁩ reads: ⁧לְכֹל כְּלֵי הַמִּשְׁכָּן בְּכֹל עֲבֹדָתוֹ וְכׇל יְתֵדֹתָיו וְכׇל יִתְדֹת הֶחָצֵר נְחֹשֶׁת⁩. This ⁧פסוק⁩ refers to the ⁧חצר⁩⁦,⁩ detailing the beams, curtains, hooks, and other elements surrounding it. These components enclosed the ⁧חצר⁩⁦,⁩ within which stood the ⁧משכן⁩ itself. ⁦רש״י⁩#metadata(none) <person-index-rashi-306> comments on this ⁧פסוק: שֶׁהָיוּ צְרִיכִין לַהֲקָמָתוֹ וּלְהוֹרָדָתוֹ⁩ - Because you have to put up the ⁧חצר⁩ and take it
 down, just like the ⁧משכן⁩ had to be put up and taken down; ⁧כְּגוֹן מַקָּבוֹת לִתְקֹעַ יְתֵדוֹת וְעַמּוּדִים⁩ - All of the instruments and all of the equipment, the utensils that were required to put the ⁧משכן⁩ up and then take it
 down, they had to be made out of ⁧נחושת⁩. And not only that, the hammers
-as well, and the pins, the ⁧יִתְדֹת⁩. So in the next ⁦רש״י⁩#metadata(none) <person-index-rashi-309> he goes on the word
+as well, and the pins, the ⁧יִתְדֹת⁩. So in the next ⁦רש״י⁩#metadata(none) <person-index-rashi-307> he goes on the word
 ⁧יִתְדֹת⁩⁦,⁩ and he says: ⁧כְּמִין נִגְרֵי נְחֹשֶׁת עֲשׂוּיִין לִירִיעוֹת הָאֹהֶל⁩ - pegs of copper to
-make for the ⁧ירִיעוֹת⁩ of the ⁧אֹהֶל⁩. ⁦רש״י⁩#metadata(none) <person-index-rashi-310> then asks a question, he's not sure
+make for the ⁧ירִיעוֹת⁩ of the ⁧אֹהֶל⁩. ⁦רש״י⁩#metadata(none) <person-index-rashi-308> then asks a question, he's not sure
 if the curtains were fixed into the ground, whether when they hung the
 curtains were there pins both on the top and the bottom, or were the
 curtains only secured at the top and their weight held them down? So
-⁦רש״י⁩#metadata(none) <person-index-rashi-311> brings a ⁧ראיה: וְאוֹמֵר אֲנִי שֶׁשְּׁמָן מוֹכִיחַ עֲלֵיהֶם⁩ - Their very name gives
+⁦רש״י⁩#metadata(none) <person-index-rashi-309> brings a ⁧ראיה: וְאוֹמֵר אֲנִי שֶׁשְּׁמָן מוֹכִיחַ עֲלֵיהֶם⁩ - Their very name gives
 away and reveals what their purpose was, and what their use was; ⁧שֶׁהֵם תְּקוּעִים בָּאָרֶץ⁩ - That they were fastened into the ground, stuck into the
 ground; ⁧לְכָךְ נִקְרְאוּ יְתֵדוֹת⁩ - That's what they're called ⁧יְתֵדוֹת⁩⁦,⁩ which means
 pins. And then he brings down a ⁧פסוק⁩ from ⁧ישעיה⁩: ⁧וּמִקְרָא זֶה מְסַיְּעֵנִי⁩. That's
 what I thought was quite fascinating. And the ⁧פסוק⁩ in (⁧ישעיה⁩ (⁦ל״ג׃כ׳⁩
-that ⁦רש״י⁩#metadata(none) <person-index-rashi-312> brings is: ⁧אֹהֶל בַּל יִצְעָן⁩ - a tent shall not be removed; ⁧בַּל יִסַּע יְתֵדֹתָיו⁩ - And the ⁧יתדות⁩ will never be taken out; ⁧לָנֶצַח⁩ - forever. So the
-last ⁦רש״י⁩#metadata(none) <person-index-rashi-313> in ⁧תרומה⁩⁦,⁩ the last word of that ⁦רש״י⁩#metadata(none) <person-index-rashi-314> is ⁧לָנֶצַח⁩⁦,⁩ forever, and I
+that ⁦רש״י⁩#metadata(none) <person-index-rashi-310> brings is: ⁧אֹהֶל בַּל יִצְעָן⁩ - a tent shall not be removed; ⁧בַּל יִסַּע יְתֵדֹתָיו⁩ - And the ⁧יתדות⁩ will never be taken out; ⁧לָנֶצַח⁩ - forever. So the
+last ⁦רש״י⁩#metadata(none) <person-index-rashi-311> in ⁧תרומה⁩⁦,⁩ the last word of that ⁦רש״י⁩#metadata(none) <person-index-rashi-312> is ⁧לָנֶצַח⁩⁦,⁩ forever, and I
 thought this is quite fascinating (This is my vort, I hope I'm not
-wrong). ⁦רש״י⁩'s#metadata(none) <person-index-rashi-315> implication here is that all this ⁧נדיבת לב⁩⁦,⁩ all the
+wrong). ⁦רש״י⁩'s#metadata(none) <person-index-rashi-313> implication here is that all this ⁧נדיבת לב⁩⁦,⁩ all the
 heartfelt generosity, was given for what? A ⁧משכן⁩ - a temporary structure
 that would only exist during the time ⁧בני ישראל⁩ were in the ⁧מדבר⁩. How
 could people be enthusiastic about contributing to something with such a
 finite lifespan? Typically, we donate to causes we believe will last for
-⁧נצחיות⁩. We want our contributions to have lasting value. What is ⁦רש״י⁩#metadata(none) <person-index-rashi-316>
+⁧נצחיות⁩. We want our contributions to have lasting value. What is ⁦רש״י⁩#metadata(none) <person-index-rashi-314>
 teaching us by quoting this ⁧פסוק⁩?
 
 Yes, the ⁧משכן⁩ was temporary, but it was the forerunner of both ⁧בתי מקדש⁩.
@@ -4937,11 +4937,11 @@ successful in that ⁧לדור דורות⁩.
   ))
 = Tetzaveh (2) 5784
 
-In honor of the wedding of Chaim and Bracha Mandel, #metadata(none) <person-index-bracha-339> our dear
+In honor of the wedding of Chaim and Bracha Mandel, #metadata(none) <person-index-bracha-340> our dear
 grandchildren.
 
 Baruch Hashem, we are in the midst of preparing for a fantastic, beautiful ⁧שמחה⁩. In recognition of that, we will find a connection
-between ⁧פרשת תצוה⁩ and the upcoming ⁧שמחה⁩ between Chaim and Bracha.#metadata(none) <person-index-bracha-340>
+between ⁧פרשת תצוה⁩ and the upcoming ⁧שמחה⁩ between Chaim and Bracha.#metadata(none) <person-index-bracha-341>
 
 The ⁧פרשה⁩ begins with ⁧וְאַתָּה תְּצַוֶּה⁩. There is a ⁧מדרש תנחומא ⁦(תצוה ה׳:ה׳)⁩⁩ on
 the ⁧פסוק⁩ in ⁧שיר השירים⁩ ⁦(א:ט״ו)⁩: ⁧הִנָּךְ יָפָה עֵינַיִךְ יוֹנִים⁩ - “your eyes are like
@@ -4957,7 +4957,7 @@ exactly what we find with the ⁧יונה⁩ in the story of ⁧נח⁩. The ⁧
 preferred ⁧מזונות מרורים כזית⁩ from ⁧הקדוש ברוך הוא⁩ rather than receiving
 sweet ⁧מתוקים כדבש⁩ from ⁧בשר ודם⁩. The ⁧ספרים הקדושים⁩ explain that the word
 ⁧תצוה⁩ is not only a ⁧לשון⁩ of command but also comes from the ⁧לשון⁩ of ⁧ציווה בדיבוק⁩ - attachment, connection. This is found in the ⁧ספר תפוחי חיים⁩⁦,⁩ #metadata(none) <person-index-tapuchei-chaim-343>
-written by R’ Chaim Alter Panet, #metadata(none) <person-index-r-chaim-alter-panet-342> which is related to the name of Benet, the famous R’ Benet, #metadata(none) <person-index-r-benet-341> \[which people ask me at least once a year if I am
+written by R’ Chaim Alter Panet, #metadata(none) <person-index-r-chaim-alter-panet-342> which is related to the name of Benet, the famous R’ Benet, #metadata(none) <person-index-r-mordechai-benet-339> \[which people ask me at least once a year if I am
 related to him, which I'm not\].
 
 This idea of ⁧הסתפקות⁩ is also reflected in the ⁦יונה'⁩s loyalty and
@@ -5008,7 +5008,7 @@ have a lot of ⁧ברכות⁩ from all of them. And I'm looking forward to a hu
 mention ⁦משה רבינו'⁩s name.
 
 However, ⁧פרשת זכור⁩ \[which is a ⁧מצוה דאורייתא⁩⁦,⁩ and in our shul, the ⁧רב⁩
-leins it\] is an intriguing ⁧מצוה⁩. R’ Moshe Feinstein, #metadata(none) <person-index-r-moshe-feinstein-345> in his ⁧ספר קול רם⁩⁦,⁩ #metadata(none) <person-index-kol-rom-344>
+leins it\] is an intriguing ⁧מצוה⁩. R’ Moshe Feinstein, #metadata(none) <person-index-r-moshe-feinstein-344> in his ⁧ספר קול רם⁩⁦,⁩ #metadata(none) <person-index-kol-rom-345>
 discusses this ⁧מצוה⁩ at length and arrives at a striking conclusion.
 First, it is an annual ⁧מצוה⁩ which we observe year after year for
 thousands of years.
@@ -5086,7 +5086,7 @@ cause ⁧כלל ישראל⁩ a ⁧תשועה גדולה⁩⁦,⁩ in all aspect
 = Ki Sisa 5783
 
 Happy Purim, everybody! ⁧פרשת כי תשא⁩ begins with the ⁧מצוה⁩ of ⁧מחצית השקל⁩.
-Regarding the ⁧מצוה⁩ of ⁧שקלים⁩⁦,⁩ R’ Simcha Sheps, #metadata(none) <person-index-r-sheps-346> the ⁧גיוואלדיקע ראש ישיבה⁩
+Regarding the ⁧מצוה⁩ of ⁧שקלים⁩⁦,⁩ R’ Simcha Sheps, #metadata(none) <person-index-r-simcha-sheps-346> the ⁧גיוואלדיקע ראש ישיבה⁩
 and ⁧מגיד שיעור⁩ at ⁧ישיבת תורה ודעת⁩⁦,⁩ wrote a splendid ⁧ספר⁩ called ⁧שמחת התורה⁩. He brings a tremendously interesting ⁧הערה⁩ on this ⁧מצוה⁩. The ⁧פסוק⁩
 says (30:15): ⁧הֶעָשִׁיר לֹא יַרְבֶּה וְהַדַּל לֹא יַמְעִיט מִמַּחֲצִית הַשָּׁקֶל⁩ - everybody had to
 give half a shekel, everybody had to give exactly the same amount. R’
@@ -5167,7 +5167,7 @@ It is a wonderful opportunity - and an obligation - to approach the many
 things we do on a regular basis, whether daily, weekly, monthly, or
 yearly, with renewed enthusiasm and deeper understanding. We shouldn't
 perform them like ⁧אנשים מלומדים⁩⁦,⁩ just going through the motions because
-we've done them our whole lives. Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-351> ⁧זאל ער זײן געזונט און שטארק⁩⁦,⁩ has a unique ability to take things we do all the time and
+we've done them our whole lives. Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-350> ⁧זאל ער זײן געזונט און שטארק⁩⁦,⁩ has a unique ability to take things we do all the time and
 enlighten us as to how much deeper and more profound they really are.
 
 One of the things we do every single ⁧שבת⁩ - found in ⁧פרשת כי תשא⁩ - is
@@ -5203,7 +5203,7 @@ had said that ⁦הקודש ברוך הוא'⁩s actions are greater, I would ha
 punished you for performing ⁧ברית מילה⁩ on ⁦הקודש ברוך הוא'⁩s creation. But
 since you said man's actions are greater, you proclaim that man has the
 ability to enhance and improve ⁦הקודש ברוך הוא'⁩s infinite creation.” (I
-had the ⁧זכות⁩ to hear this ⁧מדרש⁩ from R’ Ahron Soloveichik#metadata(none) <person-index-r-ahron-soloveichik-350> ⁦זצ״ל⁩).
+had the ⁧זכות⁩ to hear this ⁧מדרש⁩ from R’ Ahron Soloveichik#metadata(none) <person-index-r-ahron-soloveichik-351> ⁦זצ״ל⁩).
 
 According to this ⁧שפת אמת⁩⁦,⁩ #metadata(none) <person-index-sfas-emes-349> the ⁧קדושה⁩ that we instill into ⁧יום טוב⁩⁦,⁩ through our human effort, lasts forever! In contrast, the ⁧קדושה⁩ of ⁧שבת⁩
 departs each week, and we need ⁧בשמים⁩ to compensate for the loss - ⁧וַוי אָבְדָה נֶפֶשׁ⁩ - because we lost the ⁧נשמה יתרה⁩.
@@ -5233,22 +5233,22 @@ wants to be kind, gracious, and generous to us. Therefore, He gives us
 the opportunity to daven.
 
 There is a fascinating story in R’ Chaim's sefer about Rebbetzin
-Kanievsky's#metadata(none) <person-index-rebbetzin-kanievsky-360> father R’ Elyashiv#metadata(none) <person-index-r-elyashiv-353> ⁦זצ״ל⁩. She relates that when she was a
-little girl, about ten years old, after R’ Elyashiv#metadata(none) <person-index-r-elyashiv-354> would finish ⁧שמונה עשרה⁩⁦,⁩ he would take three steps back and stand there for a period of
+Kanievsky's#metadata(none) <person-index-rebbetzin-kanievsky-353> father R’ Elyashiv#metadata(none) <person-index-r-elyashiv-356> ⁦זצ״ל⁩. She relates that when she was a
+little girl, about ten years old, after R’ Elyashiv#metadata(none) <person-index-r-elyashiv-357> would finish ⁧שמונה עשרה⁩⁦,⁩ he would take three steps back and stand there for a period of
 time. She once asked him what he was saying. He told her that before
 finishing the ⁧יהי רצון⁩ at the end of ⁧שמונה עשרה⁩⁦,⁩ he would recite ⁦פרק
 קכ״א⁩, which begins ⁧שִׁיר לַמַּעֲלוֹת, אֶשָּׂא עֵינַי אֶל הֶהָרִים⁩. Why did he do this? R’
-Elyashiv's#metadata(none) <person-index-r-elyashiv-355> grandfather was a famous ⁧גאון⁩ and ⁧בעל קבלה⁩⁦,⁩ known as the ⁧לֶשֶם⁩⁦,⁩ well known in his own right. The ⁧לֶשֶם⁩ told R’ Elyashiv#metadata(none) <person-index-r-elyashiv-356> that saying this
-⁧פרק⁩ was a ⁧סגולה⁩ for certain things. R’ Elyashiv#metadata(none) <person-index-r-elyashiv-357> said that he loved
+Elyashiv's#metadata(none) <person-index-r-elyashiv-358> grandfather was a famous ⁧גאון⁩ and ⁧בעל קבלה⁩⁦,⁩ known as the ⁧לֶשֶם⁩⁦,⁩ well known in his own right. The ⁧לֶשֶם⁩ told R’ Elyashiv#metadata(none) <person-index-r-elyashiv-359> that saying this
+⁧פרק⁩ was a ⁧סגולה⁩ for certain things. R’ Elyashiv#metadata(none) <person-index-r-elyashiv-360> said that he loved
 ⁧סגולות⁩ \[which is fascinating to hear from a Litvak, that he believed in
 ⁧סגולות⁩\], so he said this ⁧קאַפּיטל⁩⁦,⁩ despite not knowing why.
 
-Many years later, Rebbetzin Kanievsky's#metadata(none) <person-index-rebbetzin-kanievsky-361> son-in-law told her an
+Many years later, Rebbetzin Kanievsky's#metadata(none) <person-index-rebbetzin-kanievsky-354> son-in-law told her an
 interesting story. In the ⁧ישיבה⁩ of ⁧חברון⁩⁦,⁩ there was a group of twenty
 ⁧בחורים⁩ who had been eligible for marriage for years but had not been
 able to find their ⁧שידוך⁩. One day, they came across an obscure sefer. It
 turned out to be from the ⁦רמ״ע מפאנו⁩ \[this is where I first heard about
-it years ago from Rabbi Oelbaum\].#metadata(none) <person-index-r-noach-isaac-oelbaum-358> The sefer stated that reciting ⁦פרק
+it years ago from Rabbi Oelbaum\].#metadata(none) <person-index-r-noach-isaac-oelbaum-355> The sefer stated that reciting ⁦פרק
 קכ״א⁩ at the end of ⁧שמונה עשרה⁩ is a ⁧סגולה⁩ for finding a ⁧שידוך⁩. \[This is
 in the ⁧רמ״ע מפאנו⁩⁦,⁩ ⁧מאמר חקור דין⁩⁦,⁩ part 4, ⁦חלק י״ז⁩\.\] These twenty
 ⁧בחורים⁩ adopted the ⁧מנהג⁩⁦,⁩ and within two months, each one of them had
@@ -5263,7 +5263,7 @@ well. It makes me daven longer and later, and I have trouble keeping up
 to get ⁧קדושה⁩ on time, but I manage to get it done.
 
 Now, on a completely separate topic, since this year ⁧שבת כי תשא⁩ is smack
-dab in the middle of ⁧פורים משולש⁩⁦,⁩ I want to refer back to a previous ⁧דבר תורה⁩ I shared and add a ⁧קנייטש⁩ from R’ Yosef Chaim Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-359> that I
+dab in the middle of ⁧פורים משולש⁩⁦,⁩ I want to refer back to a previous ⁧דבר תורה⁩ I shared and add a ⁧קנייטש⁩ from R’ Yosef Chaim Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-361> that I
 think you will find interesting. As we all know, this week's ⁧פרשה⁩
 discusses two things, ⁧שמן המשחה⁩ and the ⁧קטורת⁩. In the ⁧קטורת⁩ it says
 (30:23) ⁧וְאַתָּה קַח לְךָ בְּשָׂמִים רֹאשׁ מׇר דְּרוֹר⁩ - You should take the best, the
@@ -5299,8 +5299,8 @@ us. In that ⁧זכות⁩⁦,⁩ we shall see the ⁧משיח צדקנו, במ�
 = Vayakhel 5784
 
 In ⁧פרשת ויקהל⁩⁦,⁩ the ⁧פסוק⁩ (35:4), states: ⁧וַיֹּאמֶר מֹשֶׁה אֶל כׇּל עֲדַת בְּנֵי יִשְׂרָאֵל לֵאמֹר זֶה הַדָּבָר⁩. I originally heard a beautiful idea about this from R’
-Fabian Schonfeld#metadata(none) <person-index-r-fabian-schonfeld-362> ⁦זצ״ל⁩, who was the Rav of the Young Israel of Kew
-Gardens Hills, and I never forgot it. What was the date of this ⁧ויקהל⁩⁦,⁩ this momentous gathering of ⁧כלל ישראל⁩⁦?⁩ ⁦רש״י⁩#metadata(none) <person-index-rashi-363> says: ⁧ויקהל משה: למחרת יום הכיפורים⁩ - it was the 11th day of ⁧תשרי⁩⁦,⁩ the day after ⁧יום כיפור⁩. The
+Fabian Schonfeld#metadata(none) <person-index-r-fabian-schonfeld-363> ⁦זצ״ל⁩, who was the Rav of the Young Israel of Kew
+Gardens Hills, and I never forgot it. What was the date of this ⁧ויקהל⁩⁦,⁩ this momentous gathering of ⁧כלל ישראל⁩⁦?⁩ ⁦רש״י⁩#metadata(none) <person-index-rashi-362> says: ⁧ויקהל משה: למחרת יום הכיפורים⁩ - it was the 11th day of ⁧תשרי⁩⁦,⁩ the day after ⁧יום כיפור⁩. The
 question is, what do we learn from this? What do we gain from knowing
 that this gathering happened the day after ⁧יום כיפור⁩⁦?⁩
 
@@ -5368,7 +5368,7 @@ that the ⁧נשיאים⁩ were punished because ⁧נִּתְעַצְּלוּ�
 made a calculation and said, “Everyone is donating, let's wait and see
 what is still missing, and then we will provide whatever is lacking.”
 
-R’ Reuven Grozovsky, #metadata(none) <person-index-r-reuven-grozovsky-368> brought down in the ⁧ספר פנינים משלחן גבוה⁩⁦,⁩ #metadata(none) <person-index-peninim-mishulchan-gavoa-364> was a
+R’ Reuven Grozovsky, #metadata(none) <person-index-r-reuven-grozovsky-364> brought down in the ⁧ספר פנינים משלחן גבוה⁩⁦,⁩ #metadata(none) <person-index-peninim-mishulchan-gavoa-367> was a
 ⁧ראש ישיבה⁩ in Kaminetz and later in America at ⁧ישיבת תורה ודעת⁩. He
 provides a fascinating ⁧הערה⁩. He explains that the ⁧נשיאים⁩ had a seemingly
 valid and thoughtful reason for waiting. They were not lacking concern
@@ -5376,7 +5376,7 @@ or interest. However, that was not what was demanded of them. The
 expectation was not to wait until something was lacking, but rather to
 act immediately with ⁧זריזות⁩.
 
-R’ Label Lam#metadata(none) <person-index-r-label-lam-366> brings a ⁧משל⁩ quoted in a Torah Anytimes#metadata(none) <person-index-torah-anytimes-370> issue (Bo 5785), that is related to this topic: “I didn't catch all of the heartwarming
+R’ Label Lam#metadata(none) <person-index-r-label-lam-365> brings a ⁧משל⁩ quoted in a Torah Anytimes#metadata(none) <person-index-torah-anytimes-370> issue (Bo 5785), that is related to this topic: “I didn't catch all of the heartwarming
 drama in shul on Friday night, but my son filled me in later. There was
 a young man with Down Syndrome who desperately wanted to lead the ⁧ציבור⁩
 in ⁧קבלת שבת⁩⁦,⁩ but he wasn't really capable of doing so on his own. So
@@ -5401,7 +5401,7 @@ aspect of the ⁧מצוה⁩. They failed to seize the moment with ⁧זריזו
 a result, their name was written ⁧חסר⁩ in the ⁧פסוק⁩.
 
 This idea of ⁧זריזות⁩ is not just theoretical - it has real ⁧הלכה⁩
-implications. The ⁧ספר פנינים משלחן גבוה⁩#metadata(none) <person-index-peninim-mishulchan-gavoa-365> quotes a ⁧תוספות⁩ in ⁧מסכת שבועות⁩⁦,⁩ which says that if someone has the opportunity to do a ⁧מצוה⁩⁦,⁩ but in
+implications. The ⁧ספר פנינים משלחן גבוה⁩#metadata(none) <person-index-peninim-mishulchan-gavoa-368> quotes a ⁧תוספות⁩ in ⁧מסכת שבועות⁩⁦,⁩ which says that if someone has the opportunity to do a ⁧מצוה⁩⁦,⁩ but in
 doing so he will transgress a ⁧לא תעשה⁩⁦,⁩ the principle of ⁧עשה דוחה לא תעשה⁩
 applies. However, ⁧תוספות⁩ asks: Is it preferable to delay the ⁧מצוה⁩ until
 it can be performed without violating the ⁧לא תעשה⁩⁦,⁩ or should it be done
@@ -5413,7 +5413,7 @@ them with a kosher ⁧בגד⁩⁦,⁩ but the new one will not be available for
 another day, or even an hour. What should he do? Is it better for him to
 wait until he can wear 100% kosher ⁧ציצית⁩⁦,⁩ avoiding any transgression? Or
 should he wear the ⁧שעטנז ציצית⁩ in the meantime, fulfilling the ⁧מצוה⁩ of
-⁧ציצית⁩ but relying on ⁧עשה דוחה לא תעשה⁩⁦?⁩ Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-367> said that it's
+⁧ציצית⁩ but relying on ⁧עשה דוחה לא תעשה⁩⁦?⁩ Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-366> said that it's
 clear from this ⁧תוספות⁩ that it's better for him to do the ⁧מצוה⁩ now with
 the ⁧שעטנז ציצית⁩ and depend on ⁧עשה דוחה לא תעשה⁩⁦,⁩ and do the ⁧מצוה⁩ with
 ⁧זריזות⁩. I hope we don't have that specific problem, I hope all of our
@@ -5861,7 +5861,7 @@ day in davening, say? ⁧וַיַּרְא יִשְׂרָאֵל אֶת הַיָּ
 witnessed the great hand of Hashem, in that which he did to ⁧מצרים⁩. This
 is written immediately after ⁧קריעת ים סוף⁩.
 
-The Lutzker Rav, #metadata(none) <person-index-r-zalman-sorotzkin-397> the ⁧אזנים לתורה⁩⁦,⁩ #metadata(none) <person-index-r-zalman-sorotzkin-398> asks an important question. There were
+The Lutzker Rav, #metadata(none) <person-index-r-zalman-sorotzkin-398> the ⁧אזנים לתורה⁩⁦,⁩ #metadata(none) <person-index-r-zalman-sorotzkin-399> asks an important question. There were
 two aspects to ⁧קריעת ים סוף⁩. The first was the incredible ⁧נס⁩ of the sea
 splitting, allowing ⁧בני ישראל⁩ to cross, a once-in-history event. The
 second was that, while ⁧בני ישראל⁩ were still crossing, the sea returned
@@ -5906,7 +5906,7 @@ Hashem - an island of serenity in our pressured work week. As we
 approach ⁧פסח⁩⁦,⁩ we have to remember to constantly say, “Thank you, thank
 you, thank you,” all day long, for all of the ⁧חסד⁩ that Hashem does for
 us. One of the most powerful examples of ⁧הכרת הטוב⁩ in the ⁧תורה⁩ is found
-in the story of ⁧יציאת מצרים⁩. ⁦רש״י⁩, #metadata(none) <person-index-rashi-399> in ⁧פרשת בשלח⁩⁦,⁩ explains that when the
+in the story of ⁧יציאת מצרים⁩. ⁦רש״י⁩, #metadata(none) <person-index-rashi-397> in ⁧פרשת בשלח⁩⁦,⁩ explains that when the
 ⁧פסוק⁩ says ⁧וַחֲמֻשִׁים עָלוּ בְנֵי יִשְׂרָאֵל מֵאֶרֶץ מִצְרָיִם⁩⁦,⁩ it means that ⁧בני ישראל⁩ left
 ⁧מצרים⁩ armed. If they were armed, why was it necessary for ⁧הקדוש ברוך הוא⁩
 to perform the extraordinary ⁧נס⁩ of ⁧קריעת ים סוף⁩⁦?⁩ Why didn't ⁧בני ישראל⁩
@@ -5951,17 +5951,17 @@ should be an ⁧עליה⁩ for her ⁧נשמה⁩.
 ⁧פרשת ויקרא⁩⁦,⁩ is connected to ⁧פרשת פרה⁩⁦,⁩ which deals with the ⁧פרה אדומה⁩.
 Although the ⁧פרה אדומה⁩ is not a ⁧קרבן⁩⁦,⁩ many of its ⁧הלכות⁩ are similar to
 those of the ⁧קרבנות⁩. ⁧פרשת פרה⁩⁦,⁩ which we read at the end of our regular
-leining, has a fascinating ⁦רש״י⁩#metadata(none) <person-index-rashi-406> on the words ⁧פָרָה אֲדֻמָּה⁩. Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-403> in
-his ⁧חומש שיעור⁩ pointed out this ⁦רש״י⁩, #metadata(none) <person-index-rashi-407> I'll read it to you from ⁧פרשת חקת: מָשָׁל לְבֶן שִׁפְחָה שֶׁטִּנֵּף פָּלָטִין שֶׁל מֶלֶךְ⁩ - A servant woman brought her baby to the
+leining, has a fascinating ⁦רש״י⁩#metadata(none) <person-index-rashi-405> on the words ⁧פָרָה אֲדֻמָּה⁩. Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-401> in
+his ⁧חומש שיעור⁩ pointed out this ⁦רש״י⁩, #metadata(none) <person-index-rashi-406> I'll read it to you from ⁧פרשת חקת: מָשָׁל לְבֶן שִׁפְחָה שֶׁטִּנֵּף פָּלָטִין שֶׁל מֶלֶךְ⁩ - A servant woman brought her baby to the
 king's palace and the baby made a mess; ⁧אָמְרוּ תָּבֹא אִמּוֹ וּתְקַנֵּחַ הַצּוֹאָה⁩ - Let
 his mother come and clean up the mess; ⁧כָּךְ תָּבֹא פָרָה וּתְכַפֵּר עַל הָעֵגֶל⁩ - so too
 the ⁧פרה אדומה⁩ comes to be ⁧מכפר⁩ the ⁧חטא⁩ of the ⁧עגל⁩⁦,⁩ the greatest ⁧חטא⁩ in
 history, which we had in ⁧פרשת כי תשא⁩ just a few weeks ago.
 
-Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-404> cited the ⁧טעם ודעת⁩ from R’ Moshe Sternbuch, #metadata(none) <person-index-r-moshe-sternbuch-402> who quoted Rav
-Itzele Peterburger.#metadata(none) <person-index-rav-itzele-peterburger-401> What is the connection between the ⁧פרה אדומה⁩ and the
-⁧משל⁩ that ⁦רש״י⁩#metadata(none) <person-index-rashi-408> brings about the baby who soils the king's palace, requiring his mother to come clean it up? Another item which Rabbi
-Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-405> alluded to is the unpleasant experience of a child's dirty
+Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-402> cited the ⁧טעם ודעת⁩ from R’ Moshe Sternbuch, #metadata(none) <person-index-r-moshe-sternbuch-408> who quoted Rav
+Itzele Peterburger.#metadata(none) <person-index-rav-itzele-peterburger-404> What is the connection between the ⁧פרה אדומה⁩ and the
+⁧משל⁩ that ⁦רש״י⁩#metadata(none) <person-index-rashi-407> brings about the baby who soils the king's palace, requiring his mother to come clean it up? Another item which Rabbi
+Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-403> alluded to is the unpleasant experience of a child's dirty
 diaper. What purpose could there possibly be for such an occurrence?
 
 He brings a beautiful explanation, based on a ⁧פסוק⁩ in ⁧ישעיהו⁩ ⁦(ד׳:ד׳)⁩: ⁧אִם רָחַץ ה׳ אֵת צֹאַת בְּנוֹת צִיּוֹן⁩. What does this mean? When a baby soils himself, most people are repulsed. They step away, wrinkle their noses, and say, “Ugh, that stinks! Take him away!” The entire world finds the situation
@@ -6162,7 +6162,7 @@ and fulfill all of Hashem's ⁧ציוויים⁩.
   ))
 = Shmini 5784
 
-In ⁧פרשת שמיני⁩⁦,⁩ the ⁧ספר אפריון⁩⁦,⁩ written by ⁧רב שלמה גאנצפריד⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-414> the ⁧בעל קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-kitzur-shulchan-aruch-413> brings down a well-known ⁧גמרא⁩ in ⁦מסכת מגילה דף י״ב
+In ⁧פרשת שמיני⁩⁦,⁩ the ⁧ספר אפריון⁩⁦,⁩ written by ⁧רב שלמה גאנצפריד⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-413> the ⁧בעל קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-414> brings down a well-known ⁧גמרא⁩ in ⁦מסכת מגילה דף י״ב
 ע״ב⁩. He quotes a ⁧ברייתא⁩ that explains the phrase ⁧וַיְהִי בַּיּוֹם הַשְּׁמִינִי⁩⁦,⁩ comparing it to the ⁧שמחה⁩ that ⁧הקדוש ברוך הוא⁩ had when He created ⁧שמים וארץ⁩. Just as there was ⁧שמחה⁩ at the beginning of creation, so too there
 was ⁧שמחה⁩ on the eighth day, when the ⁧משכן⁩ was inaugurated.
 
@@ -6208,7 +6208,7 @@ deepest ⁧רצון⁩ of ⁧וְשָׁכַנְתִּי בְּתוֹכָם⁩.
 = Shmini 5785
 
 For ⁧פרשת שמיני⁩⁦,⁩ I want to share a thought from one of my favorite
-columnists, R’ Chaim Yosef Kofman#metadata(none) <person-index-r-chaim-yosef-kofman-418> ⁦זצ״ל⁩. He was a contributor to R’
+columnists, R’ Chaim Yosef Kofman#metadata(none) <person-index-r-chaim-yosef-kofman-415> ⁦זצ״ל⁩. He was a contributor to R’
 Hoffman's Torah Tavlin, #metadata(none) <person-index-torah-tavlin-419> and though he has since passed away, his columns
 continue to be reprinted. He has an interesting take on ⁧פרשת שמיני⁩ (from
 the Torah Tavlin#metadata(none) <person-index-torah-tavlin-420> 5778, the ⁧מחשבת הלב⁩ section), based on a ⁧פסוק⁩ regarding
@@ -6229,12 +6229,12 @@ that the animal is ⁧מעלה גרה⁩⁦,⁩ it chews its cud, before mention
 is not kosher because it lacks split hooves. When it comes to the ⁧חזיר⁩⁦,⁩ the ⁧תורה⁩ first states the positive, that it has split hooves, before
 telling us that it's not ⁧מעלה גרה⁩⁦,⁩ and therefore, not kosher.
 
-R’ Avraham Pam#metadata(none) <person-index-r-avraham-pam-415> ⁦זצ״ל⁩ recalls a great story that illustrates this lesson.
-Once, R’ Pam#metadata(none) <person-index-r-avraham-pam-416> had to speak with the father of one of his ⁧תלמידים⁩⁦,⁩ a
+R’ Avraham Pam#metadata(none) <person-index-r-avraham-pam-416> ⁦זצ״ל⁩ recalls a great story that illustrates this lesson.
+Once, R’ Pam#metadata(none) <person-index-r-avraham-pam-417> had to speak with the father of one of his ⁧תלמידים⁩⁦,⁩ a
 prominent rav in his own right. He needed to inform the father that
 despite his son's significant intellectual capabilities, he was not
 reaching his full potential. When the father heard this, he asked to
-call in his son so they could discuss it together. R’ Pam#metadata(none) <person-index-r-avraham-pam-417> immediately
+call in his son so they could discuss it together. R’ Pam#metadata(none) <person-index-r-avraham-pam-418> immediately
 regretted agreeing to this and nervously awaited the father's reaction.
 When the boy arrived, his father called him over and said, “Your Rebbi
 just told me how well you're doing, but if you try harder, you could
@@ -6674,7 +6674,7 @@ other Yid.
   ))
 = Achrei Mos-Kedoshim 5783
 
-The ⁧אזנים לתורה⁩⁦,⁩ #metadata(none) <person-index-r-zalman-sorotzkin-444> the Lutzker Rav, #metadata(none) <person-index-r-zalman-sorotzkin-445> R’ Zalman Sorotzkin, #metadata(none) <person-index-r-zalman-sorotzkin-446> made an
+The ⁧אזנים לתורה⁩⁦,⁩ #metadata(none) <person-index-r-zalman-sorotzkin-445> the Lutzker Rav, #metadata(none) <person-index-r-zalman-sorotzkin-446> R’ Zalman Sorotzkin, #metadata(none) <person-index-r-zalman-sorotzkin-447> made an
 insightful analysis of the first few ⁧פסוקים⁩ in ⁧פרשת קדושים⁩⁦,⁩ which go as
 follows:
 
@@ -6723,7 +6723,7 @@ whole ⁧ציבור⁩ around you and you've lifted them up, you have enough pow
 “You can do it too. Even though you are so far away, you can come close
 to Hashem.”
 
-The ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-447> brings a particularly brilliant ⁧ראיה⁩ by pointing out
+The ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-448> brings a particularly brilliant ⁧ראיה⁩ by pointing out
 something you might not notice unless you're very clever. If you look at
 these three ⁧פסוקים⁩ carefully, you'll see that the last three words of
 each ⁧פסוק⁩ are the same: ⁧אֲנִי ה׳ אֱלֹקֵיכֶם⁩. He points out that even though
@@ -6731,7 +6731,7 @@ these are three different groups of people - so far apart from each
 other - they still have a common thread. With the proper influence, with
 the proper ⁧השפעה⁩⁦,⁩ we can bring each and every one of these members of
 society closer to Hashem and lift them up to a level where they will be
-able to be successful. This idea isn't only true for ⁧משה רבינו⁩. ⁦רש״י⁩#metadata(none) <person-index-rashi-448>
+able to be successful. This idea isn't only true for ⁧משה רבינו⁩. ⁦רש״י⁩#metadata(none) <person-index-rashi-444>
 too, was able to reach everybody - from the greatest ⁧תלמיד חכם⁩ to the
 smallest little kid because he had the ability and the power to speak to
 each one on their level. Parents must have the same ability: to deal
@@ -6748,7 +6748,7 @@ with each of their children according to the level that each requires, and to in
 = Achrei Mos-Kedoshim 5785
 
 Parshas ⁧אחרי מות⁩. We'll begin with a beautiful essay written by R’ Chaim
-Yosef Kofman#metadata(none) <person-index-r-chaim-yosef-kofman-451> ⁦זצ״ל⁩ in the Torah Tavlin#metadata(none) <person-index-torah-tavlin-454> (5776), on the pasuk: ⁧בְּזֹאת יָבֹא אַהֲרֹן אֶל הַקֹּדֶשׁ בְּפַר בֶּן בָּקָר לְחַטָּאת וְאַיִל לְעֹלָה⁩. Parshas ⁧אחרי מות⁩ describes the
+Yosef Kofman#metadata(none) <person-index-r-chaim-yosef-kofman-449> ⁦זצ״ל⁩ in the Torah Tavlin#metadata(none) <person-index-torah-tavlin-454> (5776), on the pasuk: ⁧בְּזֹאת יָבֹא אַהֲרֹן אֶל הַקֹּדֶשׁ בְּפַר בֶּן בָּקָר לְחַטָּאת וְאַיִל לְעֹלָה⁩. Parshas ⁧אחרי מות⁩ describes the
 ⁧עבודה⁩ of the ⁧כהן גדול⁩ on ⁧יום כיפור⁩. It seems strange that the pasuk
 which introduces this whole process begins with the word ⁧בְּזֹאת⁩⁦,⁩ meaning
 “with this.” It could have just said, ⁧יָבֹא אַהֲרֹן אֶל הַקֹּדֶשׁ⁩⁦,⁩ or ⁧וידבר ה' אל משה לאמר, זה יעשה אהרן⁩. Why begin with the word ⁧בְּזֹאת⁩?
@@ -6797,12 +6797,12 @@ word is awesome. This will be the real awesome - not the ⁧נרישקייט⁩ 
 use that word for today. Real ⁧יראת ה׳⁩⁦,⁩ real ⁧יראת שמים⁩. We'll feel it in
 our hearts and in our souls.
 
-R’ Avraham Pam#metadata(none) <person-index-r-avraham-pam-449> told a moving story about the ⁧קדושה⁩ of the ⁧בית המקדש⁩. He
+R’ Avraham Pam#metadata(none) <person-index-r-avraham-pam-450> told a moving story about the ⁧קדושה⁩ of the ⁧בית המקדש⁩. He
 taught that the ⁧קדושה⁩ of a ⁧בית הכנסת⁩ has the same ⁧קדושה⁩ as the ⁧בית המקדש⁩. The way we feel and the way we conduct ourselves when we walk
 into a shul should reflect that. That's how we'll prepare ourselves for
 when ⁧הקדוש ברוך הוא⁩ brings down the actual ⁧מקדש⁩.
 
-Rav Pam#metadata(none) <person-index-r-avraham-pam-450> described to his ⁧תלמידים⁩ his first and only experience going to
+Rav Pam#metadata(none) <person-index-r-avraham-pam-451> described to his ⁧תלמידים⁩ his first and only experience going to
 the ⁧כותל⁩⁦,⁩ during his one trip to ⁧ארץ ישראל⁩. He went to daven at the ⁧כותל⁩
 on Friday night. But before that, he prepared himself - he made proper
 ⁧הכנות⁩⁦,⁩ he reflected, he contemplated, he got himself ready. But when he
@@ -6945,7 +6945,7 @@ expects compensation. It sounds inspiring, but also somewhat
 unattainable. What kind of ⁧עבודה⁩ is that, really?
 
 I want to share a remarkable story about the Baal Shem Tov, #metadata(none) <person-index-baal-shem-tov-464> brought in
-Rav Irving Bunim's#metadata(none) <person-index-rav-irving-bunim-470> sefer on ⁧פרקי אבות⁩⁦,⁩ Ethics from Sinai - a classic.
+Rav Irving Bunim's#metadata(none) <person-index-rav-irving-bunim-468> sefer on ⁧פרקי אבות⁩⁦,⁩ Ethics from Sinai - a classic.
 The Baal Shem Tov#metadata(none) <person-index-baal-shem-tov-465> was once raising funds in a town to build a
 much-needed mikvah. But the response was very poor. In desperation, the
 Baal Shem Tov#metadata(none) <person-index-baal-shem-tov-466> approached one of the wealthy men in the town and offered
@@ -6972,9 +6972,9 @@ and a ⁧לא תעשה⁩. The ⁧פסוקים⁩ give us a dual message: A) to 
 before. A person can, unfortunately, cause a ⁧חילול השם⁩ even when
 striving for ⁧קדושה⁩.
 
-Rav Aharon Kotler#metadata(none) <person-index-rav-aharon-kotler-469> ⁦זצ״ל⁩ said that just as the ⁧כהנים⁩ represent ⁧כלל ישראל⁩
+Rav Aharon Kotler#metadata(none) <person-index-rav-aharon-kotler-470> ⁦זצ״ל⁩ said that just as the ⁧כהנים⁩ represent ⁧כלל ישראל⁩
 in their ⁧עבודה⁩⁦,⁩ so too every Jew, especially ⁧תלמידי חכמים⁩⁦,⁩ represents
-⁧כלל ישראל⁩. As the Chafetz Chaim#metadata(none) <person-index-chafetz-chaim-468> and many others have pointed out, today, every frum Yid carries that responsibility. Therefore, we must hold
+⁧כלל ישראל⁩. As the Chafetz Chaim#metadata(none) <person-index-chafetz-chaim-469> and many others have pointed out, today, every frum Yid carries that responsibility. Therefore, we must hold
 ourselves to a higher moral and spiritual standard than those around us.
 
 There's a story about the son of the Alter of Slabodka.#metadata(none) <person-index-alter-of-slabodka-463> When he received
@@ -7010,7 +7010,7 @@ than I did toward ⁧עבודה זרה⁩\.”
 So there was a tremendous ⁧יצר הרע⁩ for ⁧עבודה זרה⁩. However, that Wile E.
 Coyote ⁧יצר הרע⁩ got smart and he substituted the ⁧יצר הרע⁩ for ⁧עבודה זרה⁩
 for ⁧לשון הרע⁩. We are all ⁧נכשל⁩ more or less in the ⁧עבירה⁩ of ⁧לשון הרע⁩ and
-its sidekick and buddy, ⁧רכילות⁩. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-479> discussed in his ⁧חומש שיעור⁩ many deep aspects of ⁧לשון הרע⁩. He emphasized the importance of
+its sidekick and buddy, ⁧רכילות⁩. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-475> discussed in his ⁧חומש שיעור⁩ many deep aspects of ⁧לשון הרע⁩. He emphasized the importance of
 learning the ⁧הלכות⁩ of ⁧לשון הרע⁩ - the ⁧ספר חפץ חיים⁩#metadata(none) <person-index-chafetz-chaim-471> and the many other
 ⁧ספרים⁩ on the topic that are available today. But he said something
 critical: the root of ⁧לשון הרע⁩ lies in a flaw in our ⁧מדות⁩. And he quoted
@@ -7025,9 +7025,9 @@ than him, I would say, 'He has more ⁧יראת שמים⁩ than I have.’ If h
 older than me, I would say, 'What a ⁧זכות⁩⁦,⁩ he has more ⁧מצוות⁩ than I do.’
 If he was younger than me, I would say, 'How fortunate he is, he has
 fewer ⁧עבירות⁩ than I have.’” This ⁧חכם⁩ was always able to see the positive
-and the ⁧מעלה⁩ in every single person he met. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-480> also brought
-down from R’ Elimelech of Lizhensk, #metadata(none) <person-index-r-elimelech-of-lizhensk-478> which he said is actually a song, and the words are ⁧ותן בלבנו שנראה כל אחד מעלות חברינו ולא חסרונם⁩. This
-brings us to a powerful story from the sefer ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-475> on ⁧פרשת אמור⁩. The ⁧פרשה⁩ contains many ⁧הלכות⁩ about ⁧כהנים⁩⁦,⁩ and this particular
+and the ⁧מעלה⁩ in every single person he met. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-476> also brought
+down from R’ Elimelech of Lizhensk, #metadata(none) <person-index-r-elimelech-of-lizhensk-480> which he said is actually a song, and the words are ⁧ותן בלבנו שנראה כל אחד מעלות חברינו ולא חסרונם⁩. This
+brings us to a powerful story from the sefer ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-477> on ⁧פרשת אמור⁩. The ⁧פרשה⁩ contains many ⁧הלכות⁩ about ⁧כהנים⁩⁦,⁩ and this particular
 story involves a ⁧כהן⁩ and highlights the importance of the ⁧מדה⁩ of seeing
 others' ⁧מעלות⁩⁦,⁩ even if they seem less capable or intelligent than us.
 Perhaps they are, in fact, far greater.
@@ -7058,7 +7058,7 @@ can't do it because you're a ⁧כהן⁩.
 
 Later in his life, the ⁧לבושי שרד⁩ moved to ⁧ארץ ישראל⁩ and became a rav in
 ⁧צפת⁩. Another person came in and took his place. I'll use the words that
-the ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-476> uses: ⁧רב אחר אשר חשב עצמו כחכם בעיניו ועז לאותו להפך⁩ - He thought he was a genius, and that his predecessor was not that
+the ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-478> uses: ⁧רב אחר אשר חשב עצמו כחכם בעיניו ועז לאותו להפך⁩ - He thought he was a genius, and that his predecessor was not that
 terribly smart. Soon enough, the ⁧עשיר⁩ came to the new rav saying, “I
 want to be ⁧מגרש⁩ my wife.” The rav replied, “Okay”, and sat him down to
 write him a ⁧גט⁩. The ⁧עשיר⁩ asked him, “But how can you do that? It's
@@ -7085,7 +7085,7 @@ wise suggestion: Whenever you meet someone, assume they are at least as
 smart as you, if not smarter. It's a life lesson that will serve you
 well and pay great dividends.
 
-\(Incidentally, the first half of ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-477> on ⁧פרשת אמור⁩ is full
+\(Incidentally, the first half of ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-479> on ⁧פרשת אמור⁩ is full
 of stories and fascinating halachic discussions about ⁧כהנים⁩. One
 question it raises: Can a ⁧כהן⁩ go to the ⁧קבר⁩ of ⁧ר' שמעון בר יוחאי⁩⁦?⁩ It's a
 very interesting ⁧קשיא⁩. We ourselves had this question when we were in
@@ -7124,11 +7124,11 @@ A widow, who we're going to call Mrs. Mandel, had a daughter who was
 undergoing treatment in Tel HaShomer hospital in Tel Aviv, and requested
 Shabbos accommodations in the Rachashei Lev chesed apartments. “I know I
 will cry a lot, and I would really prefer to be alone,” she added. The
-director of Rachashei Lev, Rabbi Reuven Gesheid, #metadata(none) <person-index-rabbi-reuven-gesheid-486> generally got numerous
+director of Rachashei Lev, Rabbi Reuven Gesheid, #metadata(none) <person-index-rabbi-reuven-gesheid-483> generally got numerous
 calls a week from many people. He tried to accommodate several men at
 one location and several ladies at another. “I'll see what I can do,” he said noncommittally. Half an hour later, a girl called. “My relative is
 in the hospital and asked me to stay with her over Shabbos. Could I
-possibly sleep in the apartment near the hospital?” Rabbi Gesheid#metadata(none) <person-index-rabbi-gesheid-483> did
+possibly sleep in the apartment near the hospital?” Rabbi Gesheid#metadata(none) <person-index-rabbi-gesheid-484> did
 not think too long before agreeing. After all, how could he turn away
 this girl just because the other guest wanted privacy? He called Mrs.
 Mandel and informed her of the turn of events. “We both have an
@@ -7136,8 +7136,8 @@ obligation to help this girl,” he said. “She's trying to do a ⁧מצוה⁩
 are we to stop her?” Mrs. Mandel was not particularly happy with the
 decision but realized she had no choice.
 
-A few weeks later, she called Rabbi Gesheid#metadata(none) <person-index-rabbi-gesheid-484> again. “Mazel Tov! My son
-just became a ⁧חתן⁩⁦,⁩ thank you Rabbi Gesheid!”#metadata(none) <person-index-rabbi-gesheid-485> she said. “Mazel Tov!” he
+A few weeks later, she called Rabbi Gesheid#metadata(none) <person-index-rabbi-gesheid-485> again. “Mazel Tov! My son
+just became a ⁧חתן⁩⁦,⁩ thank you Rabbi Gesheid!”#metadata(none) <person-index-rabbi-gesheid-486> she said. “Mazel Tov!” he
 cautiously replied. “But why are you thanking me?” “You were the
 shadchan!” she exclaimed. “The girl you allowed to share the Shabbos
 apartment with me was the sweetest girl I ever met. Every time I wept, she came over and comforted me. She spoke so softly with such wisdom.
@@ -7172,11 +7172,11 @@ One of the wonderful ⁧ברכות⁩ written in ⁧פרשת בחוקותי⁩ i
 at rain as an inconvenience. But the truth is, without rain, we can't
 live. ⁦רש״י⁩#metadata(none) <person-index-rashi-496> explains that ⁧בְּעִתָּם⁩ means the rain will fall at night, when
 people are not out traveling and will not be bothered by it. R’ Chaim
-Kanievsky, #metadata(none) <person-index-r-chaim-kanievsky-493> in his sefer on ⁧חומש⁩⁦,⁩ (#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-494> on Chumash].
+Kanievsky, #metadata(none) <person-index-r-chaim-kanievsky-488> in his sefer on ⁧חומש⁩⁦,⁩ (#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-489> on Chumash].
 Permission granted by ArtScroll / Mesorah Publications) brings down a
 ⁧גמרא⁩ in ⁧יומא⁩ about ⁧רבי חנינא בן דוסא⁩. He was traveling and it started to
 rain, so he davened: “⁧ריבונו של עולם⁩⁦,⁩ should the entire world be happy
-while ⁧חנינא⁩ is getting wet?” Immediately the rain stopped. The ⁦מהרש״א⁩#metadata(none) <person-index-maharsha-488>
+while ⁧חנינא⁩ is getting wet?” Immediately the rain stopped. The ⁦מהרש״א⁩#metadata(none) <person-index-maharsha-490>
 asks: how could ⁧רבי חנינא⁩ put his own comfort ahead of everyone else's
 need for rain? R’ Chaim answers that apparently ⁧רבי חנינא⁩ knew he could
 successfully daven again later for the rain to return, so stopping the
@@ -7211,13 +7211,13 @@ thoughts of ⁧עבודה זרה⁩ into the minds of the hapless Jews. Not only
 they succeed in terrorizing the Jews, but it also caused a terrible
 dishonor to the ⁧מת⁩⁦,⁩ in addition to the ⁧חילול השם⁩.
 
-When the ⁦מהרש״א⁩, #metadata(none) <person-index-maharsha-489> who lived in this town, sensed his end approaching, he
+When the ⁦מהרש״א⁩, #metadata(none) <person-index-maharsha-491> who lived in this town, sensed his end approaching, he
 instructed the ⁧חברא קדישא⁩ to place the ⁧ספרים⁩ he had written, the ⁧חידושי הלכות⁩ and the ⁧חידושי אגדות⁩⁦,⁩ on the ⁧מיטה⁩ that would carry his body. When
 they reached the church, they were to stop the procession and place the
 ⁧מיטה⁩ on the ground. The funeral cortege included just about every single
 person in the Jewish community. When they reached the church, they put
 the ⁧מיטה⁩ on the ground and moved aside. Suddenly, the ⁧מת⁩ sat up. The
-⁦מהרש״א⁩#metadata(none) <person-index-maharsha-490> sat up and began to learn from his ⁧ספרים⁩ as if he were alive. The
+⁦מהרש״א⁩#metadata(none) <person-index-maharsha-492> sat up and began to learn from his ⁧ספרים⁩ as if he were alive. The
 priests were in an utter state of shock, seeing a corpse arise and study
 ⁧תורה⁩. They turned around and to their horror saw that the church was
 slowly sinking into the ground, deeper and deeper, until it was
@@ -7226,10 +7226,10 @@ demonstrates the extraordinary powers of a Jew who learns and adheres to
 the ⁧תורה⁩.
 
 That's ⁧אִם בְּחֻקֹּתַי תֵּלֵכוּ⁩. We certainly could not possibly imagine that we
-were able to pull off such a feat, we're not the ⁦מהרש״א⁩.#metadata(none) <person-index-maharsha-491> But it's a
+were able to pull off such a feat, we're not the ⁦מהרש״א⁩.#metadata(none) <person-index-maharsha-493> But it's a
 tremendous story. One of the ⁧מתפללים⁩ in my shul said that when Rabbi
 Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-495> was in Ukraine on one of his many tours of the ⁧מקומות הקדושים⁩⁦,⁩ he related this story and spent a long time at this place talking about
-the ⁦מהרש״א⁩.#metadata(none) <person-index-maharsha-492> The two takeaways from our lesson today: 1) If you need
+the ⁦מהרש״א⁩.#metadata(none) <person-index-maharsha-494> The two takeaways from our lesson today: 1) If you need
 something, ask Hashem. And 2) Sit and learn, the more you learn, the
 greater level your ⁧קדושה⁩. And ⁧בעזרת השם⁩ you'll be able to ⁧פועל זיין עלעס גיט⁩ in this ⁧עולם הזה⁩.
 
@@ -7299,7 +7299,7 @@ have to believe that whatever Hashem promises will happen
   ))
 = Behar-Bechukosai 5785
 
-R’ Chaim Kanievsky's#metadata(none) <person-index-r-chaim-kanievsky-505> sefer on chumash by Rabbi Shai Graucher#metadata(none) <person-index-rabbi-shai-graucher-509> quotes the
+R’ Chaim Kanievsky's#metadata(none) <person-index-r-chaim-kanievsky-506> sefer on chumash by Rabbi Shai Graucher#metadata(none) <person-index-rabbi-shai-graucher-505> quotes the
 pasuk from ⁧פרשת בהר⁩ (25:21): ⁧וְצִוִּיתִי אֶת בִּרְכָתִי לָכֶם בַּשָּׁנָה הַשִּׁשִּׁית וְעָשָׂת אֶת הַתְּבוּאָה לִשְׁלֹשׁ הַשָּׁנִים⁩. R’ Chaim quotes the ⁧חזון איש⁩ in ⁧מסכת שביעית⁩ that this
 ⁧ברכה⁩ is still in effect in our times, and some people have the zchus to
 see it. He brings down a ⁧מעשה⁩ which happened in the famous ⁧מושב⁩ of
@@ -7335,7 +7335,7 @@ devastating fields and orchards throughout the land. The people of
 ⁧קוממיות⁩ began to worry: if the plague reached their fields, they
 wouldn't be able to feed their animals. They couldn't plant anything
 after the locusts left, because it was ⁧שמיטה⁩. As Shabbos was coming
-closer and closer, R’ Mendelson, #metadata(none) <person-index-r-mendelson-506> the rav of ⁧קוממיות⁩ said, “Don't worry, Hashem will save us because we observe this mitzvah.”
+closer and closer, R’ Mendelson, #metadata(none) <person-index-r-mendelson-507> the rav of ⁧קוממיות⁩ said, “Don't worry, Hashem will save us because we observe this mitzvah.”
 
 As the sun set and Shabbos began, everyone could hear the loud, eerie
 sound of the insects devouring everything in their path. A dark cloud of
@@ -7344,10 +7344,10 @@ was being destroyed. However, before the astonished eyes of all the
 people of ⁧קוממיות⁩⁦,⁩ they saw a ⁧נס נגלה⁩ in our own time, just 75 years
 ago. The locusts were literally jumping around the borders of ⁧קוממיות⁩⁦,⁩ like a ⁧קריעת ים סוף⁩. Everything around the ⁧מושב⁩ was hit, but ⁧קוממיות⁩
 remained completely untouched, not a single blade of grass was eaten. R’
-Mendelson#metadata(none) <person-index-r-mendelson-507> said, “The ⁦רידב״ז⁩#metadata(none) <person-index-ridvaz-512> said in 5649 that when people did not keep
+Mendelson#metadata(none) <person-index-r-mendelson-508> said, “The ⁦רידב״ז⁩#metadata(none) <person-index-ridvaz-512> said in 5649 that when people did not keep
 ⁧שמיטה⁩⁦,⁩ a plague of locusts came and destroyed everything as a punishment
 from Hashem. But we kept ⁧שמיטה⁩⁦,⁩ and Hashem protected us. He showed us
-His ⁧חן⁩⁦,⁩ and now we must sing ⁧זמירות⁩ and thank Him.” R’ Mendelson#metadata(none) <person-index-r-mendelson-508>
+His ⁧חן⁩⁦,⁩ and now we must sing ⁧זמירות⁩ and thank Him.” R’ Mendelson#metadata(none) <person-index-r-mendelson-509>
 traveled to ⁧ירושלים⁩ to relate to the Brisker Rav#metadata(none) <person-index-brisker-rav-503> what had happened. The
 Brisker Rav#metadata(none) <person-index-brisker-rav-504> quoted to him the ⁦רמב״ן⁩#metadata(none) <person-index-ramban-511> which I mentioned, that ever since
 Hashem said that ⁧ארבה⁩ would not come to ⁧מצרים⁩⁦,⁩ it has never been there.
@@ -7374,11 +7374,11 @@ these ⁧מצוות⁩ very quickly when ⁧משיח⁩ will come ⁧במהרה 
 
 ⁧פרשת במדבר⁩ always is the ⁧שבת⁩ before the ⁧יום טוב⁩ of ⁧שבועות⁩. As an aside, my quiz question for everyone I've come into contact with for the last
 two weeks is, if the ⁧שבת⁩ before ⁧פסח⁩ is ⁧שבת הגדול⁩ and the ⁧שבת⁩ before ⁧יום כיפור⁩ is ⁧שבת שובה⁩⁦,⁩ what is the name of the ⁧שבת⁩ before ⁧שבועות⁩? Everyone
-looks at me with a glazed look and I answer them ⁧שבת דרך ארץ⁩ because ⁧דרך ארץ קדמה לתורה⁩. It's in the ⁦חידושי הרי״ם⁩.#metadata(none) <person-index-chidushei-harim-513>
+looks at me with a glazed look and I answer them ⁧שבת דרך ארץ⁩ because ⁧דרך ארץ קדמה לתורה⁩. It's in the ⁦חידושי הרי״ם⁩.#metadata(none) <person-index-chidushei-harim-514>
 
 But that is not the thrust of this week's talk. Many of the ⁧מפרשים⁩⁦,⁩ from
 ⁧ראשונים⁩ to ⁧אחרונים⁩⁦,⁩ as prominently as ⁧תוספות⁩ in ⁧מגילה⁩⁦,⁩ up to and
-including R’ Moshe Feinstein, #metadata(none) <person-index-r-moshe-feinstein-514> discuss the question: why is it
+including R’ Moshe Feinstein, #metadata(none) <person-index-r-moshe-feinstein-513> discuss the question: why is it
 specifically ⁧פרשת במדבר⁩ that comes before ⁧שבועות⁩? We know that ⁧פרשת במדבר⁩ includes one of the counts, the census of ⁧בני ישראל⁩. The second
 pasuk of the ⁧פרשה⁩ says: ⁧שְׂאוּ אֶת רֹאשׁ כׇּל עֲדַת בְּנֵי יִשְׂרָאֵל⁩ - “Count up ⁧בני ישראל⁩\.” All the ⁧מפרשים⁩ ask: why does it use the ⁧לשון⁩ of ⁧שְׂאוּ⁩? It could
 have said ⁧מנו⁩⁦,⁩ or used another term that simply means “count.” But ⁧שְׂאוּ⁩
@@ -7500,7 +7500,7 @@ slowly enough. The article is entitled, Tefillin in Dachau. It was
 written by Rabbi Yosef Wallace.
 
 In Dachau, a Jew who was being taken to his death suddenly flung a small
-bag at a person named Judah Wallace.#metadata(none) <person-index-judah-wallace-517> He caught it thinking it might
+bag at a person named Judah Wallace.#metadata(none) <person-index-judah-wallace-523> He caught it thinking it might
 contain a piece of bread. Upon opening it, however, he was disturbed to
 discover a pair of ⁧תפילין⁩. Judah was very frightened because he knew
 were he to be caught carrying ⁧תפילין⁩⁦,⁩ he would be put to death
@@ -7561,20 +7561,20 @@ made her way to the men's camp and found Judah. She walked over to him
 and said, “I have lost everyone. I don't want to be alone anymore. I saw
 what you did that day when the officer wanted to hang you. Will you
 marry me?” The rest is history. The couple walked over to the
-Klausenberger Rebbe, #metadata(none) <person-index-klausenberger-rebbe-520> ⁧זצ״ל⁩⁦,⁩ ⁧זכותו יגן עלינו⁩ and requested that he perform
-the marriage ceremony. The Klausenberger Rebbe, #metadata(none) <person-index-klausenberger-rebbe-521> whose own ⁧קידוש השם⁩ is
+Klausenberger Rebbe, #metadata(none) <person-index-klausenberger-rebbe-517> ⁧זצ״ל⁩⁦,⁩ ⁧זכותו יגן עלינו⁩ and requested that he perform
+the marriage ceremony. The Klausenberger Rebbe, #metadata(none) <person-index-klausenberger-rebbe-518> whose own ⁧קידוש השם⁩ is
 legendary, wrote out a ⁧כתובה⁩ by hand from memory and married them. I, Rabbi Yosef Wallace, their son, keep and cherish that ⁧כתובה⁩ to this day.
 
 After the above story appeared in ⁧שיחת השבוע⁩ in ⁧ארץ ישראל⁩⁦,⁩ a subscriber
-to the publication called the ⁧שיחת השבוע⁩ office. Mr. Olasky, #metadata(none) <person-index-mr-olasky-522> a
-95-year-old man, asked for the phone number of Judah Wallace's#metadata(none) <person-index-judah-wallace-518> son, Rabbi Yosef Wallace, who happened to be the director of ⁧ערכים⁩ at the
-time. When asked why he wanted the number, Mr. Olasky#metadata(none) <person-index-mr-olasky-523> stated, “I was in
-Dachau together with Judah Wallace.#metadata(none) <person-index-judah-wallace-519> However, I never knew that he
+to the publication called the ⁧שיחת השבוע⁩ office. Mr. Olasky, #metadata(none) <person-index-mr-olasky-519> a
+95-year-old man, asked for the phone number of Judah Wallace's#metadata(none) <person-index-judah-wallace-524> son, Rabbi Yosef Wallace, who happened to be the director of ⁧ערכים⁩ at the
+time. When asked why he wanted the number, Mr. Olasky#metadata(none) <person-index-mr-olasky-520> stated, “I was in
+Dachau together with Judah Wallace.#metadata(none) <person-index-judah-wallace-525> However, I never knew that he
 survived the beating. I always wanted to thank him for letting me put on
 his ⁧תפילין⁩ in Dachau. Now at least I can thank his son.” After receiving
-the phone call, Rabbi Wallace visited Mr. Olasky.#metadata(none) <person-index-mr-olasky-524>
+the phone call, Rabbi Wallace visited Mr. Olasky.#metadata(none) <person-index-mr-olasky-521>
 
-“I am certain,” said Mr. Olasky, #metadata(none) <person-index-mr-olasky-525> “that the ⁧תפילין⁩ that I wore in Dachau
+“I am certain,” said Mr. Olasky, #metadata(none) <person-index-mr-olasky-522> “that the ⁧תפילין⁩ that I wore in Dachau
 protected me in the camp and gave me long life and health.” Rabbi
 Wallace commented, “Until now, I never found anyone to validate my
 father's story. Now I have an eyewitness. History has now come full
@@ -7612,24 +7612,24 @@ achieve real success in ⁧תורה⁩. Now, it's true that each of the ⁧נש�
 his own ⁧כוונות⁩⁦,⁩ as explained by the various ⁧מפרשים⁩. So it's not simply
 repetition. But nonetheless, the lesson of ⁧חזרה⁩ stands.
 
-R’ Shlomo Zalman Sonnenfeld, #metadata(none) <person-index-r-shlomo-zalman-sonnenfeld-530> the great-grandson of R’ Yosef Chaim
-Sonnenfeld, #metadata(none) <person-index-r-yosef-chaim-sonnenfeld-531> wrote a beautiful sefer on ⁧חומש⁩ with insights of his
-great-grandfather R’ Yosef Chaim, #metadata(none) <person-index-r-yosef-chaim-sonnenfeld-532> the beloved rav of Yerushalyim. At the
+R’ Shlomo Zalman Sonnenfeld, #metadata(none) <person-index-r-shlomo-zalman-sonnenfeld-532> the great-grandson of R’ Yosef Chaim
+Sonnenfeld, #metadata(none) <person-index-r-yosef-chaim-sonnenfeld-533> wrote a beautiful sefer on ⁧חומש⁩ with insights of his
+great-grandfather R’ Yosef Chaim, #metadata(none) <person-index-r-yosef-chaim-sonnenfeld-534> the beloved rav of Yerushalyim. At the
 beginning of this ⁧פרשה⁩⁦,⁩ he brings a fascinating question. R. Yosef
-Engel, #metadata(none) <person-index-r-yosef-engel-541> who was a ⁧גאון עולם⁩⁦,⁩ wrote a sefer called ⁧גבורות שמונים⁩⁦,⁩ in which
+Engel, #metadata(none) <person-index-r-yosef-engel-527> who was a ⁧גאון עולם⁩⁦,⁩ wrote a sefer called ⁧גבורות שמונים⁩⁦,⁩ in which
 he listed 80 possible answers to a particular ⁧קשיא⁩ regarding the korban
-brought by a ⁧סוטה⁩. R’ Shlomo Zalman's father, R’ Yosef Chaim's#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-533> grandson, asked his grandfather R’ Yosef Chaim, #metadata(none) <person-index-r-yosef-chaim-sonnenfeld-534> “Why did R. Yosef Engel#metadata(none) <person-index-r-yosef-engel-542>
+brought by a ⁧סוטה⁩. R’ Shlomo Zalman's father, R’ Yosef Chaim's#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-535> grandson, asked his grandfather R’ Yosef Chaim, #metadata(none) <person-index-r-yosef-chaim-sonnenfeld-536> “Why did R. Yosef Engel#metadata(none) <person-index-r-yosef-engel-528>
 specifically pick 80? He could have picked any other number?” R’ Yosef
-Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-535> said, “You tell me, what do you think?” “It might be because the
-⁧גמטריא⁩ of ⁧סוטה⁩ is 80.” R’ Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-536> was delighted with the answer and
+Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-537> said, “You tell me, what do you think?” “It might be because the
+⁧גמטריא⁩ of ⁧סוטה⁩ is 80.” R’ Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-538> was delighted with the answer and
 said, “Yes, that is certainly the reason, I'm only surprised he did not
 mention it in his sefer.”
 
 Having said that, I saw a fascinating story about R’ Yosef Chaim
-Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-537> this past week which I'd like to share with you. One morning, his son entered his father's room and saw that his father's face was
-shining. Puzzled, he asked, “What happened?” R’ Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-538> brushed it
+Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-539> this past week which I'd like to share with you. One morning, his son entered his father's room and saw that his father's face was
+shining. Puzzled, he asked, “What happened?” R’ Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-540> brushed it
 off: “No, no, it's nothing.” His son insisted: “Please, tell me!”
-Finally, R’ Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-539> said, “I'll tell you - but only on condition
+Finally, R’ Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-541> said, “I'll tell you - but only on condition
 that you don't share this with anyone until after I pass away.” He
 explained: “For several weeks, I've been grappling with what seemed like
 an insoluble problem in the sefer ⁧ספרא דצניעותא⁩⁦,⁩ a sefer on ⁧קבלה⁩⁦,⁩ along
@@ -7637,11 +7637,11 @@ with the ⁦ווילנא גאון'⁩s#metadata(none) <person-index-vilna-gaon-5
 in a dream and explained the difficult passage to me. When I awoke this
 morning, I realized that the matter had indeed become perfectly clear.”
 I thought that was an astounding little vignette about R’ Yosef Chaim
-Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-540> and the ⁧ווילנא גאון⁩.#metadata(none) <person-index-vilna-gaon-544>
+Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-542> and the ⁧ווילנא גאון⁩.#metadata(none) <person-index-vilna-gaon-544>
 
 The next highlight in this week's ⁧פרשה⁩⁦,⁩ beyond the ⁧נשיאים⁩ and their
 ⁧קרבנות⁩⁦,⁩ is ⁧ברכת כהנים⁩. The sefer ⁧שמחת התורה⁩⁦,⁩ which brings down ⁧דברי תורה⁩
-from R’ Simcha Sheps, #metadata(none) <person-index-r-sheps-529> brings down a ⁧מדרש תנחומא⁩ on ⁧ברכת כהנים⁩ which says
+from R’ Simcha Sheps, #metadata(none) <person-index-r-simcha-sheps-531> brings down a ⁧מדרש תנחומא⁩ on ⁧ברכת כהנים⁩ which says
 ⁧יברכך⁩ means what? It means ⁧עושר⁩⁦,⁩ wealth. ⁧וישמרך⁩ - that you should do
 mitzvos. ⁧וישם לך שלום⁩ - that Hashem should give you ⁧שלום⁩. But the ⁧קשיא⁩
 is: why does the Torah start with ⁧גשמיות⁩⁦,⁩ with money, before moving to
@@ -7676,11 +7676,11 @@ possibly be anything more ⁧שלום⁩ than that. You'll have ⁧ברכת הש
 you'll have ⁧עושר⁩ in both ⁧רוחניות⁩ and ⁧גשמיות⁩
 
 My final vort is a tremendously interesting question brought down in the
-⁧ספר אוצר פלאות התורה⁩.#metadata(none) <person-index-otzer-plo-os-hatorah-526> I got this from a very ⁧חשוב⁩ friend of mine, R’
-Mendy Pollak, #metadata(none) <person-index-r-mendy-pollak-528> who should live and be well, a wonderful fellow. This
+⁧ספר אוצר פלאות התורה⁩.#metadata(none) <person-index-otzer-plo-os-hatorah-529> I got this from a very ⁧חשוב⁩ friend of mine, R’
+Mendy Pollak, #metadata(none) <person-index-r-mendy-pollak-530> who should live and be well, a wonderful fellow. This
 sefer was written by a ⁧בעלאבוס⁩ who was a tremendous ⁧גאון⁩. The man knew
 everything in ⁦ש״ס ופוסקים⁩. Now, here's his question, which was asked to
-R’ Aharon Mordechai Brisk#metadata(none) <person-index-r-aharon-mordechai-brisk-527> and it's brought down in ⁧שו״ת מהר״ם בריסק⁩:
+R’ Aharon Mordechai Brisk#metadata(none) <person-index-r-aharon-mordechai-brisk-526> and it's brought down in ⁧שו״ת מהר״ם בריסק⁩:
 Let's say a ⁧בן ארץ ישראל⁩ is in ⁧חוץ לארץ⁩ for ⁧יום טוב⁩⁦,⁩ and he happens to
 be a ⁧כהן⁩. He doesn't keep ⁧יום טוב שני של גלויות⁩⁦,⁩ because he has ⁧כוונה⁩ to
 go back home. Is he allowed to duchan with the other ⁧כהנים⁩ who are
@@ -7807,11 +7807,11 @@ that we can learn. We have to get going and start doing our portion of
   ))
 = Story 5785
 
-R’ Moshe Oelbaum#metadata(none) <person-index-r-moshe-oelbaum-553> wrote a very moving piece in the ⁧קול שמחת תורה⁩#metadata(none) <person-index-ridvaz-554> Gazette
+R’ Moshe Oelbaum#metadata(none) <person-index-r-moshe-oelbaum-552> wrote a very moving piece in the ⁧קול שמחת תורה⁩#metadata(none) <person-index-ridvaz-553> Gazette
 for ⁧פרשת נשא⁩⁦,⁩ which I want to say over here. It's something worth
 sharing with as many people as possible.
 
-He quotes a story written by R’ Avi Wiesenfeld.#metadata(none) <person-index-r-avi-wiesenfeld-552> The period towards the
+He quotes a story written by R’ Avi Wiesenfeld.#metadata(none) <person-index-r-avi-wiesenfeld-554> The period towards the
 end of World War II was one of the darkest and most challenging times
 for the Jewish people. Amidst the horrors of Holocaust, there were still
 moments of incredible resilience and even small glimmers of light that
@@ -7966,8 +7966,8 @@ We were hoping ⁧הלוואי⁩ that it should continue. And in ⁧זכות⁩
   ))
 = Behaloscha 5785
 
-R’ Yosef Shlomo Goldstein, #metadata(none) <person-index-r-yosef-shlomo-goldstein-559> the ⁧מחבר⁩ of a sefer called ⁧דברי יושר⁩#metadata(none) <person-index-r-yosef-shlomo-goldstein-560> from the
-⁧ישיבה⁩ in Gateshead, is quoted in the Kol HaTorah#metadata(none) <person-index-kol-hatorah-558> journal with the
+R’ Yosef Shlomo Goldstein, #metadata(none) <person-index-r-yosef-shlomo-goldstein-558> the ⁧מחבר⁩ of a sefer called ⁧דברי יושר⁩#metadata(none) <person-index-r-yosef-shlomo-goldstein-559> from the
+⁧ישיבה⁩ in Gateshead, is quoted in the Kol HaTorah#metadata(none) <person-index-kol-hatorah-560> journal with the
 following ⁧דבר תורה⁩ on this pasuk in ⁧בהעלותך⁩ (8:19):
 
 #align(right)[
@@ -8039,7 +8039,7 @@ example that they should be on guard and be a little bit better. That is
 a well-known vort.
 
 I'd like to say something that's not so well-known from R’ Chaim
-Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-571> ⁦זצ״ל⁩. (#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-572> on Chumash]. Permission
+Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-570> ⁦זצ״ל⁩. (#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-571> on Chumash]. Permission
 granted by ArtScroll / Mesorah Publications) (13:16) ⁧וַיִּקְרָא מֹשֶׁה לְהוֹשֵׁעַ בִּן נוּן יְהוֹשֻׁעַ⁩. R’ Chaim has a unique ⁧פשט⁩ here, and it comes along with a
 terrific story. ⁧תרגום יונתן⁩ says that when ⁧משה⁩ saw that ⁧הושע⁩ was a very
 big ⁧עניו⁩⁦,⁩ he changed his name to ⁧יהושע⁩. What does his humility have to
@@ -8047,7 +8047,7 @@ do with changing his name?
 
 R’ Chaim brings down a ⁧פשט⁩ from, of all people, a chassidish Rebbe, the
 Apter Rav, #metadata(none) <person-index-apter-rav-567> also known as the ⁧אוהב ישראל⁩. His name is Avraham Yehoshua
-Heshel#metadata(none) <person-index-apter-rav-568> from Apt. The ⁦מבי״ט⁩#metadata(none) <person-index-mabit-570> says in a ⁧ספר⁩ called ⁧שערי יסודות⁩#metadata(none) <person-index-sharei-yesodos-574> that ⁧תחיית המתים⁩ will occur alphabetically. First those whose names begin with an
+Heshel#metadata(none) <person-index-apter-rav-568> from Apt. The ⁦מבי״ט⁩#metadata(none) <person-index-mabit-572> says in a ⁧ספר⁩ called ⁧שערי יסודות⁩#metadata(none) <person-index-sharei-yesodos-574> that ⁧תחיית המתים⁩ will occur alphabetically. First those whose names begin with an
 ⁧א׳⁩ will get up, followed by those with a ⁧ב׳⁩⁦,⁩ and ⁧ווייטער⁩. There's going
 to be only one exception, and those are the ⁧ענווים⁩⁦,⁩ people who are
 humble, will be the first to have ⁧תחיית המתים⁩⁦,⁩ regardless of the first
@@ -8204,12 +8204,12 @@ asking for. The good things we ask for are means to an end. In that
 questions surround the ⁧מצוה⁩ of ⁧ציצית⁩⁦,⁩ and I'd like to discuss two of
 them.
 
-R’ Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-585> ⁦זצ״ל⁩ (#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-586> on Chumash.]
+R’ Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-586> ⁦זצ״ל⁩ (#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-587> on Chumash.]
 Permission granted by ArtScroll / Mesorah Publications) asks a question
 on the pasuk (15:38), ⁧עַל כַּנְפֵי בִגְדֵיהֶם לְדֹרֹתָם⁩ - on the corners of your
 garments, for all your generations. R’ Chaim asks, why does the ⁧תורה⁩
 specify that this ⁧מצוה⁩ will apply throughout all of their generations? A
-second, related question, brought down by R’ Mordechai Becher, #metadata(none) <person-index-r-mordechai-becher-587>
+second, related question, brought down by R’ Mordechai Becher, #metadata(none) <person-index-r-mordechai-becher-585>
 discussing ⁧קבלת התורה⁩ which we recently celebrated on ⁧שבועות⁩⁦,⁩ is why is
 it that the vast majority of ⁧תורה⁩ is oral and not written? The written
 ⁧תורה⁩ consists of only 320,000 letters. But the ⁧תורה⁩ besides those
@@ -8284,15 +8284,15 @@ of the ⁧פרשה⁩ to hurry and bring ⁧קטורת⁩⁦,⁩ and ⁧אהרן
 By stopping the ⁧מגפה⁩ with the ⁧קטורת⁩⁦,⁩ ⁧אהרן הכהן⁩ showed the people that
 the ⁧קטורת⁩ could save lives, not endanger them as they had thought. Then
 the ⁧פסוק⁩ says, ⁧וַיָּשׇׁב אַהֲרֹן אֶל מֹשֶׁה אֶל פֶּתַח אֹהֶל מוֹעֵד וְהַמַּגֵּפָה נֶעֱצָרָה⁩ - Aaron
-returned to ⁧משה⁩ and the ⁧מגפה⁩ was over. R’ Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-589> ⁦זצ״ל⁩
-(#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-590> on Chumash.] Permission granted by ArtScroll
+returned to ⁧משה⁩ and the ⁧מגפה⁩ was over. R’ Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-590> ⁦זצ״ל⁩
+(#emph[Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-591> on Chumash.] Permission granted by ArtScroll
 \/ Mesorah Publications) cites a ⁧מדרש לקח טוב⁩ which states that after
 the ⁧מגפה⁩ was stopped, ⁧אהרן⁩ quickly ran back to ⁧משה רבינו⁩⁦,⁩ to report back
 and give the good news to ⁧משה רבינו⁩. He understood that just as it was
 necessary for ⁧משה⁩ to be aware about the ⁧מגפה⁩ in order to help stop it, it was equally important to return and report that it had ended. On many
 occasions, people turn to a ⁧צדיק⁩ to daven for them, to give some ⁧זכותים⁩⁦,⁩ so that their ⁧תפילות⁩ should reach Hashem and help them and bring about a
 ⁧ישועה⁩. But once the ⁧ישועה⁩ comes, it's really a ⁧חִיּוּב⁩ on them to come back
-and share the good news. The Chazon Ish#metadata(none) <person-index-the-chazon-ish-588> ⁦זצ״ל⁩ and R’ Moshe Feinstein#metadata(none) <person-index-r-moshe-feinstein-591> ⁦זצ״ל⁩
+and share the good news. The Chazon Ish#metadata(none) <person-index-the-chazon-ish-588> ⁦זצ״ל⁩ and R’ Moshe Feinstein#metadata(none) <person-index-r-moshe-feinstein-589> ⁦זצ״ל⁩
 both said that people would come and inform them of their problems but
 would not inform them when their problems were resolved. We learn from
 this small, almost incidental point in the ⁧פרשה⁩ just how ⁧וויכטיג הכרת הטוב⁩ is, that the ⁧תורה⁩ goes out of its way to tell us that ⁧אהרן⁩ went
@@ -8408,18 +8408,18 @@ so that (18:7) ⁧עֲבֹדַת מַתָּנָה אֶתֵּן אֶת כְּהֻ
 twofold: A) to perform the ⁧עבודה⁩ in the ⁧בית המקדש⁩⁦,⁩ and B) to protect ⁧כלל ישראל⁩ from coming too close to the ⁧משכן⁩⁦,⁩ which could, ⁧חס ושלום⁩⁦,⁩ result
 in the tragic ⁧תקלה⁩ of ⁧וְהַזָּר הַקָּרֵב יוּמָת⁩.
 
-In the sefer of R’ Levi Yitzchok of Berditchev, #metadata(none) <person-index-r-levi-yitzchok-of-berditchev-608> (#emph[Rav Levi Yitzchok
-of Berditchev].#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-609> Permission granted by ArtScroll / Mesorah Publications)
+In the sefer of R’ Levi Yitzchok of Berditchev, #metadata(none) <person-index-r-levi-yitzchok-of-berditchev-600> (#emph[Rav Levi Yitzchok
+of Berditchev].#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-601> Permission granted by ArtScroll / Mesorah Publications)
 there's an interesting ⁧שאלה⁩: how can we give a gift to the Almighty?
 What does it mean to give ⁧הקדוש ברוך הוא⁩ a gift? Serving ⁧הקדוש ברוך הוא⁩
 cannot be a gift because it's a ⁧מצוה⁩ to serve ⁧הקדוש ברוך הוא⁩. So when
 Hashem characterizes the ⁧כהונה⁩ as ⁧עֲבֹדַת מַתָּנָה⁩⁦,⁩ a service of giving, what
 could that possibly mean? I heard a beautiful ⁧דבר תורה⁩ from R’ Akiva
-Grunblatt, #metadata(none) <person-index-r-akiva-grunblatt-607> the ⁧ראש ישיבה⁩ of Yeshivas Chafetz Chaim#metadata(none) <person-index-chafetz-chaim-598> here in Queens, about
+Grunblatt, #metadata(none) <person-index-r-akiva-grunblatt-599> the ⁧ראש ישיבה⁩ of Yeshivas Chafetz Chaim#metadata(none) <person-index-chafetz-chaim-598> here in Queens, about
 the beauty and responsibility of leadership. Every member of ⁧כלל ישראל⁩
 has a responsibility to be a leader - whether in our homes, our
 communities, or the broader world. He brings down a fascinating story
-about R’ Aharon Leib Shteinman.#metadata(none) <person-index-r-aharon-leib-shteinman-599>
+about R’ Aharon Leib Shteinman.#metadata(none) <person-index-r-aharon-leib-shteinman-603>
 
 There was a family in ⁧בני ברק⁩ who were completely frum, but they had one
 child who ⁧נבך⁩ went off the ⁧דרך⁩. First, he left the home, then became
@@ -8438,14 +8438,14 @@ said, “Go right ahead.” The son went out, smoked a cigarette, and then
 came back. The next morning: “Would you like to come to shachris?” “No.”
 “Okay.” Again, the father went alone. At lunch, same thing - the son
 went out, smoked, came back. When it came time for ⁧שלש סעודות⁩⁦,⁩ the
-father asked his son, “R’ Aharon Leib Shteinman#metadata(none) <person-index-r-aharon-leib-shteinman-600> is going to be at shul
+father asked his son, “R’ Aharon Leib Shteinman#metadata(none) <person-index-r-aharon-leib-shteinman-604> is going to be at shul
 for ⁧שלש סעודות⁩. Would you like to come?” To his surprise, the son said, “Yes,” and they went together. After ⁧שלש סעודות⁩⁦,⁩ the father asked the
-son, “Would you like to get a bracha#metadata(none) <person-index-bracha-597> from R’ Aharon Leib?”#metadata(none) <person-index-r-aharon-leib-shteinman-601> To his
+son, “Would you like to get a bracha#metadata(none) <person-index-bracha-597> from R’ Aharon Leib?”#metadata(none) <person-index-r-aharon-leib-shteinman-605> To his
 father's astonishment, the son said yes.
 
-He approached R’ Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-602> for a ⁧ברכה⁩. The father explained that his
+He approached R’ Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-606> for a ⁧ברכה⁩. The father explained that his
 son was about to make a very serious decision about marrying someone
-outside the faith. R’ Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-603> turned to the son and asked, “Would
+outside the faith. R’ Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-607> turned to the son and asked, “Would
 you be willing to speak with me a bit?” He agreed. After Shabbos, they
 spoke for an hour. When he returned, he said he would call the
 prospective bride and put the wedding on hold, he needed to think about
@@ -8453,10 +8453,10 @@ things, and that was the last time the wedding was mentioned.
 
 Later, the father asked, “Can I ask you something? I invited you to shul
 Friday night and you said no. I invited you Shabbos morning and you said
-no. But when I invited you to see R’ Aharon Leib, #metadata(none) <person-index-r-aharon-leib-shteinman-604> you said yes. Why?”
+no. But when I invited you to see R’ Aharon Leib, #metadata(none) <person-index-r-aharon-leib-shteinman-608> you said yes. Why?”
 The son answered, “I'll tell you why. When I was in second or third
 grade, maybe fourth, I don't remember exactly, they announced that R’
-Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-605> would come in to give us a little ⁧בחינה⁩. He went around the
+Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-609> would come in to give us a little ⁧בחינה⁩. He went around the
 room asking each of the kinderlach a question, and if you answered
 correctly, he gave you a candy. When it was my turn, he asked a
 question, but I didn't know the answer. He asked a second, an even
@@ -8465,7 +8465,7 @@ again, I didn't know. Obviously, I hadn't paid attention in class.
 
 “Then he said, 'Would you mind waiting outside until everyone leaves?
 I'd like to speak with you.’ I thought, 'Now I'm going to get it.’ When
-everybody had left, R’ Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-606> sat down with me and said 'Do you
+everybody had left, R’ Aharon Leib#metadata(none) <person-index-r-aharon-leib-shteinman-610> sat down with me and said 'Do you
 know the difference between the goyim and the Yidden? When a goy does
 something, he gets paid for the results. If he gets something done, he
 gets paid for the action that he did. By us, we don't pay for that. We
@@ -8483,7 +8483,7 @@ with the winner. The leader is the one who can deal with everyone, particularly 
 loser.
 
 What was ⁧מתנת הכהונה⁩⁦?⁩ What purpose was served when ⁧הקדוש ברוך הוא⁩ said
-that you're giving me a present? R’ Levi Yitzchok of Berditchev#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-610> ⁧זכותו יגן עלינו⁩ explained that when we do ⁧עבודה⁩⁦,⁩ the ⁧ניצוצות⁩ in the entire
+that you're giving me a present? R’ Levi Yitzchok of Berditchev#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-602> ⁧זכותו יגן עלינו⁩ explained that when we do ⁧עבודה⁩⁦,⁩ the ⁧ניצוצות⁩ in the entire
 world, the sparks around the entire globe of the world are elevated.
 That ⁧קדושה⁩ which is strewn around the world, particularly amongst
 non-Jews, is elevated. And that's what causes a non-Jew to want to
@@ -8637,7 +8637,7 @@ very soon, ⁧במהרה בימינו אמן⁩
 = Chukas 5784 (2)
 
 This is an addendum to ⁧פרשת חקת⁩. I came across this vort from Rabbi
-Frand#metadata(none) <person-index-r-yissocher-frand-628> (#emph[An Offer You Can't Refuse]. Permission granted by ArtScroll
+Frand#metadata(none) <person-index-r-yissocher-frand-624> (#emph[An Offer You Can't Refuse]. Permission granted by ArtScroll
 \/ Mesorah Publications) who always has something worthwhile to share
 with us, and I thought it would be nice to share with you. ⁧פרשת חקת⁩
 starts off with the laws of ⁧טומאת מת⁩. If a person comes in contact with
@@ -8657,7 +8657,7 @@ individuals.” We paskin that ⁧להלכה⁩. The question is, what does “I
 learned this from the ⁧אוצרות של יבנה⁩” mean? What is the ⁧גמרא⁩ trying to
 tell us about the ⁧אוצרות⁩ of ⁧יבנה⁩?
 
-R’ Meir Shapiro#metadata(none) <person-index-r-meir-shapiro-625> ⁦זצ״ל⁩, the ⁧לובלינר רב⁩⁦,⁩ gave a ⁧דרשה⁩ on this ⁧ירושלמי⁩. What
+R’ Meir Shapiro#metadata(none) <person-index-r-meir-shapiro-629> ⁦זצ״ל⁩, the ⁧לובלינר רב⁩⁦,⁩ gave a ⁧דרשה⁩ on this ⁧ירושלמי⁩. What
 happened in ⁧יבנה⁩? Why is ⁧יבנה⁩ so vital to us? At the time of ⁧חורבן בית שני רב יוחנן בן זכאי⁩ met Vespasian, the general who later became
 emperor. Vespasian granted him three things. One of the three things ⁧רב יוחנן בן זכאי⁩ requested was to spare ⁧יבנה⁩ and her ⁧חכמים⁩ and her ⁧זקנים⁩.
 ⁧יבנה⁩ was a city far away from ⁧ירושלים⁩. It had a ⁧ישיבה⁩. ⁧רב יוחנן⁩ pleaded
@@ -8674,12 +8674,12 @@ needed one ⁧טהור⁩ person to sprinkle on one ⁧טמא⁩ person. From �
 that one ⁧טהור⁩ person can affect hundreds of people.
 
 We have seen this in our own lifetime. We've seen individuals who have
-revolutionized the world. Rabbi Frand#metadata(none) <person-index-r-yissocher-frand-629> says it's mind-boggling to think
-about the ⁧זכות⁩ of Rav Meir Shapiro#metadata(none) <person-index-r-meir-shapiro-626> himself, who came up with the idea of
-⁧דף יומי⁩. Today, thousands upon thousands of people worldwide learn ⁧דף יומי⁩ every day. Rav Meir Shapiro#metadata(none) <person-index-r-meir-shapiro-627> didn't live two thousand years ago, or
+revolutionized the world. Rabbi Frand#metadata(none) <person-index-r-yissocher-frand-625> says it's mind-boggling to think
+about the ⁧זכות⁩ of Rav Meir Shapiro#metadata(none) <person-index-r-meir-shapiro-630> himself, who came up with the idea of
+⁧דף יומי⁩. Today, thousands upon thousands of people worldwide learn ⁧דף יומי⁩ every day. Rav Meir Shapiro#metadata(none) <person-index-r-meir-shapiro-631> didn't live two thousand years ago, or
 even two hundred years ago. He lived in the 20th century. He came up
 with an idea that revolutionized the world of ⁧לימוד התורה⁩. There are
-others as well: Rav Aharon Kotler, #metadata(none) <person-index-rav-aharon-kotler-624> the Vilna Gaon, #metadata(none) <person-index-vilna-gaon-632> the ⁦רמב״ן⁩, #metadata(none) <person-index-ramban-631> the ⁦רמב״ם⁩#metadata(none) <person-index-rambam-630>
+others as well: Rav Aharon Kotler, #metadata(none) <person-index-rav-aharon-kotler-626> the Vilna Gaon, #metadata(none) <person-index-vilna-gaon-632> the ⁦רמב״ן⁩, #metadata(none) <person-index-ramban-628> the ⁦רמב״ם⁩#metadata(none) <person-index-rambam-627>
 \- people that revolutionized the ⁧תורה⁩ world. Even people like us can
 make a difference. One person can make a difference.
 
@@ -8706,29 +8706,29 @@ person who is learning Torah has to immerse himself to the point he's
 willing to die for it, that you should be willing to be ⁧יָמוּת בְּאֹהֶל⁩ to
 learn Torah.
 
-However, the sefer ⁧אוצר פלאות התורה⁩⁦,⁩ #metadata(none) <person-index-otzer-plo-os-hatorah-642> written by a ⁧חשובע⁩ Yid named Zev
+However, the sefer ⁧אוצר פלאות התורה⁩⁦,⁩ #metadata(none) <person-index-otzer-plo-os-hatorah-645> written by a ⁧חשובע⁩ Yid named Zev
 Wolf Zicherman#metadata(none) <person-index-zev-wolf-zicherman-648> from Boro Park, has a completely different take on this
 pasuk. As we know, there are ⁧שבעים פנים לתורה⁩⁦,⁩ every single dot in the
-Torah has multiple ⁧פירושים⁩. He brings from the ⁦ספר מהרי״ל⁩.#metadata(none) <person-index-maharil-634> (You've heard
-of the ⁦מהרי״ל⁩.#metadata(none) <person-index-maharil-635> When you're looking in ⁧משנה ברורה⁩⁦,⁩ you'll see the ⁦מהרי״ל⁩#metadata(none) <person-index-maharil-636>
-quoted many times. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-644> has pointed out to us that the ⁦מהרי״ל⁩#metadata(none) <person-index-maharil-637>
-is a ⁧פוסק⁩ for all generations.) The ⁦מהרי״ל⁩#metadata(none) <person-index-maharil-638> brings down a ⁧הלכה⁩ which, interestingly, we don't follow nowadays, but it's still worthwhile to
+Torah has multiple ⁧פירושים⁩. He brings from the ⁦ספר מהרי״ל⁩.#metadata(none) <person-index-maharil-636> (You've heard
+of the ⁦מהרי״ל⁩.#metadata(none) <person-index-maharil-637> When you're looking in ⁧משנה ברורה⁩⁦,⁩ you'll see the ⁦מהרי״ל⁩#metadata(none) <person-index-maharil-638>
+quoted many times. Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-644> has pointed out to us that the ⁦מהרי״ל⁩#metadata(none) <person-index-maharil-639>
+is a ⁧פוסק⁩ for all generations.) The ⁦מהרי״ל⁩#metadata(none) <person-index-maharil-640> brings down a ⁧הלכה⁩ which, interestingly, we don't follow nowadays, but it's still worthwhile to
 mention: ⁧פעם אחת⁩ - once upon a time, a ⁧שר גדול⁩⁦,⁩ the son of the Duke of
 Heidelberg, a goyish minister or prince who happened to be a big ⁧אוהב ישראל⁩⁦,⁩ passed away. A member of the ⁧ציבור⁩⁦,⁩ of the ⁧קהילה⁩ said, ⁧צר לי על מיתתו⁩ - His ⁧מיתה⁩ pains me.
 
-His ⁧רב⁩ told him, and the ⁦מהרי״ל⁩#metadata(none) <person-index-maharil-639> is quoting this, even if it would be a
+His ⁧רב⁩ told him, and the ⁦מהרי״ל⁩#metadata(none) <person-index-maharil-641> is quoting this, even if it would be a
 ⁧יהודי כשר⁩ and a ⁧תלמיד חכם גדול⁩⁦,⁩ you should not say that phrase. Why?
 Because it looks as if you are having a ⁧טענה⁩ against ⁧מידת הדין⁩. Instead, it would be preferable to say, ⁧יש הזק גדול במיתתו⁩ - there has been a
 tremendous loss with his passing.
 
-However, the ⁦יעב״ץ⁩#metadata(none) <person-index-yaivitz-647> is ⁧חולק⁩ on the ⁦מהרי״ל⁩, #metadata(none) <person-index-maharil-640> and he says he forgot a plain
+However, the ⁦יעב״ץ⁩#metadata(none) <person-index-yaivitz-647> is ⁧חולק⁩ on the ⁦מהרי״ל⁩, #metadata(none) <person-index-maharil-642> and he says he forgot a plain
 pasuk. When ⁧דוד המלך⁩ heard about the death of ⁧יהונתן⁩⁦,⁩ his beloved
 childhood friend, he said ⁧צַר לִי עָלֶיךָ אָחִי יְהוֹנָתָן ⁦(שמואל ב א׳:כ״ו)⁩⁩. Not
-only that, it's brought down when the ⁧נודע ביהודה⁩#metadata(none) <person-index-nodeh-byehuda-641> was being ⁧מספיד רבי יהונתן אייבשיץ⁩⁦,⁩ #metadata(none) <person-index-r-yonasan-eibschutz-645> he said, ⁧צַר לִי עָלֶיךָ אָחִי יְהוֹנָתָן⁩. So, it seems that the
+only that, it's brought down when the ⁧נודע ביהודה⁩#metadata(none) <person-index-nodeh-byehuda-643> was being ⁧מספיד רבי יהונתן אייבשיץ⁩⁦,⁩ #metadata(none) <person-index-r-yonasan-eibschutz-634> he said, ⁧צַר לִי עָלֶיךָ אָחִי יְהוֹנָתָן⁩. So, it seems that the
 phrase can be appropriate, depending on the depth of the pain and
 sincerity, according to these ⁧פוסקים⁩.
 
-Mentioning this debate, the ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-643> brings down a fascinating
+Mentioning this debate, the ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-646> brings down a fascinating
 sidebar, which is relevant to us. He writes that his father would often
 quote the ⁧משנה⁩ in Pirkei Avos that discusses the ⁧עֲשָׂרָה נִסִּים⁩ that happened
 in the ⁧בית המקדש⁩. One of those miracles was ⁧וְלֹא אָמַר אָדָם לַחֲבֵרוֹ צַר לִי הַמָּקוֹם שֶׁאָלִין בִּירוּשָׁלַיִם⁩ - No one ever said it was uncomfortable for them to
@@ -8749,7 +8749,7 @@ Hashem, who is ⁧המקום⁩. No one ever said Hashem caused them pain, becau
 they recognized ⁧כל מה דעביד רחמנא לטב עביד⁩ - Every single thing that
 Hashem does is for the good.
 
-I saw the following story, shown to me by my daughter Sorolle Idels, #metadata(none) <person-index-sorolle-idels-646> and
+I saw the following story, shown to me by my daughter Sorolle Idels, #metadata(none) <person-index-sorolle-idels-635> and
 I want to share it with you because it highlights how central Torah is
 to us. The story goes as follows. In the supermarket down the block from
 his house, a kollel man was standing in line with a shopping cart
@@ -8795,19 +8795,19 @@ over all of us. That's the real Iron Dome - Hakodosh Baruch Hu's ⁧יד הגד�
 ⁧פרשת בלק⁩ is one of the most fascinating ⁧פרשיות⁩ in the entire ⁧תורה⁩. It
 discusses the ⁧נבואות⁩ of ⁧בלעם⁩⁦,⁩ the fact that ⁧בלעם⁩⁦,⁩ a ⁧רשע⁩⁦,⁩ became a ⁧נביא⁩
 for the ⁧גוים⁩⁦,⁩ and his failed attempts to bring a ⁧קללה⁩ on ⁧כלל ישראל⁩\. The
-sefer ⁧אור גדליהו⁩⁦,⁩ #metadata(none) <person-index-r-gedalia-schorr-649> a wonderful sefer which I encourage everyone to get
+sefer ⁧אור גדליהו⁩⁦,⁩ #metadata(none) <person-index-r-gedalia-schorr-655> a wonderful sefer which I encourage everyone to get
 (if it's available), has the following vort on ⁧פרשת בלק⁩. The ⁦מהר״ל
-דיסקין⁩ is quoted in the ⁧אור גדליהו⁩⁦,⁩ #metadata(none) <person-index-r-gedalia-schorr-650> quoting a ⁦רש״י⁩#metadata(none) <person-index-rashi-652> in ⁦מסכתא בבא בתרא דף
+דיסקין⁩ is quoted in the ⁧אור גדליהו⁩⁦,⁩ #metadata(none) <person-index-r-gedalia-schorr-656> quoting a ⁦רש״י⁩#metadata(none) <person-index-rashi-649> in ⁦מסכתא בבא בתרא דף
 י״ד⁩ ⁧עמוד ב⁩. The ⁧גמרא⁩ says ⁧מֹשֶׁה כָּתַב סִפְרוֹ וּפָרָשַׁת בִּלְעָם וְאִיּוֹב⁩ - Moshe wrote
 his sefer, which is ⁧חמשה חומשי תורה⁩⁦,⁩ the ⁧פרשה⁩ of ⁧בלעם⁩⁦,⁩ and ⁧ספר איוב⁩.
 
-Rashi#metadata(none) <person-index-rashi-653> asks why is the ⁧גמרא⁩ giving this distinction to the ⁧פרשה⁩ of ⁧בלעם⁩?
-Rashi#metadata(none) <person-index-rashi-654> answers: ⁧שפרשת בלעם אינה כשאר התורה שאינה אלא נבואתו ומשליו של בלעם⁩ - The story of ⁧בלעם⁩ is not like the rest of the Torah, rather, it's
+Rashi#metadata(none) <person-index-rashi-650> asks why is the ⁧גמרא⁩ giving this distinction to the ⁧פרשה⁩ of ⁧בלעם⁩?
+Rashi#metadata(none) <person-index-rashi-651> answers: ⁧שפרשת בלעם אינה כשאר התורה שאינה אלא נבואתו ומשליו של בלעם⁩ - The story of ⁧בלעם⁩ is not like the rest of the Torah, rather, it's
 ⁦בלעם'⁩s prophecy and parables. All the ⁧מפרשים⁩ struggle with this
-enigmatic Rashi, #metadata(none) <person-index-rashi-655> which is saying that the ⁧פרשה⁩ of ⁧בלעם⁩ is not like the
+enigmatic Rashi, #metadata(none) <person-index-rashi-652> which is saying that the ⁧פרשה⁩ of ⁧בלעם⁩ is not like the
 rest of the ⁧תורה⁩. Now we know that every single ⁧פסוק⁩ in the ⁧תורה⁩⁦,⁩ whether it's the ⁧עשרת הדברות⁩ or the ⁧יחוס⁩ brief of ⁧עשו הרשע⁩⁦,⁩ every word
 of the ⁧תורה⁩ has ⁧קדושה⁩⁦,⁩ the same exact level of ⁧קדושה⁩ as every other word
-in the ⁧תורה⁩. So what could Rashi#metadata(none) <person-index-rashi-656> possibly be meaning here? That's one
+in the ⁧תורה⁩. So what could Rashi#metadata(none) <person-index-rashi-653> possibly be meaning here? That's one
 ⁧קשיא⁩.
 
 The second ⁧קשיא⁩ is also fundamental: we know that ⁧בלעם⁩ was given the
@@ -8862,7 +8862,7 @@ is called ⁧תורת משה⁩. All of their ⁧נבואות⁩ were elevated, 
 the level of ⁧משה רבינו⁩⁦,⁩ except for one: except for ⁧בלעם⁩. It didn't
 require elevation, because it was already elevated.
 
-That's what Rashi, #metadata(none) <person-index-rashi-657> according to the ⁧אור גדליהו⁩⁦,⁩ #metadata(none) <person-index-r-gedalia-schorr-651> is intimating: to the
+That's what Rashi, #metadata(none) <person-index-rashi-654> according to the ⁧אור גדליהו⁩⁦,⁩ #metadata(none) <person-index-r-gedalia-schorr-657> is intimating: to the
 fact ⁧הקדוש ברוך הוא⁩ gave ⁧בלעם⁩ this unbelievable gift of being able to
 receive ⁧נבואה⁩ just like ⁧משה רבינו⁩. That's why ⁧משה רבינו⁩ didn't have to
 write the ⁧פרשה⁩ of ⁧בלעם⁩ on his level, it was already written that way. He
@@ -8970,27 +8970,27 @@ the ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-660> in ⁧פרשת �
   ))
 = Chukas-Balak 5783
 
-Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-666> my ⁧מָרָא דְּאַתְרָא⁩⁦,⁩ once asked an interesting question. If
+Rabbi Oelbaum, #metadata(none) <person-index-r-noach-isaac-oelbaum-668> my ⁧מָרָא דְּאַתְרָא⁩⁦,⁩ once asked an interesting question. If
 someone knew he was going to be stranded on a desert island and he had a
 chance to take along two and only two ⁧ספרים⁩⁦,⁩ what two ⁧ספרים⁩ would he
 take? What would you suggest? So all of us said ⁧סידור⁩ and 99% of us said
-⁧חומש⁩. He said, nope. He said the ⁧סידור⁩ and a ⁧קיצור שולחן ערוך⁩.#metadata(none) <person-index-kitzur-shulchan-aruch-661> It's
+⁧חומש⁩. He said, nope. He said the ⁧סידור⁩ and a ⁧קיצור שולחן ערוך⁩.#metadata(none) <person-index-kitzur-shulchan-aruch-664> It's
 interesting that he said that, and if you think about it, it makes a
-world of sense. The author of the ⁧קיצור שולחן ערוך⁩#metadata(none) <person-index-kitzur-shulchan-aruch-662> is Rav Shlomo
-Ganzfried, #metadata(none) <person-index-r-shlomo-ganzfried-668> and he was a ⁧גאון עולם⁩. If you look at the ⁧קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-kitzur-shulchan-aruch-663>
-it's similar to ⁦רש״י⁩#metadata(none) <person-index-rashi-671> in that anybody can read it and understand it, and
+world of sense. The author of the ⁧קיצור שולחן ערוך⁩#metadata(none) <person-index-kitzur-shulchan-aruch-665> is Rav Shlomo
+Ganzfried, #metadata(none) <person-index-r-shlomo-ganzfried-661> and he was a ⁧גאון עולם⁩. If you look at the ⁧קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-kitzur-shulchan-aruch-666>
+it's similar to ⁦רש״י⁩#metadata(none) <person-index-rashi-670> in that anybody can read it and understand it, and
 it's written so perfectly and so beautifully that you really think that
-a very simple person wrote it. But it's not. It's written by a ⁧גאון עולם⁩. Rav Shlomo Ganzfried#metadata(none) <person-index-r-shlomo-ganzfried-669> wrote other ⁧ספרים⁩. And once upon a time, I
+a very simple person wrote it. But it's not. It's written by a ⁧גאון עולם⁩. Rav Shlomo Ganzfried#metadata(none) <person-index-r-shlomo-ganzfried-662> wrote other ⁧ספרים⁩. And once upon a time, I
 had the opportunity at a ⁧ספרים⁩ store to see one of his other ⁧ספרים⁩
 called the ⁧אפיריון⁩⁦,⁩ which means a palace. It's a very slim little ⁧ספר⁩.
-Rav Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-667> said about this ⁧ספר⁩ that as easy as the ⁧קיצור שולחן ערוך⁩#metadata(none) <person-index-kitzur-shulchan-aruch-664> is
+Rav Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-669> said about this ⁧ספר⁩ that as easy as the ⁧קיצור שולחן ערוך⁩#metadata(none) <person-index-kitzur-shulchan-aruch-667> is
 to read, the ⁧אפיריון⁩ is extraordinarily difficult to read. It shows his
 ⁧גאונות⁩. He gives you snippets from here and there, and you have to
 figure out what he's saying and where he got it from. Here comes ⁧פרשת חקת⁩ from the ⁧אפיריון⁩.
 
 The pasuk says ⁧זֹאת חֻקַּת הַתּוֹרָה⁩. Why does it say that? It should have said
 ⁧זֹאת חֻקַּת הפרה⁩. What does the ⁧חקת פרה אדומה⁩ have to do with ⁧חקת התורה⁩⁦?⁩ He
-brings down from a goan Rav Tzvi Hersh Heller, #metadata(none) <person-index-rav-tzvi-hersh-heller-670> the ⁧בעל המחבר ספר חידושי טיב גיטין⁩⁦,⁩ who discusses the medrash on the pasuk in Koheles (7:23)
+brings down from a goan Rav Tzvi Hersh Heller, #metadata(none) <person-index-rav-tzvi-hersh-heller-663> the ⁧בעל המחבר ספר חידושי טיב גיטין⁩⁦,⁩ who discusses the medrash on the pasuk in Koheles (7:23)
 ⁧אָמַרְתִּי אֶחְכָּמָה וְהִיא רְחֹוקָה מִמֶּנִּי⁩. The ⁧מדרש⁩ says ⁧זו פרה אדומה⁩. That is, the
 ⁧פרה אדומה⁩ is the thing that Shlomo HaMelech said he tried to understand, and it remained far from him. But we have to understand something. There
 are many ⁧חוקים⁩ in the Torah, not just the ⁧פרה אדומה⁩. Why was this one
@@ -9014,7 +9014,7 @@ come up with a reasonable explanation. That's not the case with other
 that explanation isn't the real reason and that it's still a ⁧חוק⁩.
 
 Now, many ⁧אפיקורסים⁩ want to find a ⁧טעם⁩ for a ⁧מצוה⁩. The best example was
-what my rebbi Rav Moshe Tendler#metadata(none) <person-index-rav-moshe-tendler-665> ⁦זצ״ל⁩ told me, he said the ⁧אפיקורסים⁩ or
+what my rebbi Rav Moshe Tendler#metadata(none) <person-index-rav-moshe-tendler-671> ⁦זצ״ל⁩ told me, he said the ⁧אפיקורסים⁩ or
 the Reform Jews said Moses was a great hygienist, and he said you
 shouldn't eat pig because the pigs of those days all had trichinosis, a
 particular kind of worm that pigs are known to carry. Therefore today, when we raise the pigs hygienically, now we can eat pig. So the ⁧אפיריון⁩
@@ -9158,12 +9158,12 @@ appointed. What does Hashem tell him? ⁧וַיֹּאמֶר ה׳ אֶל מֹשׁ
 What does the pasuk say? ⁧וְסָמַכְתָּ אֶת יָדְךָ עָלָיו⁩. What happens a couple of
 ⁧פסוקים⁩ later? ⁧וַיִּסְמֹךְ אֶת יָדָיו עָלָיו וַיְצַוֵּהוּ כַּאֲשֶׁר דִּבֶּר ה׳ בְּיַד מֹשֶׁה⁩. There's a
 ⁧סתירה בפסוקים⁩. Hashem said to Moshe ⁧וְסָמַכְתָּ אֶת יָדְךָ⁩⁦,⁩ singular, and it says
-⁧וַיִּסְמֹךְ אֶת יָדָיו⁩ - Moshe used his two hands, plural. ⁦רש״י⁩#metadata(none) <person-index-rashi-684> on the spot says, ⁧בְּעַיִן יָפָה⁩ - beautifully, with a generous eye; ⁧יוֹתֵר וְיוֹתֵר מִמַּה שֶּׁנִּצְטַוָּה, שֶׁהַקָּבָּ״ה אָמַר לוֹ ”וְסָמַכְתָּ אֶת יָדְךָ“⁩ - Hashem said, “You should put your
+⁧וַיִּסְמֹךְ אֶת יָדָיו⁩ - Moshe used his two hands, plural. ⁦רש״י⁩#metadata(none) <person-index-rashi-680> on the spot says, ⁧בְּעַיִן יָפָה⁩ - beautifully, with a generous eye; ⁧יוֹתֵר וְיוֹתֵר מִמַּה שֶּׁנִּצְטַוָּה, שֶׁהַקָּבָּ״ה אָמַר לוֹ ”וְסָמַכְתָּ אֶת יָדְךָ“⁩ - Hashem said, “You should put your
 hand”, and he did it with two hands; ⁧וַעֲשָׂאוֹ כִכְלִי מָלֵא וְגָדוּשׁ⁩ - The ⁧ברכה⁩ he
 gave was as if he was filling a vessel to full and overflowing. What
-does ⁦רש״י⁩#metadata(none) <person-index-rashi-685> mean by ⁧מָלֵא וְגָדוּשׁ⁩⁦?⁩
+does ⁦רש״י⁩#metadata(none) <person-index-rashi-681> mean by ⁧מָלֵא וְגָדוּשׁ⁩⁦?⁩
 
-R’ Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-679> brings down that the Dubno Maggid#metadata(none) <person-index-dubno-maggid-677> asked the Vilna
+R’ Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-678> brings down that the Dubno Maggid#metadata(none) <person-index-dubno-maggid-677> asked the Vilna
 Gaon, #metadata(none) <person-index-vilna-gaon-687> how is it that a ⁧צדיק⁩ positively influences the people around him?
 The Gaon#metadata(none) <person-index-vilna-gaon-688> explained: imagine you have a becher surrounded by a whole
 series of smaller bechers, with little conduits from the big becher to
@@ -9177,7 +9177,7 @@ a ⁧משפיע⁩⁦,⁩ a person who has the opportunity and the ⁧זכות�
 those around him, if he works on his ⁧תורה ויראת שמים⁩⁦,⁩ there'll be a
 trickle down effect, it'll influence those who are around him. However, if a person stops at a certain level of ⁧תורה ויראה⁩ and does not continue
 to improve himself and wants to give others, he will not succeed. That's
-what ⁦רש״י⁩#metadata(none) <person-index-rashi-686> says. ⁧משה⁩ filled ⁧יהושע⁩ overflowing. He gave so much of his own
+what ⁦רש״י⁩#metadata(none) <person-index-rashi-682> says. ⁧משה⁩ filled ⁧יהושע⁩ overflowing. He gave so much of his own
 ⁧מדות⁩ of ⁧תורה ויראת שמים⁩ and with the addition of ⁦יהושע'⁩s own
 attainments, he would be worthy of leading ⁧כלל ישראל⁩.
 
@@ -9190,10 +9190,10 @@ So we see that ⁧לימוד התורה⁩ is an ongoing process, and we have to
 continue to work on ourselves, to make ourselves better and to have an
 influence on all those around us.
 
-A separate vort on the ⁧פרשה⁩ from the sefer ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-678> has to do
+A separate vort on the ⁧פרשה⁩ from the sefer ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-679> has to do
 with the census that was taken. The sefer has a large number of ⁧דברי תורה⁩ on the name ⁧יששכר⁩⁦,⁩ which of course makes me interested because
-that's my name. So there's a sefer called ⁧בני יששכר⁩⁦,⁩ #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-680> written by R’ Tzvi
-Elimelech of Dinov.#metadata(none) <person-index-r-tzvi-elimelech-of-dinov-681> Why did he name it ⁧בני יששכר⁩⁦?⁩#metadata(none) <person-index-r-tzvi-elimelech-of-dinov-682> It's brought down in
+that's my name. So there's a sefer called ⁧בני יששכר⁩⁦,⁩ #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-683> written by R’ Tzvi
+Elimelech of Dinov.#metadata(none) <person-index-r-tzvi-elimelech-of-dinov-684> Why did he name it ⁧בני יששכר⁩⁦?⁩#metadata(none) <person-index-r-tzvi-elimelech-of-dinov-685> It's brought down in
 the sefer ⁧בית שלמה⁩#metadata(none) <person-index-bais-shlomo-674> that one time he went to his Rebbe, none other than
 the Chozeh of Lublin, #metadata(none) <person-index-chozeh-milublin-675> and asked him, “Rebbi, can you tell me which ⁧שבט⁩
 I'm from?” He explained that every year when ⁧חנוכה⁩ comes, he feels a
@@ -9207,7 +9207,7 @@ Even before he finished asking, the Chozeh of Lublin#metadata(none) <person-inde
 the ⁧בית דין⁩ at the time of the ⁧חשמונאים⁩. The ⁧בית דין⁩ was made up of ⁧שבט יששכר⁩⁦,⁩ the teachers of ⁧כלל ישראל⁩. They were the ones who gave direction
 and ⁧השפעה⁩ to ⁧כלל ישראל⁩. That's why your ⁧נשמה⁩ has such a yearning for
 this mitzvah.” In the ⁧זכות⁩ of hearing this ⁧דבר תורה⁩⁦,⁩ he was so inspired
-that he named his famous sefer ⁧בני יששכר⁩⁦,⁩ #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-683> which is a sefer on all the
+that he named his famous sefer ⁧בני יששכר⁩⁦,⁩ #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-686> which is a sefer on all the
 ⁧ימים טובים⁩ and the months of the year.
 
 We see a living proof of how this yearning, this self improvement has a
@@ -9229,7 +9229,7 @@ influence on all of ⁧כלל ישראל⁩.
 ברוך הוא'⁩s ⁧בריתי שלום⁩ to ⁧פנחס⁩ at the beginning of the parsha, and the
 ⁧מועדים⁩ at the end. However, one of the topics discussed in the middle of
 the parsha is not as famous as those. The pasuk is ⁦פרק כ״ז פסוק י״ב
-וי״ג⁩, and the following is quoted in the sefer ⁧פנינים משלחן גבוה⁩#metadata(none) <person-index-peninim-mishulchan-gavoa-693> in the
+וי״ג⁩, and the following is quoted in the sefer ⁧פנינים משלחן גבוה⁩#metadata(none) <person-index-peninim-mishulchan-gavoa-694> in the
 name of the ⁧כתב סופר⁩. It presents a fascinating analysis of what we
 might think is a simple pasuk, but like everything in the ⁧תורה⁩⁦,⁩ has
 tremendous depth.
@@ -9260,7 +9260,7 @@ called a ⁧הולך⁩⁦,⁩ and a ⁧מלאך⁩ is called an ⁧עומד⁩.
 that ⁧הקדוש ברוך הוא⁩ assigns to him, and he cannot improve that or fall
 from it. On the other hand, human beings are given a ⁧תפקיד⁩ of a ⁧הולך⁩.
 The difference between us and ⁧מתים⁩ is it says ⁧וְלֹא תָקִים לְךָ מַצֵּבָה ⁦(דברים ט״ז:כ״ב)⁩⁩ - we're not allowed to have a ⁧מצבה⁩⁦,⁩ which is how the ⁧גוים⁩
-worship ⁧עבודה זרה⁩. We build a ⁧מזבח⁩ with ⁧אבנים⁩. R’ Moshe Feinstein#metadata(none) <person-index-r-moshe-feinstein-694> says
+worship ⁧עבודה זרה⁩. We build a ⁧מזבח⁩ with ⁧אבנים⁩. R’ Moshe Feinstein#metadata(none) <person-index-r-moshe-feinstein-693> says
 that ⁧אבנים⁩ represents steps. Man is on a series of steps, constantly
 rising, constantly walking, and constantly improving himself, whereas a
 ⁧מצבה⁩ is fixed, solid. That is precisely why we put a ⁧מצבה⁩ on a person
@@ -9377,14 +9377,14 @@ should strive to duplicate even one little fraction of his work.
 
 The parsha starts off ⁧וַיְדַבֵּר מֹשֶׁה אֶל רָאשֵׁי הַמַּטּוֹת לִבְנֵי יִשְׂרָאֵל לֵאמֹר זֶה הַדָּבָר אֲשֶׁר צִוָּה ה׳⁩. This ⁧פסוק⁩ is different from most of the other ⁧דברות⁩ that ⁧משה רבינו⁩ was given, in two significant ways. Usually it's ⁧וידבר משה⁩ or
 ⁧וידבר ה׳ אל משה לאמר⁩ or ⁧וידבר משה אל בני ישראל⁩. But here, he's talking
-to the ⁧ראשי המטות⁩⁦,⁩ which is very unusual. The second aspect is ⁧זֶה הַדָּבָר⁩⁦,⁩ which is a ⁧חשובה לשון⁩ as ⁦רש״י⁩#metadata(none) <person-index-rashi-699> points out. ⁧משה רבינו⁩ uses the ⁧לשון⁩ of ⁧זֶה הַדָּבָר אֲשֶׁר צִוָּה ה׳⁩⁦,⁩ while the other ⁧נביאים⁩ said ⁧כה אמר ה׳⁩ to tell you that
+to the ⁧ראשי המטות⁩⁦,⁩ which is very unusual. The second aspect is ⁧זֶה הַדָּבָר⁩⁦,⁩ which is a ⁧חשובה לשון⁩ as ⁦רש״י⁩#metadata(none) <person-index-rashi-697> points out. ⁧משה רבינו⁩ uses the ⁧לשון⁩ of ⁧זֶה הַדָּבָר אֲשֶׁר צִוָּה ה׳⁩⁦,⁩ while the other ⁧נביאים⁩ said ⁧כה אמר ה׳⁩ to tell you that
 Moshe's level of ⁧נבואה⁩ was on a significantly higher ⁧מדרגה⁩. But if we
 think about it for a second, that's not the usual syntax of the ⁧פסוקים⁩
 elsewhere in the Torah. What would have made more sense to stay
 consistent with other ⁧פסוקים⁩? It should have said: ⁧וידבר משה אל ראשי המטות לבני ישראל, זה הדבר אשר צוה השם לאמר⁩. That's the usual format. But
 here, the ⁧לֵאמֹר⁩ comes before ⁧זֶה הַדָּבָר⁩. What is that telling us?
 
-The ⁧אזנים לתורה⁩⁦,⁩ #metadata(none) <person-index-r-zalman-sorotzkin-697> whose ⁧יארצייט⁩ was this past week, Rav Zalman Sorotzkin#metadata(none) <person-index-r-zalman-sorotzkin-698>
+The ⁧אזנים לתורה⁩⁦,⁩ #metadata(none) <person-index-r-zalman-sorotzkin-698> whose ⁧יארצייט⁩ was this past week, Rav Zalman Sorotzkin#metadata(none) <person-index-r-zalman-sorotzkin-699>
 ⁧זכותו יגן עלינו⁩⁦,⁩ has a detailed and important lesson to be taught about
 the significance of the human being, and how our ability to speak makes
 us the pinnacle and highlight of ⁧מעשה בראשית⁩. He explains that the order
@@ -9503,8 +9503,8 @@ pray in their own way for peace. I then asked them to commit to one act
 of kindness to help heal a fractured world.
 
 “The next night, Friday night, this fellow, this musician, had a vivid
-and unusual dream. In this dream appeared Rabbi Leibel Groner, #metadata(none) <person-index-rabbi-leibel-groner-701> the
-long-time personal secretary of the last Lubavitcher Rebbe, #metadata(none) <person-index-lubavitcher-rebbe-700> ⁦זצ״ל⁩. In the
+and unusual dream. In this dream appeared Rabbi Leibel Groner, #metadata(none) <person-index-rabbi-leibel-groner-700> the
+long-time personal secretary of the last Lubavitcher Rebbe, #metadata(none) <person-index-lubavitcher-rebbe-701> ⁦זצ״ל⁩. In the
 dream Rabbi Groner spoke directly to this musician and he said, 'The
 Rebbe asked me to come to you to thank you for what you did on the night
 that the war began. Your announcement in that bar stirred the soul of a
@@ -9661,7 +9661,7 @@ elements that we need in order to ensure that we'll have, ⁧אם ירצה הש�
 ⁧תשעה באב⁩⁦,⁩ is classically referred to as a Shabbos of ⁧תוכחה⁩. Hashem has
 ⁧משה רבינו⁩ delivering his final speech which lasted for many days, and
 starts off with the ⁧תוכחה⁩ which lists all the places at the beginning of
-⁧דברים⁩⁦,⁩ as ⁦רש״י⁩#metadata(none) <person-index-rashi-720> points out. The fundamental lesson in ⁧פרשת דברים⁩ is if
+⁧דברים⁩⁦,⁩ as ⁦רש״י⁩#metadata(none) <person-index-rashi-719> points out. The fundamental lesson in ⁧פרשת דברים⁩ is if
 you pay attention to ⁦הקדוש ברוך הוא'⁩s ⁧מצוות⁩⁦,⁩ you will receive the
 appropriate ⁧שכר⁩⁦,⁩ and ⁧חס ושלום⁩ the opposite, if we don't listen, we will
 have to face the consequences. A deeper understanding of this concept is
@@ -9687,7 +9687,7 @@ person he can be.
 
 A beautiful story to emphasize this point is brought down in the sefer
 of ⁧חיים שיש בהם⁩#metadata(none) <person-index-chaim-shyesh-bahem-716> in the name of R’ Leib Chasman, #metadata(none) <person-index-r-leib-chasman-717> the ⁧משגיח⁩ in ⁧חברון ישיבה⁩⁦,⁩ author of the famous ⁧ספר אור יהל⁩⁦,⁩ #metadata(none) <person-index-r-leib-chasman-718> and the rebbi of R’ Sholom
-Schwadron.#metadata(none) <person-index-r-sholom-schwadron-719> R’ Leib relates that one Friday night he had the ⁧זכות⁩ to have
+Schwadron.#metadata(none) <person-index-r-sholom-schwadron-720> R’ Leib relates that one Friday night he had the ⁧זכות⁩ to have
 the Shabbos meal with the Chafetz Chaim.#metadata(none) <person-index-chafetz-chaim-708> The Chafetz Chaim#metadata(none) <person-index-chafetz-chaim-709> was
 extraordinarily sensitive to all those around him, he knew what was
 going on around him. They came home from shul after davening, and the
@@ -9739,7 +9739,7 @@ Yisro and Vaeschanan is what we say every Friday night in Lecha Dodi:
 time. Nobody else can. People can talk out of both sides of their mouth, ⁧להבדיל⁩⁦,⁩ but only ⁧הקדוש ברוך הוא⁩ can say two things at the same time.
 
 That brings us to an interesting story, one of my favorites, brought
-down in Rabbi Peretz Steinberg's#metadata(none) <person-index-rabbi-peretz-steinberg-723> beautiful sefer on ⁧חומש⁩ called ⁧ספר פרי עץ חיים⁩#metadata(none) <person-index-pri-eitz-chaim-721> in the name of R’ Yaakov Kamenetsky#metadata(none) <person-index-r-yaakov-kamenetsky-724> on the pasuk (5:12) ⁧שָׁמֹור אֶת יֹום הַשַּׁבָּת לְקַדְּשֹׁו⁩. R’ Yaakov once went into a ⁧חדר⁩ in ⁧ירושלים⁩ where there
+down in Rabbi Peretz Steinberg's#metadata(none) <person-index-rabbi-peretz-steinberg-724> beautiful sefer on ⁧חומש⁩ called ⁧ספר פרי עץ חיים⁩#metadata(none) <person-index-pri-eitz-chaim-723> in the name of R’ Yaakov Kamenetsky#metadata(none) <person-index-r-yaakov-kamenetsky-721> on the pasuk (5:12) ⁧שָׁמֹור אֶת יֹום הַשַּׁבָּת לְקַדְּשֹׁו⁩. R’ Yaakov once went into a ⁧חדר⁩ in ⁧ירושלים⁩ where there
 were little kids, and he asked them, “In Lecha Dodi it says ⁧שָׁמוֹר וְזָכוֹר בְּדִבּוּר אֶחָד⁩. But what was actually written on the ⁧לוחות⁩⁦,⁩ did it say ⁧שָׁמוֹר⁩
 or ⁧זָכוֹר⁩?” All the little ⁧קינדערלאך⁩ raised their hands. He went through
 the whole room, and they all said, “It said ⁧זָכוֹר⁩ on the ⁧לוחות⁩” which is
@@ -9890,27 +9890,27 @@ I'm ⁧מקבל⁩ upon myself to do the work for the time I am hired.” ⁧ה�
 job? You are a day worker. Do what you can, and I will give you ⁧שכר⁩ for
 all that you do.”
 
-There's a ⁧מעשה שהיה⁩ that when the ⁧בעל ייטב לב⁩⁦,⁩ #metadata(none) <person-index-r-yekusiel-yehuda-teitelbaum-731> R’ Yekusiel Yehuda
-Teitelbaum#metadata(none) <person-index-r-yekusiel-yehuda-teitelbaum-732> (the father of R’ Yoelish, #metadata(none) <person-index-r-yoel-teitelbaum-750> the Satmar Rebbe#metadata(none) <person-index-r-yoel-teitelbaum-751> of my youth) was
+There's a ⁧מעשה שהיה⁩ that when the ⁧בעל ייטב לב⁩⁦,⁩ #metadata(none) <person-index-r-yekusiel-yehuda-teitelbaum-748> R’ Yekusiel Yehuda
+Teitelbaum#metadata(none) <person-index-r-yekusiel-yehuda-teitelbaum-749> (the father of R’ Yoelish, #metadata(none) <person-index-r-yoel-teitelbaum-750> the Satmar Rebbe#metadata(none) <person-index-r-yoel-teitelbaum-751> of my youth) was
 an old man, he became quite ill and his family was desperate to help
 him. They wanted to get one of these famous doctors, one of the ⁧מומחים⁩
 of the ⁧דור⁩ to come in to help him. In those days they called such an
 expert a professor. He told them, “I don't want you to bring me a
 professor.” They asked “Why not?” He answered, “I'll tell you a story.
-R’ Yoel Sirkis#metadata(none) <person-index-r-yoel-sirkis-733> was the ⁧מחבר⁩ of a ⁧ספר⁩ called ⁧בית חדש⁩.#metadata(none) <person-index-r-yoel-sirkis-734> Many of you may not
-have heard of the words ⁧בית חדש⁩⁦,⁩ #metadata(none) <person-index-r-yoel-sirkis-735> but if you look at the initials, ⁧בית חדש⁩#metadata(none) <person-index-r-yoel-sirkis-736> is the ⁦ב״ח⁩.#metadata(none) <person-index-r-yoel-sirkis-737> The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-738> is one of the premier ⁧מפרשים⁩ on ⁧שולחן ערוך⁩. One
+R’ Yoel Sirkis#metadata(none) <person-index-r-yoel-sirkis-731> was the ⁧מחבר⁩ of a ⁧ספר⁩ called ⁧בית חדש⁩.#metadata(none) <person-index-r-yoel-sirkis-732> Many of you may not
+have heard of the words ⁧בית חדש⁩⁦,⁩ #metadata(none) <person-index-r-yoel-sirkis-733> but if you look at the initials, ⁧בית חדש⁩#metadata(none) <person-index-r-yoel-sirkis-734> is the ⁦ב״ח⁩.#metadata(none) <person-index-r-yoel-sirkis-735> The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-736> is one of the premier ⁧מפרשים⁩ on ⁧שולחן ערוך⁩. One
 time he came to visit his son-in-law, the ⁧טורי זהב⁩. A bit more familiar
-name, he is the ⁦ט״ז⁩. The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-739> and the ⁦ט״ז⁩ have monumental ⁧מחלוקתים⁩⁦,⁩ father-in-law and son-in-law, but it doesn't matter, it was all ⁧לשם שמים⁩. That is what counts. So he came to visit his son-in-law the ⁦ט״ז⁩, and everyone from the city came out to greet him except one young man
+name, he is the ⁦ט״ז⁩. The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-737> and the ⁦ט״ז⁩ have monumental ⁧מחלוקתים⁩⁦,⁩ father-in-law and son-in-law, but it doesn't matter, it was all ⁧לשם שמים⁩. That is what counts. So he came to visit his son-in-law the ⁦ט״ז⁩, and everyone from the city came out to greet him except one young man
 who was not interested. He didn't come to see him. The ⁦ט״ז⁩ asked him, “Why are you not coming to give a ⁧שלום עליכם⁩ to my father-in-law the
-⁦ב״ח⁩”?#metadata(none) <person-index-r-yoel-sirkis-740> The young man answered, “⁧אליהו הנביא⁩ came to me and told me that
-the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-741> is in ⁧חרם⁩ in the ⁧בית דין של מעלה⁩\.” The ⁦ט״ז⁩ asked “Why?” The
-young man replied, “One time the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-742> was traveling, and he came across a
+⁦ב״ח⁩”?#metadata(none) <person-index-r-yoel-sirkis-738> The young man answered, “⁧אליהו הנביא⁩ came to me and told me that
+the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-739> is in ⁧חרם⁩ in the ⁧בית דין של מעלה⁩\.” The ⁦ט״ז⁩ asked “Why?” The
+young man replied, “One time the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-740> was traveling, and he came across a
 town in which there was a ⁧דין תורה⁩ between two people. A person had
 purchased a wagon load of lumber. The buyer said he had promised to pay
 three ⁧זהובים⁩⁦,⁩ three gold coins. However, the seller claimed that he had
 promised to give ten gold coins. They had this large ⁧מחלוקת⁩⁦,⁩ no one
-could resolve it. Since the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-743> was there, they asked him to step in and
-give a psak. The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-744> heard the ⁧מחלוקת⁩ and responded “It's an issue of 10
+could resolve it. Since the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-741> was there, they asked him to step in and
+give a psak. The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-742> heard the ⁧מחלוקת⁩ and responded “It's an issue of 10
 versus 3? Is that why you're stopping me on the road, to go and take
 time to do this? Not worth it.”
 
@@ -9918,20 +9918,20 @@ At that moment, a ⁧קטרוג⁩ came out in ⁧שמים⁩ and they said he i
 ⁧חרם⁩. Why? A famous ⁧הלכה⁩ that we know: ⁧דין פרוטה כדין מאה⁩. There's no
 such thing by frum Yidden as a small claims court. The issue is the
 principle, not the amount. He was therefore punished for that. So the
-⁦ט״ז⁩ asked the ⁦ב״ח⁩, #metadata(none) <person-index-r-yoel-sirkis-745> is that true? He said, “Yes, it actually did happen”
+⁦ט״ז⁩ asked the ⁦ב״ח⁩, #metadata(none) <person-index-r-yoel-sirkis-743> is that true? He said, “Yes, it actually did happen”
 and they realized that this ⁧אברך⁩⁦,⁩ this young man, was a ⁧שליח⁩ from ⁧שמים⁩
 to rectify the situation. They were ⁧קובע⁩ a ⁧בית דין⁩ and took away the
 ⁧נידוי⁩⁦,⁩ they took away the ⁧חרם⁩.
 
-The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-746> realized that this young man is no ordinary young man. He came
+The ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-744> realized that this young man is no ordinary young man. He came
 over to him and said “I see that you are ⁧חשוב מאוד⁩. I'd like you to do
-me a favor. I have here a manuscript of my ⁧ספר⁩ called ⁧בית חדש⁩.#metadata(none) <person-index-r-yoel-sirkis-747> Do me a
+me a favor. I have here a manuscript of my ⁧ספר⁩ called ⁧בית חדש⁩.#metadata(none) <person-index-r-yoel-sirkis-745> Do me a
 favor and look it over, tell me what you think of it.” He agreed and
-took the ⁧כתב יד⁩. A number of days later the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-748> returned and asked, “Have you looked at my ⁧ספר⁩?” The ⁧אברך⁩ said, “Yes, but I cannot return it
+took the ⁧כתב יד⁩. A number of days later the ⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-746> returned and asked, “Have you looked at my ⁧ספר⁩?” The ⁧אברך⁩ said, “Yes, but I cannot return it
 to you. Your ⁧ספר⁩ is ⁧געוואלדיג⁩⁦,⁩ it is fabulous, but I know that if I give
 you back the ⁧ספר⁩⁦,⁩ you will die shortly thereafter. I don't want to be
 ⁧גורם⁩ that, so I want to hold back and delay giving you the ⁧ספר⁩\.” The
-⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-749> replied, “If that's the reason why you won't give it back, I'm
+⁦ב״ח⁩#metadata(none) <person-index-r-yoel-sirkis-747> replied, “If that's the reason why you won't give it back, I'm
 willing to give up my life and my ⁧נשמה⁩ to ⁧הקדוש ברוך הוא⁩ in order not to
 delay my ⁧ספר⁩⁦,⁩ because it is important for me to distribute it around the
 world.” The ⁧אברך⁩ heard that and returned the ⁧ספר⁩⁦,⁩ and that's exactly
@@ -10101,10 +10101,10 @@ immediately wrote to the journal, offering to collect these covers and
 put them into ⁧שמות⁩. A few people took me up on the offer, and I was able
 to save the ⁧שם השם⁩ from being discarded.\]
 
-There is a sefer called ⁧אהבת תורה⁩⁦,⁩ #metadata(none) <person-index-ahavas-torah-756> which quotes the words of the ⁧מגלה עמוקות⁩ as brought in the sefer ⁧אוצר פלאות התורה⁩.#metadata(none) <person-index-otzer-plo-os-hatorah-760> He writes that the
+There is a sefer called ⁧אהבת תורה⁩⁦,⁩ #metadata(none) <person-index-ahavas-torah-756> which quotes the words of the ⁧מגלה עמוקות⁩ as brought in the sefer ⁧אוצר פלאות התורה⁩.#metadata(none) <person-index-otzer-plo-os-hatorah-761> He writes that the
 words of the ⁧מגלה עמוקות⁩ made such an impression on him that he wanted
 to understand more, and to do a ⁧חשבון⁩ himself. The author of ⁧אהבת תורה⁩#metadata(none) <person-index-ahavas-torah-757>
-was ⁧הגאון רב פנחס זאמען סגל⁩⁦,⁩ #metadata(none) <person-index-r-pinchas-zalman-segol-761> who lived in Poland and was born in Krakow
+was ⁧הגאון רב פנחס זאמען סגל⁩⁦,⁩ #metadata(none) <person-index-r-pinchas-zalman-segol-762> who lived in Poland and was born in Krakow
 in the year ⁦ת״ר⁩. He gives a short biography of ⁧רב פנחס זאמען סגל⁩⁦,⁩ as
 ⁧אהבת תורה⁩#metadata(none) <person-index-ahavas-torah-758> is not a well-known sefer. He writes that he wanted to know
 how many times the Name ⁦הוי״ה⁩ / ⁧י ק ו ק⁩ appears in the Torah. So, what
@@ -10118,7 +10118,7 @@ interesting aside - nothing you have to know, but certainly worth being
 aware of. I am 77 years old, and I had never heard this before. All of
 you who are younger now have the ⁧זכות⁩ to know it earlier in life.
 
-Another sefer of repute is the ⁧ספר אפריון⁩ from R’ Shlomo Ganzfried.#metadata(none) <person-index-r-shlomo-ganzfried-762> In
+Another sefer of repute is the ⁧ספר אפריון⁩ from R’ Shlomo Ganzfried.#metadata(none) <person-index-r-shlomo-ganzfried-759> In
 our ⁧פרשה⁩⁦,⁩ there's a pasuk discussing many aspects of ⁦הקדוש ברוך הוא'⁩s
 dealings with us. In ⁧פרשת עקב, פרק ז, פסוק ט״ו: וְהֵסִיר ה׳ מִמְּךָ כׇּל חֹלִי וְכׇל מַדְוֵי מִצְרַיִם הָרָעִים אֲשֶׁר יָדַעְתָּ לֹא יְשִׂימָם בָּךְ וּנְתָנָם בְּכׇל שֹׂנְאֶיךָ⁩ - Hashem says: I
 will take away all of the illnesses of the world from you, and I will
@@ -10129,7 +10129,7 @@ distinction. He says that ⁧שימה⁩ refers to something temporary, not mean
 to stay forever. He brings a proof from ⁧פרשת ראה⁩⁦,⁩ where the Torah
 commands the destruction of all avodah zara upon entering Eretz Yisrael:
 ⁧וְנִתַּצְתֶּם אֶת מִזְבְּחֹתָם⁩... ⁧וְאִבַּדְתֶּם אֶת שְׁמָם מִן הַמָּקוֹם הַהוּא⁩. The next pasuk there
-says: ⁧כִּי אִם אֶל הַמָּקוֹם אֲשֶׁר יִבְחַר ה׳⁩... ⁧לָשׂוּם אֶת שְׁמוֹ שָׁם⁩. The ⁧כלי יקר⁩#metadata(none) <person-index-kli-yakar-759> explains
+says: ⁧כִּי אִם אֶל הַמָּקוֹם אֲשֶׁר יִבְחַר ה׳⁩... ⁧לָשׂוּם אֶת שְׁמוֹ שָׁם⁩. The ⁧כלי יקר⁩#metadata(none) <person-index-kli-yakar-760> explains
 that this is referring to ⁧משכן שילה⁩⁦,⁩ not the ⁧בית המקדש⁩⁦,⁩ which we hope
 will be permanent. Even ⁧משכן שילה⁩ was not permanent because of our
 ⁧עבירות⁩. This is another proof that ⁧שימה⁩ is temporary. Other uses of ⁧שימה⁩
@@ -10265,7 +10265,7 @@ says (15:7-8), ⁧לֹא תְאַמֵּץ אֶת לְבָבְךָ⁩ - we're tal
 hand; ⁧מֵאָחִיךָ הָאֶבְיֹון⁩ - from your poor brother; ⁧כִּי פָתֹחַ תִּפְתַּח אֶת יָדְךָ לוֹ וְהַעֲבֵט תַּעֲבִיטֶנּוּ דֵּי מַחְסֹרוֹ אֲשֶׁר יֶחְסַר לוֹ⁩ - Open up your hand generously and extend
 to him any credit he requires to take care of his needs.
 
-Rav Kormornick, #metadata(none) <person-index-r-kormornick-770> in the sefer A Short Vort, #metadata(none) <person-index-a-short-vort-769> brings down a beautiful
+Rav Kormornick, #metadata(none) <person-index-r-kormornick-771> in the sefer A Short Vort, #metadata(none) <person-index-a-short-vort-769> brings down a beautiful
 example of how to explain this pasuk. He asks the following question: ⁧לֹא תְאַמֵּץ אֶת לְבָבְךָ⁩ - do not harden your heart; ⁧וְלֹא תִקְפֹּץ אֶת יָדְךָ⁩ - and don't
 close your hand. If a person hardens his heart, he's not going to open
 up his hand, so the words “you should not close your hand” seem to be
@@ -10278,8 +10278,8 @@ ability, to help him in a way that reflects what he personally requires.
 Therefore, you have to have both of these phrases to teach us we have to
 give what that person needs.
 
-Rav Kormornick#metadata(none) <person-index-r-kormornick-771> brings a tremendously heartbreaking and critically
-impressive example. This was fulfilled by Rebbetzin Rivky Holtzberg, #metadata(none) <person-index-rebbetzin-rivky-holtzberg-772> the
+Rav Kormornick#metadata(none) <person-index-r-kormornick-772> brings a tremendously heartbreaking and critically
+impressive example. This was fulfilled by Rebbetzin Rivky Holtzberg, #metadata(none) <person-index-rebbetzin-rivky-holtzberg-770> the
 name may ring a bell. She ran the Chabad house in Mumbai, India before
 she was murdered in a terrorist attack years ago. During her shiva, a
 young Israeli woman approached her mother and handed her a small package
@@ -10317,9 +10317,9 @@ improve our own ⁧צדקה⁩ to the best of our abilities.
 In ⁧פרשת שופטים⁩ the pasuk says (17:11): ⁧עַל פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל הַמִּשְׁפָּט אֲשֶׁר יֹאמְרוּ לְךָ תַּעֲשֶׂה לֹא תָסוּר מִן הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ יָמִין וּשְׂמֹאל⁩. This is
 fairly straightforward, you should listen to the chachomim and you
 should not deviate from whatever they tell you, right or left. R’
-Yitzchak Berkovits#metadata(none) <person-index-r-berkovits-775> quotes Rashi#metadata(none) <person-index-rashi-780> on the pasuk who says that you have to
+Yitzchak Berkovits#metadata(none) <person-index-r-yitzchok-berkovits-775> quotes Rashi#metadata(none) <person-index-rashi-780> on the pasuk who says that you have to
 listen to the ⁧חכמים⁩ even if they tell you that right is left and left is
-right. R’ Berkovits#metadata(none) <person-index-r-berkovits-776> asks a question. If someone came to you and said to
+right. R’ Berkovits#metadata(none) <person-index-r-yitzchok-berkovits-776> asks a question. If someone came to you and said to
 you, right is left and left is right, would you not respectfully say to
 him, “I'm sorry, I think you're making a mistake”? As Jews, we are
 trained to be independent thinkers. We are renowned for our critical
@@ -10327,12 +10327,12 @@ eye. If so, how can we possibly understand what Rashi#metadata(none) <person-ind
 blindly follow the rabbis when we know that right is right and left is
 left?
 
-R’ Berkovits#metadata(none) <person-index-r-berkovits-777> says that the answer is ⁧פשוט⁩. Rashi#metadata(none) <person-index-rashi-782> does not come and tell
+R’ Berkovits#metadata(none) <person-index-r-yitzchok-berkovits-777> says that the answer is ⁧פשוט⁩. Rashi#metadata(none) <person-index-rashi-782> does not come and tell
 you if the rabbis tell you east is west or west is east that you have to
 listen to them. He says right or left because right and left are
 subjective. Our perception of them depends on the way that we are
 facing. For instance, when facing someone else, your left is their right
-and your right is their left. Therefore, concludes R’ Berkovits, #metadata(none) <person-index-r-berkovits-778> Rashi#metadata(none) <person-index-rashi-783>
+and your right is their left. Therefore, concludes R’ Berkovits, #metadata(none) <person-index-r-yitzchok-berkovits-778> Rashi#metadata(none) <person-index-rashi-783>
 is telling us that if the rabbis are telling you that right is left, make sure you turn around, because it's your perspective that's wrong.
 
 In a similar vein, in an unrelated pasuk, right at the beginning of the
@@ -10438,8 +10438,8 @@ Rashi#metadata(none) <person-index-rashi-790> has something quite interesting to
 all the ⁧מפרשים⁩ and is rather enigmatic. Rashi#metadata(none) <person-index-rashi-791> asks why the Torah uses
 the ⁧לשון⁩ of ⁧יָמִין וּשְׂמֹאל⁩⁦?⁩ I'll quote Rashi: #metadata(none) <person-index-rashi-792>⁧אֲפִלּוּ אוֹמֵר לְךָ עַל יָמִין שֶׁהוּא שְׂמֹאל וְעַל שְׂמֹאל שֶׁהוּא יָמִין⁩ - you have to listen to the ⁧שופט⁩ or to the leader;
 ⁧וְכָל שֶׁכֵּן שֶׁאוֹמֵר לְךָ עַל יָמִין יָמִין וְעַל שְׂמֹאל שְׂמֹאל⁩. That is difficult to
-understand. What does that mean? The ⁧קול התורה⁩#metadata(none) <person-index-kol-hatorah-786> Torah Journal from ⁦תשפ״ב⁩
-quotes R’ Pesach Eliyahu Falk#metadata(none) <person-index-r-pesach-eliyahu-falk-788> from Gateshead, from his sefer ⁧מחזה אליהו⁩.
+understand. What does that mean? The ⁧קול התורה⁩#metadata(none) <person-index-kol-hatorah-788> Torah Journal from ⁦תשפ״ב⁩
+quotes R’ Pesach Eliyahu Falk#metadata(none) <person-index-r-pesach-eliyahu-falk-786> from Gateshead, from his sefer ⁧מחזה אליהו⁩.
 He explain that if somebody tells you, go down that block over there and
 the bakery's on the right side, so your obvious question is, which
 direction are you coming from? Are you coming from this end of the
@@ -10450,12 +10450,12 @@ us to do. We have to adjust our viewpoint in order to see the proper
 direction. What is the proper viewpoint? It is the one they teach us
 from the Torah, to see things from the correct angle.
 
-R’ Falk#metadata(none) <person-index-r-pesach-eliyahu-falk-789> brings down two examples of how to approach things from a Torah
+R’ Falk#metadata(none) <person-index-r-pesach-eliyahu-falk-787> brings down two examples of how to approach things from a Torah
 viewpoint, to see things ⁧על פי התורה⁩. Some years ago, they found certain
 types of animal bones in the ice cap in the far north, in a place where
 it is completely ice all year round. The scientists were perplexed. How
 is it possible that there were animal bones in an area where animals
-could not live? They came up with many theories. But the ⁦מלבי״ם⁩#metadata(none) <person-index-malbim-787> in ⁧פרשת נח⁩ already explains this. After the mabul, ⁧הקדוש ברוך הוא⁩ changed the
+could not live? They came up with many theories. But the ⁦מלבי״ם⁩#metadata(none) <person-index-malbim-789> in ⁧פרשת נח⁩ already explains this. After the mabul, ⁧הקדוש ברוך הוא⁩ changed the
 ⁧מצב⁩ of the world. Places that had been near the equator were moved
 north, and those that were far north were shifted southward, closer to
 the center of habitation. This was part of ⁦הקדוש ברוך הוא'⁩s plan to
@@ -10859,10 +10859,10 @@ battle until ⁧משיח⁩ will come ⁧במהרה בימינו אמן⁩.
 ⁧פרשת כי תבוא⁩⁦,⁩ amongst the many things that it entails, has the second
 ⁧תוכחה⁩. Rav Yosef Dov Soloveitchik ⁦זצ״ל⁩, from whom I had the ⁧זכות⁩ to hear
 this ⁧שיעור⁩⁦,⁩ discussed ⁧פרשת כי תבוא⁩ by mentioning and discussing at great
-length a ⁧הלכה⁩ in the Rambam.#metadata(none) <person-index-rambam-810> Rav Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-808> was famous for giving Rambam#metadata(none) <person-index-rambam-811>
+length a ⁧הלכה⁩ in the Rambam.#metadata(none) <person-index-rambam-808> Rav Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-812> was famous for giving Rambam#metadata(none) <person-index-rambam-809>
 ⁧שיעורים⁩ on ⁧גמרא⁩ and on ⁧חומש⁩ and everything else.
 
-The ⁧הלכה⁩ in the Rambam#metadata(none) <person-index-rambam-812> is, and it's brought down ⁧להלכה⁩ you can look it
+The ⁧הלכה⁩ in the Rambam#metadata(none) <person-index-rambam-810> is, and it's brought down ⁧להלכה⁩ you can look it
 up, is one allowed to make a ⁧הוֹסָפָה⁩ in the ⁧תוכחה⁩? He paskins ⁧להלכה⁩ that
 you can make a ⁧הוֹסָפָה⁩ in the ⁧תוכחה⁩ in ⁧כי תבוא⁩ but you cannot make a ⁧הוֹסָפָה⁩
 in the ⁧תוכחה⁩ of ⁧בחוקותי⁩. The question of course is, why? It would seem
@@ -10872,14 +10872,14 @@ for the ⁧תוכחה⁩⁦,⁩ usually the ⁧בעל קורא⁩ gets it. But a
 practical difficulty, what is the difference ⁧להלכה⁩ between the ⁧תוכחה⁩ in
 ⁧בחוקותי⁩ and the ⁧תוכחה⁩ in ⁧כי תבוא⁩⁦?⁩
 
-We know that ⁧ספר דברים⁩ is called ⁧משנה תורה⁩⁦,⁩ these are the words of ⁧משה רבינו⁩. This was a tremendous ⁧יסוד⁩ that Rav Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-809> brought out at this
+We know that ⁧ספר דברים⁩ is called ⁧משנה תורה⁩⁦,⁩ these are the words of ⁧משה רבינו⁩. This was a tremendous ⁧יסוד⁩ that Rav Yoshe Ber#metadata(none) <person-index-r-yoshe-ber-813> brought out at this
 ⁧שיעור⁩. He said when ⁧משה רבינו⁩ was teaching over and saying the entire
 ⁧ספר דברים⁩ from beginning to the end, ⁧משה רבינו⁩ himself became a ⁧שטיק תורה⁩⁦,⁩ he became part of the Torah. This ⁧משנה תורה⁩ is ⁧משה רבינו⁩ becoming
 part of the Torah. However, the first four ⁧ספרים⁩ of the Torah were
 related to us by Hashem, Moshe wrote it down, but they are the words of
 Hashem. ⁧ספר דברים⁩ are the words of ⁧משה⁩.
 
-He brings down an interesting chap on the Rambam.#metadata(none) <person-index-rambam-813> When Hashem is
+He brings down an interesting chap on the Rambam.#metadata(none) <person-index-rambam-811> When Hashem is
 talking, you don't say “Excuse me I want to make a ⁧הוֹסָפָה⁩⁦,⁩ excuse me I
 have to go do something.” You don't interrupt Hashem. ⁧משה רבינו⁩ was ⁧משה רבינו⁩ a human being, so we can make an interruption. That is one very
 small ⁧קנייטש⁩ as to the difference between the ⁧תוכחה⁩ in ⁧בחוקותי⁩ and the
@@ -10952,8 +10952,8 @@ will be successful in whatever we do if we learn and follow the Torah.
 It's an outstanding and awesome (and here I use the word awesome on
 purpose) ⁧הבטחה⁩⁦,⁩ that if we keep the Torah, we will be successful.
 
-I want to bring down another pasuk, which is brought down by R’ Sheps’#metadata(none) <person-index-r-sheps-815>
-sefer ⁧מורשת שמחת התורה⁩.#metadata(none) <person-index-moreshes-simchas-hatorah-814> R’ Sheps#metadata(none) <person-index-r-sheps-816> was the ⁧ראש ישיבה⁩ in ⁧תורה ודעת⁩. A very
+I want to bring down another pasuk, which is brought down by R’ Sheps’#metadata(none) <person-index-r-simcha-sheps-820>
+sefer ⁧מורשת שמחת התורה⁩.#metadata(none) <person-index-moreshes-simchas-hatorah-814> R’ Sheps#metadata(none) <person-index-r-simcha-sheps-821> was the ⁧ראש ישיבה⁩ in ⁧תורה ודעת⁩. A very
 quiet and humble man, a very ⁧טייערער מענטש⁩ who was beloved by all. In
 his sefer he brings the pasuk (27:8) ⁧וְכָתַבְתָּ עַל הָאֲבָנִים אֶת כׇּל דִּבְרֵי הַתּוֹרָה הַזֹּאת בַּאֵר הֵיטֵב⁩. This is referring a rather unusual and remarkable ⁧מצוה⁩
 which doesn't get enough prominence, but it's a ⁧מצוה⁩ like any other one.
@@ -10962,9 +10962,9 @@ a ⁧כיבוש⁩⁦,⁩ you have to go and get the ⁧ברכות⁩ and ⁧ק�
 stones, put them up, plaster them, and afterwards write the whole Torah
 on them. A remarkable ⁧מצוה⁩. What could this ⁧מצוה⁩ possibly mean to us?
 They were supposed to write the whole Torah, and in fact, the last two
-words are ⁧בַּאֵר הֵיטֵב⁩. Rashi#metadata(none) <person-index-rashi-822> and the Ramban#metadata(none) <person-index-ramban-819> say on the spot, ⁧בְּשִׁבְעִים לָשׁוֹן⁩ - not only did we write the whole Torah, but we wrote the entire Torah
+words are ⁧בַּאֵר הֵיטֵב⁩. Rashi#metadata(none) <person-index-rashi-818> and the Ramban#metadata(none) <person-index-ramban-815> say on the spot, ⁧בְּשִׁבְעִים לָשׁוֹן⁩ - not only did we write the whole Torah, but we wrote the entire Torah
 translated into seventy different languages. There are only two
-possibilities. They either wrote in micro-script, which the Ramban#metadata(none) <person-index-ramban-820>
+possibilities. They either wrote in micro-script, which the Ramban#metadata(none) <person-index-ramban-816>
 mentions, they wrote very tiny, or much more likely, it was all ⁧בדרך נס⁩⁦,⁩ Hashem created a ⁧נס⁩⁦,⁩ in exactly the same way that Hashem can have all of
 ⁧כלל ישראל⁩ meet in front of the ⁧משכן⁩⁦,⁩ which is in ⁧פרשת שמיני⁩⁦,⁩ all the
 millions of people stood right in front of the little ⁧משכן⁩ and they all
@@ -10972,7 +10972,7 @@ fit in there. In exactly the same way, ⁧הקדוש ברוך הוא⁩ can fit 
 ⁧תורה⁩ and seventy translations onto a number of stones on the west side
 of the ⁧ירדן⁩.
 
-What is the purpose of telling us all of this? Rav Sheps#metadata(none) <person-index-r-sheps-817> brings down the
+What is the purpose of telling us all of this? Rav Sheps#metadata(none) <person-index-r-simcha-sheps-822> brings down the
 ⁧גמרא⁩ in ⁧עבודה זרה⁩⁦,⁩ a tragic Gemara when they executed the ⁧תנא⁩⁦,⁩ ⁧רבי חנינא בן תרדיון⁩⁦,⁩ one of the ⁧עשרה הרוגי מלכות⁩⁦,⁩ his students asked him, ⁧רַבִּי, מָה אַתָּה רוֹאֶה⁩⁦?⁩ - What do you see? He answered, ⁧גְּוִילִין נִשְׂרָפִין⁩ - the parchment
 is being burned. However, ⁧וְאוֹתִיּוֹת פּוֹרְחוֹת⁩ \[⁧באויר⁩\] - The letters are
 flying in the air.
@@ -10984,8 +10984,8 @@ be destroyed and we're losing it, this ⁧נס⁩ of the ⁦תורה'⁩s ⁧נ�
 embodied in these stones on the west side of the ⁧ירדן⁩.
 
 Yes, they wrote the Torah on these stones, but it was ⁧בדרך נס⁩. In
-exactly the same way as it was a ⁧נס⁩ to write those stones as Rashi#metadata(none) <person-index-rashi-823> says, ⁧בשבעים לשון⁩⁦,⁩ so too the Torah's ⁧קיום⁩ is a ⁧נס⁩ and will last forever. That
-is the Ramban#metadata(none) <person-index-ramban-821> and Rav Sheps’#metadata(none) <person-index-r-sheps-818> message to us. There is no ⁧שריפה⁩ of the
+exactly the same way as it was a ⁧נס⁩ to write those stones as Rashi#metadata(none) <person-index-rashi-819> says, ⁧בשבעים לשון⁩⁦,⁩ so too the Torah's ⁧קיום⁩ is a ⁧נס⁩ and will last forever. That
+is the Ramban#metadata(none) <person-index-ramban-817> and Rav Sheps’#metadata(none) <person-index-r-simcha-sheps-823> message to us. There is no ⁧שריפה⁩ of the
 Torah.
 
 No matter how many times the ⁧גוים ימח שמם⁩ burn our ⁧ספרי תורה⁩⁦,⁩ our Torah
@@ -11419,7 +11419,7 @@ Encyclopedia Britannica (Today, Google).
 = Ha'azinu 5785
 
 Parshas Ha'azinu. ⁧הַאֲזִינוּ הַשָּׁמַיִם וַאֲדַבֵּרָה וְתִשְׁמַע הָאָרֶץ אִמְרֵי פִי⁩. The ⁧ספר אפיריון⁩⁦,⁩ a famous sefer which I quote frequently from R’ Shlomo
-Ganzfried, #metadata(none) <person-index-r-shlomo-ganzfried-855> the author of the much more famous ⁧קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-kitzur-shulchan-aruch-854> writes
+Ganzfried, #metadata(none) <person-index-r-shlomo-ganzfried-854> the author of the much more famous ⁧קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-kitzur-shulchan-aruch-857> writes
 that the ⁧מפרשים⁩ on this pasuk say that word ⁧הַשָּׁמַיִם⁩ does not refer to the
 heavens, but to the ⁧אנשים מכובדים אנשים חשובים⁩⁦,⁩ people who are ⁧בעלי תורה⁩
 who are ⁧עוסק בעסקי ציבור⁩⁦,⁩ and ⁧הָאָרֶץ⁩ is talking about the ⁧פשוט⁩ people, the
@@ -11429,7 +11429,7 @@ harshness, and by ⁧הָאָרֶץ⁩ it says ⁧אִמְרֵי פִי⁩⁦,�
 talking to the ⁧המון עם⁩⁦,⁩ you have to go easy on them and give ⁧מוסר⁩ in a
 milder manner so it'll be more acceptable to them.
 
-R’ Shlomo Ganzfried#metadata(none) <person-index-r-shlomo-ganzfried-856> says that he was in a town, he gives the name of it, it looks like a Polish name, Resvizit, he was talking about ⁧שבת שובה⁩⁦,⁩ and he asked an interesting question. In the ⁧פריערדיגע דורות⁩⁦,⁩ and
+R’ Shlomo Ganzfried#metadata(none) <person-index-r-shlomo-ganzfried-855> says that he was in a town, he gives the name of it, it looks like a Polish name, Resvizit, he was talking about ⁧שבת שובה⁩⁦,⁩ and he asked an interesting question. In the ⁧פריערדיגע דורות⁩⁦,⁩ and
 sometimes today, they used to start off with a ⁧פלפול⁩ and then they would
 talk ⁧דברי מוסר⁩. What was the basis of that ⁧מנהג⁩? You would think that we
 would start off with something that people would understand. However, frequently the rav or ⁧מגיד שיעור⁩ would talk with something quite
@@ -11463,7 +11463,7 @@ a ⁧דבר תורה⁩⁦,⁩ which is pleasing to ⁧הקדוש ברוך הו�
 giving people the business about getting their act together and being
 better people and doing ⁧תשובה⁩ properly. Of course, today everybody talks
 in a soft way because nobody wants to hear harsh ⁧פלפול⁩. I remember when
-I was a kid, I used to go to Rav Yeruchem Gorelick's#metadata(none) <person-index-rav-yeruchem-gorelick-857> ⁧שבת שובה דרשה⁩⁦,⁩ it
+I was a kid, I used to go to Rav Yeruchem Gorelick's#metadata(none) <person-index-rav-yeruchem-gorelick-856> ⁧שבת שובה דרשה⁩⁦,⁩ it
 was fire and brimstone. You guys today have no conception of what was in
 the ⁧פריערדיגע דורות⁩⁦,⁩ where the leaders of the people were strong like a
 lion, and they gave the people the business and they yelled at them, but
@@ -11495,7 +11495,7 @@ more here because we're attuned to it. In ⁦פרק ל״ב פסוק ל״ט⁩ ar
 words, ⁧אֲנִי אָמִית וַאֲחַיֶּה⁩ - Hashem says he will kill and he will also bring
 to life; ⁧מָחַצְתִּי וַאֲנִי אֶרְפָּא⁩ - I will strike down and I will heal; ⁧וְאֵין מִיָּדִי מַצִּיל⁩ - And there's no one, there's nothing who can be saved from my
 hand. We're going to concentrate on the words, ⁧מָחַצְתִּי וַאֲנִי אֶרְפָּא⁩. R’
-Yechezkel Abramsky, #metadata(none) <person-index-r-abramsky-859> brought down in R’ Goldwasser's sefer “Something to
+Yechezkel Abramsky, #metadata(none) <person-index-r-abramsky-858> brought down in R’ Goldwasser's sefer “Something to
 Say” (Permission granted by ArtScroll / Mesorah Publications), brought
 out an interesting thought from the ⁧תפילה⁩ that we talk about in terms of
 ⁧רפואה⁩ in ⁧שמונה עשרה⁩. I've said this every day for many decades, as have
@@ -11504,11 +11504,11 @@ many of you. Maybe not as many decades as me, but a lot of decades.
 over again - I actually have a lot of ⁧כוונה⁩ because I have a lot of
 people in mind who need a ⁧רפואה⁩⁦,⁩ so I'm really concentrating on this
 ⁧ברכה⁩ - and with all of that, until about ten minutes ago, when I saw
-this vort from R’ Abramsky, #metadata(none) <person-index-r-abramsky-860> I did not understand the meaning of the
+this vort from R’ Abramsky, #metadata(none) <person-index-r-abramsky-859> I did not understand the meaning of the
 words ⁧כִּי תְהִלָּתֵנוּ אָתָּה. רְפָאֵנוּ ה׳ וְנֵרָפֵא⁩ - Hashem, heal us and we will be
 healed; ⁧הושיענו ונושעה⁩ - save us and we'll be saved; ⁧כִּי תְהִלָּתֵנוּ אָתָּה⁩ - Because you are our praise. What does that mean?
 
-R’ Abramsky#metadata(none) <person-index-r-abramsky-861> says that the reason for saying this in ⁧שמונה עשרה⁩ is that
+R’ Abramsky#metadata(none) <person-index-r-abramsky-860> says that the reason for saying this in ⁧שמונה עשרה⁩ is that
 it's quite possible for one to mistakenly believe that healing is in the
 hands of Man. People go to the top doctor, especially our ⁧חברה⁩⁦,⁩ they
 want to go to the top doctor. They can't go to a doctor in Brooklyn or
@@ -11520,7 +11520,7 @@ is only in Hashem's hands. Therefore, we say ⁧כִּי תְהִלָּתֵנוּ
 praise, to emphasize that Hashem is the one we're praising, to make sure
 that we know that the ⁧רפואה⁩ comes solely from Hashem.
 
-The Belzer Rebbe#metadata(none) <person-index-the-belzer-rebbe-858> once had to have a major operation. As the doctor was
+The Belzer Rebbe#metadata(none) <person-index-the-belzer-rebbe-861> once had to have a major operation. As the doctor was
 about to begin the surgery, the Rebbe sat up on the operating table and
 said, “Doctor, before I let you operate, I have to ask you a question:
 Do you believe in G-d?” Only after the doctor affirmed his belief would
@@ -11548,17 +11548,17 @@ which spells ⁧לב⁩⁦,⁩ to tell us that a Yiddish heart keeps right on be
 There's an interesting story I came across about the words ⁧וַיָּמׇת שָׁם מֹשֶׁה⁩
 (34:5).
 
-At the shiva house for R’ Nosson Tzvi Finkel, #metadata(none) <person-index-alter-of-slabodka-862> the rosh#metadata(none) <person-index-rosh-867> yeshiva's brother
-R’ Gedalia Finkel#metadata(none) <person-index-r-gedalia-finkel-863> quoted R’ Yonasan Eibschutz#metadata(none) <person-index-r-yonasan-eibschutz-865> that when a ⁧צדיק⁩ who is a
+At the shiva house for R’ Nosson Tzvi Finkel, #metadata(none) <person-index-alter-of-slabodka-862> the rosh#metadata(none) <person-index-rosh-866> yeshiva's brother
+R’ Gedalia Finkel#metadata(none) <person-index-r-gedalia-finkel-865> quoted R’ Yonasan Eibschutz#metadata(none) <person-index-r-yonasan-eibschutz-863> that when a ⁧צדיק⁩ who is a
 ⁧תלמיד חכם⁩ is taken from this world, all of his positive ⁧מדות⁩ become
 ⁧הפקר⁩⁦,⁩ available to be taken by anyone who claims them. This is brought
-in the sefer of R’ Yonasan Eibschutz#metadata(none) <person-index-r-yonasan-eibschutz-866> called ⁧יערות דבש⁩. When asked how
+in the sefer of R’ Yonasan Eibschutz#metadata(none) <person-index-r-yonasan-eibschutz-864> called ⁧יערות דבש⁩. When asked how
 one could possibly take these character traits, R’ Gedalia answered that
 one should work hard to improve himself in the area that he has chosen, and Hashem will do the rest; he will have ⁧סיעתא דשמיא⁩.
 
 We are not only able to become great by picking up a ⁦צדיק'⁩s ⁧מדות⁩⁦,⁩ we are
 obligated to try to fill the void that his passing has left in this
-world. As Rav Shach#metadata(none) <person-index-rav-shach-864> said when he was leaving the funeral of the ⁧חזון איש⁩⁦,⁩ even though the pasuk in ⁧קהלת⁩ (9:4) says it is better to be a live
+world. As Rav Shach#metadata(none) <person-index-shach-867> said when he was leaving the funeral of the ⁧חזון איש⁩⁦,⁩ even though the pasuk in ⁧קהלת⁩ (9:4) says it is better to be a live
 dog than a dead lion, nevertheless, if the lion is dead, one cannot
 remain a dog. He needs to pick himself up and become a lion.
 
@@ -11593,12 +11593,12 @@ would bentch his children.
 Now, at the very end of the parshas it says ⁧וַיָּמׇת שָׁם מֹשֶׁה עֶבֶד ה׳⁩ (34:5).
 In his ⁧הספד⁩ for the ⁧חפץ חיים⁩⁦,⁩ #metadata(none) <person-index-chafetz-chaim-868> the ⁧גדול הדור⁩ of his generation - and in
 my humble opinion, the greatest leader of the 20th century - R’ Elchonon
-Wasserman#metadata(none) <person-index-r-elchonon-wasserman-869> questioned why ⁧משה⁩⁦,⁩ the greatest person who ever lived, was
+Wasserman#metadata(none) <person-index-r-elchonon-wasserman-871> questioned why ⁧משה⁩⁦,⁩ the greatest person who ever lived, was
 given a ⁧הספד⁩ of only two words: ⁧עֶבֶד ה׳⁩. Surely, the one who took them
 out of ⁧מצרים⁩⁦,⁩ brought the ⁧תורה⁩ down from ⁧סיני⁩⁦,⁩ sacrificed his life for
 the welfare of his ⁧ציבור⁩⁦,⁩ deserves a little bit more of a ⁧הספד⁩ than ⁧עֶבֶד ה׳⁩⁦?⁩
 
-R’ Elchonon#metadata(none) <person-index-r-elchonon-wasserman-870> gave a very clever, ⁧למדיש⁩⁦,⁩ beautiful answer based on the
+R’ Elchonon#metadata(none) <person-index-r-elchonon-wasserman-872> gave a very clever, ⁧למדיש⁩⁦,⁩ beautiful answer based on the
 Gemara in ⁦פסחים דף פ״ח ע״ב⁩. We know there's a principal ⁧מַה שֶּׁקָּנָה עֶבֶד קָנָה רַבּוֹ⁩ - Whatever an ⁧עבד⁩ acquires, belongs to his master. Therefore, if the
 ⁧תורה⁩ says that ⁧משה רבינו⁩ was an ⁧עֶבֶד ה׳⁩⁦,⁩ it is giving us a tremendous
 ⁧עדות⁩ that ⁧משה רבינו⁩ was a real ⁧עֶבֶד ה׳⁩. Why? Because every single thing
@@ -11608,9 +11608,9 @@ few words offer ⁧משה רבינו⁩ the greatest praise of all.
 
 Although we cannot hope to reach the unparalleled level that ⁧משה רבינו⁩
 achieved, that's not to say that we are unable to make every action in
-our lives into a holy act. R’ Shimshon Pincus#metadata(none) <person-index-r-shimshon-pincus-871> teaches a lesson that
+our lives into a holy act. R’ Shimshon Pincus#metadata(none) <person-index-r-shimshon-pincus-869> teaches a lesson that
 there's nothing we do which is pareve. Everything can become a ⁧מצוה⁩. For
-example, says R’ Pincus, #metadata(none) <person-index-r-shimshon-pincus-872> if I put butter on my toast in the morning, why
+example, says R’ Pincus, #metadata(none) <person-index-r-shimshon-pincus-870> if I put butter on my toast in the morning, why
 am I doing it? Am I doing it in order to say ⁧ברכת המוציא⁩ with a greater
 appreciation of the words? Then it's a big ⁧מצוה⁩. But if I'm doing it for
 no purpose other than to indulge, I enjoy butter on my bread, so what
@@ -11636,9 +11636,9 @@ ways of ⁧משה⁩ and lead a life full of ⁧קדושה⁩⁦,⁩ all to beco
 = V'zos Habracha 5786
 
 The last words in the Torah are ⁧לְעֵינֵי כׇּל יִשְׂרָאֵל⁩. What is the Torah
-telling us with those words? Rashi#metadata(none) <person-index-rashi-876> immediately jumps on it and says this
+telling us with those words? Rashi#metadata(none) <person-index-rashi-873> immediately jumps on it and says this
 is referring to the ⁧שבירת הלוחות⁩. It's a Gemara in Shabbos that Hashem
-praised ⁧משה רבינו⁩ for destroying the ⁧לוחות⁩. R’ Yosef Chaim Sonnenfeld, #metadata(none) <person-index-r-yosef-chaim-sonnenfeld-873>
+praised ⁧משה רבינו⁩ for destroying the ⁧לוחות⁩. R’ Yosef Chaim Sonnenfeld, #metadata(none) <person-index-r-yosef-chaim-sonnenfeld-875>
 the Rav of Yerushalayim ⁧זכותו יגן עלינו⁩ asks how did the ⁧חכמים⁩ know that
 ⁧לְעֵינֵי כׇּל יִשְׂרָאֵל⁩ is referring to the ⁧שבירת הלוחות⁩⁦?⁩ Maybe it's referring to
 the ⁧עשר מכות⁩⁦,⁩ ⁧קריעת ים סוף⁩⁦,⁩ or ⁧הר סיני⁩. Why is ⁧שבירת הלוחות⁩ singled out
@@ -11662,16 +11662,16 @@ the Torah, he felt it was absolutely mandatory to shatter the ⁧לוחות⁩ a
 by that action, he was able to shatter the ⁧יצר הרע⁩ of the ⁧עגל⁩ and to
 shatter this ⁧עבירה⁩. This is what we have to do.
 
-R’ Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-874> was famous throughout his entire life for never
+R’ Yosef Chaim#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-876> was famous throughout his entire life for never
 compromising. All of his ⁦מחלוקת'ן⁩ with all of the not-frum Yidden at
 that time in ⁧ארץ ישראל⁩ are world famous amongst those who knew him.
 
 \[By the way, ArtScroll has a phenomenal bio on R’ Yosef Chaim
-Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-875> which I recommend to everybody. It's a sefer well worth
+Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-877> which I recommend to everybody. It's a sefer well worth
 reading. You will get tremendous benefit out of reading it. It's so
 beautiful.\] This inflexibility of ⁧משה רבינו⁩⁦,⁩ when it came to
 preservation of our ⁧דעת⁩⁦,⁩ of our beliefs, of our ⁧אמונה⁩⁦,⁩ was, according to
-this ⁦רש״י⁩, #metadata(none) <person-index-rashi-877> his greatest achievement.
+this ⁦רש״י⁩, #metadata(none) <person-index-rashi-874> his greatest achievement.
 
 What a way to end the Torah. What a way to start a new year. Let us
 learn from ⁦משה רבינו'⁩s steadfastness that we too should be steadfast and
@@ -12344,19 +12344,19 @@ B’ezras Hashem, in the ⁧זכות⁩ of that genuine effort, we will be answe
 To commemorate ⁦ל״ג בעומר⁩, I'm going to share a number of short vertlach, which together will add up to a substantial message I want to pass
 along. This is ⁧לעילוי נשמת⁩ all of our ⁧עלטערן⁩⁦,⁩ and a ⁧תפילה⁩ that those who
 need ⁧ישועות⁩⁦,⁩ especially those in Gaza, should receive them ⁧במהרה⁩. The
-⁧הילולא⁩⁦,⁩ or the ⁧יארצייט⁩⁦,⁩ of ⁧רב שמעון בר יוחאי⁩#metadata(none) <person-index-r-shimon-bar-yochai-933> is on ⁦ל״ג בעומר⁩. It is said
-in the name of the ⁦אריז״ל⁩#metadata(none) <person-index-arizal-930> that on ⁧ל״ג בעומר⁩⁦,⁩ ⁧רב שמעון בר יוחאי⁩#metadata(none) <person-index-r-shimon-bar-yochai-934> is
+⁧הילולא⁩⁦,⁩ or the ⁧יארצייט⁩⁦,⁩ of ⁧רב שמעון בר יוחאי⁩#metadata(none) <person-index-r-shimon-bar-yochai-932> is on ⁦ל״ג בעומר⁩. It is said
+in the name of the ⁦אריז״ל⁩#metadata(none) <person-index-arizal-930> that on ⁧ל״ג בעומר⁩⁦,⁩ ⁧רב שמעון בר יוחאי⁩#metadata(none) <person-index-r-shimon-bar-yochai-933> is
 present and available, and gives a ⁧ברכה⁩ to each and every person who
 comes to Meron to honor him and to be ⁧משמח⁩ in his ⁧הילולא⁩.
 
-There's a fascinating vort brought from R’ Yechezkel Shraga, #metadata(none) <person-index-shiniver-rebbe-936> the
-Shinever Rov, #metadata(none) <person-index-shiniver-rebbe-937> in the sefer ⁧חיים שיש בהם⁩.#metadata(none) <person-index-chaim-shyesh-bahem-931> (Many of you may know that
-Zeidy Weiss’#metadata(none) <person-index-zeidy-weiss-940> father was named Yechezkel Shraga after the Shinever Rov).#metadata(none) <person-index-shiniver-rebbe-938>
+There's a fascinating vort brought from R’ Yechezkel Shraga, #metadata(none) <person-index-shiniver-rebbe-935> the
+Shinever Rov, #metadata(none) <person-index-shiniver-rebbe-936> in the sefer ⁧חיים שיש בהם⁩.#metadata(none) <person-index-chaim-shyesh-bahem-931> (Many of you may know that
+Zeidy Weiss’#metadata(none) <person-index-zeidy-weiss-939> father was named Yechezkel Shraga after the Shinever Rov).#metadata(none) <person-index-shiniver-rebbe-937>
 He quotes the pasuk from ⁦תהלים צ״ב⁩: ⁧שְׁתוּלִים בְּבֵית ה׳ בְּחַצְרוֹת אֱלֹקֵינוּ יַפְרִיחוּ⁩
 \- Those who are planted in the house of Hashem, in the courtyards of
-Hashem, will blossom. If you look at the words ⁧שְׁתוּלִים בְּבֵית ה׳⁩⁦,⁩ the ⁧ראשי תיבות⁩ are ⁧ש׳ ב׳ י׳⁩⁦,⁩ the ⁧נוטריקון⁩ for ⁧שמעון בר יוחאי⁩. The Shinever Rov#metadata(none) <person-index-shiniver-rebbe-939>
+Hashem, will blossom. If you look at the words ⁧שְׁתוּלִים בְּבֵית ה׳⁩⁦,⁩ the ⁧ראשי תיבות⁩ are ⁧ש׳ ב׳ י׳⁩⁦,⁩ the ⁧נוטריקון⁩ for ⁧שמעון בר יוחאי⁩. The Shinever Rov#metadata(none) <person-index-shiniver-rebbe-938>
 explains that we ask Hashem that the beautiful lights of ⁧קדושה⁩ which
-emanate from ⁧רבי שמעון בר יוחאי⁩\;#metadata(none) <person-index-r-shimon-bar-yochai-935> ⁧שְׁתוּלִים בְּבֵית ה׳⁩ - in the upper worlds, ⁧בְּחַצְרוֹת אֱלֹקֵינוּ⁩ - to those who are far away or outside in the courtyard, in the ⁧חצרות⁩⁦,⁩ or the ⁧חוצות⁩ outside of the house; ⁧יַפְרִיחוּ⁩ - they should
+emanate from ⁧רבי שמעון בר יוחאי⁩\;#metadata(none) <person-index-r-shimon-bar-yochai-934> ⁧שְׁתוּלִים בְּבֵית ה׳⁩ - in the upper worlds, ⁧בְּחַצְרוֹת אֱלֹקֵינוּ⁩ - to those who are far away or outside in the courtyard, in the ⁧חצרות⁩⁦,⁩ or the ⁧חוצות⁩ outside of the house; ⁧יַפְרִיחוּ⁩ - they should
 send us light, and they should give us tremendous ⁧ישועות⁩ and spread out
 amongst all of us.
 
@@ -12377,7 +12377,7 @@ struggles. Especially our friends and family - we must be sensitive to
 them. That, he says, is the deeper meaning of ⁧לֹעֵג לָרָשׁ חֵרֵף עֹשֵׂהוּ⁩.
 
 Finally, to wrap up with a beautiful ⁧מוסר השכל⁩⁦,⁩ here's a vort from R’
-Alexander Ziskind, #metadata(none) <person-index-r-alexander-ziskind-932> the author of the ⁧ספר יסוד ושורש העבודה⁩. In his ⁧צוואה⁩
+Alexander Ziskind, #metadata(none) <person-index-r-alexander-ziskind-940> the author of the ⁧ספר יסוד ושורש העבודה⁩. In his ⁧צוואה⁩
 to his children, he writes:
 
 “Once it came to my mind to share this with you, my children. I once
@@ -12408,7 +12408,7 @@ Let's learn this from ⁦ל״ג בעומר⁩. Let's learn it from the ⁧תלמ
 = Lag Baomer 5785
 
 I have two short vorts on ⁦ל״ג בעומר⁩. One of them is from a sefer by R’
-Moshe Wolfson#metadata(none) <person-index-r-moshe-wolfson-942> called Festivals of Faith.#metadata(none) <person-index-festivals-of-faith-941> He brings down an interesting
+Moshe Wolfson#metadata(none) <person-index-r-moshe-wolfson-953> called Festivals of Faith.#metadata(none) <person-index-festivals-of-faith-941> He brings down an interesting
 ⁧מעשה⁩ from a ⁧מדרש⁩. There was a doctor named ⁧אבא אומנא⁩ who received ⁧שלום⁩
 from ⁧שמים⁩ every single day. ⁧אביי⁩ felt bad - he only received ⁧שלום⁩ from
 ⁧שמים⁩ once a week. He was told that ⁧אבא אומנא⁩ merited this special
@@ -12425,9 +12425,9 @@ What does this teach us? That every Yid has something we can learn from.
 Many people appear to us as plain or ordinary. Some even appear to have
 many ⁧מידות רעות⁩ - because we don't really know the ⁧פנימיות⁩ of that Yid.
 But who did? Who had the ability to see the ⁧פנימיות⁩ of each and every
-Jew? That was ⁧רב שמעון בר יוחאי⁩.#metadata(none) <person-index-r-shimon-bar-yochai-943>
+Jew? That was ⁧רב שמעון בר יוחאי⁩.#metadata(none) <person-index-r-shimon-bar-yochai-949>
 
-⁧רב שמעון בר יוחאי⁩#metadata(none) <person-index-r-shimon-bar-yochai-944> was a master of secrets. His ⁧נשמה⁩ was rooted in the
+⁧רב שמעון בר יוחאי⁩#metadata(none) <person-index-r-shimon-bar-yochai-950> was a master of secrets. His ⁧נשמה⁩ was rooted in the
 ⁧קודש קדשים⁩. He had the ability to see in every Yid what they were
 capable of and what we could learn from them. When he explained the
 teaching of his rebbi, ⁧רבי עקיבא⁩ - ⁧ואהבת לרעך כמוך, זה כלל גדול בתורה⁩ - he brought it to its fullest and deepest expression. On ⁦ל״ג בעומר⁩, we
@@ -12436,24 +12436,24 @@ essential to make us whole.
 
 Therefore, as we work our way towards ⁧הר סיני⁩⁦,⁩ ⁧כאיש אחד בלב אחד⁩⁦,⁩ that is
 our goal: to see the good in every Yid to the best of our ability and to
-elevate it. Let us learn from ⁧רב שמעון בר יוחאי⁩#metadata(none) <person-index-r-shimon-bar-yochai-945> the ability to see that
+elevate it. Let us learn from ⁧רב שמעון בר יוחאי⁩#metadata(none) <person-index-r-shimon-bar-yochai-951> the ability to see that
 ⁧פנימיות⁩ and the good in everyone.
 
-⁦ל״ג בעומר⁩ carries the great ⁧זכות⁩ of being the ⁧יום הילולא⁩ of ⁧רב שמעון בר יוחאי⁩⁦,⁩ #metadata(none) <person-index-r-shimon-bar-yochai-946> one of the greatest ⁧תנאים⁩. However, it is also the ⁧יום הילולא⁩ of
-the ⁦רמ״א⁩.#metadata(none) <person-index-rama-947> The ⁦רמ״א⁩#metadata(none) <person-index-rama-948> was the ⁧רבן⁩ of ⁧כל ישראל⁩. We learn from his ⁧תורה⁩ every
+⁦ל״ג בעומר⁩ carries the great ⁧זכות⁩ of being the ⁧יום הילולא⁩ of ⁧רב שמעון בר יוחאי⁩⁦,⁩ #metadata(none) <person-index-r-shimon-bar-yochai-952> one of the greatest ⁧תנאים⁩. However, it is also the ⁧יום הילולא⁩ of
+the ⁦רמ״א⁩.#metadata(none) <person-index-rama-942> The ⁦רמ״א⁩#metadata(none) <person-index-rama-943> was the ⁧רבן⁩ of ⁧כל ישראל⁩. We learn from his ⁧תורה⁩ every
 single day. His ⁧הגהות⁩ on ⁧שולחן ערוך⁩ give us daily direction on how to
 live our lives.
 
-The ⁦רמ״א⁩#metadata(none) <person-index-rama-949> lived in the city of Cracow. In that city also lived ⁧רב שמעון סופר⁩⁦,⁩ the son of the ⁧כתם סופר⁩. He served as the Rav of Cracow, and when
+The ⁦רמ״א⁩#metadata(none) <person-index-rama-944> lived in the city of Cracow. In that city also lived ⁧רב שמעון סופר⁩⁦,⁩ the son of the ⁧כתם סופר⁩. He served as the Rav of Cracow, and when
 he passed away, his son, ⁧רב בונם⁩⁦,⁩ succeeded him. Every year on ⁦ל״ג
-בעומר⁩, on the ⁧יארצייט⁩ of the ⁦רמ״א⁩, #metadata(none) <person-index-rama-950> they would gather in his shul and
+בעומר⁩, on the ⁧יארצייט⁩ of the ⁦רמ״א⁩, #metadata(none) <person-index-rama-945> they would gather in his shul and
 deliver ⁧דרשות⁩ in his ⁧זכות⁩.
 
 At one such gathering, ⁧רב בונם⁩ noted that ⁦ל״ג בעומר⁩ always falls out on
-either ⁧פרשת אמר⁩⁦,⁩ ⁧בהר⁩⁦,⁩ or ⁧בחוקותי⁩. What's the ⁧רמז⁩? The letters of ⁧אמר⁩⁦,⁩ when written backwards, spell ⁦רמ״א⁩.#metadata(none) <person-index-rama-951> As for ⁧בהר⁩ and ⁧בחוקותי⁩ - he
-explained that the ⁦רמ״א⁩'s#metadata(none) <person-index-rama-952> ⁧הוראות⁩⁦,⁩ his ⁧חוקות⁩⁦,⁩ his teachings became ⁧קודש⁩
+either ⁧פרשת אמר⁩⁦,⁩ ⁧בהר⁩⁦,⁩ or ⁧בחוקותי⁩. What's the ⁧רמז⁩? The letters of ⁧אמר⁩⁦,⁩ when written backwards, spell ⁦רמ״א⁩.#metadata(none) <person-index-rama-946> As for ⁧בהר⁩ and ⁧בחוקותי⁩ - he
+explained that the ⁦רמ״א⁩'s#metadata(none) <person-index-rama-947> ⁧הוראות⁩⁦,⁩ his ⁧חוקות⁩⁦,⁩ his teachings became ⁧קודש⁩
 to us just like ⁧הר סיני⁩ itself. That was his beautiful, clever vort as a
-tribute to the ⁦רמ״א⁩, #metadata(none) <person-index-rama-953> our ⁧רב⁩.
+tribute to the ⁦רמ״א⁩, #metadata(none) <person-index-rama-948> our ⁧רב⁩.
 
 I think it's a worthwhile point to bring out as we celebrate ⁦ל״ג בעומר⁩.
 In that ⁧זכות⁩⁦,⁩ may we receive the ⁧תורה⁩ anew and may ⁧משיח⁩ come quickly, ⁧אמן⁩.
@@ -12487,7 +12487,7 @@ to them: “The Torah says we were in ⁧מצרים⁩. Were you in ⁧מצרי�
 ⁧מצוות⁩ of the ⁧תורה⁩ which are clearly only ⁧שייך⁩ to ⁧בשר ודם⁩. With this, he
 was able to defeat them.
 
-The sefer ⁧חנוכת התורה החדש⁩⁦,⁩ #metadata(none) <person-index-chanukas-hatorah-hechadash-954> quoted by R’ Blum#metadata(none) <person-index-r-blum-955> ⁦ע״ה⁩, asks: What was the
+The sefer ⁧חנוכת התורה החדש⁩⁦,⁩ #metadata(none) <person-index-chanukas-hatorah-hechadash-955> quoted by R’ Blum#metadata(none) <person-index-r-blum-954> ⁦ע״ה⁩, asks: What was the
 ⁦מלאכים'⁩s ⁧טענה⁩? The ⁧גמרא⁩ doesn't specify what their argument was; it just
 says they didn't want to give the Torah to human beings. All the ⁧מפרשים⁩
 discuss this. It's difficult to understand their claim, because the
@@ -12552,7 +12552,7 @@ gradually. Now we all are familiar with the famous ⁧מדרש⁩ ⁦(שיר ה�
 night, and then ⁧הקדוש ברוך הוא⁩ had to wake them up to receive the Torah.
 What's the message that we should learn from this?
 
-R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-959> brings in his sefer a unique interpretation from
+R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-957> brings in his sefer a unique interpretation from
 the ⁧ערוגת הבושם⁩. He says that ⁧כלל ישראל⁩ didn't stay up all night then.
 They didn't prepare themselves that particular night. Instead, they were
 woken up with great hustle and bustle, and they had to come and receive
@@ -12569,7 +12569,7 @@ take on that story about how they had to be awoken by ⁧הקדוש ברוך ה�
 trying to make up for that night all these years, because each and every
 year we receive the Torah anew for ourselves.
 
-Another interesting point that R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-960> brings down is why
+Another interesting point that R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-958> brings down is why
 is it that ⁧מתן תורה⁩ appears specifically in ⁧פרשת יתרו⁩⁦?⁩ Because ⁧יתרו⁩
 himself rose up from ⁧עבודה זרה⁩. He elevated himself and became part of
 ⁧כלל ישראל⁩⁦,⁩ part of ⁧עם השם⁩.
@@ -12578,12 +12578,12 @@ Chazal tell us in ⁦בבא בתרא ע״ה ע״א⁩ that if someone sells a pi
 to another and there's no access road to it, there's a ⁧מחלוקת⁩ whether
 the sale includes the road to it. That's in the case of a sale. But if
 it was given as a gift, there's a famous principle: ⁧הנותן בעין יפה נותן⁩
-\- Someone who gives a gift does so generously. The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-957> says
+\- Someone who gives a gift does so generously. The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-959> says
 that a gift includes not just the object you receive, but everything
 necessary to fully enjoy it. The Torah, he explains, is the ultimate
 gift. So of course, it comes with the access road.
 
-The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-958> says that every single Yid, every person, is given the
+The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-960> says that every single Yid, every person, is given the
 strength and the ability to approach the Torah. All we need to do is get
 on the road and begin walking. We can achieve what we might think is
 difficult or even unattainable. But if we put our minds to it, we too
@@ -12740,15 +12740,15 @@ brought down the ⁧לוחות⁩. Have a meaningful and easy fast.
   ))
 = 9 Av 5783
 
-The following was presented by Rav Pesach Krohn#metadata(none) <person-index-rav-pesach-krohn-971> in his typical derech:
-very beautiful, very meaningful, and very real. A number of years ago, Rav Mordechai Gifter#metadata(none) <person-index-rav-gifter-967> ⁦זצ״ל⁩ went to Eretz Yisroel and of course visited
-the Kosel and ⁧קבר רחל⁩. Rav Yirachmiel Chasid, #metadata(none) <person-index-rav-yirachmiel-chasid-972> from the Mirrer Yeshiva, asked him, “At which place were you more moved, ⁧קבר רחל⁩ or the Kosel?”
-Rav Gifter#metadata(none) <person-index-rav-gifter-968> thought for a moment and replied, “The Kosel.” Rav Chasid was
+The following was presented by Rav Pesach Krohn#metadata(none) <person-index-rav-pesach-krohn-968> in his typical derech:
+very beautiful, very meaningful, and very real. A number of years ago, Rav Mordechai Gifter#metadata(none) <person-index-rav-gifter-969> ⁦זצ״ל⁩ went to Eretz Yisroel and of course visited
+the Kosel and ⁧קבר רחל⁩. Rav Yirachmiel Chasid, #metadata(none) <person-index-rav-yirachmiel-chasid-967> from the Mirrer Yeshiva, asked him, “At which place were you more moved, ⁧קבר רחל⁩ or the Kosel?”
+Rav Gifter#metadata(none) <person-index-rav-gifter-970> thought for a moment and replied, “The Kosel.” Rav Chasid was
 surprised and said, “Rosh#metadata(none) <person-index-rosh-973> Yeshiva, I hope you don't mind my asking, but
 I've asked this question to many people, and they all say they were more
 moved at Kever Rochel. Why were you more moved at the Kosel?”
 
-Rav Gifter#metadata(none) <person-index-rav-gifter-969> explained, “Yungerman, you're a young fellow. You can relate
+Rav Gifter#metadata(none) <person-index-rav-gifter-971> explained, “Yungerman, you're a young fellow. You can relate
 to a mother. You saw your mother cry when she bentched licht that you
 should be an ehrlich Yid. You saw how your mother got up early and
 stayed up late for your sake and for your siblings. So you can relate to
@@ -12766,7 +12766,7 @@ what being ⁧עולה רגל⁩ was like when the ⁧בית המקדש⁩ was s
 the ⁧בית המקדש⁩⁦,⁩ and I can feel the pain of its destruction.”
 
 Today here in America, where none of us has been able to witness the
-majesty and splendor Rav Gifter#metadata(none) <person-index-rav-gifter-970> was talking about, we must try to
+majesty and splendor Rav Gifter#metadata(none) <person-index-rav-gifter-972> was talking about, we must try to
 understand as best as we can what the destruction of the ⁧בית המקדש⁩ was
 all about. It's a tremendous undertaking to take the time to think about
 and ponder what the ⁧בית המקדש⁩ really was. We've all seen various
@@ -12795,11 +12795,11 @@ about what we lost.
 
 ⁧תשעה באב⁩ is a special day in that we focus all of our thoughts, ⁧תפילות⁩⁦,⁩ and efforts in mourning over the ⁧חורבן בית⁩. However, this is not the
 only time that we do this. We remember ⁧ירושלים⁩ every single day. R’
-Yissocher Frand#metadata(none) <person-index-r-yissocher-frand-977> points out that we have other reminders of what happened
+Yissocher Frand#metadata(none) <person-index-r-yissocher-frand-974> points out that we have other reminders of what happened
 on ⁧תשעה באב⁩⁦,⁩ why it happened, and what we have to do about it. He gives
 an interesting example. When ⁧ראש חודש⁩ comes out on Sunday, the ⁧הפטורה⁩ we
 read is ⁧מחר חדש⁩. It seems superficially that the entire connection
-between the portion of the ⁧נביא⁩ and ⁧ראש חודש⁩ is merely the words ⁧מחר חדש⁩. However, Rabbi Frand, #metadata(none) <person-index-r-yissocher-frand-978> quoting Rav Shimshon Schwab, #metadata(none) <person-index-rav-shimshon-schwab-976> asks why ⁦חז״ל⁩
+between the portion of the ⁧נביא⁩ and ⁧ראש חודש⁩ is merely the words ⁧מחר חדש⁩. However, Rabbi Frand, #metadata(none) <person-index-r-yissocher-frand-975> quoting Rav Shimshon Schwab, #metadata(none) <person-index-rav-shimshon-schwab-978> asks why ⁦חז״ל⁩
 would do that, especially since we never skip a ⁧הפטורה⁩ on a Shabbos
 unless there's a ⁧יום טוב⁩⁦?⁩ Why would we lein a completely different
 ⁧הפטורה⁩ just because it says ⁧מחר חדש⁩⁦?⁩ He says no, there's a much deeper
@@ -12826,9 +12826,9 @@ of that fantastic insight in ⁧מחר חדש⁩.
 
 The following story has nothing to do with what's been said until now -
 it's just a wonderful example of what a Yid who had ⁧אהבת ישראל⁩ looked
-like. Someone who nearly lived in our lifetime: R’ Aryeh Levine, #metadata(none) <person-index-r-aryeh-levine-974> the
+like. Someone who nearly lived in our lifetime: R’ Aryeh Levine, #metadata(none) <person-index-r-aryeh-levine-976> the
 ⁧צדיק⁩ of ⁧ירושלים⁩. It was a scorching hot Friday afternoon in ⁧ירושלים⁩.
-Dressed in his Shabbos clothes, the ⁧צדיק⁩ of ⁧ירושלים⁩⁦,⁩ Rabbi Aryeh Levine, #metadata(none) <person-index-r-aryeh-levine-975>
+Dressed in his Shabbos clothes, the ⁧צדיק⁩ of ⁧ירושלים⁩⁦,⁩ Rabbi Aryeh Levine, #metadata(none) <person-index-r-aryeh-levine-977>
 was making his rounds, going to all the shops and making sure they all
 closed on time for Shabbos. He got to the ice cream shop, and there was
 a long line of customers snaking around the corner. It appeared that the
@@ -12877,7 +12877,7 @@ your heart. And what comes from the heart will go into the heart.
   ))
 = 9 Av 5785
 
-Rav Yechiel Spiro#metadata(none) <person-index-yechiel-spiro-984> quotes the Rebbe of Sanz that one of a number of
+Rav Yechiel Spiro#metadata(none) <person-index-yechiel-spiro-985> quotes the Rebbe of Sanz that one of a number of
 reasons that we place our hands over our eyes when we say ⁧קריאת שמע⁩ is
 because we are showing that ⁧השם אלוקינו⁩⁦,⁩ Hashem of ⁧רחמים⁩⁦;⁩ ⁧השם אחד⁩ -
 ⁧רחמים⁩ and ⁧דין⁩ is one. When our eyes are open, there are times when it
@@ -12898,7 +12898,7 @@ saw it. What is the word ⁧לְעֵינֵיכֶם⁩ teaching us?” The man pe
 heard this ⁧קשיא⁩.
 
 The ⁧אמרי אמת⁩#metadata(none) <person-index-imrei-emes-982> continued “When ⁧יוסף⁩ put ⁧שמעון⁩ in jail, he also did ⁧לְעֵינֵיהֶם⁩
-⁦(בראשית מ״ב:כ״ד)⁩, in front of their very eyes. But what does Rashi#metadata(none) <person-index-rashi-985> tell
+⁦(בראשית מ״ב:כ״ד)⁩, in front of their very eyes. But what does Rashi#metadata(none) <person-index-rashi-983> tell
 you? As soon as they left, he took him out of jail and gave him to eat
 and drink. He treated him nicely. But to their eyes, ⁧שמעון⁩ was put in
 jail.” The Rebbe looked at this ⁧צעבראכענע ייד⁩⁦,⁩ and he put his hand on
@@ -12913,7 +12913,7 @@ is only in this world that the burning ⁧סנה⁩ from ⁧משה רבינו⁩
 It wasn't burning. Only to our eyes did it appear to be burning. He knew
 that there will come a day that the bush will not be burning.
 
-R’ Moshe Sherer#metadata(none) <person-index-r-moshe-sherer-983> once said that what one can see with his eyes open is
+R’ Moshe Sherer#metadata(none) <person-index-r-moshe-sherer-984> once said that what one can see with his eyes open is
 limited. But if one closes his eyes, his vision is unlimited, and he can
 see forever. On ⁧תשעה באב⁩ we cry because we have to. We've lost so much.
 For the ⁧צדיקים⁩ who died, for the people of our generation. The only
@@ -13119,7 +13119,7 @@ proper use, then we can then be successful in our life's journey towards
   ))
 = Rosh Hashana 5784
 
-The ⁧דברי שיח⁩#metadata(none) <person-index-divrei-si-ach-994> is a weekly sheet by Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-998> ⁦זצ״ל⁩. A number of
+The ⁧דברי שיח⁩#metadata(none) <person-index-divrei-si-ach-994> is a weekly sheet by Rav Chaim Kanievsky#metadata(none) <person-index-r-chaim-kanievsky-995> ⁦זצ״ל⁩. A number of
 years ago, it had this interesting ⁧מעשה⁩. It is one of the most amazing
 and important articles I've ever read about ⁧ראש השנה⁩. The moral of the
 story, which they don't bring down, is every little step towards ⁧תשובה⁩
@@ -13163,15 +13163,15 @@ tall, handsome, chashuv Yid. He smiled at me with a radiance on his face
 and asked, “Tell me my friend, have you heard ⁧תקיעת שופר⁩ today?” I replied that no, I had not. He took out from his pocket a little small
 ⁧שופר⁩. He told me to listen carefully and to have ⁧כוונה⁩ to be ⁧יוצא⁩⁦,⁩ and
 he blew 30 ⁧קולות⁩ for me. When he finished, he said to me, “My name is
-Moshe Katz”, #metadata(none) <person-index-moshe-katz-995> and he went on his way.
+Moshe Katz”, #metadata(none) <person-index-moshe-katz-997> and he went on his way.
 
 I came back home and I was sort of astonished. I told my wife exactly
 what happened at ⁧תשליך⁩. I described to her the man who spoke to me. I
 told her, “I don't know why the man mentioned to me before he left that
-his name was Moshe Katz.”#metadata(none) <person-index-moshe-katz-996> As soon as my wife heard the name, she burst
+his name was Moshe Katz.”#metadata(none) <person-index-moshe-katz-998> As soon as my wife heard the name, she burst
 into tears. Through her wailing and sobbing, she told me to repeat
 exactly what I saw, to describe him precisely, his face, appearance, and
-height. I did that for her, and she said that Moshe Katz#metadata(none) <person-index-moshe-katz-997> was the name of
+height. I did that for her, and she said that Moshe Katz#metadata(none) <person-index-moshe-katz-999> was the name of
 her father. Her maiden name was Katz. He was a ⁧תלמיד חכם⁩⁦,⁩ he knew how to
 blow ⁧שופר⁩ in the city of Pressburg in Hungary. He was killed in the war
 and that's why I never knew him. I met my wife after he was killed.
@@ -13182,7 +13182,7 @@ My cousin said to me, “At that moment, my life changed. I was a
 different person. I did ⁧תשובה⁩ and started to do things differently. And
 here I am today.”
 
-So Rav Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-1001> said, “I told this story over to R’ Chaim Kanievsky, #metadata(none) <person-index-r-chaim-kanievsky-999>
+So Rav Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-1001> said, “I told this story over to R’ Chaim Kanievsky, #metadata(none) <person-index-r-chaim-kanievsky-996>
 and he said that without a doubt this was a ⁧גילוי משמים⁩ to this couple
 so that they should do ⁧תשובה⁩. And we see that these things are mentioned
 in ⁦חז״ל⁩ many times.
@@ -13616,10 +13616,10 @@ We want to get through ⁧יום כיפור בשלום⁩. We want to see our ch
   ))
 = Yom Kippur 5785
 
-⁧לכבוד יום כיפור⁩. R’ Levi Yitzchok of Berditchev#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-1033> quotes the famous Gemara
+⁧לכבוד יום כיפור⁩. R’ Levi Yitzchok of Berditchev#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-1035> quotes the famous Gemara
 (⁦פסחים נ׳ ע״א⁩ & ⁦בבא בתרא י׳ ע״ב⁩) which we know is referring to olam
 hazeh vis-a-vis olam haba: ⁧עוֹלָם הָפוּךְ רָאִיתִי⁩ - The world is upside down.
-R’ Levi Yitzchok#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-1034> had an ingenious take on this, and it's actually an
+R’ Levi Yitzchok#metadata(none) <person-index-r-levi-yitzchok-of-berditchev-1036> had an ingenious take on this, and it's actually an
 indictment which we'll have to answer and we will.
 
 He says, in the olden days, ⁧בפריערדיגע דורות⁩⁦,⁩ ⁧אמאל'דיגע צייטן⁩ as they
@@ -13645,7 +13645,7 @@ do something better, to try to make ourselves better in everything that
 we do.
 
 Now, in that light, there's a Gemara ⁦(ראש השנה ל״ב ע״ב)⁩ that's brought
-down by R’ Yechezkel Levenstein, #metadata(none) <person-index-r-yechezkel-levenstein-1035> the mashgiach ruchani of the Mir: ⁧אָמַר רַבִּי אֲבָהוּ: אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא⁩ - The ⁧מלאכים⁩ said to
+down by R’ Yechezkel Levenstein, #metadata(none) <person-index-r-yechezkel-levenstein-1033> the mashgiach ruchani of the Mir: ⁧אָמַר רַבִּי אֲבָהוּ: אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא⁩ - The ⁧מלאכים⁩ said to
 Hashem: ⁧רִבּוֹנוֹ שֶׁל עוֹלָם! מִפְּנֵי מָה אֵין יִשְׂרָאֵל אוֹמְרִים שִׁירָה לְפָנֶיךָ בְּרֹאשׁ הַשָּׁנָה וּבְיוֹם הַכִּפּוּרִים⁩⁦?⁩ Interesting question. We wouldn't have thought of that, but the ⁧מלאכים⁩ did. These are days of ⁧קדושה⁩ and on days of ⁧קדושה⁩⁦,⁩ it's
 our job to say ⁧שירה⁩ before Hashem. Hashem answered them and said the
 answer which we all know: ⁧אֶפְשָׁר מֶלֶךְ יוֹשֵׁב עַל כִּסֵּא דִין, וְסִפְרֵי חַיִּים וְסִפְרֵי מֵתִים פְּתוּחִין לְפָנָיו⁩ - The book of life and the book of death are open in front
@@ -13657,7 +13657,7 @@ And maybe we #underline[should] work on our ⁧אמונה⁩ as well. Anyway, wh
 us ⁧זכאי במשפט⁩. We made it since last year after all. We're still here, those of us who are here. ⁧נעבעך⁩. ⁧איי איי איי⁩. Those of us who are here.
 We should learn a lesson from those who are not here. ⁧איי איי איי⁩. But
 those of us who are here, so we see that we have ⁧אמונה⁩ that ⁧הקדוש ברוך הוא⁩ will find us ⁧זכאי בדין⁩. Therefore, we should be saying ⁧שירה⁩! So R’
-Yechezkel Levenstein#metadata(none) <person-index-r-yechezkel-levenstein-1036> asks in his ⁧שיחה⁩⁦,⁩ why therefore don't we say ⁧שירה⁩
+Yechezkel Levenstein#metadata(none) <person-index-r-yechezkel-levenstein-1034> asks in his ⁧שיחה⁩⁦,⁩ why therefore don't we say ⁧שירה⁩
 on ⁧יום כיפור⁩ and ⁧ראש השנה⁩⁦?⁩
 
 He gives an interesting answer. What are the last three letters of the
@@ -13688,23 +13688,23 @@ be found ⁧זכאי בדין⁩ and have a ⁧גוט געבענטשט געזו�
 = Yom Kippur 5786
 
 A simple chassidish story, but as with all simple chassidish stories, it
-is profound. Listen carefully. The following is from the Torah Tavlin.#metadata(none) <person-index-torah-tavlin-1042>
+is profound. Listen carefully. The following is from the Torah Tavlin.#metadata(none) <person-index-torah-tavlin-1037>
 
 ⁧וּתְשׁוּבָה וּתְפִלָּה וּצְדָקָה מַעֲבִירִין אֶת רֹעַ הַגְּזֵרָה⁩. The highlight of our davening on
 ⁧ימים נוראים⁩.
 
-The Yid Hakodosh, #metadata(none) <person-index-the-yid-hakodosh-1043> R’ Yaakov Yitzchak of Peshischa#metadata(none) <person-index-r-yaakov-yitzchak-of-peshischa-1038> and R’ Yaakov from
-Lelov, #metadata(none) <person-index-r-yaakov-of-lelov-1037> two gigantic rebbes once approached a wealthy individual to
-collect money for ⁧צדקה⁩. R’ Yaakov Yitzchak#metadata(none) <person-index-r-yaakov-yitzchak-of-peshischa-1039> was a large, well-built man, whereas R’ Yaakov was pale and slight. The rich man, not bothering to
+The Yid Hakodosh, #metadata(none) <person-index-the-yid-hakodosh-1043> R’ Yaakov Yitzchak of Peshischa#metadata(none) <person-index-r-yaakov-yitzchak-of-peshischa-1039> and R’ Yaakov from
+Lelov, #metadata(none) <person-index-r-yaakov-of-lelov-1038> two gigantic rebbes once approached a wealthy individual to
+collect money for ⁧צדקה⁩. R’ Yaakov Yitzchak#metadata(none) <person-index-r-yaakov-yitzchak-of-peshischa-1040> was a large, well-built man, whereas R’ Yaakov was pale and slight. The rich man, not bothering to
 hear what the two men were collecting for, told them, “I'll gladly give
-money to the small man who is frail and cannot earn a living on his own, but as for you,” he pointed to R’ Yaakov Yitzchak, #metadata(none) <person-index-r-yaakov-yitzchak-of-peshischa-1040> “You have two strong
+money to the small man who is frail and cannot earn a living on his own, but as for you,” he pointed to R’ Yaakov Yitzchak, #metadata(none) <person-index-r-yaakov-yitzchak-of-peshischa-1041> “You have two strong
 hands. If you want to go out and if you want to eat, go find yourself a
 job.”
 
 Later, the man discovered that the person he had insulted was the Yid
 from Peshischa. Rushing over to the two, he cried and begged for
 forgiveness for insulting the Rebbe. “Me? You didn't insult me,” R’
-Yaakov Yitzchak#metadata(none) <person-index-r-yaakov-yitzchak-of-peshischa-1041> said. “You must have mistaken me for someone else.”
+Yaakov Yitzchak#metadata(none) <person-index-r-yaakov-yitzchak-of-peshischa-1042> said. “You must have mistaken me for someone else.”
 “Rebbe please forgive me,” the man implored. “I regret every word I
 said.” “That's impossible,” explained the Yid HaKadosh “Since you didn't
 insult me, I cannot possibly forgive you.” “What can I do?” cried the
@@ -13950,14 +13950,14 @@ the street, you only walk. I got that from my father ⁦ע״ה⁩, that's not a
 ⁧מנהג⁩⁦,⁩ that's a ⁧כיבוד אב⁩. So, an unusual ⁧מנהג⁩ which is referable to
 ⁧הושענא רבה⁩⁦,⁩ which I've never divulged to anybody, but I do it every
 year, is that there are a lot of things to say in the ⁧מחזור⁩ by ⁧הושענות⁩.
-When I do ⁧הושענות⁩ with Bobbi, #metadata(none) <person-index-bobbi-1054> we leave out all the little words and I
+When I do ⁧הושענות⁩ with Bobbi, #metadata(none) <person-index-bobbi-1055> we leave out all the little words and I
 just have her say the big words, this way we can get through it in a
 fairly reasonable length of time, probably under three minutes. One of
 the phrases we say is ⁧אָנָּא קֵל נָא הוֹשַׁע נָא וְהוֹשִׁיעָה נָּא אָבִינוּ אָתָּה⁩. There's a
-beautiful ⁧מעשה⁩ from R’ Elimelech of Lizhensk#metadata(none) <person-index-r-elimelech-of-lizhensk-1055> that conveys an extremely
+beautiful ⁧מעשה⁩ from R’ Elimelech of Lizhensk#metadata(none) <person-index-r-elimelech-of-lizhensk-1056> that conveys an extremely
 powerful thought.
 
-R’ Yeshaya Bardaki, #metadata(none) <person-index-r-yeshaya-bardaki-1056> one of the founders of the old ⁧ישוב⁩ in ⁧ירושלים⁩⁦,⁩ was
+R’ Yeshaya Bardaki, #metadata(none) <person-index-r-yeshaya-bardaki-1054> one of the founders of the old ⁧ישוב⁩ in ⁧ירושלים⁩⁦,⁩ was
 the rav of Pinsk. After his wife, ⁧נעבעך⁩⁦,⁩ passed away, he decided to take
 his two young children to ⁧ארץ ישראל⁩ in search of a new start. As the
 ship they were on approached the holy soil, a fierce storm broke out.
@@ -14008,7 +14008,7 @@ a moment's thought, at least one moment.
   ))
 = Hoshana Raba 5786
 
-Rabbi Moshe Wolfson's#metadata(none) <person-index-r-moshe-wolfson-1058> shoomzen have been translated into English. He has
+Rabbi Moshe Wolfson's#metadata(none) <person-index-r-moshe-wolfson-1059> shoomzen have been translated into English. He has
 a beautiful shmooze which he quotes from the ⁧אמרי אמת⁩⁦,⁩ #metadata(none) <person-index-imrei-emes-1057> the Gerrer Rebbe, on ⁧הושענא רבה⁩.
 
 ⁧הושענא רבה⁩ commemorates the final ⁧חותם⁩ of the year. On ⁧ראש השנה⁩⁦,⁩ the ⁧גזר דין⁩ is written, on ⁧יום כיפור⁩ it is sealed. Now, there are certain
@@ -14033,7 +14033,7 @@ for that ⁧עבירה⁩. He did so much ⁧תשובה⁩ for that ⁧עביר�
 ⁧ערבה⁩ that we use to do ⁧תשובה⁩ and reconnected it to ⁧כלל ישראל⁩. As the
 ⁧מדרש⁩ says, on ⁧הושענא רבה⁩ we reattach ourselves to the ⁧נשמות⁩ of one of
 the greatest people, ⁧בן ישי⁩⁦,⁩ and we can pour out our hearts and attain
-⁧תשובה⁩. As we climb up in ⁧תשרי⁩⁦,⁩ Rosh#metadata(none) <person-index-rosh-1059> Hashana brings us up to a mountain, Yom Kippur allows us to climb up higher. On ⁧הושענא רבה⁩⁦,⁩ we go above the
+⁧תשובה⁩. As we climb up in ⁧תשרי⁩⁦,⁩ Rosh#metadata(none) <person-index-rosh-1058> Hashana brings us up to a mountain, Yom Kippur allows us to climb up higher. On ⁧הושענא רבה⁩⁦,⁩ we go above the
 level of Yom Kippur to the level of ⁧משיח⁩⁦,⁩ so high that we are able to go
 down to the lowest of the low and show them the path to ⁧תשובה⁩.
 
@@ -14076,7 +14076,7 @@ in the ⁧זכות⁩ of ⁧דוד המלך⁩ and the ⁧ערבה⁩.
 
 I have two ⁧דברי תורה⁩ for ⁧שמיני עצרת⁩ and ⁧שמחת תורה⁩⁦,⁩ brought down in a ⁧ספר⁩
 called ⁧צלותא דאברהם⁩. It's based on the ⁧תפילות⁩ of a certain R’ Avraham
-Landau of Chekhanov, #metadata(none) <person-index-r-avraham-landau-of-chekhanov-1062> written by R’ Menachem Mendel Chaim Landau#metadata(none) <person-index-r-menachem-mendel-chaim-landau-1066> from a
+Landau of Chekhanov, #metadata(none) <person-index-r-avraham-landau-of-chekhanov-1062> written by R’ Menachem Mendel Chaim Landau#metadata(none) <person-index-r-menachem-mendel-chaim-landau-1063> from a
 city Zawiercie in Poland.
 
 The first is based on two ⁧פסוקים⁩ in ⁧אשרי⁩⁦,⁩ which are: ⁧רְצוֹן יְרֵאָיו יַעֲשֶׂה וְאֶת שַׁוְעָתָם יִשְׁמַע וְיוֹשִׁיעֵם׃ שׁוֹמֵר ה׳ אֶת כׇּל אֹהֲבָיו וְאֵת כׇּל הָרְשָׁעִים יַשְׁמִיד⁩. He brings
@@ -14110,10 +14110,10 @@ reason for this ⁧יום טוב⁩ is to remove the separation between Yidden. 
 should be a time where we all become one nation of ⁧אהבה⁩⁦,⁩ ⁧אחדות⁩ and ⁧חיבה⁩
 between every single Jew and his friend. That's why ⁧הקדוש ברוך הוא⁩ says, ⁧קשה עלי פרידתכם⁩. Just as ⁧הקדוש ברוך הוא⁩ loves each and every one of us, he wants each and every one of us to love each other.
 
-Now, a vort from R’ Meir'l of Premishlan#metadata(none) <person-index-r-meir-l-of-premishlan-1063> on ⁧שמחת תורה⁩⁦,⁩ also brought down
-in ⁧חיים שיש בהם⁩.#metadata(none) <person-index-chaim-shyesh-bahem-1061> One year, at this time of the year, R’ Meir'l's#metadata(none) <person-index-r-meir-l-of-premishlan-1064>
+Now, a vort from R’ Meir'l of Premishlan#metadata(none) <person-index-r-meir-l-of-premishlan-1064> on ⁧שמחת תורה⁩⁦,⁩ also brought down
+in ⁧חיים שיש בהם⁩.#metadata(none) <person-index-chaim-shyesh-bahem-1061> One year, at this time of the year, R’ Meir'l's#metadata(none) <person-index-r-meir-l-of-premishlan-1065>
 daughter became gravely ill. When ⁧שמחת תורה⁩ came, she was actually
-closer to ⁧מיתה⁩ than to ⁧חיים⁩. However, R’ Meir'l's#metadata(none) <person-index-r-meir-l-of-premishlan-1065> ⁧עבודה⁩ was unchanged.
+closer to ⁧מיתה⁩ than to ⁧חיים⁩. However, R’ Meir'l's#metadata(none) <person-index-r-meir-l-of-premishlan-1066> ⁧עבודה⁩ was unchanged.
 Exactly as he did every other year, he was ⁧שמח בשמחת תורה⁩ as if there
 was nothing wrong, as if everything was completely fine. The ⁧חסידים⁩ came
 running to him and they said, “Go look what's going on, see what her ⁧מצב⁩
@@ -14321,10 +14321,10 @@ Hashem, we hope that closeness should continue the whole year.
 = Simchas Torah 5784
 
 ⁧שישו ושמחו בשמחת תורה, ותנו כבוד לתורה⁩. This is a splendid story written
-by R’ Chaim Dahan#metadata(none) <person-index-r-chaim-dahan-1088> in the Torah Tavlin#metadata(none) <person-index-torah-tavlin-1090> a number of years ago. You may
+by R’ Chaim Dahan#metadata(none) <person-index-r-chaim-dahan-1079> in the Torah Tavlin#metadata(none) <person-index-torah-tavlin-1090> a number of years ago. You may
 have heard it before, but it's so beautiful, it's worth repeating.
 
-The morning of ⁧שמחת תורה⁩⁦,⁩ R’ Baruch Rabinowitz#metadata(none) <person-index-r-baruch-rabinowitz-1087> and his son Nota Shloima, who had Down's syndrome, headed off to Yeshiva Torah Vodaath to dance, sing, and revel in the completion of yet another cycle of the annual
+The morning of ⁧שמחת תורה⁩⁦,⁩ R’ Baruch Rabinowitz#metadata(none) <person-index-r-baruch-rabinowitz-1089> and his son Nota Shloima, who had Down's syndrome, headed off to Yeshiva Torah Vodaath to dance, sing, and revel in the completion of yet another cycle of the annual
 Torah reading. Young Nota Shloima was as happy as could be. He carried
 along his own beautiful little ⁧ספר תורה⁩ made out of paper, which his
 parents had bought him. It was by no means a real ⁧ספר תורה⁩⁦,⁩ but to
@@ -14338,27 +14338,27 @@ approached one of the ⁧גבאים⁩ and he said, “Are you going to read fro
 ⁧ספר תורה⁩⁦?⁩” The ⁧גבאי⁩ looked at little Nota Shloima, knowing what his
 answer was but not having the heart to tell him that this little paper
 ⁧ספר תורה⁩ was beautiful, but you couldn't lein from it. Looking over at
-Nota Shloima and the ⁧גבאי⁩ was R’ Avraham Pam#metadata(none) <person-index-r-avraham-pam-1079> ⁦זצ״ל⁩, the ⁧ראש ישיבה⁩ of
+Nota Shloima and the ⁧גבאי⁩ was R’ Avraham Pam#metadata(none) <person-index-r-avraham-pam-1081> ⁦זצ״ל⁩, the ⁧ראש ישיבה⁩ of
 Torah Vodaath. He overheard what Nota Shloima had said and realized what
-the issue was. Without hesitating, Rav Pam#metadata(none) <person-index-r-avraham-pam-1080> got up and walked over to
+the issue was. Without hesitating, Rav Pam#metadata(none) <person-index-r-avraham-pam-1082> got up and walked over to
 Nota Shloima, who still stood beside the ⁧גבאי⁩⁦,⁩ waiting for an answer.
-Rav Pam#metadata(none) <person-index-r-avraham-pam-1081> bent down and whispered something into Nota Shloima's ear. All
+Rav Pam#metadata(none) <person-index-r-avraham-pam-1083> bent down and whispered something into Nota Shloima's ear. All
 that could be heard was Nota Shloima's soft, compliant reply, “Okay.”
 And with that, Nota Shloima quietly went back to his seat. Everyone
-watched in surprise. Rav Pam#metadata(none) <person-index-r-avraham-pam-1082> had apparently said the perfect words to
+watched in surprise. Rav Pam#metadata(none) <person-index-r-avraham-pam-1084> had apparently said the perfect words to
 ease Nota Shloima, but no one had any idea what they were.
 
 Nota Shloima remained peacefully seated throughout the remainder of
 davening, periodically asking his father when everyone would begin going
 home. By the time davening was over, it was close to two o'clock in the
 afternoon, as is usual on ⁧שמחת תורה⁩. While everyone else began to exit
-the shul, Rav Pam#metadata(none) <person-index-r-avraham-pam-1083> walked over to Nota Shloima, who was eagerly waiting.
-“Do you remember what I told you, Nota Shloima?” Rav Pam#metadata(none) <person-index-r-avraham-pam-1084> said. “Now it's
+the shul, Rav Pam#metadata(none) <person-index-r-avraham-pam-1085> walked over to Nota Shloima, who was eagerly waiting.
+“Do you remember what I told you, Nota Shloima?” Rav Pam#metadata(none) <person-index-r-avraham-pam-1086> said. “Now it's
 your turn.” Right then and there, as the many men and women were filing
-out of the shul, Rav Pam#metadata(none) <person-index-r-avraham-pam-1085> remained with Nota Shloima, dancing and
+out of the shul, Rav Pam#metadata(none) <person-index-r-avraham-pam-1087> remained with Nota Shloima, dancing and
 singing. The two of them enjoyed their own little ⁧הקפות⁩⁦,⁩ and then Nota
 Shloima was given a make-believe ⁧עליה⁩ from his ⁧תורה⁩. Now everyone
-understood what Rav Pam#metadata(none) <person-index-r-avraham-pam-1086> had whispered to Nota Shloima. He had said, “Nota Shloima, right now it is the time for the older people in shul to
+understood what Rav Pam#metadata(none) <person-index-r-avraham-pam-1088> had whispered to Nota Shloima. He had said, “Nota Shloima, right now it is the time for the older people in shul to
 use their ⁧ספר תורה⁩. After we finish davening, we'll use your ⁧ספר תורה⁩⁦,⁩ you will receive an ⁧עליה⁩⁦,⁩ and we will dance together.” And that's
 exactly what they did. The great ⁧ראש ישיבה⁩ made time for young Nota
 Shloima and showed him that he mattered and was just as important as
@@ -14366,7 +14366,7 @@ everyone else. Such is the true joy of ⁧שמחת תורה⁩ and the mark of a
 ⁧תורה⁩ leader.
 
 I'm going to tell you a different story about sensitivity, which R’
-Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-1089> told us right before ⁧שופר⁩ blowing this last ⁧ראש השנה⁩. Many years
+Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-1080> told us right before ⁧שופר⁩ blowing this last ⁧ראש השנה⁩. Many years
 ago, a plane was hijacked. There were ⁧תפילות⁩ all over the world for the
 people on that plane, and Baruch Hashem, this story has a happy ending.
 They were all released and got out safely. On that particular plane, there was a young woman who got back to New York and was doubly thrilled
@@ -14397,12 +14397,12 @@ concerned about everybody else, relatives and non-relatives alike.
 
 ⁧שמחת תורה⁩. The sefer ⁧יסוד ושורש העבודה⁩ writes that a person who fully
 rejoices with the Torah on ⁧שמחת תורה⁩ is given the promise that the Torah
-will remain in his family for all future ⁧דורות⁩. R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-1093>
-quotes R’ Chaim Vital, #metadata(none) <person-index-r-chaim-vital-1092> who describes how his rebbi, the ⁦אר״י הקדוש⁩, #metadata(none) <person-index-arizal-1091>
+will remain in his family for all future ⁧דורות⁩. R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-1096>
+quotes R’ Chaim Vital, #metadata(none) <person-index-r-chaim-vital-1101> who describes how his rebbi, the ⁦אר״י הקדוש⁩, #metadata(none) <person-index-arizal-1091>
 would dance with all of his might in honor of the Torah. He would go
 from one ⁧בית מדרש⁩ to another to dance with every ⁧ספר תורה⁩ in each shul.
-The sefer ⁧מעשה רב⁩ describes that the ⁧ווילנא גאון⁩#metadata(none) <person-index-vilna-gaon-1101> was extremely joyous
-when he danced before the ⁧ספר תורה⁩. The Satmar Rebbe#metadata(none) <person-index-r-yoel-teitelbaum-1100> would dance until
+The sefer ⁧מעשה רב⁩ describes that the ⁧ווילנא גאון⁩#metadata(none) <person-index-vilna-gaon-1100> was extremely joyous
+when he danced before the ⁧ספר תורה⁩. The Satmar Rebbe#metadata(none) <person-index-r-yoel-teitelbaum-1099> would dance until
 the point of collapse on ⁧שמחת תורה⁩⁦,⁩ using every ounce of energy. When he
 was asked how he had the strength to dance with such enthusiasm after
 the exhausting ⁧עבודה⁩ of the previous few weeks, culminating with the
@@ -14423,9 +14423,9 @@ before the ⁧תורה⁩ for ⁧כבוד התורה⁩ generated such a punishm
 appreciating ⁧כבוד התורה⁩ and exerting oneself to dance for the ⁧תורה⁩ has
 the opposite effect, the ⁧ברכה⁩ of ⁧קינדערלאך⁩. Good to know.
 
-R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-1094> says that one of the friends in his ⁧חבורה⁩ was
+R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-1097> says that one of the friends in his ⁧חבורה⁩ was
 already married for several years, but his and his wife's ⁧תפילות⁩ had not
-yet been answered. His name was R’ Shiya Berlin, #metadata(none) <person-index-r-shiya-berlin-1096> and he lived in ⁧בית שמש⁩. One year on ⁧הושענא רבה⁩⁦,⁩ R’ Shiya#metadata(none) <person-index-r-shiya-berlin-1097> saw these words of the ⁧ישמח ישראל⁩⁦,⁩ #metadata(none) <person-index-yismach-yisrael-1103>
+yet been answered. His name was R’ Shiya Berlin, #metadata(none) <person-index-r-shiya-berlin-1092> and he lived in ⁧בית שמש⁩. One year on ⁧הושענא רבה⁩⁦,⁩ R’ Shiya#metadata(none) <person-index-r-shiya-berlin-1093> saw these words of the ⁧ישמח ישראל⁩⁦,⁩ #metadata(none) <person-index-yismach-yisrael-1103>
 and when ⁧שמחת תורה⁩ arrived, he invested extraordinary efforts in
 dancing, putting in not just physical energy, but his entire dignity. He
 became a ⁧ווילדע חיה⁩. He leaped and spun in front of the ⁧תורה⁩. He gave
@@ -14433,13 +14433,13 @@ the shul a ⁧שמחת תורה⁩ which they had never had before. His first ch
 was born nine months later on the eleventh day of ⁧תמוז⁩. Two years later, he did it again, exerting himself for ⁧כבוד התורה⁩⁦,⁩ and once again, he had
 a baby in the following ⁧תמוז⁩.
 
-“Right here,” R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1095> pointed to the door of his shul, “A yid came
+“Right here,” R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1098> pointed to the door of his shul, “A yid came
 in to see me this year in ⁧סיון⁩. He wanted to talk to me, but I was on my
 way into shul. He said he only needed half a minute. 'I'm making a ⁧ברית⁩
 tomorrow', he said. '⁧מזל טוב⁩!’ I replied 'You should have Yiddish ⁧נחת⁩’, and I gave him all the ⁧ברכות⁩. But then he stopped me. 'We were married
 for 10 years and this is our first child', he told me. 'I heard the
-story you said about R’ Shiya#metadata(none) <person-index-r-shiya-berlin-1098> last ⁧הושענא רבה⁩ and I resolved to do the
-same thing. I'm not the same person as R’ Shiya.#metadata(none) <person-index-r-shiya-berlin-1099> I didn't feel that I
+story you said about R’ Shiya#metadata(none) <person-index-r-shiya-berlin-1094> last ⁧הושענא רבה⁩ and I resolved to do the
+same thing. I'm not the same person as R’ Shiya.#metadata(none) <person-index-r-shiya-berlin-1095> I didn't feel that I
 could do it in my ⁧בית מדרש⁩⁦,⁩ I couldn't make a fool of myself in my ⁧בית מדרש⁩. So I davened in the Vizhnitz ⁧מושב זקנים⁩⁦,⁩ the old age home. I
 danced like I never did before, focusing only on ⁧כבוד התורה⁩. And
 tomorrow we're making a ⁧ברית⁩\.’”
@@ -14631,7 +14631,7 @@ it at the right time and do the right thing.”
 ⁧חנוכה⁩! The ⁧מצוה⁩ of ⁧חנוכה⁩ is ⁧מהדרין מן המהדרין⁩. We follow the opinion of
 ⁧בית הלל⁩⁦,⁩ and each day we add another candle. On the first night, we
 light one candle; on the second night, two; and so on. I saw a
-fantastic, ⁧גיוואלדיק⁩ insight on this from R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-1112>
+fantastic, ⁧גיוואלדיק⁩ insight on this from R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-1111>
 (#emph[Around the Year with Reb Meilech.] Permission granted by
 ArtScroll / Mesorah Publications), he should live and be well. He
 explains that the ⁧עבודה⁩ of contemplating and reflecting on the ⁧חסדים⁩ of
@@ -14645,12 +14645,12 @@ unique. Unlike a ⁧קרבן שלמים⁩⁦,⁩ which may be consumed over two
 intervening night, the ⁧קרבן תודה⁩ is eaten only on the day it is brought
 and the following night. Why is that?
 
-The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-1111> explains that the ⁧קרבן תודה⁩ is restricted to one day
+The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-1114> explains that the ⁧קרבן תודה⁩ is restricted to one day
 because each new day brings its own reason for expressing thanks. Every
 day has its own ⁧נס⁩. One who lives with awareness and pays attention to
 the ⁧חסדים⁩ that flow from Hashem will see this clearly.
 
-R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1113> shared a story about a Yid in ⁧ארץ ישראל⁩ who lost his father
+R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1112> shared a story about a Yid in ⁧ארץ ישראל⁩ who lost his father
 at a young age. His mother, left without a means to support the family, wanted him to leave ⁧ישיבה⁩ and go to work. Unsure of what to do, he
 approached his ⁧ראש ישיבה⁩⁦,⁩ the Manchester ⁧צדיק⁩⁦,⁩ R’ Yehuda Zev Segal#metadata(none) <person-index-r-yehuda-zev-segal-1115> for
 guidance. R’ Segal#metadata(none) <person-index-r-yehuda-zev-segal-1116> advised him to go to work but gave him a ⁧תנאי⁩ - a
@@ -14658,7 +14658,7 @@ condition to carry with him.
 
 “Every night in ⁧מעריב⁩⁦,⁩ when you say the words in davening, ⁧וְעַל נִסֶּיךָ שֶׁבְּכָל יוֹם עִמָּנוּ⁩⁦,⁩ 'the miracles You perform for us every day,’” he instructed, “think of one ⁧נס⁩ that you merited that day.”
 
-The Yid told R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1114> that 40 years have passed since that moment, and not a single day has gone by where he struggled to find a ⁧נס⁩ to
+The Yid told R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1113> that 40 years have passed since that moment, and not a single day has gone by where he struggled to find a ⁧נס⁩ to
 reflect upon. This simple condition given by R’ Segal#metadata(none) <person-index-r-yehuda-zev-segal-1117> not only helped
 him live with an awareness of Hashem's ⁧חסדים⁩⁦,⁩ but also transformed his
 ⁧תפילות⁩ into something much more powerful.
@@ -14727,16 +14727,16 @@ deep into our ⁧נשמות⁩⁦,⁩ and give us a tremendous ⁧ישועה⁩ 
 (Erev Shabbos)]
 
 The ⁧אבודרהם⁩⁦,⁩ #metadata(none) <person-index-avudraham-1122> as quoted in the ⁧בית יוסף⁩#metadata(none) <person-index-bais-yosef-1123> and brought down by R’ Elimelech
-Biderman#metadata(none) <person-index-r-elimelech-biderman-1125> (#emph[Around the Year with Reb Meilech]. Permission granted by
+Biderman#metadata(none) <person-index-r-elimelech-biderman-1124> (#emph[Around the Year with Reb Meilech]. Permission granted by
 ArtScroll / Mesorah Publications), ⁧זאָל זיין געזונט און שטאַרק⁩⁦,⁩ finds a
 source from a ⁧פסוק⁩ in ⁧יחזקאל⁩ that teaches that if ⁧עשרה בטבת⁩ were to fall
 on ⁧שבת⁩⁦,⁩ we would fast on ⁧שבת⁩. Most other fast days are postponed when
 they fall on ⁧שבת⁩⁦,⁩ but ⁧עשרה בטבת⁩⁦,⁩ like ⁧יום כיפור⁩⁦,⁩ would be observed on
-its proper day. This is remarkable. R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1126> asks: How is it that
+its proper day. This is remarkable. R’ Biderman#metadata(none) <person-index-r-elimelech-biderman-1125> asks: How is it that
 ⁧עשרה בטבת⁩⁦,⁩ marking the day that ⁧מלך בבל⁩ first laid siege to ⁧ירושלים⁩⁦,⁩ would carry a stringency greater than ⁧תשעה באב⁩⁦,⁩ the day the ⁧בית המקדש⁩
 was actually destroyed, which is ⁧נדחה⁩ when it falls on ⁧שבת⁩?
 
-The ⁧חתם סופר⁩#metadata(none) <person-index-chasam-sofer-1124> explains that when an earthly king like ⁧מלך בבל⁩ was granted
+The ⁧חתם סופר⁩#metadata(none) <person-index-chasam-sofer-1126> explains that when an earthly king like ⁧מלך בבל⁩ was granted
 the ability to begin the siege on ⁧ירושלים⁩⁦,⁩ it was because in ⁧שמים⁩ the
 ⁧חורבן⁩ had already been decreed. The physical siege merely reflected a
 spiritual reality that had already taken form.
@@ -14783,7 +14783,7 @@ begins in ⁧ראש השנה⁩ by discussing the ⁧ראש השנה⁩ for ⁧�
 why does it say ⁧אילן⁩ in the singular when it should say ⁧אילנות⁩⁦,⁩ in
 plural? All the other ⁧ראש השנה⁩ s mentioned, such as ⁧למלכים⁩⁦,⁩ ⁧לשמטין⁩⁦,⁩ ⁧ליובלות⁩ are in plural?
 
-A famous ⁧תירוץ⁩ brought by the ⁧בני יששכר⁩⁦,⁩ #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-1131> ⁧זכותו יגן עלינו⁩⁦,⁩ explains that
+A famous ⁧תירוץ⁩ brought by the ⁧בני יששכר⁩⁦,⁩ #metadata(none) <person-index-r-tzvi-elimelech-of-dinov-1132> ⁧זכותו יגן עלינו⁩⁦,⁩ explains that
 it refers to a specific ⁧אילן⁩ that we should daven for and think about on
 ⁧חמשה עשר בשבט⁩⁦,⁩ \[or ⁧ראש חודש שבט⁩ according to ⁧בית שמאי⁩⁦,⁩ of course, we
 ⁧פסקין⁩ like ⁧בית הלל⁩\]. This specific ⁧אילן⁩ is the ⁧אתרוג⁩. When a person
@@ -14806,7 +14806,7 @@ This is a powerful ⁧מוסר⁩ about our ⁧בטחון⁩ and ⁧אמונה�
 the world, even when it's not visible. We see because we believe, not
 the other way around.
 
-The Sanzer Rav#metadata(none) <person-index-the-sanzer-rav-1132> points out another fascinating aspect, highlighted by R’
+The Sanzer Rav#metadata(none) <person-index-the-sanzer-rav-1131> points out another fascinating aspect, highlighted by R’
 Biderman: #metadata(none) <person-index-r-elimelech-biderman-1129> from ⁧חמשה עשר בשבט⁩ onwards, every two weeks marks another ⁧יום טוב⁩. Starting with ⁧חמשה עשר בשבט⁩⁦,⁩ followed by
 
 #align(right)[
@@ -14847,7 +14847,7 @@ celebrate the conception of a new human being, the very outset of
 creation? It's an intriguing question that I had never really considered
 before.
 
-R’ Moshe Kormornick, #metadata(none) <person-index-r-kormornick-1134> in his essay on ⁦ט״ו בשבט⁩, addresses this thought.
+R’ Moshe Kormornick, #metadata(none) <person-index-r-kormornick-1133> in his essay on ⁦ט״ו בשבט⁩, addresses this thought.
 He explains that the ⁧משנה⁩ assigns the ⁧ראש השנה⁩ for ⁧אילנות⁩ to the month
 of ⁧שבט⁩⁦,⁩ where we find the famous ⁧מחלוקת⁩ between ⁧בית שמאי⁩ and ⁧בית הלל⁩.
 While we paskin like ⁧בית הלל⁩ that it falls on ⁦ט״ו בשבט⁩, the timing is
@@ -14857,7 +14857,7 @@ is frozen, and the trees appear barren. Is this really the time to
 celebrate the ⁧ראש השנה⁩ for trees? On the surface, it doesn't seem
 fitting.
 
-Yet, R’ Kormornick#metadata(none) <person-index-r-kormornick-1135> argues that ⁧שבט⁩ is actually the perfect time to
+Yet, R’ Kormornick#metadata(none) <person-index-r-kormornick-1134> argues that ⁧שבט⁩ is actually the perfect time to
 celebrate the life of trees. As the ⁧גמרא⁩ points out, this is when the
 sap begins to rise within the trees, marking the very beginning of their
 new growth cycle, even though nothing visible is happening yet. This
@@ -14874,7 +14874,7 @@ R’ Feitman, who recently published a sefer on the so-called “minor” ⁧י�
 ArtScroll / Mesorah Publications) emphasizes that ⁦ט״ו בשבט⁩ is far from
 minor. If we “listen” to the trees on this day, they can teach us
 profound lessons. One ⁧קנייטש⁩ he shares, quoting Rabbi Dr. Avraham
-Twerski, #metadata(none) <person-index-rabbi-dr-abraham-twerski-1133> relates to the unique characteristics of trees. A tree stands
+Twerski, #metadata(none) <person-index-rabbi-dr-abraham-twerski-1135> relates to the unique characteristics of trees. A tree stands
 tall and majestic, yet it humbles itself by providing fruit and shade.
 It offers humanity tremendous benefits, teaching us that majesty and
 humility can coexist, enabling us to fulfill our ⁧תפקיד⁩ in life.
@@ -14901,7 +14901,7 @@ the ultimate ⁧גאולה, במהרה בימינו⁩.
 = Purim Katon 5784
 
 This year, as an ⁧עיבור יאר⁩⁦,⁩ we have two Purims - ⁧פורים קטן⁩ and ⁧פורים גדול⁩. And we're lucky in that respect. Here's a small ⁧הערה⁩ which I had
-the ⁧זכות⁩ to hear from R’ Aryeh Strickoff, #metadata(none) <person-index-r-aryeh-strickoff-1139> the author of the well-known
+the ⁧זכות⁩ to hear from R’ Aryeh Strickoff, #metadata(none) <person-index-r-aryeh-strickoff-1141> the author of the well-known
 book Inside Purim, regarding ⁧פורים קטן⁩⁦,⁩ and I thought it would be
 worthwhile to share it with you. ⁧פורים⁩⁦,⁩ as we know, is a ⁧זמן⁩ that is
 ⁧מסוגל⁩ for ⁧תפילה⁩. Just as ⁦אסתר'⁩s ⁧תפילה⁩ was ⁧מקובל⁩⁦,⁩ so too, throughout all
@@ -14925,7 +14925,7 @@ remains just as strong. That means we have an extra opportunity, an
 extra chance, and an extra ⁧זכות⁩ to have our ⁧תפילות⁩ answered. So let's do
 that on this ⁧פורים קטן⁩. Let's daven our hearts out. Let's daven for ⁧כלל ישראל⁩⁦,⁩ let's daven for ⁧ארץ ישראל⁩⁦,⁩ let's daven for us, let's daven for
 all ⁧ישראל⁩⁦,⁩ all around the world. Because on ⁧פורים קטן⁩ there's no ⁧משלוח מנות⁩. But we can daven, and we can daven very well. So that's from R’
-Aryeh Strickoff, #metadata(none) <person-index-r-aryeh-strickoff-1140> I want to give credit where credit is due, ⁧הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם ⁦(אבות ו:ו)⁩⁩. So I wanted to share that with you.
+Aryeh Strickoff, #metadata(none) <person-index-r-aryeh-strickoff-1142> I want to give credit where credit is due, ⁧הָאוֹמֵר דָּבָר בְּשֵׁם אוֹמְרוֹ מֵבִיא גְאֻלָּה לָעוֹלָם ⁦(אבות ו:ו)⁩⁩. So I wanted to share that with you.
 
 It is brought down in the ⁧ספר כנפי השכינה⁩ that the letters of the word
 ⁧פורים⁩ contain all of the ⁧ימים טובים⁩⁦,⁩ showing that they are all connected
@@ -14936,7 +14936,7 @@ means that both Purims, ⁧פורים קטן⁩ and ⁧פורים גדול⁩⁦
 
 Another vort that I would like to share with you is from the sefer ⁧אִגֶרֶת פורים⁩. The Apter Rav, #metadata(none) <person-index-apter-rav-1136> R’ Avraham Yehoshua Heshel, #metadata(none) <person-index-apter-rav-1137> made a ⁧סעודה⁩ for all
 of his ⁧תלמידים⁩ and his ⁧חסידים⁩ on ⁧פורים קטן⁩. Among the people sitting at
-his ⁧פורים קטן סעודה⁩ was a Chassidish Rebbe named R’ Lieb M'Lichev.#metadata(none) <person-index-r-lieb-m-lichev-1142> He
+his ⁧פורים קטן סעודה⁩ was a Chassidish Rebbe named R’ Lieb M'Lichev.#metadata(none) <person-index-r-lieb-m-lichev-1140> He
 was a well-seasoned ⁧תלמיד חכם⁩. During the ⁧סעודה⁩⁦,⁩ the Apter Rav#metadata(none) <person-index-apter-rav-1138> turned to
 R’ Leib and said, “Leib, let's hear something from you! Enlighten us
 with your words.” R’ Leib smiled and responded, “The ⁧מנהג⁩ of the world
@@ -14966,7 +14966,7 @@ came from a place of ⁧שמחה⁩⁦,⁩ triumph, and excitement, he was answe
 ⁧מרדכי⁩ and lead him through the streets on the horse, he found ⁧מרדכי⁩
 davening. The ⁧גמרא⁩ clearly says ⁧המן⁩ waited for him to finish. This is
 astounding! The ⁧בן יהוידע⁩ asks, “Why would a ⁧רשע⁩ wait for a ⁧צדיק⁩ to
-daven?” R’ Elimelech Biderman, #metadata(none) <person-index-r-elimelech-biderman-1141> who was saying over this ⁧דבר תורה⁩⁦,⁩ (#emph[Around the Year with Reb Meilech.] Permission granted by
+daven?” R’ Elimelech Biderman, #metadata(none) <person-index-r-elimelech-biderman-1139> who was saying over this ⁧דבר תורה⁩⁦,⁩ (#emph[Around the Year with Reb Meilech.] Permission granted by
 ArtScroll / Mesorah Publications) emphasizes each word to make his point
 as persuasively as possible: It's because he saw that ⁧מרדכי⁩ was ⁧צעבראכן⁩⁦,⁩ filled with anguish and pain. He didn't want to interrupt that with good
 news, because that would elevate the whole ⁧תפילה⁩⁦,⁩ and would enable ⁧מרדכי⁩
@@ -15058,25 +15058,25 @@ legacy will be lost forever. Have a ⁧פריילעכן פורים⁩!
   ))
 = Story Purim 5783
 
-R’ Yaakov Mordechai Greenwald, #metadata(none) <person-index-r-yaakov-mordechai-greenwald-1153> a ⁧חשוב⁩ rav, related the following story, which is quoted by R’ Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-1154> in his sefer Veha'arev Na. Today we
+R’ Yaakov Mordechai Greenwald, #metadata(none) <person-index-r-yaakov-mordechai-greenwald-1145> a ⁧חשוב⁩ rav, related the following story, which is quoted by R’ Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-1154> in his sefer Veha'arev Na. Today we
 know that there are many secrets that are hidden in the ⁧תורה⁩. You have
 computer ways of printing and looking at the letters. We know that the
 ⁧תורה⁩ is ⁧נִצחִיות⁩. Hashem has many codes hidden in the ⁧תורה⁩⁦,⁩ as is well
 known. Over fifty years ago, there was a famous rav, R’ Michael Dovid
-Weissmandl, #metadata(none) <person-index-r-michael-dovid-weissmandl-1145> known as the ⁧גאון⁩ of the secrets of the ⁧תורה⁩. He was
+Weissmandl, #metadata(none) <person-index-r-michael-dovid-weissmandl-1146> known as the ⁧גאון⁩ of the secrets of the ⁧תורה⁩. He was
 referred to as the pre-computer - essentially a living computer before
 such technology even existed. He once shared the following fascinating
-insight. One ⁧פורים⁩⁦,⁩ R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1146> approached R’ Greenwald and asked, “Have you ever counted how many letters are in the ⁧מגילה⁩?” R’ Greenwald
-admitted, “I have no idea.” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1147> responded, “There are 12,196
+insight. One ⁧פורים⁩⁦,⁩ R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1147> approached R’ Greenwald and asked, “Have you ever counted how many letters are in the ⁧מגילה⁩?” R’ Greenwald
+admitted, “I have no idea.” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1148> responded, “There are 12,196
 letters in the ⁧מגילה⁩\.” R’ Greenwald asked, “So what do you do with that
-information?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1148> said, “Bring me a ⁧חומש⁩. Let me show you
+information?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1149> said, “Bring me a ⁧חומש⁩. Let me show you
 something. Start counting from the first ⁧א⁩ in the ⁧תורה⁩⁦,⁩ which appears in
 ⁧בְּרֵאשִׁית⁩. Count 12,196 letters forward. What letter do you land on? It
 will be a ⁧ס⁩. Count another 12,196 letters, and you'll get a ⁧ת⁩. Count
 another 12,196, you get a ⁧ר⁩. That's the name of ⁧אסתר⁩\.” R’ Greenwald was
 amazed. Jokingly, he asked, “And what about ⁧מרדכי⁩? We found ⁧אסתר⁩ - where
-is ⁧מרדכי⁩?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1149> smiled and said, “Check with me next year.” The
-following year, R’ Greenwald came to R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1150> and greeted him with, “Where is ⁧מרדכי⁩?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1151> said, “I found the ⁧רמז⁩ from ⁧מרדכי⁩ as
+is ⁧מרדכי⁩?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1150> smiled and said, “Check with me next year.” The
+following year, R’ Greenwald came to R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1151> and greeted him with, “Where is ⁧מרדכי⁩?” R’ Weissmandl#metadata(none) <person-index-r-michael-dovid-weissmandl-1152> said, “I found the ⁧רמז⁩ from ⁧מרדכי⁩ as
 well. ⁦חז״ל⁩ say in ⁦⁧חולין⁩ ⁧מסכת⁩ (דף קל״ט): ⁧מנין⁩ ⁧התורה⁩ ⁧מן⁩ ⁧מרדכי⁩?⁩ - Where can
 we find ⁧מרדכי⁩ in the ⁧תורה⁩? The ⁧פסוק⁩ says in ⁧פרשת כי תשא⁩ ⁦(30:23),⁩ ⁧וְאַתָּה קַח לְךָ בְּשָׂמִים רֹאשׁ מׇר דְּרוֹר⁩. The ⁧תרגום⁩ of ⁧מׇר דְּרוֹר⁩ is ⁧מֵירָא דַכְיָא⁩⁦,⁩ which is ⁧מרדכי⁩.
 This is where ⁧מרדכי⁩ is hinted to in the ⁧תורה⁩. Now, start taking from the
@@ -15092,7 +15092,7 @@ for them. After the ⁧סעודה⁩⁦,⁩ she started asking me a series of di
 questions. One of her primary struggles was that she simply couldn't
 believe that the ⁧תורה⁩ came from ⁧שמים⁩. She insisted it was impossible to
 accept. I was racking my brain, trying to think of what to say, and
-suddenly, I remembered R’ Weissmandl's#metadata(none) <person-index-r-michael-dovid-weissmandl-1152> vort. I told her about the ⁧ענין⁩
+suddenly, I remembered R’ Weissmandl's#metadata(none) <person-index-r-michael-dovid-weissmandl-1153> vort. I told her about the ⁧ענין⁩
 of ⁧פורים⁩ and shared with her the incredible ⁧רמזים⁩ of ⁧מרדכי⁩ and ⁧אסתר⁩
 hidden in the ⁧תורה⁩. She listened intently, then excused herself and went
 to her room. The next morning, we saw her - her eyes were bloodshot, and
@@ -15183,8 +15183,8 @@ Another great example of Hashem being hidden in the ⁧מגילה⁩ in plain
 sight. Although the events of ⁧פורים⁩ may not have appeared obvious to the
 casual observer, since there are no open miracles, Hashem's name is
 hidden here exactly to point out that it was Hashem who brought about
-⁧ונהפוך הוא⁩. R’ Aryeh Strickoff, #metadata(none) <person-index-r-aryeh-strickoff-1155> who wrote this ⁧ספר⁩⁦,⁩ gives credit to R’
-Shmuel Marcus#metadata(none) <person-index-r-shmuel-marcus-1158> from our neighborhood in Queens, having alerted him and
+⁧ונהפוך הוא⁩. R’ Aryeh Strickoff, #metadata(none) <person-index-r-aryeh-strickoff-1158> who wrote this ⁧ספר⁩⁦,⁩ gives credit to R’
+Shmuel Marcus#metadata(none) <person-index-r-shmuel-marcus-1155> from our neighborhood in Queens, having alerted him and
 brought this vort to his attention, from R’ Mordechai Sabato's#metadata(none) <person-index-r-mordechai-sabato-1157> ⁧ספר⁩
 called ⁧הדסה היא אסתר⁩. I thought this was a splendid piece of ⁧תורה⁩ from
 which we could all learn. Happy ⁧פורים⁩!
@@ -15330,10 +15330,10 @@ Yidden. When you're ⁧מהנה⁩ another Yid, you're doing ⁧רצון השם,
 = Bentching
 
 I recently had the opportunity to meet with a Rebbi who is working with
-my ⁧אייניקל⁩⁦,⁩ Asher Malool.#metadata(none) <person-index-asher-malool-1167> The Rebbi's name is R’ Yaron Halbertal.#metadata(none) <person-index-r-yaron-halbertal-1169>
+my ⁧אייניקל⁩⁦,⁩ Asher Malool.#metadata(none) <person-index-asher-malool-1169> The Rebbi's name is R’ Yaron Halbertal.#metadata(none) <person-index-r-yaron-halbertal-1168>
 
 When I mentioned to him in passing that we've written a sefer, and the
-sefer is called ⁧הַדֹּבֵר בִּי⁩⁦,⁩ which intimates to my name and Bobbi D's#metadata(none) <person-index-bobbi-1168> name, ⁧דברה⁩⁦,⁩ he told me an interesting vort from R’ Moshe Meir Weiss which I
+sefer is called ⁧הַדֹּבֵר בִּי⁩⁦,⁩ which intimates to my name and Bobbi D's#metadata(none) <person-index-bobbi-1167> name, ⁧דברה⁩⁦,⁩ he told me an interesting vort from R’ Moshe Meir Weiss which I
 wanted to share with you. And it goes like this:
 
 We all know that Moshe Rabbeinu wrote the first paragraph of Birchas
@@ -15988,6 +15988,10 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("A Short Vort",), (label("person-index-a-short-vort-515"), label("person-index-a-short-vort-672"), label("person-index-a-short-vort-769"), label("person-index-a-short-vort-807"), label("person-index-a-short-vort-1047"), label("person-index-a-short-vort-1069"), label("person-index-a-short-vort-1105"), label("person-index-a-short-vort-1119")))
 
+#index-row(("R’ Yechezkel Abramsky",), (label("person-index-r-abramsky-858"), label("person-index-r-abramsky-859"), label("person-index-r-abramsky-860")))
+
+#index-row(("R’ Nosson Adler",), (label("person-index-r-nosson-adler-134"), label("person-index-r-nosson-adler-135")))
+
 #index-row(("Ahavas Torah",), (label("person-index-ahavas-torah-756"), label("person-index-ahavas-torah-757"), label("person-index-ahavas-torah-758")))
 
 #index-row(("Alshich",), (label("person-index-alshich-372"), label("person-index-alshich-830"), label("person-index-alshich-1159")))
@@ -16002,8 +16006,6 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Aruch HaShulchan",), (label("person-index-aruch-hashulchan-373"), label("person-index-aruch-hashulchan-374"), label("person-index-aruch-hashulchan-375"), label("person-index-aruch-hashulchan-376"), label("person-index-aruch-hashulchan-439"), label("person-index-aruch-hashulchan-440"), label("person-index-aruch-hashulchan-441")))
 
-#index-row(("Asher Malool",), (label("person-index-asher-malool-1167"),))
-
 #index-row(("Avudraham",), (label("person-index-avudraham-1122"),))
 
 #index-row(("Baal Haturim",), (label("person-index-baal-haturim-230"), label("person-index-baal-haturim-337"), label("person-index-baal-haturim-371"), label("person-index-baal-haturim-557")))
@@ -16016,25 +16018,59 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Bais Yosef",), (label("person-index-bais-yosef-1123"),))
 
+#index-row(("R’ Yeshaya Bardaki",), (label("person-index-r-yeshaya-bardaki-1054"),))
+
+#index-row(("Rebbetzin Barzam",), (label("person-index-rebbetzin-barzam-125"),))
+
 #index-row(("Be’er Mayim Chaim",), (label("person-index-be-er-mayim-chaim-242"), label("person-index-be-er-mayim-chaim-243")))
 
-#index-row(("Belzer Rebbe",), (label("person-index-the-belzer-rebbe-22"), label("person-index-the-belzer-rebbe-122"), label("person-index-the-belzer-rebbe-725"), label("person-index-the-belzer-rebbe-726"), label("person-index-the-belzer-rebbe-858")))
+#index-row(("R’ Mordechai Becher",), (label("person-index-r-mordechai-becher-585"),))
 
-#index-row(("Bobbi",), (label("person-index-bobbi-569"), label("person-index-bobbi-765"), label("person-index-bobbi-801"), label("person-index-bobbi-1054"), label("person-index-bobbi-1168")))
+#index-row(("Belzer Rebbe",), (label("person-index-the-belzer-rebbe-22"), label("person-index-the-belzer-rebbe-122"), label("person-index-the-belzer-rebbe-725"), label("person-index-the-belzer-rebbe-726"), label("person-index-the-belzer-rebbe-861")))
 
-#index-row(("Bracha",), (label("person-index-bracha-45"), label("person-index-bracha-46"), label("person-index-bracha-86"), label("person-index-bracha-119"), label("person-index-bracha-339"), label("person-index-bracha-340"), label("person-index-bracha-497"), label("person-index-bracha-597"), label("person-index-bracha-763")))
+#index-row(("R’ Mordechai Benet",), (label("person-index-r-mordechai-benet-339"),))
+
+#index-row(("Dovid Bennett",), (label("person-index-dovid-bennett-705"),))
+
+#index-row(("Ellie Bennett",), (label("person-index-ellie-bennett-633"),))
+
+#index-row(("Tzvi Asher Bennett",), (label("person-index-tzvi-asher-bennett-51"), label("person-index-tzvi-asher-bennett-52")))
+
+#index-row(("Zeidy Bennett",), (label("person-index-zeidy-bennett-117"),))
+
+#index-row(("R’ Yitzchok Berkovits",), (label("person-index-r-yitzchok-berkovits-775"), label("person-index-r-yitzchok-berkovits-776"), label("person-index-r-yitzchok-berkovits-777"), label("person-index-r-yitzchok-berkovits-778")))
+
+#index-row(("R’ Shiya Berlin",), (label("person-index-r-shiya-berlin-1092"), label("person-index-r-shiya-berlin-1093"), label("person-index-r-shiya-berlin-1094"), label("person-index-r-shiya-berlin-1095")))
+
+#index-row(("R’ Abraham Besdin",), (label("person-index-rabbi-abraham-besdin-202"),))
+
+#index-row(("R’ Elimelech Biderman",), (label("person-index-r-elimelech-biderman-924"), label("person-index-r-elimelech-biderman-957"), label("person-index-r-elimelech-biderman-958"), label("person-index-r-elimelech-biderman-986"), label("person-index-r-elimelech-biderman-1096"), label("person-index-r-elimelech-biderman-1097"), label("person-index-r-elimelech-biderman-1098"), label("person-index-r-elimelech-biderman-1111"), label("person-index-r-elimelech-biderman-1112"), label("person-index-r-elimelech-biderman-1113"), label("person-index-r-elimelech-biderman-1124"), label("person-index-r-elimelech-biderman-1125"), label("person-index-r-elimelech-biderman-1127"), label("person-index-r-elimelech-biderman-1128"), label("person-index-r-elimelech-biderman-1129"), label("person-index-r-elimelech-biderman-1139")))
+
+#index-row(("R’ Matis Blum",), (label("person-index-r-blum-282"), label("person-index-r-blum-954")))
+
+#index-row(("Bobbi D",), (label("person-index-bobbi-569"), label("person-index-bobbi-765"), label("person-index-bobbi-801"), label("person-index-bobbi-1055"), label("person-index-bobbi-1167")))
+
+#index-row(("Bracha",), (label("person-index-bracha-45"), label("person-index-bracha-46"), label("person-index-bracha-86"), label("person-index-bracha-119"), label("person-index-bracha-340"), label("person-index-bracha-341"), label("person-index-bracha-497"), label("person-index-bracha-597"), label("person-index-bracha-763")))
+
+#index-row(("R’ Aharon Mordechai Brisk",), (label("person-index-r-aharon-mordechai-brisk-526"),))
 
 #index-row(("Brisker Rav",), (label("person-index-brisker-rav-35"), label("person-index-brisker-rav-36"), label("person-index-brisker-rav-193"), label("person-index-brisker-rav-194"), label("person-index-brisker-rav-195"), label("person-index-brisker-rav-196"), label("person-index-brisker-rav-197"), label("person-index-brisker-rav-501"), label("person-index-brisker-rav-502"), label("person-index-brisker-rav-503"), label("person-index-brisker-rav-504")))
 
-#index-row(("Chafetz Chaim",), (label("person-index-chafetz-chaim-423"), label("person-index-chafetz-chaim-424"), label("person-index-chafetz-chaim-425"), label("person-index-chafetz-chaim-426"), label("person-index-chafetz-chaim-427"), label("person-index-chafetz-chaim-428"), label("person-index-chafetz-chaim-468"), label("person-index-chafetz-chaim-471"), label("person-index-chafetz-chaim-598"), label("person-index-chafetz-chaim-708"), label("person-index-chafetz-chaim-709"), label("person-index-chafetz-chaim-710"), label("person-index-chafetz-chaim-711"), label("person-index-chafetz-chaim-712"), label("person-index-chafetz-chaim-713"), label("person-index-chafetz-chaim-714"), label("person-index-chafetz-chaim-715"), label("person-index-chafetz-chaim-868"), label("person-index-chafetz-chaim-1014"), label("person-index-chafetz-chaim-1015"), label("person-index-chafetz-chaim-1016"), label("person-index-chafetz-chaim-1017"), label("person-index-chafetz-chaim-1018"), label("person-index-chafetz-chaim-1019"), label("person-index-chafetz-chaim-1020"), label("person-index-chafetz-chaim-1021"), label("person-index-chafetz-chaim-1022")))
+#index-row(("R’ Irving Bunim",), (label("person-index-rav-irving-bunim-468"),))
 
-#index-row(("Chaim Mandel",), (label("person-index-chaim-mandel-400"),))
+#index-row(("Chafetz Chaim",), (label("person-index-chafetz-chaim-423"), label("person-index-chafetz-chaim-424"), label("person-index-chafetz-chaim-425"), label("person-index-chafetz-chaim-426"), label("person-index-chafetz-chaim-427"), label("person-index-chafetz-chaim-428"), label("person-index-chafetz-chaim-469"), label("person-index-chafetz-chaim-471"), label("person-index-chafetz-chaim-598"), label("person-index-chafetz-chaim-708"), label("person-index-chafetz-chaim-709"), label("person-index-chafetz-chaim-710"), label("person-index-chafetz-chaim-711"), label("person-index-chafetz-chaim-712"), label("person-index-chafetz-chaim-713"), label("person-index-chafetz-chaim-714"), label("person-index-chafetz-chaim-715"), label("person-index-chafetz-chaim-868"), label("person-index-chafetz-chaim-1014"), label("person-index-chafetz-chaim-1015"), label("person-index-chafetz-chaim-1016"), label("person-index-chafetz-chaim-1017"), label("person-index-chafetz-chaim-1018"), label("person-index-chafetz-chaim-1019"), label("person-index-chafetz-chaim-1020"), label("person-index-chafetz-chaim-1021"), label("person-index-chafetz-chaim-1022")))
 
 #index-row(("Chaim Shyesh BaHem",), (label("person-index-chaim-shyesh-bahem-716"), label("person-index-chaim-shyesh-bahem-917"), label("person-index-chaim-shyesh-bahem-931"), label("person-index-chaim-shyesh-bahem-988"), label("person-index-chaim-shyesh-bahem-1023"), label("person-index-chaim-shyesh-bahem-1045"), label("person-index-chaim-shyesh-bahem-1060"), label("person-index-chaim-shyesh-bahem-1061")))
 
-#index-row(("Chanukas HaTorah HeChadash",), (label("person-index-chanukas-hatorah-hechadash-282"), label("person-index-chanukas-hatorah-hechadash-283"), label("person-index-chanukas-hatorah-hechadash-954")))
+#index-row(("Chanukas HaTorah HeChadash",), (label("person-index-chanukas-hatorah-hechadash-283"), label("person-index-chanukas-hatorah-hechadash-284"), label("person-index-chanukas-hatorah-hechadash-955")))
 
-#index-row(("Chasam Sofer",), (label("person-index-chasam-sofer-51"), label("person-index-chasam-sofer-52"), label("person-index-chasam-sofer-53"), label("person-index-chasam-sofer-54"), label("person-index-chasam-sofer-55"), label("person-index-chasam-sofer-56"), label("person-index-chasam-sofer-57"), label("person-index-chasam-sofer-58"), label("person-index-chasam-sofer-59"), label("person-index-chasam-sofer-78"), label("person-index-chasam-sofer-134"), label("person-index-chasam-sofer-135"), label("person-index-chasam-sofer-396"), label("person-index-chasam-sofer-472"), label("person-index-chasam-sofer-690"), label("person-index-chasam-sofer-691"), label("person-index-chasam-sofer-692"), label("person-index-chasam-sofer-842"), label("person-index-chasam-sofer-965"), label("person-index-chasam-sofer-1124"), label("person-index-chasam-sofer-1175"), label("person-index-chasam-sofer-1176")))
+#index-row(("Chasam Sofer",), (label("person-index-chasam-sofer-53"), label("person-index-chasam-sofer-54"), label("person-index-chasam-sofer-55"), label("person-index-chasam-sofer-56"), label("person-index-chasam-sofer-57"), label("person-index-chasam-sofer-58"), label("person-index-chasam-sofer-59"), label("person-index-chasam-sofer-60"), label("person-index-chasam-sofer-61"), label("person-index-chasam-sofer-78"), label("person-index-chasam-sofer-136"), label("person-index-chasam-sofer-137"), label("person-index-chasam-sofer-396"), label("person-index-chasam-sofer-472"), label("person-index-chasam-sofer-690"), label("person-index-chasam-sofer-691"), label("person-index-chasam-sofer-692"), label("person-index-chasam-sofer-842"), label("person-index-chasam-sofer-965"), label("person-index-chasam-sofer-1126"), label("person-index-chasam-sofer-1175"), label("person-index-chasam-sofer-1176")))
+
+#index-row(("R’ Yirachmiel Chasid",), (label("person-index-rav-yirachmiel-chasid-967"),))
+
+#index-row(("R’ Leib Chasman (Ohr Yahel)",), (label("person-index-r-leib-chasman-717"), label("person-index-r-leib-chasman-718")))
+
+#index-row(("R’ Erez Chazani",), (label("person-index-r-erez-chazani-104"),))
 
 #index-row(("Chazon Ish",), (label("person-index-the-chazon-ish-588"),))
 
@@ -16046,23 +16082,43 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Da’as Zekainim",), (label("person-index-da-as-zekainim-189"),))
 
+#index-row(("R’ Chaim Dahan",), (label("person-index-r-chaim-dahan-1079"),))
+
 #index-row(("Divrei Si’ach",), (label("person-index-divrei-si-ach-994"),))
 
 #index-row(("Divrei Yechezkel",), (label("person-index-divrei-yechezkel-545"),))
 
-#index-row(("Dovid Bennett",), (label("person-index-dovid-bennett-705"),))
+#index-row(("R’ Moshe Donnebaum",), (label("person-index-r-moshe-donnebaum-730"),))
 
-#index-row(("Dovid Tribuch",), (label("person-index-dovid-tribuch-66"),))
-
-#index-row(("Dr. Allen Goldstein",), (label("person-index-dr-allen-goldstein-150"), label("person-index-dr-allen-goldstein-151"), label("person-index-dr-allen-goldstein-152"), label("person-index-dr-allen-goldstein-153"), label("person-index-dr-allen-goldstein-154"), label("person-index-dr-allen-goldstein-155"), label("person-index-dr-allen-goldstein-156"), label("person-index-dr-allen-goldstein-157")))
+#index-row(("R’ Pinchas Doron",), (label("person-index-rav-pinchas-doron-66"),))
 
 #index-row(("Dubno Maggid",), (label("person-index-dubno-maggid-677"), label("person-index-dubno-maggid-961"), label("person-index-dubno-maggid-1076"), label("person-index-dubno-maggid-1077")))
 
-#index-row(("Ellie Bennett",), (label("person-index-ellie-bennett-633"),))
+#index-row(("R’ Yonasan Eibschutz",), (label("person-index-r-yonasan-eibschutz-634"), label("person-index-r-yonasan-eibschutz-863"), label("person-index-r-yonasan-eibschutz-864")))
+
+#index-row(("R’ Yosef Engel",), (label("person-index-r-yosef-engel-527"), label("person-index-r-yosef-engel-528")))
+
+#index-row(("R’ Yissocher Englard",), (label("person-index-r-yissocher-englard-377"),))
+
+#index-row(("R’ Pesach Eliyahu Falk",), (label("person-index-r-pesach-eliyahu-falk-786"), label("person-index-r-pesach-eliyahu-falk-787")))
+
+#index-row(("R’ Moshe Feinstein",), (label("person-index-r-moshe-feinstein-344"), label("person-index-r-moshe-feinstein-513"), label("person-index-r-moshe-feinstein-589"), label("person-index-r-moshe-feinstein-693"), label("person-index-r-moshe-feinstein-779")))
 
 #index-row(("Festivals of Faith",), (label("person-index-festivals-of-faith-941"), label("person-index-festivals-of-faith-962")))
 
-#index-row(("Gerrer Rebbe", "(Chidushei HaRim, R’ Yitzchak Meir", "Alter)",), (label("person-index-chidushei-harim-247"), label("person-index-chidushei-harim-317"), label("person-index-chidushei-harim-318"), label("person-index-chidushei-harim-319"), label("person-index-chidushei-harim-513"), label("person-index-chidushei-harim-957"), label("person-index-chidushei-harim-958"), label("person-index-chidushei-harim-1111")))
+#index-row(("R’ Gedalia Finkel",), (label("person-index-r-gedalia-finkel-865"),))
+
+#index-row(("R’ Yona Fradkin",), (label("person-index-rabbi-yona-fradkin-1104"),))
+
+#index-row(("R’ Yissocher Frand",), (label("person-index-r-yissocher-frand-624"), label("person-index-r-yissocher-frand-625"), label("person-index-r-yissocher-frand-974"), label("person-index-r-yissocher-frand-975")))
+
+#index-row(("R’ Shlomo Ganzfried",), (label("person-index-r-shlomo-ganzfried-198"), label("person-index-r-shlomo-ganzfried-249"), label("person-index-r-shlomo-ganzfried-250"), label("person-index-r-shlomo-ganzfried-301"), label("person-index-r-shlomo-ganzfried-413"), label("person-index-r-shlomo-ganzfried-414"), label("person-index-r-shlomo-ganzfried-661"), label("person-index-r-shlomo-ganzfried-662"), label("person-index-r-shlomo-ganzfried-759"), label("person-index-r-shlomo-ganzfried-854"), label("person-index-r-shlomo-ganzfried-855")))
+
+#index-row(("R’ Avraham Genachowski",), (label("person-index-r-avraham-genachowski-824"), label("person-index-r-avraham-genachowski-825"), label("person-index-r-avraham-genachowski-826"), label("person-index-r-avraham-genachowski-827")))
+
+#index-row(("R’ Menachem Genack",), (label("person-index-r-menachem-genack-150"), label("person-index-r-menachem-genack-828")))
+
+#index-row(("Gerrer Rebbe", "(Chidushei HaRim, R’ Yitzchak Meir", "Alter)",), (label("person-index-chidushei-harim-247"), label("person-index-chidushei-harim-317"), label("person-index-chidushei-harim-318"), label("person-index-chidushei-harim-319"), label("person-index-chidushei-harim-514"), label("person-index-chidushei-harim-959"), label("person-index-chidushei-harim-960"), label("person-index-chidushei-harim-1114")))
 
 #index-row(("Gerrer Rebbe", "(Imrei Emes, R’ Avraham Mordechai", "Alter)",), (label("person-index-imrei-emes-979"), label("person-index-imrei-emes-980"), label("person-index-imrei-emes-981"), label("person-index-imrei-emes-982"), label("person-index-imrei-emes-1057"), label("person-index-imrei-emes-1178"), label("person-index-imrei-emes-1179"), label("person-index-imrei-emes-1180"), label("person-index-imrei-emes-1181")))
 
@@ -16070,385 +16126,253 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Gerrer Rebbe", "(Sfas Emes, R’ Yehudah Aryeh Leib", "Alter)",), (label("person-index-sfas-emes-347"), label("person-index-sfas-emes-348"), label("person-index-sfas-emes-349"), label("person-index-sfas-emes-546"), label("person-index-sfas-emes-547")))
 
-#index-row(("Grunchi Getches",), (label("person-index-grunchi-getches-141"), label("person-index-grunchi-getches-142")))
-
-#index-row(("Halekach V'Halibuv",), (label("person-index-halekach-vehalibuv-1160"),))
-
-#index-row(("Homiler Rav",), (label("person-index-homiler-rav-1106"), label("person-index-homiler-rav-1107")))
-
-#index-row(("Iturei Torah",), (label("person-index-iturei-torah-184"), label("person-index-iturei-torah-185")))
-
-#index-row(("Judah Wallace",), (label("person-index-judah-wallace-517"), label("person-index-judah-wallace-518"), label("person-index-judah-wallace-519")))
-
-#index-row(("Kitzur Shulchan Aruch",), (label("person-index-kitzur-shulchan-aruch-198"), label("person-index-kitzur-shulchan-aruch-249"), label("person-index-kitzur-shulchan-aruch-413"), label("person-index-kitzur-shulchan-aruch-661"), label("person-index-kitzur-shulchan-aruch-662"), label("person-index-kitzur-shulchan-aruch-663"), label("person-index-kitzur-shulchan-aruch-664"), label("person-index-kitzur-shulchan-aruch-854")))
-
-#index-row(("Klausenberger Rebbe",), (label("person-index-klausenberger-rebbe-520"), label("person-index-klausenberger-rebbe-521")))
-
-#index-row(("Kli Yakar",), (label("person-index-kli-yakar-320"), label("person-index-kli-yakar-759")))
-
-#index-row(("Kol HaTorah",), (label("person-index-kol-hatorah-136"), label("person-index-kol-hatorah-219"), label("person-index-kol-hatorah-558"), label("person-index-kol-hatorah-786")))
-
-#index-row(("Kol Rom",), (label("person-index-kol-rom-344"),))
-
-#index-row(("Kotzker Rebbe",), (label("person-index-the-kotzker-rebbe-218"), label("person-index-the-kotzker-rebbe-1182")))
-
-#index-row(("Lubavitcher Rebbe", "(R’ Menachem Mendel Schneerson)",), (label("person-index-lubavitcher-rebbe-158"), label("person-index-lubavitcher-rebbe-159"), label("person-index-lubavitcher-rebbe-700"), label("person-index-lubavitcher-rebbe-802"), label("person-index-lubavitcher-rebbe-803")))
-
-#index-row(("M’eino Shel Torah",), (label("person-index-m-eino-shel-torah-37"), label("person-index-m-eino-shel-torah-38"), label("person-index-m-eino-shel-torah-47"), label("person-index-m-eino-shel-torah-109"), label("person-index-m-eino-shel-torah-175"), label("person-index-m-eino-shel-torah-284"), label("person-index-m-eino-shel-torah-335"), label("person-index-m-eino-shel-torah-421"), label("person-index-m-eino-shel-torah-592"), label("person-index-m-eino-shel-torah-658"), label("person-index-m-eino-shel-torah-755"), label("person-index-m-eino-shel-torah-764")))
-
-#index-row(("Mabit",), (label("person-index-mabit-570"),))
-
-#index-row(("Maggid of Mezritch",), (label("person-index-maggid-of-mezritch-23"), label("person-index-maggid-of-mezritch-24"), label("person-index-maggid-of-mezritch-25")))
-
-#index-row(("Maharil",), (label("person-index-maharil-79"), label("person-index-maharil-634"), label("person-index-maharil-635"), label("person-index-maharil-636"), label("person-index-maharil-637"), label("person-index-maharil-638"), label("person-index-maharil-639"), label("person-index-maharil-640")))
-
-#index-row(("Maharsha",), (label("person-index-maharsha-488"), label("person-index-maharsha-489"), label("person-index-maharsha-490"), label("person-index-maharsha-491"), label("person-index-maharsha-492")))
-
-#index-row(("Malbim",), (label("person-index-malbim-787"), label("person-index-malbim-1183"), label("person-index-malbim-1184"), label("person-index-malbim-1185"), label("person-index-malbim-1186"), label("person-index-malbim-1187"), label("person-index-malbim-1188"), label("person-index-malbim-1189"), label("person-index-malbim-1190"), label("person-index-malbim-1191"), label("person-index-malbim-1192"), label("person-index-malbim-1193"), label("person-index-malbim-1194")))
-
-#index-row(("Man of Faith",), (label("person-index-man-of-faith-202"),))
-
-#index-row(("Meshech Chochma",), (label("person-index-meshech-chochma-1046"),))
-
-#index-row(("Minchas Chain",), (label("person-index-minchas-chain-220"), label("person-index-minchas-chain-878"), label("person-index-minchas-chain-879")))
-
-#index-row(("Moreshes Simchas HaTorah",), (label("person-index-moreshes-simchas-hatorah-814"),))
-
-#index-row(("Moshe Katz",), (label("person-index-moshe-katz-995"), label("person-index-moshe-katz-996"), label("person-index-moshe-katz-997")))
-
-#index-row(("Mr. Olasky",), (label("person-index-mr-olasky-522"), label("person-index-mr-olasky-523"), label("person-index-mr-olasky-524"), label("person-index-mr-olasky-525")))
-
-#index-row(("Munkatcher Rebbe",), (label("person-index-munkatcher-rebbe-80"), label("person-index-munkatcher-rebbe-81"), label("person-index-munkatcher-rebbe-473"), label("person-index-munkatcher-rebbe-474"), label("person-index-munkatcher-rebbe-766"), label("person-index-munkatcher-rebbe-767"), label("person-index-munkatcher-rebbe-795"), label("person-index-munkatcher-rebbe-796"), label("person-index-munkatcher-rebbe-797")))
-
-#index-row(("Nodeh Byehuda",), (label("person-index-nodeh-byehuda-641"), label("person-index-nodeh-byehuda-884"), label("person-index-nodeh-byehuda-885"), label("person-index-nodeh-byehuda-886"), label("person-index-nodeh-byehuda-887"), label("person-index-nodeh-byehuda-888"), label("person-index-nodeh-byehuda-889"), label("person-index-nodeh-byehuda-890"), label("person-index-nodeh-byehuda-891"), label("person-index-nodeh-byehuda-892"), label("person-index-nodeh-byehuda-893"), label("person-index-nodeh-byehuda-894"), label("person-index-nodeh-byehuda-895"), label("person-index-nodeh-byehuda-896"), label("person-index-nodeh-byehuda-897"), label("person-index-nodeh-byehuda-898")))
-
-#index-row(("Ohel Torah",), (label("person-index-ohel-torah-48"),))
-
-#index-row(("Otzer Plo’os HaTorah",), (label("person-index-otzer-plo-os-hatorah-60"), label("person-index-otzer-plo-os-hatorah-82"), label("person-index-otzer-plo-os-hatorah-90"), label("person-index-otzer-plo-os-hatorah-91"), label("person-index-otzer-plo-os-hatorah-321"), label("person-index-otzer-plo-os-hatorah-322"), label("person-index-otzer-plo-os-hatorah-323"), label("person-index-otzer-plo-os-hatorah-324"), label("person-index-otzer-plo-os-hatorah-475"), label("person-index-otzer-plo-os-hatorah-476"), label("person-index-otzer-plo-os-hatorah-477"), label("person-index-otzer-plo-os-hatorah-526"), label("person-index-otzer-plo-os-hatorah-642"), label("person-index-otzer-plo-os-hatorah-643"), label("person-index-otzer-plo-os-hatorah-678"), label("person-index-otzer-plo-os-hatorah-727"), label("person-index-otzer-plo-os-hatorah-760"), label("person-index-otzer-plo-os-hatorah-768"), label("person-index-otzer-plo-os-hatorah-798"), label("person-index-otzer-plo-os-hatorah-832")))
-
-#index-row(("Peninim MiShulchan Gavoa",), (label("person-index-peninim-mishulchan-gavoa-364"), label("person-index-peninim-mishulchan-gavoa-365"), label("person-index-peninim-mishulchan-gavoa-430"), label("person-index-peninim-mishulchan-gavoa-693")))
-
-#index-row(("Pirkei Drabi Eliezer",), (label("person-index-pirkei-drabi-eliezer-92"), label("person-index-pirkei-drabi-eliezer-93"), label("person-index-pirkei-drabi-eliezer-1161")))
-
-#index-row(("Pri Eitz Chaim",), (label("person-index-pri-eitz-chaim-721"),))
-
-#index-row(("R’ Aaron Goodman",), (label("person-index-r-aaron-goodman-137"),))
-
-#index-row(("R’ Abraham Besdin",), (label("person-index-rabbi-abraham-besdin-203"),))
-
-#index-row(("R’ Aharon Kotler",), (label("person-index-rav-aharon-kotler-469"), label("person-index-rav-aharon-kotler-624")))
-
-#index-row(("R’ Aharon Leib Shteinman",), (label("person-index-r-aharon-leib-shteinman-125"), label("person-index-r-aharon-leib-shteinman-126"), label("person-index-r-aharon-leib-shteinman-127"), label("person-index-r-aharon-leib-shteinman-128"), label("person-index-r-aharon-leib-shteinman-599"), label("person-index-r-aharon-leib-shteinman-600"), label("person-index-r-aharon-leib-shteinman-601"), label("person-index-r-aharon-leib-shteinman-602"), label("person-index-r-aharon-leib-shteinman-603"), label("person-index-r-aharon-leib-shteinman-604"), label("person-index-r-aharon-leib-shteinman-605"), label("person-index-r-aharon-leib-shteinman-606")))
-
-#index-row(("R’ Aharon Mordechai Brisk",), (label("person-index-r-aharon-mordechai-brisk-527"),))
-
-#index-row(("R’ Ahron Soloveichik",), (label("person-index-r-ahron-soloveichik-350"), label("person-index-r-ahron-soloveichik-555")))
-
-#index-row(("R’ Akiva Grunblatt",), (label("person-index-r-akiva-grunblatt-607"),))
-
-#index-row(("R’ Alexander Ziskind",), (label("person-index-r-alexander-ziskind-932"),))
-
-#index-row(("R’ Alter Metzger",), (label("person-index-r-alter-metzger-804"),))
-
-#index-row(("R’ Aryeh Levine",), (label("person-index-r-aryeh-levine-974"), label("person-index-r-aryeh-levine-975")))
-
-#index-row(("R’ Aryeh Strickoff",), (label("person-index-r-aryeh-strickoff-1139"), label("person-index-r-aryeh-strickoff-1140"), label("person-index-r-aryeh-strickoff-1155")))
-
-#index-row(("R’ Avi Wiesenfeld",), (label("person-index-r-avi-wiesenfeld-552"),))
-
-#index-row(("R’ Avigdor Miller",), (label("person-index-r-avigdor-miller-266"), label("person-index-r-avigdor-miller-422"), label("person-index-r-avigdor-miller-593"), label("person-index-r-avigdor-miller-845")))
-
-#index-row(("R’ Avraham Genachowski",), (label("person-index-r-avraham-genachowski-824"), label("person-index-r-avraham-genachowski-825"), label("person-index-r-avraham-genachowski-826"), label("person-index-r-avraham-genachowski-827")))
-
-#index-row(("R’ Avraham Landau of Chekhanov",), (label("person-index-r-avraham-landau-of-chekhanov-1062"),))
-
-#index-row(("R’ Avraham Pam",), (label("person-index-r-avraham-pam-415"), label("person-index-r-avraham-pam-416"), label("person-index-r-avraham-pam-417"), label("person-index-r-avraham-pam-449"), label("person-index-r-avraham-pam-450"), label("person-index-r-avraham-pam-703"), label("person-index-r-avraham-pam-1079"), label("person-index-r-avraham-pam-1080"), label("person-index-r-avraham-pam-1081"), label("person-index-r-avraham-pam-1082"), label("person-index-r-avraham-pam-1083"), label("person-index-r-avraham-pam-1084"), label("person-index-r-avraham-pam-1085"), label("person-index-r-avraham-pam-1086")))
-
-#index-row(("R’ Avraham Schorr",), (label("person-index-r-avraham-schorr-1162"),))
-
-#index-row(("R’ Baruch Rabinowitz",), (label("person-index-r-baruch-rabinowitz-1087"),))
-
-#index-row(("R’ Benet",), (label("person-index-r-benet-341"),))
-
-#index-row(("R’ Berkovits",), (label("person-index-r-berkovits-775"), label("person-index-r-berkovits-776"), label("person-index-r-berkovits-777"), label("person-index-r-berkovits-778")))
-
-#index-row(("R’ Beryl Weisbord",), (label("person-index-r-beryl-weisbord-267"),))
-
-#index-row(("R’ Boruch Ber Leibowitz",), (label("person-index-r-boruch-ber-leibowitz-989"),))
-
-#index-row(("R’ Chaim Alter Panet",), (label("person-index-r-chaim-alter-panet-342"),))
-
-#index-row(("R’ Chaim Dahan",), (label("person-index-r-chaim-dahan-1088"),))
-
-#index-row(("R’ Chaim Kanievsky",), (label("person-index-r-chaim-kanievsky-129"), label("person-index-r-chaim-kanievsky-130"), label("person-index-r-chaim-kanievsky-231"), label("person-index-r-chaim-kanievsky-232"), label("person-index-r-chaim-kanievsky-233"), label("person-index-r-chaim-kanievsky-293"), label("person-index-r-chaim-kanievsky-294"), label("person-index-r-chaim-kanievsky-352"), label("person-index-r-chaim-kanievsky-435"), label("person-index-r-chaim-kanievsky-436"), label("person-index-r-chaim-kanievsky-493"), label("person-index-r-chaim-kanievsky-494"), label("person-index-r-chaim-kanievsky-505"), label("person-index-r-chaim-kanievsky-551"), label("person-index-r-chaim-kanievsky-571"), label("person-index-r-chaim-kanievsky-572"), label("person-index-r-chaim-kanievsky-575"), label("person-index-r-chaim-kanievsky-576"), label("person-index-r-chaim-kanievsky-585"), label("person-index-r-chaim-kanievsky-586"), label("person-index-r-chaim-kanievsky-589"), label("person-index-r-chaim-kanievsky-590"), label("person-index-r-chaim-kanievsky-679"), label("person-index-r-chaim-kanievsky-696"), label("person-index-r-chaim-kanievsky-706"), label("person-index-r-chaim-kanievsky-998"), label("person-index-r-chaim-kanievsky-999")))
-
-#index-row(("R’ Chaim Leibish Rottenberg",), (label("person-index-r-chaim-leibish-rottenberg-728"), label("person-index-r-chaim-leibish-rottenberg-729")))
-
-#index-row(("R’ Chaim Shmuelevitz",), (label("person-index-r-chaim-shmuelevitz-190"), label("person-index-r-chaim-shmuelevitz-191"), label("person-index-r-chaim-shmuelevitz-227")))
-
-#index-row(("R’ Chaim Vital",), (label("person-index-r-chaim-vital-1092"),))
-
-#index-row(("R’ Chaim Yosef Kofman",), (label("person-index-r-chaim-yosef-kofman-418"), label("person-index-r-chaim-yosef-kofman-451")))
-
-#index-row(("R’ David Hollander",), (label("person-index-rabbi-david-hollander-338"),))
-
-#index-row(("R’ Dovid Meisels",), (label("person-index-r-dovid-meisels-1044"),))
-
-#index-row(("R’ Dr. Abraham Twerski",), (label("person-index-rabbi-dr-abraham-twerski-383"), label("person-index-rabbi-dr-abraham-twerski-429"), label("person-index-rabbi-dr-abraham-twerski-1133")))
-
-#index-row(("R’ Elchonon Wasserman",), (label("person-index-r-elchonon-wasserman-869"), label("person-index-r-elchonon-wasserman-870")))
-
-#index-row(("R’ Elimelech Biderman",), (label("person-index-r-elimelech-biderman-924"), label("person-index-r-elimelech-biderman-959"), label("person-index-r-elimelech-biderman-960"), label("person-index-r-elimelech-biderman-986"), label("person-index-r-elimelech-biderman-1093"), label("person-index-r-elimelech-biderman-1094"), label("person-index-r-elimelech-biderman-1095"), label("person-index-r-elimelech-biderman-1112"), label("person-index-r-elimelech-biderman-1113"), label("person-index-r-elimelech-biderman-1114"), label("person-index-r-elimelech-biderman-1125"), label("person-index-r-elimelech-biderman-1126"), label("person-index-r-elimelech-biderman-1127"), label("person-index-r-elimelech-biderman-1128"), label("person-index-r-elimelech-biderman-1129"), label("person-index-r-elimelech-biderman-1141")))
-
-#index-row(("R’ Elimelech of Lizhensk",), (label("person-index-r-elimelech-of-lizhensk-478"), label("person-index-r-elimelech-of-lizhensk-1055")))
-
-#index-row(("R’ Elyashiv",), (label("person-index-r-elyashiv-295"), label("person-index-r-elyashiv-353"), label("person-index-r-elyashiv-354"), label("person-index-r-elyashiv-355"), label("person-index-r-elyashiv-356"), label("person-index-r-elyashiv-357")))
+#index-row(("R’ Reuven Gesheid",), (label("person-index-rabbi-reuven-gesheid-483"),))
 
 #index-row(("R’ Ephraim Goldberg",), (label("person-index-r-ephraim-goldberg-67"),))
 
-#index-row(("R’ Erez Chazani",), (label("person-index-r-erez-chazani-104"),))
+#index-row(("Dr. Allen Goldstein",), (label("person-index-dr-allen-goldstein-151"), label("person-index-dr-allen-goldstein-152"), label("person-index-dr-allen-goldstein-153"), label("person-index-dr-allen-goldstein-154"), label("person-index-dr-allen-goldstein-155"), label("person-index-dr-allen-goldstein-156"), label("person-index-dr-allen-goldstein-157"), label("person-index-dr-allen-goldstein-158")))
 
-#index-row(("R’ Fabian Schonfeld",), (label("person-index-r-fabian-schonfeld-362"),))
-
-#index-row(("R’ Gedalia Finkel",), (label("person-index-r-gedalia-finkel-863"),))
-
-#index-row(("R’ Gedalia Schorr",), (label("person-index-r-gedalia-schorr-250"), label("person-index-r-gedalia-schorr-251"), label("person-index-r-gedalia-schorr-252"), label("person-index-r-gedalia-schorr-649"), label("person-index-r-gedalia-schorr-650"), label("person-index-r-gedalia-schorr-651"), label("person-index-r-gedalia-schorr-993"), label("person-index-r-gedalia-schorr-1163")))
-
-#index-row(("R’ Gesheid",), (label("person-index-rabbi-gesheid-483"), label("person-index-rabbi-gesheid-484"), label("person-index-rabbi-gesheid-485")))
-
-#index-row(("R’ Gifter",), (label("person-index-rav-gifter-967"), label("person-index-rav-gifter-968"), label("person-index-rav-gifter-969"), label("person-index-rav-gifter-970")))
-
-#index-row(("R’ Guttman",), (label("person-index-r-guttman-452"), label("person-index-r-guttman-453")))
-
-#index-row(("R’ Herschel Schachter",), (label("person-index-r-herschel-schachter-75"), label("person-index-r-herschel-schachter-843"), label("person-index-r-herschel-schachter-1144")))
-
-#index-row(("R’ Irving Bunim",), (label("person-index-rav-irving-bunim-470"),))
-
-#index-row(("R’ Itzele Peterburger",), (label("person-index-rav-itzele-peterburger-401"),))
+#index-row(("R’ Yosef Shlomo Goldstein",), (label("person-index-r-yosef-shlomo-goldstein-558"), label("person-index-r-yosef-shlomo-goldstein-559")))
 
 #index-row(("R’ Jeremy Golker",), (label("person-index-rabbi-jeremy-golker-922"),))
 
-#index-row(("R’ Kormornick",), (label("person-index-r-kormornick-300"), label("person-index-r-kormornick-673"), label("person-index-r-kormornick-770"), label("person-index-r-kormornick-771"), label("person-index-r-kormornick-1048"), label("person-index-r-kormornick-1108"), label("person-index-r-kormornick-1134"), label("person-index-r-kormornick-1135")))
+#index-row(("R’ Aaron Goodman",), (label("person-index-r-aaron-goodman-138"),))
 
-#index-row(("R’ Label Lam",), (label("person-index-r-label-lam-366"),))
+#index-row(("R’ Yeruchem Gorelick",), (label("person-index-rav-yeruchem-gorelick-856"),))
 
-#index-row(("R’ Leib Chasman (Ohr Yahel)",), (label("person-index-r-leib-chasman-717"), label("person-index-r-leib-chasman-718")))
+#index-row(("R’ Shai Graucher",), (label("person-index-rabbi-shai-graucher-505"),))
 
-#index-row(("R’ Leibel Groner",), (label("person-index-rabbi-leibel-groner-701"),))
+#index-row(("R’ Yaakov Mordechai Greenwald",), (label("person-index-r-yaakov-mordechai-greenwald-1145"),))
 
-#index-row(("R’ Levi Yitzchok of Berditchev",), (label("person-index-r-levi-yitzchok-of-berditchev-26"), label("person-index-r-levi-yitzchok-of-berditchev-27"), label("person-index-r-levi-yitzchok-of-berditchev-147"), label("person-index-r-levi-yitzchok-of-berditchev-148"), label("person-index-r-levi-yitzchok-of-berditchev-149"), label("person-index-r-levi-yitzchok-of-berditchev-608"), label("person-index-r-levi-yitzchok-of-berditchev-609"), label("person-index-r-levi-yitzchok-of-berditchev-610"), label("person-index-r-levi-yitzchok-of-berditchev-900"), label("person-index-r-levi-yitzchok-of-berditchev-901"), label("person-index-r-levi-yitzchok-of-berditchev-902"), label("person-index-r-levi-yitzchok-of-berditchev-903"), label("person-index-r-levi-yitzchok-of-berditchev-904"), label("person-index-r-levi-yitzchok-of-berditchev-905"), label("person-index-r-levi-yitzchok-of-berditchev-906"), label("person-index-r-levi-yitzchok-of-berditchev-907"), label("person-index-r-levi-yitzchok-of-berditchev-908"), label("person-index-r-levi-yitzchok-of-berditchev-909"), label("person-index-r-levi-yitzchok-of-berditchev-910"), label("person-index-r-levi-yitzchok-of-berditchev-911"), label("person-index-r-levi-yitzchok-of-berditchev-912"), label("person-index-r-levi-yitzchok-of-berditchev-913"), label("person-index-r-levi-yitzchok-of-berditchev-914"), label("person-index-r-levi-yitzchok-of-berditchev-915"), label("person-index-r-levi-yitzchok-of-berditchev-1002"), label("person-index-r-levi-yitzchok-of-berditchev-1003"), label("person-index-r-levi-yitzchok-of-berditchev-1004"), label("person-index-r-levi-yitzchok-of-berditchev-1005"), label("person-index-r-levi-yitzchok-of-berditchev-1028"), label("person-index-r-levi-yitzchok-of-berditchev-1029"), label("person-index-r-levi-yitzchok-of-berditchev-1030"), label("person-index-r-levi-yitzchok-of-berditchev-1033"), label("person-index-r-levi-yitzchok-of-berditchev-1034")))
+#index-row(("R’ Leibel Groner",), (label("person-index-rabbi-leibel-groner-700"),))
 
-#index-row(("R’ Lieb M’Lichev",), (label("person-index-r-lieb-m-lichev-1142"),))
+#index-row(("R’ Reuven Grozovsky",), (label("person-index-r-reuven-grozovsky-364"),))
 
-#index-row(("R’ Matis Blum",), (label("person-index-r-blum-285"), label("person-index-r-blum-955")))
+#index-row(("R’ Akiva Grunblatt",), (label("person-index-r-akiva-grunblatt-599"),))
 
-#index-row(("R’ Meir Shapiro",), (label("person-index-r-meir-shapiro-625"), label("person-index-r-meir-shapiro-626"), label("person-index-r-meir-shapiro-627")))
+#index-row(("Grunchi Getches",), (label("person-index-grunchi-getches-141"), label("person-index-grunchi-getches-142")))
 
-#index-row(("R’ Meir’l of Premishlan",), (label("person-index-r-meir-l-of-premishlan-95"), label("person-index-r-meir-l-of-premishlan-96"), label("person-index-r-meir-l-of-premishlan-97"), label("person-index-r-meir-l-of-premishlan-98"), label("person-index-r-meir-l-of-premishlan-117"), label("person-index-r-meir-l-of-premishlan-173"), label("person-index-r-meir-l-of-premishlan-174"), label("person-index-r-meir-l-of-premishlan-1063"), label("person-index-r-meir-l-of-premishlan-1064"), label("person-index-r-meir-l-of-premishlan-1065")))
+#index-row(("R’ Yaron Halbertal",), (label("person-index-r-yaron-halbertal-1168"),))
 
-#index-row(("R’ Menachem Genack",), (label("person-index-r-menachem-genack-160"), label("person-index-r-menachem-genack-828")))
+#index-row(("Halekach V'Halibuv",), (label("person-index-halekach-vehalibuv-1160"),))
 
-#index-row(("R’ Menachem Mendel Chaim Landau",), (label("person-index-r-menachem-mendel-chaim-landau-1066"),))
-
-#index-row(("R’ Mendel of Rimanov",), (label("person-index-r-mendel-of-rimanov-548"), label("person-index-r-mendel-of-rimanov-1006")))
-
-#index-row(("R’ Mendelson",), (label("person-index-r-mendelson-506"), label("person-index-r-mendelson-507"), label("person-index-r-mendelson-508")))
-
-#index-row(("R’ Mendy Pollak",), (label("person-index-r-mendy-pollak-528"), label("person-index-r-mendy-pollak-799")))
-
-#index-row(("R’ Michael Dovid Weissmandl",), (label("person-index-r-michael-dovid-weissmandl-1145"), label("person-index-r-michael-dovid-weissmandl-1146"), label("person-index-r-michael-dovid-weissmandl-1147"), label("person-index-r-michael-dovid-weissmandl-1148"), label("person-index-r-michael-dovid-weissmandl-1149"), label("person-index-r-michael-dovid-weissmandl-1150"), label("person-index-r-michael-dovid-weissmandl-1151"), label("person-index-r-michael-dovid-weissmandl-1152")))
-
-#index-row(("R’ Mordechai Becher",), (label("person-index-r-mordechai-becher-587"),))
-
-#index-row(("R’ Mordechai Sabato",), (label("person-index-r-mordechai-sabato-1156"), label("person-index-r-mordechai-sabato-1157")))
-
-#index-row(("R’ Moshe Donnebaum",), (label("person-index-r-moshe-donnebaum-730"),))
-
-#index-row(("R’ Moshe Feinstein",), (label("person-index-r-moshe-feinstein-345"), label("person-index-r-moshe-feinstein-514"), label("person-index-r-moshe-feinstein-591"), label("person-index-r-moshe-feinstein-694"), label("person-index-r-moshe-feinstein-779")))
-
-#index-row(("R’ Moshe Oelbaum",), (label("person-index-r-moshe-oelbaum-553"),))
-
-#index-row(("R’ Moshe Schwab",), (label("person-index-r-moshe-schwab-1049"), label("person-index-r-moshe-schwab-1050"), label("person-index-r-moshe-schwab-1051")))
-
-#index-row(("R’ Moshe Sherer",), (label("person-index-r-moshe-sherer-983"),))
-
-#index-row(("R’ Moshe Sternbuch",), (label("person-index-r-moshe-sternbuch-402"),))
-
-#index-row(("R’ Moshe Tendler",), (label("person-index-rav-moshe-tendler-665"),))
-
-#index-row(("R’ Moshe Wolfson",), (label("person-index-r-moshe-wolfson-942"), label("person-index-r-moshe-wolfson-963"), label("person-index-r-moshe-wolfson-966"), label("person-index-r-moshe-wolfson-1058")))
-
-#index-row(("R’ Nachman",), (label("person-index-r-nachman-28"),))
+#index-row(("R’ Tzvi Hersh Heller",), (label("person-index-rav-tzvi-hersh-heller-663"),))
 
 #index-row(("R’ Nachum Dovid Herman",), (label("person-index-r-nachum-dovid-herman-143"),))
 
-#index-row(("R’ Naftali of Ropshitz",), (label("person-index-r-naftali-of-ropshitz-1007"),))
-
-#index-row(("R’ Nissan Kaplan",), (label("person-index-r-nissan-kaplan-1120"),))
-
-#index-row(("R’ Noach Isaac Oelbaum",), (label("person-index-r-noach-isaac-oelbaum-29"), label("person-index-r-noach-isaac-oelbaum-76"), label("person-index-r-noach-isaac-oelbaum-83"), label("person-index-r-noach-isaac-oelbaum-99"), label("person-index-r-noach-isaac-oelbaum-106"), label("person-index-r-noach-isaac-oelbaum-123"), label("person-index-r-noach-isaac-oelbaum-144"), label("person-index-r-noach-isaac-oelbaum-180"), label("person-index-r-noach-isaac-oelbaum-186"), label("person-index-r-noach-isaac-oelbaum-221"), label("person-index-r-noach-isaac-oelbaum-238"), label("person-index-r-noach-isaac-oelbaum-296"), label("person-index-r-noach-isaac-oelbaum-297"), label("person-index-r-noach-isaac-oelbaum-298"), label("person-index-r-noach-isaac-oelbaum-351"), label("person-index-r-noach-isaac-oelbaum-358"), label("person-index-r-noach-isaac-oelbaum-367"), label("person-index-r-noach-isaac-oelbaum-403"), label("person-index-r-noach-isaac-oelbaum-404"), label("person-index-r-noach-isaac-oelbaum-405"), label("person-index-r-noach-isaac-oelbaum-479"), label("person-index-r-noach-isaac-oelbaum-480"), label("person-index-r-noach-isaac-oelbaum-495"), label("person-index-r-noach-isaac-oelbaum-498"), label("person-index-r-noach-isaac-oelbaum-499"), label("person-index-r-noach-isaac-oelbaum-500"), label("person-index-r-noach-isaac-oelbaum-577"), label("person-index-r-noach-isaac-oelbaum-617"), label("person-index-r-noach-isaac-oelbaum-618"), label("person-index-r-noach-isaac-oelbaum-644"), label("person-index-r-noach-isaac-oelbaum-666"), label("person-index-r-noach-isaac-oelbaum-667"), label("person-index-r-noach-isaac-oelbaum-722"), label("person-index-r-noach-isaac-oelbaum-880"), label("person-index-r-noach-isaac-oelbaum-881"), label("person-index-r-noach-isaac-oelbaum-956"), label("person-index-r-noach-isaac-oelbaum-992"), label("person-index-r-noach-isaac-oelbaum-1089"), label("person-index-r-noach-isaac-oelbaum-1130"), label("person-index-r-noach-isaac-oelbaum-1195")))
-
-#index-row(("R’ Nosson Adler",), (label("person-index-r-nosson-adler-138"), label("person-index-r-nosson-adler-139")))
-
-#index-row(("R’ Ovadia Yosef",), (label("person-index-r-ovadia-yosef-161"), label("person-index-r-ovadia-yosef-162"), label("person-index-r-ovadia-yosef-163"), label("person-index-r-ovadia-yosef-164")))
-
-#index-row(("R’ Peretz Steinberg",), (label("person-index-rabbi-peretz-steinberg-723"),))
-
-#index-row(("R’ Pesach Eliyahu Falk",), (label("person-index-r-pesach-eliyahu-falk-788"), label("person-index-r-pesach-eliyahu-falk-789")))
-
-#index-row(("R’ Pesach Krohn",), (label("person-index-rav-pesach-krohn-971"),))
-
-#index-row(("R’ Pinchas Doron",), (label("person-index-rav-pinchas-doron-68"),))
-
-#index-row(("R’ Pinchas Kehati",), (label("person-index-r-pinchas-kehati-286"),))
-
-#index-row(("R’ Pinchas Zalman Segol",), (label("person-index-r-pinchas-zalman-segol-761"),))
-
-#index-row(("R’ Rapps",), (label("person-index-rabbi-rapps-1164"), label("person-index-rabbi-rapps-1165"), label("person-index-rabbi-rapps-1166")))
-
-#index-row(("R’ Reuven Gesheid",), (label("person-index-rabbi-reuven-gesheid-486"),))
-
-#index-row(("R’ Reuven Grozovsky",), (label("person-index-r-reuven-grozovsky-368"),))
-
-#index-row(("R’ Rosenzweig",), (label("person-index-r-rosenzweig-5"),))
-
 #index-row(("R’ Samson Raphael Hirsch",), (label("person-index-r-samson-raphael-hirsch-244"), label("person-index-r-samson-raphael-hirsch-245"), label("person-index-r-samson-raphael-hirsch-393"), label("person-index-r-samson-raphael-hirsch-394")))
 
-#index-row(("R’ Shach",), (label("person-index-rav-shach-864"),))
+#index-row(("R’ David Hollander",), (label("person-index-rabbi-david-hollander-338"),))
 
-#index-row(("R’ Shai Graucher",), (label("person-index-rabbi-shai-graucher-509"),))
+#index-row(("Rebbetzin Rivky Holtzberg",), (label("person-index-rebbetzin-rivky-holtzberg-770"),))
 
-#index-row(("R’ Sheps",), (label("person-index-r-sheps-239"), label("person-index-r-sheps-248"), label("person-index-r-sheps-346"), label("person-index-r-sheps-529"), label("person-index-r-sheps-815"), label("person-index-r-sheps-816"), label("person-index-r-sheps-817"), label("person-index-r-sheps-818")))
+#index-row(("Homiler Rav",), (label("person-index-homiler-rav-1106"), label("person-index-homiler-rav-1107")))
 
-#index-row(("R’ Shimon Bar Yochai",), (label("person-index-r-shimon-bar-yochai-228"), label("person-index-r-shimon-bar-yochai-933"), label("person-index-r-shimon-bar-yochai-934"), label("person-index-r-shimon-bar-yochai-935"), label("person-index-r-shimon-bar-yochai-943"), label("person-index-r-shimon-bar-yochai-944"), label("person-index-r-shimon-bar-yochai-945"), label("person-index-r-shimon-bar-yochai-946")))
+#index-row(("Sorolle Idels",), (label("person-index-sorolle-idels-635"),))
 
-#index-row(("R’ Shimshon Pincus",), (label("person-index-r-shimshon-pincus-871"), label("person-index-r-shimshon-pincus-872")))
-
-#index-row(("R’ Shimshon Schwab",), (label("person-index-rav-shimshon-schwab-976"),))
-
-#index-row(("R’ Shiya Berlin",), (label("person-index-r-shiya-berlin-1096"), label("person-index-r-shiya-berlin-1097"), label("person-index-r-shiya-berlin-1098"), label("person-index-r-shiya-berlin-1099")))
-
-#index-row(("R’ Shlomo Ganzfried",), (label("person-index-r-shlomo-ganzfried-199"), label("person-index-r-shlomo-ganzfried-253"), label("person-index-r-shlomo-ganzfried-301"), label("person-index-r-shlomo-ganzfried-414"), label("person-index-r-shlomo-ganzfried-668"), label("person-index-r-shlomo-ganzfried-669"), label("person-index-r-shlomo-ganzfried-762"), label("person-index-r-shlomo-ganzfried-855"), label("person-index-r-shlomo-ganzfried-856")))
-
-#index-row(("R’ Shlomo Zalman Sonnenfeld",), (label("person-index-r-shlomo-zalman-sonnenfeld-530"),))
-
-#index-row(("R’ Shmelke of Nikolsburg",), (label("person-index-reb-shmelke-of-nikolsburg-30"), label("person-index-reb-shmelke-of-nikolsburg-31")))
-
-#index-row(("R’ Shmuel Marcus",), (label("person-index-r-shmuel-marcus-1158"),))
-
-#index-row(("R’ Sholom Schwadron",), (label("person-index-r-sholom-schwadron-719"), label("person-index-r-sholom-schwadron-1024")))
-
-#index-row(("R’ Simcha Bunim of Peshischa",), (label("person-index-r-simcha-bunim-of-peshischa-831"),))
-
-#index-row(("R’ Tzadka",), (label("person-index-r-tzadka-1025"), label("person-index-r-tzadka-1026")))
-
-#index-row(("R’ Tzvi Elimelech of Dinov", "(Bnei Yissaschar)",), (label("person-index-r-tzvi-elimelech-of-dinov-680"), label("person-index-r-tzvi-elimelech-of-dinov-681"), label("person-index-r-tzvi-elimelech-of-dinov-682"), label("person-index-r-tzvi-elimelech-of-dinov-683"), label("person-index-r-tzvi-elimelech-of-dinov-990"), label("person-index-r-tzvi-elimelech-of-dinov-991"), label("person-index-r-tzvi-elimelech-of-dinov-1008"), label("person-index-r-tzvi-elimelech-of-dinov-1009"), label("person-index-r-tzvi-elimelech-of-dinov-1121"), label("person-index-r-tzvi-elimelech-of-dinov-1131")))
-
-#index-row(("R’ Tzvi Hersh Heller",), (label("person-index-rav-tzvi-hersh-heller-670"),))
-
-#index-row(("R’ Tzvi Hirsch HaKohen of Rimanov", "(R’ Hersh Mesharais)",), (label("person-index-r-tzvi-hirsch-hakohen-of-rimanov-1010"), label("person-index-r-tzvi-hirsch-hakohen-of-rimanov-1011")))
-
-#index-row(("R’ Yaakov Kamenetsky",), (label("person-index-r-yaakov-kamenetsky-724"), label("person-index-r-yaakov-kamenetsky-1170")))
-
-#index-row(("R’ Yaakov Mordechai Greenwald",), (label("person-index-r-yaakov-mordechai-greenwald-1153"),))
-
-#index-row(("R’ Yaakov of Lelov",), (label("person-index-r-yaakov-of-lelov-1037"),))
-
-#index-row(("R’ Yaakov of Premishel",), (label("person-index-r-yaakov-of-premishel-1012"),))
-
-#index-row(("R’ Yaakov Yitzchak of Peshischa",), (label("person-index-r-yaakov-yitzchak-of-peshischa-1038"), label("person-index-r-yaakov-yitzchak-of-peshischa-1039"), label("person-index-r-yaakov-yitzchak-of-peshischa-1040"), label("person-index-r-yaakov-yitzchak-of-peshischa-1041")))
-
-#index-row(("R’ Yaron Halbertal",), (label("person-index-r-yaron-halbertal-1169"),))
-
-#index-row(("R’ Yechezkel Abramsky",), (label("person-index-r-abramsky-859"), label("person-index-r-abramsky-860"), label("person-index-r-abramsky-861")))
-
-#index-row(("R’ Yechezkel Levenstein",), (label("person-index-r-yechezkel-levenstein-1035"), label("person-index-r-yechezkel-levenstein-1036")))
-
-#index-row(("R’ Yechiel Spiro",), (label("person-index-yechiel-spiro-984"),))
-
-#index-row(("R’ Yehuda Zev Segal",), (label("person-index-r-yehuda-zev-segal-1115"), label("person-index-r-yehuda-zev-segal-1116"), label("person-index-r-yehuda-zev-segal-1117"), label("person-index-r-yehuda-zev-segal-1118")))
-
-#index-row(("R’ Yekusiel Yehuda Teitelbaum", "(Ba’al Yaitav Lev)",), (label("person-index-r-yekusiel-yehuda-teitelbaum-731"), label("person-index-r-yekusiel-yehuda-teitelbaum-732")))
-
-#index-row(("R’ Yerucham Levovitz",), (label("person-index-r-yerucham-levovitz-299"),))
-
-#index-row(("R’ Yeruchem Gorelick",), (label("person-index-rav-yeruchem-gorelick-857"),))
-
-#index-row(("R’ Yeshaya Bardaki",), (label("person-index-r-yeshaya-bardaki-1056"),))
-
-#index-row(("R’ Yirachmiel Chasid",), (label("person-index-rav-yirachmiel-chasid-972"),))
-
-#index-row(("R’ Yisroel Salanter",), (label("person-index-r-yisroel-salanter-192"),))
-
-#index-row(("R’ Yissocher Englard",), (label("person-index-r-yissocher-englard-377"),))
-
-#index-row(("R’ Yissocher Frand",), (label("person-index-r-yissocher-frand-628"), label("person-index-r-yissocher-frand-629"), label("person-index-r-yissocher-frand-977"), label("person-index-r-yissocher-frand-978")))
-
-#index-row(("R’ Yitzchok Elchonon",), (label("person-index-r-yitzchok-elchonon-437"), label("person-index-r-yitzchok-elchonon-438")))
-
-#index-row(("R’ Yitzchok Zilberstein",), (label("person-index-r-yitzchok-zilberstein-105"), label("person-index-r-yitzchok-zilberstein-378"), label("person-index-r-yitzchok-zilberstein-379"), label("person-index-r-yitzchok-zilberstein-380"), label("person-index-r-yitzchok-zilberstein-381"), label("person-index-r-yitzchok-zilberstein-382"), label("person-index-r-yitzchok-zilberstein-578"), label("person-index-r-yitzchok-zilberstein-579"), label("person-index-r-yitzchok-zilberstein-580"), label("person-index-r-yitzchok-zilberstein-581"), label("person-index-r-yitzchok-zilberstein-829"), label("person-index-r-yitzchok-zilberstein-1000"), label("person-index-r-yitzchok-zilberstein-1001"), label("person-index-r-yitzchok-zilberstein-1154")))
-
-#index-row(("R’ Yoel Sirkis (Bach)",), (label("person-index-r-yoel-sirkis-733"), label("person-index-r-yoel-sirkis-734"), label("person-index-r-yoel-sirkis-735"), label("person-index-r-yoel-sirkis-736"), label("person-index-r-yoel-sirkis-737"), label("person-index-r-yoel-sirkis-738"), label("person-index-r-yoel-sirkis-739"), label("person-index-r-yoel-sirkis-740"), label("person-index-r-yoel-sirkis-741"), label("person-index-r-yoel-sirkis-742"), label("person-index-r-yoel-sirkis-743"), label("person-index-r-yoel-sirkis-744"), label("person-index-r-yoel-sirkis-745"), label("person-index-r-yoel-sirkis-746"), label("person-index-r-yoel-sirkis-747"), label("person-index-r-yoel-sirkis-748"), label("person-index-r-yoel-sirkis-749")))
-
-#index-row(("R’ Yoel Teitelbaum (Satmar Rebbe)",), (label("person-index-r-yoel-teitelbaum-107"), label("person-index-r-yoel-teitelbaum-165"), label("person-index-r-yoel-teitelbaum-166"), label("person-index-r-yoel-teitelbaum-750"), label("person-index-r-yoel-teitelbaum-751"), label("person-index-r-yoel-teitelbaum-1052"), label("person-index-r-yoel-teitelbaum-1100"), label("person-index-r-yoel-teitelbaum-1109")))
-
-#index-row(("R’ Yona Fradkin",), (label("person-index-rabbi-yona-fradkin-1104"),))
-
-#index-row(("R’ Yonasan Eibschutz",), (label("person-index-r-yonasan-eibschutz-645"), label("person-index-r-yonasan-eibschutz-865"), label("person-index-r-yonasan-eibschutz-866")))
-
-#index-row(("R’ Yosef Chaim Sonnenfeld",), (label("person-index-r-yosef-chaim-sonnenfeld-240"), label("person-index-r-yosef-chaim-sonnenfeld-246"), label("person-index-r-yosef-chaim-sonnenfeld-359"), label("person-index-r-yosef-chaim-sonnenfeld-457"), label("person-index-r-yosef-chaim-sonnenfeld-458"), label("person-index-r-yosef-chaim-sonnenfeld-459"), label("person-index-r-yosef-chaim-sonnenfeld-460"), label("person-index-r-yosef-chaim-sonnenfeld-461"), label("person-index-r-yosef-chaim-sonnenfeld-462"), label("person-index-r-yosef-chaim-sonnenfeld-531"), label("person-index-r-yosef-chaim-sonnenfeld-532"), label("person-index-r-yosef-chaim-sonnenfeld-533"), label("person-index-r-yosef-chaim-sonnenfeld-534"), label("person-index-r-yosef-chaim-sonnenfeld-535"), label("person-index-r-yosef-chaim-sonnenfeld-536"), label("person-index-r-yosef-chaim-sonnenfeld-537"), label("person-index-r-yosef-chaim-sonnenfeld-538"), label("person-index-r-yosef-chaim-sonnenfeld-539"), label("person-index-r-yosef-chaim-sonnenfeld-540"), label("person-index-r-yosef-chaim-sonnenfeld-873"), label("person-index-r-yosef-chaim-sonnenfeld-874"), label("person-index-r-yosef-chaim-sonnenfeld-875")))
-
-#index-row(("R’ Yosef Engel",), (label("person-index-r-yosef-engel-541"), label("person-index-r-yosef-engel-542")))
-
-#index-row(("R’ Yosef Shlomo Goldstein",), (label("person-index-r-yosef-shlomo-goldstein-559"), label("person-index-r-yosef-shlomo-goldstein-560")))
-
-#index-row(("R’ Yoshe Ber",), (label("person-index-r-yoshe-ber-6"), label("person-index-r-yoshe-ber-39"), label("person-index-r-yoshe-ber-167"), label("person-index-r-yoshe-ber-168"), label("person-index-r-yoshe-ber-204"), label("person-index-r-yoshe-ber-205"), label("person-index-r-yoshe-ber-206"), label("person-index-r-yoshe-ber-207"), label("person-index-r-yoshe-ber-808"), label("person-index-r-yoshe-ber-809")))
-
-#index-row(("R’ Yossele of Torchin",), (label("person-index-r-yossele-of-torchin-1013"),))
+#index-row(("Iturei Torah",), (label("person-index-iturei-torah-184"), label("person-index-iturei-torah-185")))
 
 #index-row(("R’ YY Jacobson",), (label("person-index-rabbi-yy-jacobson-409"),))
 
-#index-row(("R’ Zalman Sorotzkin", "(Lutzker Rav, Oznayim LaTorah)",), (label("person-index-r-zalman-sorotzkin-14"), label("person-index-r-zalman-sorotzkin-63"), label("person-index-r-zalman-sorotzkin-64"), label("person-index-r-zalman-sorotzkin-65"), label("person-index-r-zalman-sorotzkin-258"), label("person-index-r-zalman-sorotzkin-268"), label("person-index-r-zalman-sorotzkin-306"), label("person-index-r-zalman-sorotzkin-307"), label("person-index-r-zalman-sorotzkin-384"), label("person-index-r-zalman-sorotzkin-385"), label("person-index-r-zalman-sorotzkin-386"), label("person-index-r-zalman-sorotzkin-387"), label("person-index-r-zalman-sorotzkin-388"), label("person-index-r-zalman-sorotzkin-389"), label("person-index-r-zalman-sorotzkin-397"), label("person-index-r-zalman-sorotzkin-398"), label("person-index-r-zalman-sorotzkin-444"), label("person-index-r-zalman-sorotzkin-445"), label("person-index-r-zalman-sorotzkin-446"), label("person-index-r-zalman-sorotzkin-447"), label("person-index-r-zalman-sorotzkin-697"), label("person-index-r-zalman-sorotzkin-698"), label("person-index-r-zalman-sorotzkin-806")))
+#index-row(("R’ Yaakov Kamenetsky",), (label("person-index-r-yaakov-kamenetsky-721"), label("person-index-r-yaakov-kamenetsky-1170")))
 
-#index-row(("R’ Zev of Strickov",), (label("person-index-r-zev-of-strickov-241"),))
+#index-row(("R’ Chaim Kanievsky",), (label("person-index-r-chaim-kanievsky-126"), label("person-index-r-chaim-kanievsky-127"), label("person-index-r-chaim-kanievsky-231"), label("person-index-r-chaim-kanievsky-232"), label("person-index-r-chaim-kanievsky-233"), label("person-index-r-chaim-kanievsky-293"), label("person-index-r-chaim-kanievsky-294"), label("person-index-r-chaim-kanievsky-352"), label("person-index-r-chaim-kanievsky-435"), label("person-index-r-chaim-kanievsky-436"), label("person-index-r-chaim-kanievsky-488"), label("person-index-r-chaim-kanievsky-489"), label("person-index-r-chaim-kanievsky-506"), label("person-index-r-chaim-kanievsky-551"), label("person-index-r-chaim-kanievsky-570"), label("person-index-r-chaim-kanievsky-571"), label("person-index-r-chaim-kanievsky-575"), label("person-index-r-chaim-kanievsky-576"), label("person-index-r-chaim-kanievsky-586"), label("person-index-r-chaim-kanievsky-587"), label("person-index-r-chaim-kanievsky-590"), label("person-index-r-chaim-kanievsky-591"), label("person-index-r-chaim-kanievsky-678"), label("person-index-r-chaim-kanievsky-696"), label("person-index-r-chaim-kanievsky-706"), label("person-index-r-chaim-kanievsky-995"), label("person-index-r-chaim-kanievsky-996")))
+
+#index-row(("Rebbetzin Kanievsky",), (label("person-index-rebbetzin-kanievsky-353"), label("person-index-rebbetzin-kanievsky-354")))
+
+#index-row(("R’ Nissan Kaplan",), (label("person-index-r-nissan-kaplan-1120"),))
+
+#index-row(("Moshe Katz",), (label("person-index-moshe-katz-997"), label("person-index-moshe-katz-998"), label("person-index-moshe-katz-999")))
+
+#index-row(("R’ Pinchas Kehati",), (label("person-index-r-pinchas-kehati-285"),))
+
+#index-row(("Kitzur Shulchan Aruch",), (label("person-index-kitzur-shulchan-aruch-199"), label("person-index-kitzur-shulchan-aruch-664"), label("person-index-kitzur-shulchan-aruch-665"), label("person-index-kitzur-shulchan-aruch-666"), label("person-index-kitzur-shulchan-aruch-667"), label("person-index-kitzur-shulchan-aruch-857")))
+
+#index-row(("Klausenberger Rebbe",), (label("person-index-klausenberger-rebbe-517"), label("person-index-klausenberger-rebbe-518")))
+
+#index-row(("Kli Yakar",), (label("person-index-kli-yakar-320"), label("person-index-kli-yakar-760")))
+
+#index-row(("R’ Chaim Yosef Kofman",), (label("person-index-r-chaim-yosef-kofman-415"), label("person-index-r-chaim-yosef-kofman-449")))
+
+#index-row(("Kol HaTorah",), (label("person-index-kol-hatorah-139"), label("person-index-kol-hatorah-219"), label("person-index-kol-hatorah-560"), label("person-index-kol-hatorah-788")))
+
+#index-row(("Kol Rom",), (label("person-index-kol-rom-345"),))
+
+#index-row(("R’ Kormornick",), (label("person-index-r-kormornick-300"), label("person-index-r-kormornick-673"), label("person-index-r-kormornick-771"), label("person-index-r-kormornick-772"), label("person-index-r-kormornick-1048"), label("person-index-r-kormornick-1108"), label("person-index-r-kormornick-1133"), label("person-index-r-kormornick-1134")))
+
+#index-row(("R’ Aharon Kotler",), (label("person-index-rav-aharon-kotler-470"), label("person-index-rav-aharon-kotler-626")))
+
+#index-row(("Kotzker Rebbe",), (label("person-index-the-kotzker-rebbe-218"), label("person-index-the-kotzker-rebbe-1182")))
+
+#index-row(("R’ Pesach Krohn",), (label("person-index-rav-pesach-krohn-968"),))
 
 #index-row(("R’ Zundel Kroizer",), (label("person-index-r-zundel-kroizer-987"),))
 
-#index-row(("Raivid",), (label("person-index-raivid-208"), label("person-index-raivid-209"), label("person-index-raivid-210"), label("person-index-raivid-1196")))
+#index-row(("R’ Label Lam",), (label("person-index-r-label-lam-365"),))
 
-#index-row(("Rama",), (label("person-index-rama-947"), label("person-index-rama-948"), label("person-index-rama-949"), label("person-index-rama-950"), label("person-index-rama-951"), label("person-index-rama-952"), label("person-index-rama-953"), label("person-index-rama-1171")))
+#index-row(("R’ Avraham Landau of Chekhanov",), (label("person-index-r-avraham-landau-of-chekhanov-1062"),))
 
-#index-row(("Rambam",), (label("person-index-rambam-211"), label("person-index-rambam-212"), label("person-index-rambam-213"), label("person-index-rambam-254"), label("person-index-rambam-277"), label("person-index-rambam-278"), label("person-index-rambam-279"), label("person-index-rambam-280"), label("person-index-rambam-281"), label("person-index-rambam-561"), label("person-index-rambam-630"), label("person-index-rambam-810"), label("person-index-rambam-811"), label("person-index-rambam-812"), label("person-index-rambam-813")))
+#index-row(("R’ Menachem Mendel Chaim Landau",), (label("person-index-r-menachem-mendel-chaim-landau-1063"),))
 
-#index-row(("Ramban",), (label("person-index-ramban-84"), label("person-index-ramban-269"), label("person-index-ramban-270"), label("person-index-ramban-271"), label("person-index-ramban-305"), label("person-index-ramban-325"), label("person-index-ramban-510"), label("person-index-ramban-511"), label("person-index-ramban-631"), label("person-index-ramban-819"), label("person-index-ramban-820"), label("person-index-ramban-821"), label("person-index-ramban-846"), label("person-index-ramban-847"), label("person-index-ramban-848"), label("person-index-ramban-849"), label("person-index-ramban-850"), label("person-index-ramban-851"), label("person-index-ramban-852"), label("person-index-ramban-853"), label("person-index-ramban-1197"), label("person-index-ramban-1198"), label("person-index-ramban-1199"), label("person-index-ramban-1200"), label("person-index-ramban-1201")))
+#index-row(("R’ Lieb M’Lichev",), (label("person-index-r-lieb-m-lichev-1140"),))
+
+#index-row(("R’ Boruch Ber Leibowitz",), (label("person-index-r-boruch-ber-leibowitz-989"),))
+
+#index-row(("R’ Yechezkel Levenstein",), (label("person-index-r-yechezkel-levenstein-1033"), label("person-index-r-yechezkel-levenstein-1034")))
+
+#index-row(("R’ Levi Yitzchok of Berditchev",), (label("person-index-r-levi-yitzchok-of-berditchev-23"), label("person-index-r-levi-yitzchok-of-berditchev-24"), label("person-index-r-levi-yitzchok-of-berditchev-147"), label("person-index-r-levi-yitzchok-of-berditchev-148"), label("person-index-r-levi-yitzchok-of-berditchev-149"), label("person-index-r-levi-yitzchok-of-berditchev-600"), label("person-index-r-levi-yitzchok-of-berditchev-601"), label("person-index-r-levi-yitzchok-of-berditchev-602"), label("person-index-r-levi-yitzchok-of-berditchev-900"), label("person-index-r-levi-yitzchok-of-berditchev-901"), label("person-index-r-levi-yitzchok-of-berditchev-902"), label("person-index-r-levi-yitzchok-of-berditchev-903"), label("person-index-r-levi-yitzchok-of-berditchev-904"), label("person-index-r-levi-yitzchok-of-berditchev-905"), label("person-index-r-levi-yitzchok-of-berditchev-906"), label("person-index-r-levi-yitzchok-of-berditchev-907"), label("person-index-r-levi-yitzchok-of-berditchev-908"), label("person-index-r-levi-yitzchok-of-berditchev-909"), label("person-index-r-levi-yitzchok-of-berditchev-910"), label("person-index-r-levi-yitzchok-of-berditchev-911"), label("person-index-r-levi-yitzchok-of-berditchev-912"), label("person-index-r-levi-yitzchok-of-berditchev-913"), label("person-index-r-levi-yitzchok-of-berditchev-914"), label("person-index-r-levi-yitzchok-of-berditchev-915"), label("person-index-r-levi-yitzchok-of-berditchev-1002"), label("person-index-r-levi-yitzchok-of-berditchev-1003"), label("person-index-r-levi-yitzchok-of-berditchev-1004"), label("person-index-r-levi-yitzchok-of-berditchev-1005"), label("person-index-r-levi-yitzchok-of-berditchev-1028"), label("person-index-r-levi-yitzchok-of-berditchev-1029"), label("person-index-r-levi-yitzchok-of-berditchev-1030"), label("person-index-r-levi-yitzchok-of-berditchev-1035"), label("person-index-r-levi-yitzchok-of-berditchev-1036")))
+
+#index-row(("R’ Aryeh Levine",), (label("person-index-r-aryeh-levine-976"), label("person-index-r-aryeh-levine-977")))
+
+#index-row(("R’ Yerucham Levovitz",), (label("person-index-r-yerucham-levovitz-299"),))
+
+#index-row(("Lubavitcher Rebbe", "(R’ Menachem Mendel Schneerson)",), (label("person-index-lubavitcher-rebbe-159"), label("person-index-lubavitcher-rebbe-160"), label("person-index-lubavitcher-rebbe-701"), label("person-index-lubavitcher-rebbe-802"), label("person-index-lubavitcher-rebbe-803")))
+
+#index-row(("M’eino Shel Torah",), (label("person-index-m-eino-shel-torah-37"), label("person-index-m-eino-shel-torah-38"), label("person-index-m-eino-shel-torah-47"), label("person-index-m-eino-shel-torah-109"), label("person-index-m-eino-shel-torah-175"), label("person-index-m-eino-shel-torah-286"), label("person-index-m-eino-shel-torah-335"), label("person-index-m-eino-shel-torah-421"), label("person-index-m-eino-shel-torah-592"), label("person-index-m-eino-shel-torah-658"), label("person-index-m-eino-shel-torah-755"), label("person-index-m-eino-shel-torah-764")))
+
+#index-row(("Mabit",), (label("person-index-mabit-572"),))
+
+#index-row(("Maggid of Mezritch",), (label("person-index-maggid-of-mezritch-25"), label("person-index-maggid-of-mezritch-26"), label("person-index-maggid-of-mezritch-27")))
+
+#index-row(("Maharil",), (label("person-index-maharil-79"), label("person-index-maharil-636"), label("person-index-maharil-637"), label("person-index-maharil-638"), label("person-index-maharil-639"), label("person-index-maharil-640"), label("person-index-maharil-641"), label("person-index-maharil-642")))
+
+#index-row(("Maharsha",), (label("person-index-maharsha-490"), label("person-index-maharsha-491"), label("person-index-maharsha-492"), label("person-index-maharsha-493"), label("person-index-maharsha-494")))
+
+#index-row(("Malbim",), (label("person-index-malbim-789"), label("person-index-malbim-1183"), label("person-index-malbim-1184"), label("person-index-malbim-1185"), label("person-index-malbim-1186"), label("person-index-malbim-1187"), label("person-index-malbim-1188"), label("person-index-malbim-1189"), label("person-index-malbim-1190"), label("person-index-malbim-1191"), label("person-index-malbim-1192"), label("person-index-malbim-1193"), label("person-index-malbim-1194")))
+
+#index-row(("Asher Malool",), (label("person-index-asher-malool-1169"),))
+
+#index-row(("Man of Faith",), (label("person-index-man-of-faith-203"),))
+
+#index-row(("Chaim Mandel",), (label("person-index-chaim-mandel-400"),))
+
+#index-row(("R’ Shmuel Marcus",), (label("person-index-r-shmuel-marcus-1155"),))
+
+#index-row(("R’ Meir’l of Premishlan",), (label("person-index-r-meir-l-of-premishlan-95"), label("person-index-r-meir-l-of-premishlan-96"), label("person-index-r-meir-l-of-premishlan-97"), label("person-index-r-meir-l-of-premishlan-98"), label("person-index-r-meir-l-of-premishlan-118"), label("person-index-r-meir-l-of-premishlan-173"), label("person-index-r-meir-l-of-premishlan-174"), label("person-index-r-meir-l-of-premishlan-1064"), label("person-index-r-meir-l-of-premishlan-1065"), label("person-index-r-meir-l-of-premishlan-1066")))
+
+#index-row(("R’ Dovid Meisels",), (label("person-index-r-dovid-meisels-1044"),))
+
+#index-row(("R’ Mendel of Rimanov",), (label("person-index-r-mendel-of-rimanov-548"), label("person-index-r-mendel-of-rimanov-1006")))
+
+#index-row(("R’ Mendelson",), (label("person-index-r-mendelson-507"), label("person-index-r-mendelson-508"), label("person-index-r-mendelson-509")))
+
+#index-row(("Meshech Chochma",), (label("person-index-meshech-chochma-1046"),))
+
+#index-row(("R’ Alter Metzger",), (label("person-index-r-alter-metzger-804"),))
+
+#index-row(("R’ Avigdor Miller",), (label("person-index-r-avigdor-miller-266"), label("person-index-r-avigdor-miller-422"), label("person-index-r-avigdor-miller-593"), label("person-index-r-avigdor-miller-845")))
+
+#index-row(("Minchas Chein",), (label("person-index-minchas-chain-220"), label("person-index-minchas-chain-878"), label("person-index-minchas-chain-879")))
+
+#index-row(("Moreshes Simchas HaTorah",), (label("person-index-moreshes-simchas-hatorah-814"),))
+
+#index-row(("Munkatcher Rebbe",), (label("person-index-munkatcher-rebbe-80"), label("person-index-munkatcher-rebbe-81"), label("person-index-munkatcher-rebbe-473"), label("person-index-munkatcher-rebbe-474"), label("person-index-munkatcher-rebbe-766"), label("person-index-munkatcher-rebbe-767"), label("person-index-munkatcher-rebbe-795"), label("person-index-munkatcher-rebbe-796"), label("person-index-munkatcher-rebbe-797")))
+
+#index-row(("R’ Nachman",), (label("person-index-r-nachman-28"),))
+
+#index-row(("R’ Naftali of Ropshitz",), (label("person-index-r-naftali-of-ropshitz-1007"),))
+
+#index-row(("R’ Shmelke of Nikolsburg",), (label("person-index-reb-shmelke-of-nikolsburg-29"), label("person-index-reb-shmelke-of-nikolsburg-30")))
+
+#index-row(("Nodeh Byehuda",), (label("person-index-nodeh-byehuda-643"), label("person-index-nodeh-byehuda-884"), label("person-index-nodeh-byehuda-885"), label("person-index-nodeh-byehuda-886"), label("person-index-nodeh-byehuda-887"), label("person-index-nodeh-byehuda-888"), label("person-index-nodeh-byehuda-889"), label("person-index-nodeh-byehuda-890"), label("person-index-nodeh-byehuda-891"), label("person-index-nodeh-byehuda-892"), label("person-index-nodeh-byehuda-893"), label("person-index-nodeh-byehuda-894"), label("person-index-nodeh-byehuda-895"), label("person-index-nodeh-byehuda-896"), label("person-index-nodeh-byehuda-897"), label("person-index-nodeh-byehuda-898")))
+
+#index-row(("R’ Moshe Oelbaum",), (label("person-index-r-moshe-oelbaum-552"),))
+
+#index-row(("R’ Noach Isaac Oelbaum",), (label("person-index-r-noach-isaac-oelbaum-31"), label("person-index-r-noach-isaac-oelbaum-75"), label("person-index-r-noach-isaac-oelbaum-82"), label("person-index-r-noach-isaac-oelbaum-99"), label("person-index-r-noach-isaac-oelbaum-106"), label("person-index-r-noach-isaac-oelbaum-123"), label("person-index-r-noach-isaac-oelbaum-144"), label("person-index-r-noach-isaac-oelbaum-180"), label("person-index-r-noach-isaac-oelbaum-186"), label("person-index-r-noach-isaac-oelbaum-221"), label("person-index-r-noach-isaac-oelbaum-238"), label("person-index-r-noach-isaac-oelbaum-295"), label("person-index-r-noach-isaac-oelbaum-296"), label("person-index-r-noach-isaac-oelbaum-297"), label("person-index-r-noach-isaac-oelbaum-350"), label("person-index-r-noach-isaac-oelbaum-355"), label("person-index-r-noach-isaac-oelbaum-366"), label("person-index-r-noach-isaac-oelbaum-401"), label("person-index-r-noach-isaac-oelbaum-402"), label("person-index-r-noach-isaac-oelbaum-403"), label("person-index-r-noach-isaac-oelbaum-475"), label("person-index-r-noach-isaac-oelbaum-476"), label("person-index-r-noach-isaac-oelbaum-495"), label("person-index-r-noach-isaac-oelbaum-498"), label("person-index-r-noach-isaac-oelbaum-499"), label("person-index-r-noach-isaac-oelbaum-500"), label("person-index-r-noach-isaac-oelbaum-577"), label("person-index-r-noach-isaac-oelbaum-617"), label("person-index-r-noach-isaac-oelbaum-618"), label("person-index-r-noach-isaac-oelbaum-644"), label("person-index-r-noach-isaac-oelbaum-668"), label("person-index-r-noach-isaac-oelbaum-669"), label("person-index-r-noach-isaac-oelbaum-722"), label("person-index-r-noach-isaac-oelbaum-880"), label("person-index-r-noach-isaac-oelbaum-881"), label("person-index-r-noach-isaac-oelbaum-956"), label("person-index-r-noach-isaac-oelbaum-992"), label("person-index-r-noach-isaac-oelbaum-1080"), label("person-index-r-noach-isaac-oelbaum-1130"), label("person-index-r-noach-isaac-oelbaum-1195")))
+
+#index-row(("Ohel Torah",), (label("person-index-ohel-torah-48"),))
+
+#index-row(("Mr. Olasky",), (label("person-index-mr-olasky-519"), label("person-index-mr-olasky-520"), label("person-index-mr-olasky-521"), label("person-index-mr-olasky-522")))
+
+#index-row(("Otzer Plo’os HaTorah",), (label("person-index-otzer-plo-os-hatorah-62"), label("person-index-otzer-plo-os-hatorah-83"), label("person-index-otzer-plo-os-hatorah-90"), label("person-index-otzer-plo-os-hatorah-91"), label("person-index-otzer-plo-os-hatorah-321"), label("person-index-otzer-plo-os-hatorah-322"), label("person-index-otzer-plo-os-hatorah-323"), label("person-index-otzer-plo-os-hatorah-324"), label("person-index-otzer-plo-os-hatorah-477"), label("person-index-otzer-plo-os-hatorah-478"), label("person-index-otzer-plo-os-hatorah-479"), label("person-index-otzer-plo-os-hatorah-529"), label("person-index-otzer-plo-os-hatorah-645"), label("person-index-otzer-plo-os-hatorah-646"), label("person-index-otzer-plo-os-hatorah-679"), label("person-index-otzer-plo-os-hatorah-727"), label("person-index-otzer-plo-os-hatorah-761"), label("person-index-otzer-plo-os-hatorah-768"), label("person-index-otzer-plo-os-hatorah-798"), label("person-index-otzer-plo-os-hatorah-832")))
+
+#index-row(("R’ Avraham Pam",), (label("person-index-r-avraham-pam-416"), label("person-index-r-avraham-pam-417"), label("person-index-r-avraham-pam-418"), label("person-index-r-avraham-pam-450"), label("person-index-r-avraham-pam-451"), label("person-index-r-avraham-pam-703"), label("person-index-r-avraham-pam-1081"), label("person-index-r-avraham-pam-1082"), label("person-index-r-avraham-pam-1083"), label("person-index-r-avraham-pam-1084"), label("person-index-r-avraham-pam-1085"), label("person-index-r-avraham-pam-1086"), label("person-index-r-avraham-pam-1087"), label("person-index-r-avraham-pam-1088")))
+
+#index-row(("R’ Chaim Alter Panet",), (label("person-index-r-chaim-alter-panet-342"),))
+
+#index-row(("Peninim MiShulchan Gavoa",), (label("person-index-peninim-mishulchan-gavoa-367"), label("person-index-peninim-mishulchan-gavoa-368"), label("person-index-peninim-mishulchan-gavoa-430"), label("person-index-peninim-mishulchan-gavoa-694")))
+
+#index-row(("R’ Itzele Peterburger",), (label("person-index-rav-itzele-peterburger-404"),))
+
+#index-row(("R’ Shimshon Pincus",), (label("person-index-r-shimshon-pincus-869"), label("person-index-r-shimshon-pincus-870")))
+
+#index-row(("Pirkei Drabi Eliezer",), (label("person-index-pirkei-drabi-eliezer-92"), label("person-index-pirkei-drabi-eliezer-93"), label("person-index-pirkei-drabi-eliezer-1161")))
+
+#index-row(("R’ Mendy Pollak",), (label("person-index-r-mendy-pollak-530"), label("person-index-r-mendy-pollak-799")))
+
+#index-row(("Pri Eitz Chaim",), (label("person-index-pri-eitz-chaim-723"),))
+
+#index-row(("R’ Elimelech of Lizhensk",), (label("person-index-r-elimelech-of-lizhensk-480"), label("person-index-r-elimelech-of-lizhensk-1056")))
+
+#index-row(("R’ Elyashiv",), (label("person-index-r-elyashiv-298"), label("person-index-r-elyashiv-356"), label("person-index-r-elyashiv-357"), label("person-index-r-elyashiv-358"), label("person-index-r-elyashiv-359"), label("person-index-r-elyashiv-360")))
+
+#index-row(("R’ Gesheid",), (label("person-index-rabbi-gesheid-484"), label("person-index-rabbi-gesheid-485"), label("person-index-rabbi-gesheid-486")))
+
+#index-row(("R’ Gifter",), (label("person-index-rav-gifter-969"), label("person-index-rav-gifter-970"), label("person-index-rav-gifter-971"), label("person-index-rav-gifter-972")))
+
+#index-row(("R’ Guttman",), (label("person-index-r-guttman-452"), label("person-index-r-guttman-453")))
+
+#index-row(("R’ Baruch Rabinowitz",), (label("person-index-r-baruch-rabinowitz-1089"),))
+
+#index-row(("Raivid",), (label("person-index-raivid-204"), label("person-index-raivid-205"), label("person-index-raivid-206"), label("person-index-raivid-1196")))
+
+#index-row(("Rama",), (label("person-index-rama-942"), label("person-index-rama-943"), label("person-index-rama-944"), label("person-index-rama-945"), label("person-index-rama-946"), label("person-index-rama-947"), label("person-index-rama-948"), label("person-index-rama-1171")))
+
+#index-row(("Rambam",), (label("person-index-rambam-207"), label("person-index-rambam-208"), label("person-index-rambam-209"), label("person-index-rambam-251"), label("person-index-rambam-277"), label("person-index-rambam-278"), label("person-index-rambam-279"), label("person-index-rambam-280"), label("person-index-rambam-281"), label("person-index-rambam-561"), label("person-index-rambam-627"), label("person-index-rambam-808"), label("person-index-rambam-809"), label("person-index-rambam-810"), label("person-index-rambam-811")))
+
+#index-row(("Ramban",), (label("person-index-ramban-84"), label("person-index-ramban-267"), label("person-index-ramban-268"), label("person-index-ramban-269"), label("person-index-ramban-305"), label("person-index-ramban-325"), label("person-index-ramban-510"), label("person-index-ramban-511"), label("person-index-ramban-628"), label("person-index-ramban-815"), label("person-index-ramban-816"), label("person-index-ramban-817"), label("person-index-ramban-846"), label("person-index-ramban-847"), label("person-index-ramban-848"), label("person-index-ramban-849"), label("person-index-ramban-850"), label("person-index-ramban-851"), label("person-index-ramban-852"), label("person-index-ramban-853"), label("person-index-ramban-1197"), label("person-index-ramban-1198"), label("person-index-ramban-1199"), label("person-index-ramban-1200"), label("person-index-ramban-1201")))
 
 #index-row(("Ramchal",), (label("person-index-ramchal-1202"), label("person-index-ramchal-1203"), label("person-index-ramchal-1204"), label("person-index-ramchal-1205"), label("person-index-ramchal-1206"), label("person-index-ramchal-1207"), label("person-index-ramchal-1208"), label("person-index-ramchal-1209"), label("person-index-ramchal-1210"), label("person-index-ramchal-1211"), label("person-index-ramchal-1212"), label("person-index-ramchal-1213"), label("person-index-ramchal-1214"), label("person-index-ramchal-1215"), label("person-index-ramchal-1216"), label("person-index-ramchal-1217")))
 
+#index-row(("R’ Rapps",), (label("person-index-rabbi-rapps-1164"), label("person-index-rabbi-rapps-1165"), label("person-index-rabbi-rapps-1166")))
+
 #index-row(("Rashash",), (label("person-index-rashash-784"),))
 
-#index-row(("Rashba",), (label("person-index-rashba-214"), label("person-index-rashba-215")))
+#index-row(("Rashba",), (label("person-index-rashba-210"), label("person-index-rashba-211")))
 
-#index-row(("Rashi",), (label("person-index-rashi-3"), label("person-index-rashi-4"), label("person-index-rashi-9"), label("person-index-rashi-10"), label("person-index-rashi-11"), label("person-index-rashi-12"), label("person-index-rashi-13"), label("person-index-rashi-32"), label("person-index-rashi-40"), label("person-index-rashi-41"), label("person-index-rashi-42"), label("person-index-rashi-49"), label("person-index-rashi-50"), label("person-index-rashi-69"), label("person-index-rashi-70"), label("person-index-rashi-77"), label("person-index-rashi-85"), label("person-index-rashi-100"), label("person-index-rashi-101"), label("person-index-rashi-110"), label("person-index-rashi-111"), label("person-index-rashi-112"), label("person-index-rashi-113"), label("person-index-rashi-114"), label("person-index-rashi-115"), label("person-index-rashi-116"), label("person-index-rashi-120"), label("person-index-rashi-124"), label("person-index-rashi-131"), label("person-index-rashi-145"), label("person-index-rashi-169"), label("person-index-rashi-181"), label("person-index-rashi-200"), label("person-index-rashi-201"), label("person-index-rashi-216"), label("person-index-rashi-222"), label("person-index-rashi-223"), label("person-index-rashi-265"), label("person-index-rashi-272"), label("person-index-rashi-273"), label("person-index-rashi-274"), label("person-index-rashi-287"), label("person-index-rashi-288"), label("person-index-rashi-308"), label("person-index-rashi-309"), label("person-index-rashi-310"), label("person-index-rashi-311"), label("person-index-rashi-312"), label("person-index-rashi-313"), label("person-index-rashi-314"), label("person-index-rashi-315"), label("person-index-rashi-316"), label("person-index-rashi-326"), label("person-index-rashi-327"), label("person-index-rashi-328"), label("person-index-rashi-329"), label("person-index-rashi-330"), label("person-index-rashi-331"), label("person-index-rashi-332"), label("person-index-rashi-336"), label("person-index-rashi-363"), label("person-index-rashi-369"), label("person-index-rashi-390"), label("person-index-rashi-395"), label("person-index-rashi-399"), label("person-index-rashi-406"), label("person-index-rashi-407"), label("person-index-rashi-408"), label("person-index-rashi-410"), label("person-index-rashi-412"), label("person-index-rashi-442"), label("person-index-rashi-443"), label("person-index-rashi-448"), label("person-index-rashi-496"), label("person-index-rashi-516"), label("person-index-rashi-549"), label("person-index-rashi-550"), label("person-index-rashi-556"), label("person-index-rashi-562"), label("person-index-rashi-563"), label("person-index-rashi-564"), label("person-index-rashi-565"), label("person-index-rashi-566"), label("person-index-rashi-573"), label("person-index-rashi-619"), label("person-index-rashi-620"), label("person-index-rashi-621"), label("person-index-rashi-652"), label("person-index-rashi-653"), label("person-index-rashi-654"), label("person-index-rashi-655"), label("person-index-rashi-656"), label("person-index-rashi-657"), label("person-index-rashi-671"), label("person-index-rashi-684"), label("person-index-rashi-685"), label("person-index-rashi-686"), label("person-index-rashi-695"), label("person-index-rashi-699"), label("person-index-rashi-720"), label("person-index-rashi-754"), label("person-index-rashi-780"), label("person-index-rashi-781"), label("person-index-rashi-782"), label("person-index-rashi-783"), label("person-index-rashi-790"), label("person-index-rashi-791"), label("person-index-rashi-792"), label("person-index-rashi-800"), label("person-index-rashi-822"), label("person-index-rashi-823"), label("person-index-rashi-844"), label("person-index-rashi-876"), label("person-index-rashi-877"), label("person-index-rashi-916"), label("person-index-rashi-925"), label("person-index-rashi-985"), label("person-index-rashi-1070"), label("person-index-rashi-1071"), label("person-index-rashi-1075"), label("person-index-rashi-1172"), label("person-index-rashi-1173")))
+#index-row(("Rashi",), (label("person-index-rashi-3"), label("person-index-rashi-4"), label("person-index-rashi-9"), label("person-index-rashi-10"), label("person-index-rashi-11"), label("person-index-rashi-12"), label("person-index-rashi-13"), label("person-index-rashi-32"), label("person-index-rashi-39"), label("person-index-rashi-40"), label("person-index-rashi-41"), label("person-index-rashi-49"), label("person-index-rashi-50"), label("person-index-rashi-68"), label("person-index-rashi-69"), label("person-index-rashi-76"), label("person-index-rashi-85"), label("person-index-rashi-100"), label("person-index-rashi-101"), label("person-index-rashi-110"), label("person-index-rashi-111"), label("person-index-rashi-112"), label("person-index-rashi-113"), label("person-index-rashi-114"), label("person-index-rashi-115"), label("person-index-rashi-116"), label("person-index-rashi-120"), label("person-index-rashi-124"), label("person-index-rashi-128"), label("person-index-rashi-145"), label("person-index-rashi-161"), label("person-index-rashi-181"), label("person-index-rashi-200"), label("person-index-rashi-201"), label("person-index-rashi-212"), label("person-index-rashi-222"), label("person-index-rashi-223"), label("person-index-rashi-265"), label("person-index-rashi-270"), label("person-index-rashi-271"), label("person-index-rashi-272"), label("person-index-rashi-287"), label("person-index-rashi-288"), label("person-index-rashi-306"), label("person-index-rashi-307"), label("person-index-rashi-308"), label("person-index-rashi-309"), label("person-index-rashi-310"), label("person-index-rashi-311"), label("person-index-rashi-312"), label("person-index-rashi-313"), label("person-index-rashi-314"), label("person-index-rashi-326"), label("person-index-rashi-327"), label("person-index-rashi-328"), label("person-index-rashi-329"), label("person-index-rashi-330"), label("person-index-rashi-331"), label("person-index-rashi-332"), label("person-index-rashi-336"), label("person-index-rashi-362"), label("person-index-rashi-369"), label("person-index-rashi-390"), label("person-index-rashi-395"), label("person-index-rashi-397"), label("person-index-rashi-405"), label("person-index-rashi-406"), label("person-index-rashi-407"), label("person-index-rashi-410"), label("person-index-rashi-412"), label("person-index-rashi-442"), label("person-index-rashi-443"), label("person-index-rashi-444"), label("person-index-rashi-496"), label("person-index-rashi-516"), label("person-index-rashi-549"), label("person-index-rashi-550"), label("person-index-rashi-556"), label("person-index-rashi-562"), label("person-index-rashi-563"), label("person-index-rashi-564"), label("person-index-rashi-565"), label("person-index-rashi-566"), label("person-index-rashi-573"), label("person-index-rashi-619"), label("person-index-rashi-620"), label("person-index-rashi-621"), label("person-index-rashi-649"), label("person-index-rashi-650"), label("person-index-rashi-651"), label("person-index-rashi-652"), label("person-index-rashi-653"), label("person-index-rashi-654"), label("person-index-rashi-670"), label("person-index-rashi-680"), label("person-index-rashi-681"), label("person-index-rashi-682"), label("person-index-rashi-695"), label("person-index-rashi-697"), label("person-index-rashi-719"), label("person-index-rashi-754"), label("person-index-rashi-780"), label("person-index-rashi-781"), label("person-index-rashi-782"), label("person-index-rashi-783"), label("person-index-rashi-790"), label("person-index-rashi-791"), label("person-index-rashi-792"), label("person-index-rashi-800"), label("person-index-rashi-818"), label("person-index-rashi-819"), label("person-index-rashi-844"), label("person-index-rashi-873"), label("person-index-rashi-874"), label("person-index-rashi-916"), label("person-index-rashi-925"), label("person-index-rashi-983"), label("person-index-rashi-1070"), label("person-index-rashi-1071"), label("person-index-rashi-1075"), label("person-index-rashi-1172"), label("person-index-rashi-1173")))
 
 #index-row(("Rebbe Shnayar Zalman of Liadi", "(the Alter Rebbe)",), (label("person-index-rebbe-shnayar-zalman-of-liadi-622"),))
 
-#index-row(("Rebbetzin Barzam",), (label("person-index-rebbetzin-barzam-132"),))
-
-#index-row(("Rebbetzin Kanievsky",), (label("person-index-rebbetzin-kanievsky-360"), label("person-index-rebbetzin-kanievsky-361")))
-
-#index-row(("Rebbetzin Rivky Holtzberg",), (label("person-index-rebbetzin-rivky-holtzberg-772"),))
-
-#index-row(("Ridvaz",), (label("person-index-ridvaz-512"), label("person-index-ridvaz-554")))
+#index-row(("Ridvaz",), (label("person-index-ridvaz-512"), label("person-index-ridvaz-553")))
 
 #index-row(("Ritva",), (label("person-index-ritva-785"),))
 
-#index-row(("Rosh",), (label("person-index-rosh-833"), label("person-index-rosh-834"), label("person-index-rosh-835"), label("person-index-rosh-836"), label("person-index-rosh-867"), label("person-index-rosh-973"), label("person-index-rosh-1031"), label("person-index-rosh-1032"), label("person-index-rosh-1059")))
+#index-row(("R’ Bernard Rosenzweig",), (label("person-index-r-rosenzweig-5"),))
+
+#index-row(("Rosh",), (label("person-index-rosh-833"), label("person-index-rosh-834"), label("person-index-rosh-835"), label("person-index-rosh-836"), label("person-index-rosh-866"), label("person-index-rosh-973"), label("person-index-rosh-1031"), label("person-index-rosh-1032"), label("person-index-rosh-1058")))
+
+#index-row(("R’ Chaim Leibish Rottenberg",), (label("person-index-r-chaim-leibish-rottenberg-728"), label("person-index-r-chaim-leibish-rottenberg-729")))
 
 #index-row(("Ruzhiner",), (label("person-index-the-ruzhiner-33"), label("person-index-the-ruzhiner-1067"), label("person-index-the-ruzhiner-1068")))
 
-#index-row(("Sanzer Rav",), (label("person-index-the-sanzer-rav-1132"),))
+#index-row(("R’ Mordechai Sabato",), (label("person-index-r-mordechai-sabato-1156"), label("person-index-r-mordechai-sabato-1157")))
 
-#index-row(("Shach",), (label("person-index-shach-217"), label("person-index-shach-837"), label("person-index-shach-838"), label("person-index-shach-839"), label("person-index-shach-840"), label("person-index-shach-841")))
+#index-row(("R’ Yisroel Salanter",), (label("person-index-r-yisroel-salanter-190"),))
+
+#index-row(("Sanzer Rav",), (label("person-index-the-sanzer-rav-1131"),))
+
+#index-row(("R’ Herschel Schachter",), (label("person-index-r-herschel-schachter-77"), label("person-index-r-herschel-schachter-843"), label("person-index-r-herschel-schachter-1144")))
+
+#index-row(("R’ Fabian Schonfeld",), (label("person-index-r-fabian-schonfeld-363"),))
+
+#index-row(("R’ Avraham Schorr",), (label("person-index-r-avraham-schorr-1162"),))
+
+#index-row(("R’ Gedalia Schorr",), (label("person-index-r-gedalia-schorr-252"), label("person-index-r-gedalia-schorr-253"), label("person-index-r-gedalia-schorr-254"), label("person-index-r-gedalia-schorr-655"), label("person-index-r-gedalia-schorr-656"), label("person-index-r-gedalia-schorr-657"), label("person-index-r-gedalia-schorr-993"), label("person-index-r-gedalia-schorr-1163")))
+
+#index-row(("R’ Moshe Schwab",), (label("person-index-r-moshe-schwab-1049"), label("person-index-r-moshe-schwab-1050"), label("person-index-r-moshe-schwab-1051")))
+
+#index-row(("R’ Shimshon Schwab",), (label("person-index-rav-shimshon-schwab-978"),))
+
+#index-row(("R’ Sholom Schwadron",), (label("person-index-r-sholom-schwadron-720"), label("person-index-r-sholom-schwadron-1024")))
+
+#index-row(("R’ Yehuda Zev Segal",), (label("person-index-r-yehuda-zev-segal-1115"), label("person-index-r-yehuda-zev-segal-1116"), label("person-index-r-yehuda-zev-segal-1117"), label("person-index-r-yehuda-zev-segal-1118")))
+
+#index-row(("R’ Pinchas Zalman Segol",), (label("person-index-r-pinchas-zalman-segol-762"),))
+
+#index-row(("Shach",), (label("person-index-shach-213"), label("person-index-shach-837"), label("person-index-shach-838"), label("person-index-shach-839"), label("person-index-shach-840"), label("person-index-shach-841"), label("person-index-shach-867")))
+
+#index-row(("R’ Meir Shapiro",), (label("person-index-r-meir-shapiro-629"), label("person-index-r-meir-shapiro-630"), label("person-index-r-meir-shapiro-631")))
 
 #index-row(("Sharei Teshuva",), (label("person-index-sharei-teshuva-594"),))
 
@@ -16456,15 +16380,53 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Shem Mishmuel",), (label("person-index-shem-mishmuel-333"), label("person-index-shem-mishmuel-334"), label("person-index-shem-mishmuel-1072"), label("person-index-shem-mishmuel-1073")))
 
-#index-row(("Shiniver Rebbe", "(R’ Yechezkel Shraga)",), (label("person-index-shiniver-rebbe-481"), label("person-index-shiniver-rebbe-482"), label("person-index-shiniver-rebbe-926"), label("person-index-shiniver-rebbe-927"), label("person-index-shiniver-rebbe-936"), label("person-index-shiniver-rebbe-937"), label("person-index-shiniver-rebbe-938"), label("person-index-shiniver-rebbe-939")))
+#index-row(("R’ Simcha Sheps",), (label("person-index-r-simcha-sheps-239"), label("person-index-r-simcha-sheps-248"), label("person-index-r-simcha-sheps-346"), label("person-index-r-simcha-sheps-531"), label("person-index-r-simcha-sheps-820"), label("person-index-r-simcha-sheps-821"), label("person-index-r-simcha-sheps-822"), label("person-index-r-simcha-sheps-823")))
 
-#index-row(("Sorolle Idels",), (label("person-index-sorolle-idels-646"),))
+#index-row(("R’ Moshe Sherer",), (label("person-index-r-moshe-sherer-984"),))
+
+#index-row(("R’ Shimon Bar Yochai",), (label("person-index-r-shimon-bar-yochai-227"), label("person-index-r-shimon-bar-yochai-932"), label("person-index-r-shimon-bar-yochai-933"), label("person-index-r-shimon-bar-yochai-934"), label("person-index-r-shimon-bar-yochai-949"), label("person-index-r-shimon-bar-yochai-950"), label("person-index-r-shimon-bar-yochai-951"), label("person-index-r-shimon-bar-yochai-952")))
+
+#index-row(("Shiniver Rebbe", "(R’ Yechezkel Shraga)",), (label("person-index-shiniver-rebbe-481"), label("person-index-shiniver-rebbe-482"), label("person-index-shiniver-rebbe-926"), label("person-index-shiniver-rebbe-927"), label("person-index-shiniver-rebbe-935"), label("person-index-shiniver-rebbe-936"), label("person-index-shiniver-rebbe-937"), label("person-index-shiniver-rebbe-938")))
+
+#index-row(("R’ Chaim Shmuelevitz",), (label("person-index-r-chaim-shmuelevitz-191"), label("person-index-r-chaim-shmuelevitz-192"), label("person-index-r-chaim-shmuelevitz-228")))
+
+#index-row(("R’ Aharon Leib Shteinman",), (label("person-index-r-aharon-leib-shteinman-129"), label("person-index-r-aharon-leib-shteinman-130"), label("person-index-r-aharon-leib-shteinman-131"), label("person-index-r-aharon-leib-shteinman-132"), label("person-index-r-aharon-leib-shteinman-603"), label("person-index-r-aharon-leib-shteinman-604"), label("person-index-r-aharon-leib-shteinman-605"), label("person-index-r-aharon-leib-shteinman-606"), label("person-index-r-aharon-leib-shteinman-607"), label("person-index-r-aharon-leib-shteinman-608"), label("person-index-r-aharon-leib-shteinman-609"), label("person-index-r-aharon-leib-shteinman-610")))
+
+#index-row(("R’ Simcha Bunim of Peshischa",), (label("person-index-r-simcha-bunim-of-peshischa-831"),))
+
+#index-row(("R’ Yoel Sirkis (Bach)",), (label("person-index-r-yoel-sirkis-731"), label("person-index-r-yoel-sirkis-732"), label("person-index-r-yoel-sirkis-733"), label("person-index-r-yoel-sirkis-734"), label("person-index-r-yoel-sirkis-735"), label("person-index-r-yoel-sirkis-736"), label("person-index-r-yoel-sirkis-737"), label("person-index-r-yoel-sirkis-738"), label("person-index-r-yoel-sirkis-739"), label("person-index-r-yoel-sirkis-740"), label("person-index-r-yoel-sirkis-741"), label("person-index-r-yoel-sirkis-742"), label("person-index-r-yoel-sirkis-743"), label("person-index-r-yoel-sirkis-744"), label("person-index-r-yoel-sirkis-745"), label("person-index-r-yoel-sirkis-746"), label("person-index-r-yoel-sirkis-747")))
+
+#index-row(("R’ Ahron Soloveichik",), (label("person-index-r-ahron-soloveichik-351"), label("person-index-r-ahron-soloveichik-555")))
+
+#index-row(("R’ Yoshe Ber Soloveitchik",), (label("person-index-r-yoshe-ber-6"), label("person-index-r-yoshe-ber-42"), label("person-index-r-yoshe-ber-162"), label("person-index-r-yoshe-ber-163"), label("person-index-r-yoshe-ber-214"), label("person-index-r-yoshe-ber-215"), label("person-index-r-yoshe-ber-216"), label("person-index-r-yoshe-ber-217"), label("person-index-r-yoshe-ber-812"), label("person-index-r-yoshe-ber-813")))
+
+#index-row(("R’ Shlomo Zalman Sonnenfeld",), (label("person-index-r-shlomo-zalman-sonnenfeld-532"),))
+
+#index-row(("R’ Yosef Chaim Sonnenfeld",), (label("person-index-r-yosef-chaim-sonnenfeld-240"), label("person-index-r-yosef-chaim-sonnenfeld-246"), label("person-index-r-yosef-chaim-sonnenfeld-361"), label("person-index-r-yosef-chaim-sonnenfeld-457"), label("person-index-r-yosef-chaim-sonnenfeld-458"), label("person-index-r-yosef-chaim-sonnenfeld-459"), label("person-index-r-yosef-chaim-sonnenfeld-460"), label("person-index-r-yosef-chaim-sonnenfeld-461"), label("person-index-r-yosef-chaim-sonnenfeld-462"), label("person-index-r-yosef-chaim-sonnenfeld-533"), label("person-index-r-yosef-chaim-sonnenfeld-534"), label("person-index-r-yosef-chaim-sonnenfeld-535"), label("person-index-r-yosef-chaim-sonnenfeld-536"), label("person-index-r-yosef-chaim-sonnenfeld-537"), label("person-index-r-yosef-chaim-sonnenfeld-538"), label("person-index-r-yosef-chaim-sonnenfeld-539"), label("person-index-r-yosef-chaim-sonnenfeld-540"), label("person-index-r-yosef-chaim-sonnenfeld-541"), label("person-index-r-yosef-chaim-sonnenfeld-542"), label("person-index-r-yosef-chaim-sonnenfeld-875"), label("person-index-r-yosef-chaim-sonnenfeld-876"), label("person-index-r-yosef-chaim-sonnenfeld-877")))
+
+#index-row(("R’ Zalman Sorotzkin", "(Lutzker Rav, Oznayim LaTorah)",), (label("person-index-r-zalman-sorotzkin-14"), label("person-index-r-zalman-sorotzkin-63"), label("person-index-r-zalman-sorotzkin-64"), label("person-index-r-zalman-sorotzkin-65"), label("person-index-r-zalman-sorotzkin-258"), label("person-index-r-zalman-sorotzkin-273"), label("person-index-r-zalman-sorotzkin-315"), label("person-index-r-zalman-sorotzkin-316"), label("person-index-r-zalman-sorotzkin-384"), label("person-index-r-zalman-sorotzkin-385"), label("person-index-r-zalman-sorotzkin-386"), label("person-index-r-zalman-sorotzkin-387"), label("person-index-r-zalman-sorotzkin-388"), label("person-index-r-zalman-sorotzkin-389"), label("person-index-r-zalman-sorotzkin-398"), label("person-index-r-zalman-sorotzkin-399"), label("person-index-r-zalman-sorotzkin-445"), label("person-index-r-zalman-sorotzkin-446"), label("person-index-r-zalman-sorotzkin-447"), label("person-index-r-zalman-sorotzkin-448"), label("person-index-r-zalman-sorotzkin-698"), label("person-index-r-zalman-sorotzkin-699"), label("person-index-r-zalman-sorotzkin-806")))
+
+#index-row(("R’ Yitzchok Elchonon Spektor",), (label("person-index-r-yitzchok-elchonon-437"), label("person-index-r-yitzchok-elchonon-438")))
 
 #index-row(("Spinka Rebbe",), (label("person-index-spinka-rebbe-918"), label("person-index-spinka-rebbe-919"), label("person-index-spinka-rebbe-920"), label("person-index-spinka-rebbe-921")))
 
+#index-row(("R’ Yechiel Spiro",), (label("person-index-yechiel-spiro-985"),))
+
+#index-row(("R’ Peretz Steinberg",), (label("person-index-rabbi-peretz-steinberg-724"),))
+
 #index-row(("Steipler",), (label("person-index-steipler-133"), label("person-index-steipler-234")))
 
+#index-row(("R’ Moshe Sternbuch",), (label("person-index-r-moshe-sternbuch-408"),))
+
+#index-row(("R’ Aryeh Strickoff",), (label("person-index-r-aryeh-strickoff-1141"), label("person-index-r-aryeh-strickoff-1142"), label("person-index-r-aryeh-strickoff-1158")))
+
 #index-row(("Tapuchei Chaim",), (label("person-index-tapuchei-chaim-343"),))
+
+#index-row(("R’ Yekusiel Yehuda Teitelbaum", "(Ba’al Yaitav Lev)",), (label("person-index-r-yekusiel-yehuda-teitelbaum-748"), label("person-index-r-yekusiel-yehuda-teitelbaum-749")))
+
+#index-row(("R’ Yoel Teitelbaum (Satmar Rebbe)",), (label("person-index-r-yoel-teitelbaum-107"), label("person-index-r-yoel-teitelbaum-164"), label("person-index-r-yoel-teitelbaum-165"), label("person-index-r-yoel-teitelbaum-750"), label("person-index-r-yoel-teitelbaum-751"), label("person-index-r-yoel-teitelbaum-1052"), label("person-index-r-yoel-teitelbaum-1099"), label("person-index-r-yoel-teitelbaum-1109")))
+
+#index-row(("R’ Moshe Tendler",), (label("person-index-rav-moshe-tendler-671"),))
 
 #index-row(("The Weekly Vort",), (label("person-index-the-weekly-vort-487"),))
 
@@ -16474,15 +16436,45 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Torah Anytimes",), (label("person-index-torah-anytimes-370"), label("person-index-torah-anytimes-411"), label("person-index-torah-anytimes-702"), label("person-index-torah-anytimes-752"), label("person-index-torah-anytimes-923")))
 
-#index-row(("Torah Tavlin",), (label("person-index-torah-tavlin-8"), label("person-index-torah-tavlin-419"), label("person-index-torah-tavlin-420"), label("person-index-torah-tavlin-454"), label("person-index-torah-tavlin-455"), label("person-index-torah-tavlin-704"), label("person-index-torah-tavlin-805"), label("person-index-torah-tavlin-1042"), label("person-index-torah-tavlin-1078"), label("person-index-torah-tavlin-1090"), label("person-index-torah-tavlin-1110")))
+#index-row(("Torah Tavlin",), (label("person-index-torah-tavlin-8"), label("person-index-torah-tavlin-419"), label("person-index-torah-tavlin-420"), label("person-index-torah-tavlin-454"), label("person-index-torah-tavlin-455"), label("person-index-torah-tavlin-704"), label("person-index-torah-tavlin-805"), label("person-index-torah-tavlin-1037"), label("person-index-torah-tavlin-1078"), label("person-index-torah-tavlin-1090"), label("person-index-torah-tavlin-1110")))
 
 #index-row(("Torah Treasures",), (label("person-index-torah-treasures-623"), label("person-index-torah-treasures-793")))
 
+#index-row(("Dovid Tribuch",), (label("person-index-dovid-tribuch-70"),))
+
+#index-row(("R’ Dr. Abraham Twerski",), (label("person-index-rabbi-dr-abraham-twerski-383"), label("person-index-rabbi-dr-abraham-twerski-429"), label("person-index-rabbi-dr-abraham-twerski-1135")))
+
+#index-row(("R’ Tzadka",), (label("person-index-r-tzadka-1025"), label("person-index-r-tzadka-1026")))
+
 #index-row(("Tziporen Shamir",), (label("person-index-tziporen-shamir-1027"),))
 
-#index-row(("Tzvi Asher Bennett",), (label("person-index-tzvi-asher-bennett-61"), label("person-index-tzvi-asher-bennett-62")))
+#index-row(("R’ Tzvi Elimelech of Dinov", "(Bnei Yissaschar)",), (label("person-index-r-tzvi-elimelech-of-dinov-683"), label("person-index-r-tzvi-elimelech-of-dinov-684"), label("person-index-r-tzvi-elimelech-of-dinov-685"), label("person-index-r-tzvi-elimelech-of-dinov-686"), label("person-index-r-tzvi-elimelech-of-dinov-990"), label("person-index-r-tzvi-elimelech-of-dinov-991"), label("person-index-r-tzvi-elimelech-of-dinov-1008"), label("person-index-r-tzvi-elimelech-of-dinov-1009"), label("person-index-r-tzvi-elimelech-of-dinov-1121"), label("person-index-r-tzvi-elimelech-of-dinov-1132")))
 
-#index-row(("Vilna Gaon",), (label("person-index-vilna-gaon-71"), label("person-index-vilna-gaon-72"), label("person-index-vilna-gaon-73"), label("person-index-vilna-gaon-74"), label("person-index-vilna-gaon-121"), label("person-index-vilna-gaon-236"), label("person-index-vilna-gaon-237"), label("person-index-vilna-gaon-255"), label("person-index-vilna-gaon-256"), label("person-index-vilna-gaon-257"), label("person-index-vilna-gaon-289"), label("person-index-vilna-gaon-431"), label("person-index-vilna-gaon-432"), label("person-index-vilna-gaon-433"), label("person-index-vilna-gaon-434"), label("person-index-vilna-gaon-543"), label("person-index-vilna-gaon-544"), label("person-index-vilna-gaon-632"), label("person-index-vilna-gaon-659"), label("person-index-vilna-gaon-660"), label("person-index-vilna-gaon-687"), label("person-index-vilna-gaon-688"), label("person-index-vilna-gaon-689"), label("person-index-vilna-gaon-707"), label("person-index-vilna-gaon-773"), label("person-index-vilna-gaon-774"), label("person-index-vilna-gaon-794"), label("person-index-vilna-gaon-882"), label("person-index-vilna-gaon-883"), label("person-index-vilna-gaon-1101"), label("person-index-vilna-gaon-1174")))
+#index-row(("R’ Tzvi Hirsch HaKohen of Rimanov", "(R’ Hersh Mesharais)",), (label("person-index-r-tzvi-hirsch-hakohen-of-rimanov-1010"), label("person-index-r-tzvi-hirsch-hakohen-of-rimanov-1011")))
+
+#index-row(("Vilna Gaon",), (label("person-index-vilna-gaon-71"), label("person-index-vilna-gaon-72"), label("person-index-vilna-gaon-73"), label("person-index-vilna-gaon-74"), label("person-index-vilna-gaon-121"), label("person-index-vilna-gaon-236"), label("person-index-vilna-gaon-237"), label("person-index-vilna-gaon-255"), label("person-index-vilna-gaon-256"), label("person-index-vilna-gaon-257"), label("person-index-vilna-gaon-289"), label("person-index-vilna-gaon-431"), label("person-index-vilna-gaon-432"), label("person-index-vilna-gaon-433"), label("person-index-vilna-gaon-434"), label("person-index-vilna-gaon-543"), label("person-index-vilna-gaon-544"), label("person-index-vilna-gaon-632"), label("person-index-vilna-gaon-659"), label("person-index-vilna-gaon-660"), label("person-index-vilna-gaon-687"), label("person-index-vilna-gaon-688"), label("person-index-vilna-gaon-689"), label("person-index-vilna-gaon-707"), label("person-index-vilna-gaon-773"), label("person-index-vilna-gaon-774"), label("person-index-vilna-gaon-794"), label("person-index-vilna-gaon-882"), label("person-index-vilna-gaon-883"), label("person-index-vilna-gaon-1100"), label("person-index-vilna-gaon-1174")))
+
+#index-row(("R’ Chaim Vital",), (label("person-index-r-chaim-vital-1101"),))
+
+#index-row(("Judah Wallace",), (label("person-index-judah-wallace-523"), label("person-index-judah-wallace-524"), label("person-index-judah-wallace-525")))
+
+#index-row(("R’ Elchonon Wasserman",), (label("person-index-r-elchonon-wasserman-871"), label("person-index-r-elchonon-wasserman-872")))
+
+#index-row(("R’ Beryl Weisbord",), (label("person-index-r-beryl-weisbord-274"),))
+
+#index-row(("Zeidy Weiss",), (label("person-index-zeidy-weiss-7"), label("person-index-zeidy-weiss-595"), label("person-index-zeidy-weiss-596"), label("person-index-zeidy-weiss-939")))
+
+#index-row(("R’ Michael Dovid Weissmandl",), (label("person-index-r-michael-dovid-weissmandl-1146"), label("person-index-r-michael-dovid-weissmandl-1147"), label("person-index-r-michael-dovid-weissmandl-1148"), label("person-index-r-michael-dovid-weissmandl-1149"), label("person-index-r-michael-dovid-weissmandl-1150"), label("person-index-r-michael-dovid-weissmandl-1151"), label("person-index-r-michael-dovid-weissmandl-1152"), label("person-index-r-michael-dovid-weissmandl-1153")))
+
+#index-row(("R’ Avi Wiesenfeld",), (label("person-index-r-avi-wiesenfeld-554"),))
+
+#index-row(("R’ Moshe Wolfson",), (label("person-index-r-moshe-wolfson-953"), label("person-index-r-moshe-wolfson-963"), label("person-index-r-moshe-wolfson-966"), label("person-index-r-moshe-wolfson-1059")))
+
+#index-row(("R’ Yaakov of Lelov",), (label("person-index-r-yaakov-of-lelov-1038"),))
+
+#index-row(("R’ Yaakov of Premishel",), (label("person-index-r-yaakov-of-premishel-1012"),))
+
+#index-row(("R’ Yaakov Yitzchak of Peshischa",), (label("person-index-r-yaakov-yitzchak-of-peshischa-1039"), label("person-index-r-yaakov-yitzchak-of-peshischa-1040"), label("person-index-r-yaakov-yitzchak-of-peshischa-1041"), label("person-index-r-yaakov-yitzchak-of-peshischa-1042")))
 
 #index-row(("Yaivitz",), (label("person-index-yaivitz-647"),))
 
@@ -16492,8 +16484,14 @@ that, in fact, ⁧צדיק כתמר יפרח⁩; ⁧להגיד כי ישר ה׳,
 
 #index-row(("Yismach Yisrael",), (label("person-index-yismach-yisrael-1102"), label("person-index-yismach-yisrael-1103")))
 
-#index-row(("Zeidy Bennett",), (label("person-index-zeidy-bennett-118"),))
+#index-row(("R’ Ovadia Yosef",), (label("person-index-r-ovadia-yosef-166"), label("person-index-r-ovadia-yosef-167"), label("person-index-r-ovadia-yosef-168"), label("person-index-r-ovadia-yosef-169")))
 
-#index-row(("Zeidy Weiss",), (label("person-index-zeidy-weiss-7"), label("person-index-zeidy-weiss-595"), label("person-index-zeidy-weiss-596"), label("person-index-zeidy-weiss-940")))
+#index-row(("R’ Yossele of Torchin",), (label("person-index-r-yossele-of-torchin-1013"),))
+
+#index-row(("R’ Zev of Strickov",), (label("person-index-r-zev-of-strickov-241"),))
 
 #index-row(("Zev Wolf Zicherman",), (label("person-index-zev-wolf-zicherman-648"),))
+
+#index-row(("R’ Yitzchok Zilberstein",), (label("person-index-r-yitzchok-zilberstein-105"), label("person-index-r-yitzchok-zilberstein-378"), label("person-index-r-yitzchok-zilberstein-379"), label("person-index-r-yitzchok-zilberstein-380"), label("person-index-r-yitzchok-zilberstein-381"), label("person-index-r-yitzchok-zilberstein-382"), label("person-index-r-yitzchok-zilberstein-578"), label("person-index-r-yitzchok-zilberstein-579"), label("person-index-r-yitzchok-zilberstein-580"), label("person-index-r-yitzchok-zilberstein-581"), label("person-index-r-yitzchok-zilberstein-829"), label("person-index-r-yitzchok-zilberstein-1000"), label("person-index-r-yitzchok-zilberstein-1001"), label("person-index-r-yitzchok-zilberstein-1154")))
+
+#index-row(("R’ Alexander Ziskind",), (label("person-index-r-alexander-ziskind-940"),))

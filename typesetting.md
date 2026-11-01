@@ -154,3 +154,20 @@ npm run audit-typeset -- --pdf "Files/08 - Misc/Final Sefer/Final Sefer.pdf" --t
 The PDF scan uses `pdftotext -layout` so it sees extracted visual text order, which is useful for catching rendered bidi/punctuation surprises. The Typst scan catches raw-source problems before rendering. Current checks include double parentheses, punctuation before Hebrew, spaces before punctuation, broken thousands separators, glued Hebrew/English text, and hyphens glued to Hebrew before English. It is intentionally non-destructive; findings are meant to become either a new regression test and rule fix, or a consciously ignored false positive.
 
 After Typst compiles a PDF, `build-typeset-proof.js` runs `qpdf --linearize` when `qpdf` is installed. This rewrites the PDF for fast web view so browsers and PDF.js can request page ranges progressively while the user scrolls. If `qpdf` is not installed, the build prints a warning and leaves the unoptimized PDF in place.
+
+## Index alphabetical order
+
+Run `npm run review-person-index-sorting` to review each selected index name.
+Enter `F` to sort by the current full name (for example, a sefer title), or `L`
+to sort by the last word of the primary name. Parenthetical aliases are ignored
+when finding that last word. Both options are previewed before you choose.
+Use `C` for a custom sort key for compound surnames or other exceptions, and
+`Q` to quit. Press Enter after each choice.
+
+Each answer is saved immediately in `person-index-sort.json`, keyed by the
+existing person ID. Rerunning resumes with unanswered or renamed entries.
+Use `npm run review-person-index-sorting -- --include-reviewed` to revise choices.
+The typesetting build reads this JSON and changes only the index order, not
+printed names or alias matching. Unreviewed names keep full-name sorting.
+Rebuild with `npm run build-typeset-proof -- --all --output 'Final Sefer'` to
+apply your saved choices to the PDF.
