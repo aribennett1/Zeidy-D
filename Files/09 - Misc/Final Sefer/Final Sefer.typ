@@ -4840,11 +4840,9 @@ equally important\] if you had to choose just one of the ⁦תרי״ג מצוו�
 introduction of ⁧הכותב⁩⁦,⁩ a ⁧פירוש⁩ on ⁧עין יעקב⁩.
 
 ⁧בן זומא⁩ says it's ⁦(דברים ו:ד)⁩ ⁧שְׁמַע יִשְׂרָאֵל ה׳ אֱלֹקֵינוּ ה׳ אֶחָד⁩⁦,⁩ where we are
-⁧מקבל אחדות השם⁩ and ⁧עול מלכות שמים⁩. ⁧בן ננס⁩ says it's (⁧וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ⁩
-(⁦ויקרא י״ט⁩: ⁦י״ח⁩ which pertains to ⁧בין אדם לחבירו⁩⁦,⁩ a tremendously
-important ⁧יסוד⁩. Finally, ⁧שמעון בן פזי⁩ brings down the ⁧פסוק⁩ from our
-⁧פרשה⁩: ⁧אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם ⁦(שמות
-כ״ט:ל״ט)⁩⁩, referring to the ⁧קרבן תמיד⁩.
+⁧מקבל אחדות השם⁩ and ⁧עול מלכות שמים⁩. ⁧בן ננס⁩ says it's ⁦(ויקרא י״ט:י״ח)⁩ ⁧וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ⁩ which pertains to ⁧בין אדם לחבירו⁩⁦,⁩ a tremendously important
+⁧יסוד⁩. Finally, ⁧שמעון בן פזי⁩ brings down the ⁧פסוק⁩ from our ⁧פרשה⁩: ⁧אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם ⁦(שמות כ״ט:ל״ט)⁩⁩, referring
+to the ⁧קרבן תמיד⁩.
 
 \[⁦רש״י⁩#metadata(none) <person-index-rashi-333> points out that ⁧תמיד⁩ does not mean it was brought continuously
 without interruption, but rather that it was brought every single day
