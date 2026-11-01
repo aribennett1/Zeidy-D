@@ -8912,7 +8912,7 @@ purpose of saying ⁧קְטַנָּה אוֹ גְדוֹלָה⁩⁦?⁩ What doe
 
 Later on in the ⁧פרשה⁩ it says (23:5) ⁧וַיָּשֶׂם ה׳ דָּבָר בְּפִי בִלְעָם⁩ - Hashem put
 the words into ⁧בלעם⁩⁦,⁩ Hashem said “⁧בלעם⁩⁦,⁩ this is what you have to say.”
-The ⁧מדרש⁩ says, ⁧אמרו חכמינו⁩⁦,⁩ ⁧חד אמר רסן וחד אמר חכה⁩. When it says Hashem
+The ⁧מדרש⁩ says, ⁧אמרו חכמינו⁩: ⁧חד אמר רסן וחד אמר חכה⁩. When it says Hashem
 put something in his mouth - what do we put into mouths? So by a horse, we put a bridle, we put this piece of metal which is attached to the
 straps, and when you want the horse to slow down, you pull back on this
 thing, so it tells the horse, “Hey, slow down.” It gives him a brake on
