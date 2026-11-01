@@ -11584,7 +11584,7 @@ those voids.
 ⁧מוסר⁩ to ⁧כלל ישראל⁩. Giving ⁧מוסר⁩ to somebody so that they'll listen ain't
 easy, and often times they even resent it, even if only unconsciously.
 Now of course, ⁧משה רבינו⁩ could tell ⁧כלל ישראל⁩ anything - he was their
-beloved leader. But still, there's the question: were they really ⁧מקבל⁩
+beloved leader. But still, there's the question: Were they really ⁧מקבל⁩
 what he said? Did he perhaps suspect, even for a moment, that they might
 resent him for giving that ⁧מוסר⁩? And what did he do with that ⁧הוה אמינא⁩
 in mind? ⁧וזאת הברכה⁩⁦,⁩ he gave them a ⁧ברכה⁩. He bentched them like a father
@@ -11599,7 +11599,7 @@ out of ⁧מצרים⁩⁦,⁩ brought the ⁧תורה⁩ down from ⁧סיני�
 the welfare of his ⁧ציבור⁩⁦,⁩ deserves a little bit more of a ⁧הספד⁩ than ⁧עֶבֶד ה׳⁩⁦?⁩
 
 R’ Elchonon#metadata(none) <person-index-r-elchonon-wasserman-866> gave a very clever, ⁧למדיש⁩⁦,⁩ beautiful answer based on the
-Gemara in ⁦פסחים דף פ״ח ע״ב⁩. We know there's a principal ⁧מַה שֶּׁקָּנָה עֶבֶד קָנָה רַבּוֹ⁩ - Whatever an ⁧עבד⁩ acquires, belongs to his master. Therefore, if the
+Gemara in ⁦פסחים דף פ״ח ע״ב⁩. We know there's a principle ⁧מַה שֶּׁקָּנָה עֶבֶד קָנָה רַבּוֹ⁩ - Whatever an ⁧עבד⁩ acquires, belongs to his master. Therefore, if the
 ⁧תורה⁩ says that ⁧משה רבינו⁩ was an ⁧עֶבֶד ה׳⁩⁦,⁩ it is giving us a tremendous
 ⁧עדות⁩ that ⁧משה רבינו⁩ was a real ⁧עֶבֶד ה׳⁩. Why? Because every single thing
 that he did in his life, ⁧מַה שֶּׁקָּנָה עֶבֶד⁩⁦,⁩ all of the things that he acquired
@@ -11866,8 +11866,7 @@ signify? There is an entire ⁧דרשה⁩ on this topic, discussing how vital a
 impactful the ⁧ארבע כוסות⁩ are. By studying this, I was able to appreciate
 much more what the ⁧ארבע כוסות⁩ mean to us.
 
-At the beginning of ⁧פרשת בא⁩⁦,⁩ the ⁧תורה⁩ states: (⁧וּלְמַעַן תְּסַפֵּר בְּאׇזְנֵי בִנְךָ \... וִידַעְתֶּם כִּי אֲנִי ה׳⁩ (⁧שמות י׳⁩: ⁧ב׳⁩. Through the ⁧מצוה⁩ of ⁧סיפור יציאת מצרים⁩⁦,⁩ we
-are able to achieve ⁧וִידַעְתֶּם כִּי אֲנִי ה׳⁩ - to attain some level of
+At the beginning of ⁧פרשת בא⁩⁦,⁩ the ⁧תורה⁩ states (Shemos 10:2): ⁧וּלְמַעַן תְּסַפֵּר בְּאׇזְנֵי בִנְךָ \... וִידַעְתֶּם כִּי אֲנִי ה׳⁩. Through the ⁧מצוה⁩ of ⁧סיפור יציאת מצרים⁩⁦,⁩ we are able to achieve ⁧וִידַעְתֶּם כִּי אֲנִי ה׳⁩ - to attain some level of
 understanding of Hashem and His relationship with us. To summarize, there are three levels to the ⁧סדר⁩: \
 \1. ⁧סיפור יציאת מצרים⁩ - Through the ⁧ד׳ כוסות⁩⁦,⁩ through the ⁧סדר⁩⁦,⁩ and
 through all the meaningful components of the ⁧סדר⁩⁦,⁩ we recount and relive
