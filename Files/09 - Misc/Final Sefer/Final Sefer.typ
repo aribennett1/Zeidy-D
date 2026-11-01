@@ -7287,7 +7287,7 @@ efficient ⁧ברכה⁩.
 So this serves as a powerful proof: A) That ⁧הקדוש ברוך הוא⁩ is the
 creator of the world and the author of the ⁧תורה⁩⁦,⁩ and B) of Hashem's
 boundless ⁧חסד⁩. We need to have absolute ⁧אמונה פשוטה⁩ and ⁧בטחון⁩⁦,⁩ and we
-have to believe that whatever Hashem promises will happen
+have to believe that whatever Hashem promises will happen.
 
 #pagebreak()
 
@@ -7673,7 +7673,7 @@ ability to focus on doing what's important in life, and that is to do
 ⁧מצוות⁩. Once you have those two aspects, then you certainly will have
 ⁧שלום⁩⁦,⁩ because once you are ⁧שמח בחלקו⁩ and do all the ⁧מצוות⁩⁦,⁩ there cannot
 possibly be anything more ⁧שלום⁩ than that. You'll have ⁧ברכת השם⁩ that
-you'll have ⁧עושר⁩ in both ⁧רוחניות⁩ and ⁧גשמיות⁩
+you'll have ⁧עושר⁩ in both ⁧רוחניות⁩ and ⁧גשמיות⁩.
 
 My final vort is a tremendously interesting question brought down in the
 ⁧ספר אוצר פלאות התורה⁩.#metadata(none) <person-index-otzer-plo-os-hatorah-525> I got this from a very ⁧חשוב⁩ friend of mine, R’
@@ -8076,8 +8076,8 @@ forgotten the ⁦גמרא כתובות דף ע״ד⁩ ⁧עמוד א⁩⁦,⁩ w
 by name as having transmitted the teachings of prior generations. R’
 Chaim then tells the following story. In his later years, the ⁧חזון איש⁩
 used to take a short walk outdoors every day on the advice of his
-doctor. He had a regular route from his house until the end of block and
-then he would walk back, doctor's orders.
+doctor. He had a regular route from his house until the end of the block
+and then he would walk back, doctor's orders.
 
 One day, a new resident of the area noticed the ⁧חזון איש⁩ walking back
 and forth. Not knowing who he was, he assumed he was an unemployed man
@@ -9413,7 +9413,7 @@ exactly the same way as ⁧חזיר⁩ would be. It creates ⁧טמטום הלב
 Why did this ⁧ענין⁩ have to be said to the ⁧ראשי המטות⁩⁦?⁩ What's the lesson
 to be learned from that? Hashem in his kindness wanted to assist us in
 understanding how it is possible that a ⁧נדר⁩ can cause that change. The
-example the Torah utilizes are the ⁧נשיאים⁩⁦,⁩ who became elevated because
+example the Torah utilizes is the ⁧נשיאים⁩⁦,⁩ who became elevated because
 ⁧בני ישראל⁩ bestowed the title of ⁧נשיא⁩ on them. Through their power of
 speech, ⁧בני ישראל⁩ took regular people and elevated them to the status of
 a ⁧נשיא⁩. The ⁧מדרש רבה⁩ says this was familiar to ⁧בני ישראל⁩⁦,⁩ as they had
@@ -10024,7 +10024,7 @@ We are now in the ⁧ז' דנחמתא⁩⁦,⁩ the seven weeks of comfort follo
 of the haftorahs of the ⁧ז' דנחמתא⁩ are a dialogue between ⁧הקדוש ברוך הוא⁩
 and ⁧כלל ישראל⁩. The ⁧הפטרה⁩ for ⁧עקב⁩ has two extremely important ⁧פסוקים⁩
 which I would like to focus on. The first is when ⁧כלל ישראל⁩ cries to
-Hashem. ⁧כלל ישראל⁩ in ⁧ציון⁩ cries bitterly ⁦(ישעיהו מ״ט:י״ד)⁩: ⁧וַתֹּאמֶר צִיֹּון עֲזָבַנִי ה׳ וַה׳ שְׁכֵחָנִי⁩. This is a bitter cry. It is not an accusation; it is
+Hashem. ⁧כלל ישראל⁩ in ⁧ציון⁩ cries bitterly (Yeshayahu 49:14): ⁧וַתֹּאמֶר צִיֹּון עֲזָבַנִי ה׳ וַה׳ שְׁכֵחָנִי⁩. This is a bitter cry. It is not an accusation; it is
 a cry, a weeping: Hashem, You have forgotten us.
 
 Towards the end of the ⁧הפטרה⁩⁦,⁩ there's a ⁧פסוק⁩ which profoundly answers
@@ -10713,8 +10713,8 @@ itself.
 
 ⁧בָּנִים אֲשֶׁר יִוָּלְדוּ לָהֶם דּוֹר שְׁלִישִׁי יָבֹא לָהֶם בִּקְהַל ה׳⁩ (23:9). Certain ⁧אומות⁩
 surrounding ⁧ארץ ישראל⁩ were allowed to join ⁧כלל ישראל⁩⁦,⁩ for example, ⁧מצרים⁩⁦,⁩ and certain nations were not - like ⁧עמון ומואב⁩. A story from the
-Torah Tavlin#metadata(none) <person-index-torah-tavlin-799> is not about ⁧גירות⁩⁦,⁩ it's just shows you how a Yid can have
-an effect on the whole goyish velt and make a tremendous impact.
+Torah Tavlin#metadata(none) <person-index-torah-tavlin-799> is not about ⁧גירות⁩⁦,⁩ it just shows you how a Yid can have an
+effect on the whole goyish velt and make a tremendous impact.
 
 Many people have gotten out of traffic tickets through all sorts of
 excuses. No one ever had a better excuse than a woman from Crown Heights
@@ -10737,7 +10737,7 @@ phenomenal human being, a gigantic individual who was not well known at
 all outside of the Lubavitch community. His biography was written by R’
 Alter Metzger, #metadata(none) <person-index-r-alter-metzger-798> who was Bobbi D's#metadata(none) <person-index-bobbi-795> teacher at Stern and was a member of
 the Kew Gardens ⁧קהילה⁩. I met him many times, a very special person.\]
-The policeman, continued, “I got to know some of the young men who
+The policeman continued, “I got to know some of the young men who
 accompanied the rabbi, and I learned a thing or two about ⁧חסידים⁩.
 They're very friendly people, and we talked a lot while the rabbi was
 inside praying. They used to tell us all the time about the greatness of
