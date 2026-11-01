@@ -1453,7 +1453,19 @@ function isolateHebrewRuns(typstContent) {
     return protect(`${openQuote}${RTL_ISOLATE}${normalizeInlineWhitespace(hebrew)}${POP_DIRECTIONAL_ISOLATE}${closeQuote}`);
   });
 
-  const acronymCommaSequenceSafeContent = quotedHebrewTokenSafeContent.replace(HEBREW_ACRONYM_COMMA_SEQUENCE_RE, (match) => {
+  // ע״ה is an honorific suffix, not an independent acronym phrase. Protect
+  // the full Hebrew run before acronym rules can select only its final words.
+  const honorificSuffixSafeContent = quotedHebrewTokenSafeContent.replace(
+    HEBREW_PHRASE_RE,
+    (match, offset, fullText) => {
+      if (!match.split(/\s+/).some(token => /^ע["״]ה[.,;:!?]?$/u.test(token))) {
+        return match;
+      }
+      return protect(isolateHebrewPhrase(match, followedByEnglish(fullText, offset + match.length)));
+    }
+  );
+
+  const acronymCommaSequenceSafeContent = honorificSuffixSafeContent.replace(HEBREW_ACRONYM_COMMA_SEQUENCE_RE, (match) => {
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 

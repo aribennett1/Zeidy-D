@@ -467,8 +467,8 @@ in his myriad accomplishments: raising their family, the medical
 profession, as a community askan, as the patriarch of our family, and as
 a Ben Torah and Talmid Chochom.
 
-Tremendous credit is likewise due to Reb Ari Bennett (a chavrusah of my
-father, ⁦ע״ה⁩, during the final years of his life) who painstakingly
+Tremendous credit is likewise due to Reb Ari Bennett ⁦(a chavrusah of my
+father, ⁧ע״ה⁩⁦,⁩ during the final years of his life)⁩ who painstakingly
 transcribed the video shiurim of Uncle Leslie, reviewed each ⁧מאמר⁩ and
 whose meticulous organizational and technological prowess brought this
 sefer, ⁧מכח אל הפועל⁩#emph[.]
@@ -830,7 +830,7 @@ emphasize.
 = Bereshis 5785
 
 ⁧פרשת בראשית⁩. Everybody's favorite ⁧פרשה⁩. We love ⁧פרשת בראשית⁩. I had the
-⁧זכות⁩ to hear the following vort from Zeidy Weiss, #metadata(none) <person-index-zeidy-weiss-7> ⁦ע״ה⁩, who was such a
+⁧זכות⁩ to hear the following vort from Zeidy Weiss, #metadata(none) <person-index-zeidy-weiss-7> ⁧ע״ה⁩⁦,⁩ who was such a
 ⁧טייערער מענטש⁩. He said this so sweetly that it was unforgettable, as
 many of the things that he did, and it's good to pass it along to you.
 He heard it in the name of R’ Rosenzweig, #metadata(none) <person-index-r-rosenzweig-5> the ⁧מרא דאתרא⁩ of the ⁧קהל עדת ישורון⁩⁦,⁩ and he heard it from R’ Yoshe Ber Soloveitchik#metadata(none) <person-index-r-yoshe-ber-6> - that's a pretty
@@ -2582,7 +2582,7 @@ wee hours in the morning with an office jammed with people.
 
 Besides being a genius in learning, a talmid of R’ Yoshe Ber, #metadata(none) <person-index-r-yoshe-ber-159> and a
 colleague R’ Menachem Genack#metadata(none) <person-index-r-menachem-genack-146> of OU fame, Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-149> was also a master
-storyteller. When he was sitting ⁧שבעה⁩ for his mother ⁦ע״ה⁩, he was
+storyteller. When he was sitting ⁧שבעה⁩ for his mother ⁧ע״ה⁩⁦,⁩ he was
 regaling us with stories. One of his stories was about R’ Ovadia Yosef.#metadata(none) <person-index-r-ovadia-yosef-162>
 Quite a number of years ago, R’ Ovadia's#metadata(none) <person-index-r-ovadia-yosef-163> son developed an ear problem.
 When he sought medical attention, he was told that there was no one in
@@ -5934,8 +5934,7 @@ are put on the line and in harm's way as they strive to help ⁧כלל ישרא�
 and rid us of our enemies. We are also celebrating the ⁧אופרוף⁩ of the
 newest member of our family, the honorable R’ Chaim Mandel.#metadata(none) <person-index-chaim-mandel-397> We embrace
 and welcome him with open arms into our ever-growing and ever-improving
-family. Additionally, the ⁧יארצייט⁩ of my ⁧טהרה מאמא תמר⁩ ⁦רייזל בת מרדכי צבי
-ע״ה⁩ is approaching in the next week or two, and ⁧בעזרת השם⁩⁦,⁩ this learning
+family. Additionally, the ⁧יארצייט⁩ of my ⁧טהרה מאמא תמר רייזל בת מרדכי צבי ע״ה⁩ is approaching in the next week or two, and ⁧בעזרת השם⁩⁦,⁩ this learning
 should be an ⁧עליה⁩ for her ⁧נשמה⁩.
 
 ⁧פרשת צו⁩⁦,⁩ which continues to discuss more details of the ⁧קרבנות⁩ begun in
@@ -6504,7 +6503,7 @@ him to go to the store and buy a pair. Not knowing any better, he
 accidentally bought ⁧תפילין⁩ with the ⁧ש׳⁩ the other way. His father told
 him it was fine, ⁧אלו ואלו⁩⁦,⁩ and so for generations, my generation, your
 generation, the next generation, all of our male offspring are going to
-wear ⁧תפילין⁩ the way my father ⁦ע״ה⁩ did. There's nothing wrong with it, ⁧הקודש ברוך הוא⁩ wanted us to wear ⁧תפילין⁩ this way, but it shows how one
+wear ⁧תפילין⁩ the way my father ⁧ע״ה⁩ did. There's nothing wrong with it, ⁧הקודש ברוך הוא⁩ wanted us to wear ⁧תפילין⁩ this way, but it shows how one
 small decision can shape the future.
 
 Every choice, particularly those made during pregnancy, can have a
@@ -7401,7 +7400,7 @@ enthusiasm. To inspire and energize us with the drive we should have, each and e
 that Hashem is giving to us. We have the ⁧זכות⁩ to learn it, and through
 it, to come closer to Hashem. ⁧וְיָדַעַתְּ אֶת ה׳⁩ - this knowledge of Hashem, this ⁧ידיעת השם⁩⁦,⁩ is the ultimate goal of all of ⁧תורה⁩.
 
-This was my father's ⁦ע״ה⁩ bar mitzvah parsha, and this was his ⁧הפטרה⁩.
+This was my father's ⁧ע״ה⁩ bar mitzvah parsha, and this was his ⁧הפטרה⁩.
 It's something which is so well known to us, which he had the ⁧זכות⁩ to
 have for his bar mitzvah parsha. My father was an inspiration to us all.
 His memory should be a ⁧ברכה⁩⁦,⁩ and he should be a ⁧מליץ יושר⁩ for all of ⁧כלל ישראל⁩.
@@ -8321,7 +8320,7 @@ a ⁧גוט געזונט זומער⁩⁦,⁩ and may we hear only ⁧בשורו
   ))
 = Korach 5784
 
-⁧פרשת קרח⁩ interestingly enough, was the ⁧פרשה⁩ that Zeidy Weiss#metadata(none) <person-index-zeidy-weiss-591> ⁦ע״ה⁩ had his
+⁧פרשת קרח⁩ interestingly enough, was the ⁧פרשה⁩ that Zeidy Weiss#metadata(none) <person-index-zeidy-weiss-591> ⁧ע״ה⁩ had his
 ⁧עליה⁩ for his afruf, as well as myself. So it has a special connection to
 us. And we're going to discuss two different ⁧ענינים⁩⁦,⁩ both of which are
 fundamental and I think are worthwhile to give over.
@@ -8336,7 +8335,7 @@ wanted to have all the rights of the ⁧זכות⁩ of serving ⁧הקדוש ב�
 That's why he rebelled against ⁧משה רבינו⁩⁦,⁩ and that's why he became the
 paradigm of someone who was a selfish person and ruins everything for
 everyone. So on the one hand, we consider him a ⁧רשע⁩⁦,⁩ yet on the other
-hand we do know that ⁧צדיקים⁩ davened for Korach, Zeidy Weiss#metadata(none) <person-index-zeidy-weiss-592> ⁦ע״ה⁩ always
+hand we do know that ⁧צדיקים⁩ davened for Korach, Zeidy Weiss#metadata(none) <person-index-zeidy-weiss-592> ⁧ע״ה⁩ always
 called him ⁧פעטער קרח⁩⁦,⁩ because he was from ⁧שבט לוי⁩⁦,⁩ and they davened for
 him to try to get him out from the ⁧גיהנום⁩ into which he dug himself.
 However, Korach is still in ⁧גיהנום⁩⁦,⁩ and every ⁧ראש חודש⁩ he comes up and
@@ -12477,7 +12476,7 @@ to them: “The Torah says we were in ⁧מצרים⁩. Were you in ⁧מצרי�
 ⁧מצוות⁩ of the ⁧תורה⁩ which are clearly only ⁧שייך⁩ to ⁧בשר ודם⁩. With this, he
 was able to defeat them.
 
-The sefer ⁧חנוכת התורה החדש⁩⁦,⁩ #metadata(none) <person-index-chanukas-hatorah-hechadash-949> quoted by R’ Blum#metadata(none) <person-index-r-blum-948> ⁦ע״ה⁩, asks: What was the
+The sefer ⁧חנוכת התורה החדש⁩⁦,⁩ #metadata(none) <person-index-chanukas-hatorah-hechadash-949> quoted by R’ Blum#metadata(none) <person-index-r-blum-948> ⁧ע״ה⁩⁦,⁩ asks: What was the
 ⁦מלאכים'⁩s ⁧טענה⁩? The ⁧גמרא⁩ doesn't specify what their argument was; it just
 says they didn't want to give the Torah to human beings. All the ⁧מפרשים⁩
 discuss this. It's difficult to understand their claim, because the
@@ -13936,7 +13935,7 @@ are interested in hearing about them. Sometimes I tell people I think
 it's a worthwhile ⁧מנהג⁩. Sometimes I tell them it's my ⁧מנהג⁩⁦,⁩ if you want
 to do it, you can, if you don't want to do it, you don't have to. One
 ⁧מנהג⁩ which I have, which I've told everybody, is you never run across
-the street, you only walk. I got that from my father ⁦ע״ה⁩, that's not a
+the street, you only walk. I got that from my father ⁧ע״ה⁩⁦,⁩ that's not a
 ⁧מנהג⁩⁦,⁩ that's a ⁧כיבוד אב⁩. So, an unusual ⁧מנהג⁩ which is referable to
 ⁧הושענא רבה⁩⁦,⁩ which I've never divulged to anybody, but I do it every
 year, is that there are a lot of things to say in the ⁧מחזור⁩ by ⁧הושענות⁩.

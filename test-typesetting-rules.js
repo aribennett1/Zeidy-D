@@ -2807,3 +2807,34 @@ test("docx: Teruma 5783 places its two closing Hebrew phrases in English order",
     "separate RTL phrases in an LTR wrapper with period and exactly one space"
   );
 });
+
+
+test("keeps ayin-heh honorific attached to the full Hebrew name", () => {
+  for (const suffix of ['ע״ה', 'ע"ה']) {
+    const name = `טהרה מאמא תמר רייזל בת מרדכי צבי ${suffix}`;
+    assert.equal(
+      applyTextRules(`of my ${name} is approaching`),
+      `of my ${RTL_ISOLATE}טהרה מאמא תמר רייזל בת מרדכי צבי ע״ה${POP_DIRECTIONAL_ISOLATE} is approaching`
+    );
+  }
+});
+
+test("keeps ayin-heh attached across a soft line break and before English punctuation", () => {
+  assert.equal(
+    applyTextRules("remember תמר רייזל בת מרדכי צבי\nע״ה, and her family"),
+    `remember ${RTL_ISOLATE}תמר רייזל בת מרדכי צבי ע״ה${POP_DIRECTIONAL_ISOLATE}${LTR_ISOLATE},${POP_DIRECTIONAL_ISOLATE} and her family`
+  );
+  assert.equal(
+    applyTextRules("remember תמר ע״ה today"),
+    `remember ${RTL_ISOLATE}תמר ע״ה${POP_DIRECTIONAL_ISOLATE} today`
+  );
+});
+
+test("docx: Tzav 5784 keeps the full mother's name and ayin-heh in one RTL phrase", () => {
+  const typst = convertedDocx("/tzav/5784/");
+  assertContains(typst,
+    `${RTL_ISOLATE}טהרה מאמא תמר רייזל בת מרדכי צבי ע״ה${POP_DIRECTIONAL_ISOLATE}`,
+    "entire name and suffix in one RTL isolate");
+  assertNotContains(typst, `${LTR_ISOLATE}רייזל בת מרדכי צבי`,
+    "suffix must not move the end of the name into a new LTR phrase");
+});
