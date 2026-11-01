@@ -15412,7 +15412,8 @@ gift in His treasure house, called Shabbos, and wished to give it to ⁧כלל �
 
 Two questions arise. Why call it a ⁧מתנה טובה⁩⁦,⁩ when a gift is inherently
 something good? More importantly, what new gift was being announced in
-⁧פרשת כי תשא⁩⁦?⁩ ⁧כלל ישראל⁩ had already received the ⁧מצוה⁩ of Shabbos at ⁧מרה⁩⁦,⁩ and it appears in the ⁧עשרת הדיברות⁩.
+⁧פרשת כי תשא⁩⁦?⁩ Klal Yisroel had already received the ⁧מצוה⁩ of Shabbos at
+⁧מרה⁩⁦,⁩ and it appears in the ⁧עשרת הדיברות⁩.
 
 Other questions arise from our ⁧תפילות⁩. ⁧תוספות⁩ in ⁦סנהדרין לז ע״ב⁩, citing
 a ⁧תשובת הגאונים⁩⁦,⁩ connects the special ⁧שירה⁩ of ⁧קדושה⁩ with Shabbos. The
@@ -15422,9 +15423,10 @@ answers that another wing sings His praises: ⁧מכנף הארץ זמירות �
 ⁧קדושה⁩ generally or specifically to ⁧קדושת כתר⁩. Why is this ⁧שירה⁩
 particularly suited to Shabbos?
 
-In ⁧יוצר אור⁩⁦,⁩ Chazal use ⁧ובורא את הכל⁩ rather than the pasuk's ⁧ובורא רע⁩.
-On Shabbos, we continue with ⁧הכל יודוך והכל ישבחוך והכל יאמרו אין קדוש כה׳ הכל ירוממוך סלה יוצר הכל⁩. Why this repeated emphasis on ⁧הכל⁩? And
-why, in ⁧נוסח אשכנז⁩⁦,⁩ is ⁧מה רבו מעשיך ה׳⁩⁦,⁩ which we say during the week, omitted from the Shabbos ⁧פיוט⁩?
+Another thing that deserves to be looked at and analyzed: we know that
+in the ⁧נוסח⁩ of ⁧תפילת שבת⁩⁦,⁩ after ⁧ברכו⁩⁦,⁩ we say ⁧יוצר אור ובורא חושך עושה שלום ובורא את הכל⁩. If one looks at the source of this ⁧פסוק⁩ in the ⁧נביא⁩⁦,⁩ the ⁧פסוק⁩ actually reads ⁧יוצר אור ובורא חושך עושה שלום ובורא רע⁩. However, Chazal use ⁧ובורא את הכל⁩ rather than the pasuk's ⁧ובורא רע⁩. On Shabbos, we
+continue with ⁧יוצר הכל הכל ירוממוך סלה והכל יאמרו אין קדוש כה׳ והכל ישבחוך הכל יודוך⁩. Why this repeated emphasis on ⁧הכל⁩? And why, in ⁧נוסח אשכנז⁩⁦,⁩ is ⁧מה רבו מעשיך ה׳⁩⁦,⁩ which we say during the week, omitted from the
+Shabbos ⁧פיוט⁩?
 
 The foundation of the answer is one of the most difficult questions in
 emunah: ⁧צדיק ורע לו ורשע וטוב לו⁩. In ⁦ברכות ז ע״א⁩, the ⁧גמרא⁩ understands
@@ -15437,8 +15439,9 @@ We cannot fully explain Hashem's ⁧הנהגה⁩ in this world. But Shabbos
 teaches us how to view the question, even before its ultimate answer
 becomes clear.
 
-We begin ⁧קבלת שבת⁩ with ⁧מזמור שיר ליום השבת⁩. Yet after its opening words, the ⁧מזמור⁩ does not explicitly mention Shabbos. The ⁦מהר״ל⁩ in ⁧פרק י״ט נצח ישראל⁩, explains that Shabbos is the ⁧השלמה⁩ of ⁧בריאת העולם⁩. Creation did
-not simply take six days followed by a day of rest. The seventh day
+We begin ⁧קבלת שבת⁩ with ⁧מזמור שיר ליום השבת⁩. Yet after its opening words, the ⁧מזמור⁩ does not explicitly mention Shabbos. The ⁦מהר״ל⁩ in ⁧נצח ישראל⁩
+(perek 19) explains that Shabbos is the ⁧השלמה⁩ of ⁧בריאת העולם⁩. Creation
+did not simply take six days followed by a day of rest. The seventh day
 itself completed the world. Just as a ⁧גוף⁩ needs a ⁧נשמה⁩⁦,⁩ the six weekdays
 need Shabbos to give the entire creation its inner life and completion.
 
@@ -15446,7 +15449,7 @@ The ⁧מזמור⁩ is therefore about the perfection of Hashem's creation. It
 raises the painful question ⁧בפרוח רשעים כמו עשב⁩⁦,⁩ why the wicked seem to
 flourish, yet concludes ⁧להגיד כי ישר ה׳ צורי ולא עולתה בו⁩. We do not yet
 see how every part of the world fits together. The ultimate ⁧השלמה⁩ is
-revealed in ⁧עולם הבא⁩⁦,⁩ the ⁧יום שכולו שבת ומנוחה לחי העולמים⁩ mentioned by
+revealed in ⁧עולם הבא⁩⁦,⁩ the ⁧יום שכלו שבת ומנוחה לחיי העולמים⁩ mentioned by
 Chazal at the end of ⁧תמיד⁩. From that vantage point, what appears to us
 as a ⁧חסרון⁩ will be understood within the complete picture.
 
@@ -15454,10 +15457,12 @@ This is the meaning of ⁧טוב להודות לה׳⁩. Shabbos invites us to a
 Hashem's justice even while our understanding remains limited.
 
 The ⁦רמח״ל⁩#metadata(none) <person-index-ramchal-1177> in ⁧דעת תבונות⁩ develops this ⁧יסוד⁩. When a person looks at the
-world superficially, he sees countless separate things: ⁧דומם⁩⁦,⁩ ⁧צומח⁩⁦,⁩ ⁧בעלי חיים⁩⁦,⁩ and the events of human life. Each appears to exist for its own
-purpose. But ⁧מי שיעמיק בחכמה⁩ will see that all of creation is connected, and that every part contributes to the single ⁧תכלית⁩ intended by the ⁧חכמה העליונה⁩.
+world superficially, he sees countless separate things: ⁧דומם⁩⁦,⁩ ⁧צומח⁩⁦,⁩ ⁧בעלי חיים⁩⁦,⁩ and the events of human life. Each appears to exist for its
+own purpose. But ⁧מי שיעמיק בחכמה⁩ will see that all of creation is
+connected, and that every part contributes to the single ⁧תכלית⁩ intended
+by the ⁧חכמה העליונה⁩.
 
-Think of a symphony orchestra. An isolated instrument may sound
+Think of a symphony orchestra l'havdil. An isolated instrument may sound
 incomplete, but each instrument contributes to the music of the whole.
 Likewise, the many parts of the ⁧בריאה⁩ together bring about the ⁧התגלות כבוד שמים⁩. The ⁦רמח״ל⁩#metadata(none) <person-index-ramchal-1178> writes: ⁧גם במעשים אין רע נמצא בעולם אלא בחלקי הדברים טרם התחברם להשלמת הדבר⁩ - What appears to be ⁧רע⁩ is seen when
 events are considered in isolation, before their place in the completed
@@ -15478,7 +15483,7 @@ Rebbe, the ⁧איזביצא⁩ Rebbe, who explains that ⁧משה רבינו⁩
 hidden ⁧טובה⁩ only after the event.
 
 ⁧ר׳ צדוק⁩ applies this to ⁧גלות מצרים⁩. The prosperity and wisdom of ⁧מצרים⁩
-helped concentrate ⁧ניצוצות קדושה⁩ there; through the galus, ⁧כלל ישראל⁩
+helped concentrate ⁧ניצוצות קדושה⁩ there; through the galus, Klal Yisroel
 elevated those ⁧ניצוצות⁩⁦,⁩ preparing for ⁧מתן תורה⁩. He extends this
 principle to the other ⁧גליות⁩⁦,⁩ whose purpose we cannot comprehend while
 living through them. The ⁧חתם סופר⁩#metadata(none) <person-index-chasam-sofer-1170> likewise explains that only after a
