@@ -1448,11 +1448,11 @@ not because of his wanting to do what Avram does. It was a different
 In ⁧ספר דברים⁩ we have the famous pasuk (28:9) ⁧וְהָלַכְתָּ בִּדְרָכָיו⁩ - we have to
 go in the ways of ⁧הקדוש ברוך הוא⁩. We understand that we do everything
 that Hashem does because we cannot really understand Hashem, but we're
-following his ways. ⁧רחום⁩⁦,⁩ ⁧חנון⁩⁦,⁩ does ⁧חסד⁩. This pasuk started from the
-beginning of our creation of ⁧כלל ישראל⁩⁦,⁩ of ⁧אברהם אבינו⁩⁦,⁩ the first of the
-⁧אבות⁩⁦,⁩ tells you ⁧והלכת בדרכיו⁩ means literally, ⁧אברהם⁩ went in Hashem's way
-because that's what Hashem told him to do. A literal translation of the
-words that we've always learned for these years.
+following His ways. Hashem is a ⁧רחום⁩⁦,⁩ ⁧חנון⁩⁦,⁩ does ⁧חסד⁩. This pasuk
+started from the beginning of our creation of ⁧כלל ישראל⁩⁦,⁩ of ⁧אברהם אבינו⁩⁦,⁩ the first of the ⁧אבות⁩⁦,⁩ tells you ⁧והלכת בדרכיו⁩ means literally, ⁧אברהם⁩
+went in Hashem's way because that's what Hashem told him to do. A
+literal translation of the words that we've always learned for these
+years.
 
 ⁧וְהָלַכְתָּ בִּדְרָכָיו⁩ means you follow in Hashem's ways because that is the ⁧רצון השם⁩. We follow everything that Hashem tells us because we want to do
 ⁧רצון השם⁩. If we can get up to that ⁧מדרגה⁩⁦,⁩ which ⁧אברהם אבינו⁩ was, and we
@@ -4387,7 +4387,7 @@ hospital over ⁧שבת⁩⁦,⁩ minyanim were arranged. It was ⁧פרשת מ�
 offered to lein as he remembered the ⁧פרשה⁩ from his ⁧בר מצוה⁩ preparations
 and would be staying with his mother that ⁧שבת⁩.
 
-After davening, the ⁧רב⁩ approached the boy to thank him for his leaning.
+After davening, the ⁧רב⁩ approached the boy to thank him for his leining.
 In the course of the conversation, he realized that the boy's mother was
 suffering from a disease similar to his own. So he asked that the
 specialist who had been brought in for his care take the time to examine
