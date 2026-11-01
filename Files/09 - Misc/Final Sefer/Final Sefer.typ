@@ -6124,11 +6124,12 @@ marks the exact midpoint of the ⁧תורה⁩ in terms of words. The ⁧ספר 
 that states ⁧כאן חצי התורה⁩⁦,⁩ and he explains as follows. ⁧תורה שבכתב⁩ and
 ⁧תורה שבעל פה⁩ are one entity. Together, they form a complete and unified
 ⁧תורה⁩. Through ⁧תורה שבעל פה⁩⁦,⁩ we are able to fathom, grasp, and understand
-the deep and hidden secrets within ⁧תורה שבכתב⁩. Without ⁧תורה שבעל פה, תורה שבכתב⁩ cannot be fully understood - it is only half of a ⁧ספר⁩.
+the deep and hidden secrets within ⁧תורה שבכתב⁩. Without ⁧תורה שבעל פה⁩⁦,⁩ the
+written Torah cannot be fully understood - it is only half of a ⁧ספר⁩.
 Everything is hidden within it, and only through the ⁦י״ג מידות⁩ and the
 ⁧רוח הקודש⁩ of our ⁧חכמים⁩ were these secrets unlocked, allowing us to
 comprehend the ⁧תורה הקדושה⁩. Therefore, the ⁧דגל מחנה אפרים⁩ uses a very
-strong ⁧לשון: מי שכופר בקל וחומר או דרוש אחד מן החכמים, כופר בתורת משה⁩ - Not only is it ⁧כפירה⁩ to deny a ⁧פסוק⁩ or a ⁧הלכה⁩⁦,⁩ but even if a person does
+strong lashon: ⁧מי שכופר בקל וחומר או דרוש אחד מן החכמים כופר בתורת משה⁩ - Not only is it ⁧כפירה⁩ to deny a ⁧פסוק⁩ or a ⁧הלכה⁩⁦,⁩ but even if a person does
 not accept the ⁦י״ג מידות⁩ as ⁧תורה שבעל פה⁩⁦,⁩ he is considered a ⁧כופר⁩.
 
 This is what the ⁧פסוק⁩ is teaching us: ⁧דָּרֹשׁ דָּרַשׁ מֹשֶׁה⁩ - this is half of the
