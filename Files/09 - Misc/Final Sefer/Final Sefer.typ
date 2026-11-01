@@ -6328,7 +6328,8 @@ walls, and Hashem sent the ⁧נגע⁩ so that ⁧בני ישראל⁩ would fi
 riches. However, in ⁦פסוק ל״ה⁩, it says: ⁧וּבָא אֲשֶׁר לוֹ הַבַּיִת וְהִגִּיד לַכֹּהֵן לֵאמֹר⁩ - the man who has the house where this is happening; ⁧כְּנֶגַע נִרְאָה לִי בַּבָּיִת⁩ - a
 very interesting and unusual ⁧פסוק⁩⁦,⁩ unusual phrase, ⁧כְּנֶגַע נִרְאָה לִי בַּבָּיִת⁩ All
 the ⁧מפרשים⁩ discuss this ⁧פסוק⁩ at length. I want to share two approaches
-from Rabbi Dr. Abraham Twerski.#metadata(none) <person-index-rabbi-dr-abraham-twerski-426>
+from Rabbi Dr. Abraham Twerski#metadata(none) <person-index-rabbi-dr-abraham-twerski-426> (#emph[Living Each Week]. Permission
+granted by ArtScroll / Mesorah Publications).
 
 The ⁧פסוק⁩ says ⁧כְּנֶגַע⁩ - “something like a ⁧נגע⁩” appears to me. The person
 does not declare outright, “I see a ⁧נגע⁩\.” The first ⁧מהלך⁩ explains that
@@ -6706,11 +6707,12 @@ this entire ⁧ציבור⁩ that he has been able to influence and show the pro
 ⁧דרך⁩ to, he can go even to the people who are far, far away - the ones
 right at the edge of the abyss. Those who are busy doing nothing, or who
 have wasted their lives, who don't accomplish anything, and in fact are
-attracted to the lowest forms of ⁧עבירה⁩. That's the next ⁧פסוק: אַל תִּפְנוּ אֶל הָאֱלִילִם⁩ - Get away from the ⁧אלילים⁩⁦;⁩ ⁧וֵאלֹהֵי מַסֵּכָה לֹא תַעֲשׂוּ לָכֶם⁩ - Don't make
-for yourselves your own foreign gods, graven images. When you have the
-whole ⁧ציבור⁩ around you and you've lifted them up, you have enough power, enough ⁧קדושה⁩⁦,⁩ enough influence to speak even to these people and say:
-“You can do it too. Even though you are so far away, you can come close
-to Hashem.”
+attracted to the lowest forms of ⁧עבירה⁩. That's the next pasuk: ⁧אַל תִּפְנוּ אֶל הָאֱלִילִם⁩ - Get away from the ⁧אלילים⁩⁦;⁩ ⁧וֵאלֹהֵי מַסֵּכָה לֹא תַעֲשׂוּ לָכֶם⁩ - Don't
+make for yourselves your own foreign gods, graven images. When you have
+the whole ⁧ציבור⁩ around you and you've lifted them up, you have enough
+power, enough ⁧קדושה⁩⁦,⁩ enough influence to speak even to these people and
+say: “You can do it too. Even though you are so far away, you can come
+close to Hashem.”
 
 The ⁧אזנים לתורה⁩#metadata(none) <person-index-r-zalman-sorotzkin-445> brings a particularly brilliant ⁧ראיה⁩ by pointing out
 something you might not notice unless you're very clever. If you look at
