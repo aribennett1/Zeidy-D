@@ -9292,10 +9292,12 @@ opportunity to do the teaching, do the living, and do the ⁧מצוות⁩⁦,�
 we can continue to be a ⁧הולך⁩ even after 120 years.
 
 P.S. Every time I cross the street and I don't run, I am being ⁧מקיים⁩ a
-⁧מצוה⁩ of ⁧כיבוד אב ואם⁩. My father said never run across the street. I've
-told this to all of my ⁧קינדערלאך⁩ and ⁧אייניקלאך⁩⁦,⁩ you only walk across the
-street. If you can't make it, wait a minute until the light changes. You
-can be ⁧מקיים⁩ the ⁧מצוה⁩ of ⁧כיבוד אב⁩ even after 120 years.
+⁧מצוה⁩ of ⁧כיבוד אב ואם⁩. My father ⁧ע״ה⁩ said never run across the street.
+(He was seriously injured in a car accident while running across the
+street). I've told this to all of my ⁧קינדערלאך⁩ and ⁧אייניקלאך⁩⁦,⁩ you only
+walk across the street. If you can't make it, wait a minute until the
+light changes. You can be ⁧מקיים⁩ the ⁧מצוה⁩ of ⁧כיבוד אב⁩ even after 120
+years.
 
 #pagebreak()
 
