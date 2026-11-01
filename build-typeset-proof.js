@@ -1376,7 +1376,13 @@ function isolateHebrewRuns(typstContent) {
       .join(" ");
   };
 
-  const rtlReferenceSafeContent = protectMarkedRtlReferences(typstContent, protect);
+  // Keep the complete Shabbos piyut together, including כה׳, which can
+  // otherwise be mistaken for an acronym and split into a separate isolate.
+  const piyutSafeContent = typstContent.replace(
+    /הכל\s+יודוך\s+והכל\s+ישבחוך\s+והכל\s+יאמרו\s+אין\s+קדוש\s+כה׳\s+הכל\s+ירוממוך\s+סלה\s+יוצר\s+הכל/gu,
+    phrase => protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(phrase)}${POP_DIRECTIONAL_ISOLATE}`)
+  );
+  const rtlReferenceSafeContent = protectMarkedRtlReferences(piyutSafeContent, protect);
 
   const protectHebrewTextWithReference = (_match, hebrewText, reference) => {
       const isRtlReference = hebrewText.endsWith(RTL_REFERENCE_MARKER);

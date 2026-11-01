@@ -2390,7 +2390,7 @@ test("docx: Rabbi Oelbaum Shabbos keeps the revised introductory note centered",
 
   assertContains(
     typst,
-    "#align(center)[\nA dvar Torah on parshas Ki Sisa by R’ Oelbaum, who gave permission to",
+    "#align(center)[\nA dvar Torah on Parshas Ki Sisa by R’ Oelbaum, who gave permission for",
     "centered introductory note"
   );
   assertNotContains(
@@ -2400,8 +2400,8 @@ test("docx: Rabbi Oelbaum Shabbos keeps the revised introductory note centered",
   );
 });
 
-test("docx: Rabbi Oelbaum Shabbos keeps space after Maharal colon", () => {
-  const typst = convertedDocx("/rabbi-oelbaum-shabbos/");
+test("keeps space after Maharal colon", () => {
+  const typst = applyTextRules("Says the מהר״ל: אבל מפני כי השבת בו השלים השם יתברך העולם.");
 
   assertContains(
     typst,
@@ -2462,8 +2462,8 @@ test("docx: Vaeschanan 5784 indexes lowercase Belzer rebbe alias", () => {
   );
 });
 
-test("docx: Rabbi Oelbaum Shabbos keeps revised Gemara phrase in one RTL isolate", () => {
-  const typst = convertedDocx("/rabbi-oelbaum-shabbos/");
+test("keeps a punctuated Gemara phrase in one RTL isolate", () => {
+  const typst = applyTextRules("תני נמי הכי, לדעת כי אני ה׳ מקדשכם. אמר להם הקדוש ברוך הוא למשה, מתנה טובה יש לי בבית גנזי ושבת שמה, ואני מבקש ליתנה לישראל; לך והודיעם.");
 
   assertContains(
     typst,
@@ -2477,23 +2477,18 @@ test("docx: Rabbi Oelbaum Shabbos keeps revised Gemara phrase in one RTL isolate
   );
 });
 
-test("docx: Rabbi Oelbaum Shabbos keeps revised piyut phrases in RTL order", () => {
+test("docx: Rabbi Oelbaum Shabbos keeps the entire piyut in source order", () => {
   const typst = convertedDocx("/rabbi-oelbaum-shabbos/");
-
   assertContains(
     typst,
-    `${RTL_ISOLATE}הכל יודוך, והכל ישבחוך,  והכל יאמרו אין קדוש כה׳${POP_DIRECTIONAL_ISOLATE}, ${RTL_ISOLATE}הכל ירוממוך סלה, יוצר הכל${POP_DIRECTIONAL_ISOLATE}.`,
-    "piyut phrases remain in RTL order"
+    `${RTL_ISOLATE}הכל יודוך והכל ישבחוך והכל יאמרו אין קדוש כה׳ הכל ירוממוך סלה יוצר הכל${POP_DIRECTIONAL_ISOLATE}`,
+    "complete piyut remains in one RTL isolate in the requested order"
   );
-  assertNotContains(
-    typst,
-    `${RTL_ISOLATE}הכל יודוך${POP_DIRECTIONAL_ISOLATE}, ${RTL_ISOLATE}והכל ישבחוך${POP_DIRECTIONAL_ISOLATE}`,
-    "first piyut phrase should not split at its internal comma"
-  );
+  assertNotContains(typst, "יוצר הכל הכל ירוממוך", "piyut must not reverse Word runs");
 });
 
-test("docx: Rabbi Oelbaum Shabbos keeps revised Malbim Gemara citation in RTL order", () => {
-  const typst = convertedDocx("/rabbi-oelbaum-shabbos/");
+test("keeps a Malbim Gemara citation in RTL order", () => {
+  const typst = applyTextRules("the מלבי״ם cites the מאמר חז״ל: לדעת כי אני ה׳ מקדשכם. אמר הקדוש ברוך הוא למשה: משה, מתנה טובה יש לי בבית גנזי ושבת שמה, ואני מבקש ליתנה לישראל; לך והודיעם.");
 
   assertContains(
     typst,
