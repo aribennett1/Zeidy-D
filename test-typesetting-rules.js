@@ -2796,3 +2796,14 @@ test("person index pre-wraps long parenthetical aliases before the dotted row", 
     ]
   );
 });
+
+
+test("docx: Teruma 5783 places its two closing Hebrew phrases in English order", () => {
+  const typst = convertedDocx("/teruma/5783/");
+  const prayer = "יְהִי רָצוֹן מִלְּפָנֶיךָ שֶׁיִּבָּנֶה בֵּית הַמִּקְדָּשׁ בִּמְהֵרָה בְיָמֵינוּ";
+  assertContains(
+    typst,
+    `${LTR_ISOLATE}${RTL_ISOLATE}משכן לשם ולתפארת${POP_DIRECTIONAL_ISOLATE}. ${RTL_ISOLATE}${prayer}${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}`,
+    "separate RTL phrases in an LTR wrapper with period and exactly one space"
+  );
+});

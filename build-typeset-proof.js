@@ -2116,7 +2116,16 @@ function convertDocxToTypst(entry, indexState = null) {
     )
   );
   const indexedBody = indexState ? tagPersonIndexMentions(body, indexState) : body;
-  return normalizeRtlBulletLists(applyTextRules(indexedBody));
+  const formattedBody = normalizeRtlBulletLists(applyTextRules(indexedBody));
+  if (entry.route === "/teruma/5783/") {
+    // Two RTL phrases in English reading order; punctuation belongs to the
+    // surrounding LTR text, with exactly one space after the period.
+    return formattedBody.replace(
+      /\u2067משכן לשם ולתפארת\. (יְהִי רָצוֹן מִלְּפָנֶיךָ שֶׁיִּבָּנֶה בֵּית הַמִּקְדָּשׁ בִּמְהֵרָה בְיָמֵינוּ)\u2069/u,
+      (_match, prayer) => `${LTR_ISOLATE}${RTL_ISOLATE}משכן לשם ולתפארת${POP_DIRECTIONAL_ISOLATE}. ${RTL_ISOLATE}${prayer}${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}`
+    );
+  }
+  return formattedBody;
 }
 
 function renderPdfTextOverlay(entry, typstContent) {

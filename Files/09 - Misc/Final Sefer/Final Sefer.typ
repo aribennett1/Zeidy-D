@@ -4634,7 +4634,7 @@ To support this idea, the ⁧בית הלוי⁩#metadata(none) <person-index-bai
 can do ⁧צְדָקָה⁩⁦,⁩ and then ⁧ישועה⁩ will come. Therefore, ⁧פרשת משפטים⁩ teaches us
 to respect boundaries and be careful with the property of others. Once
 we understand these principles, we can become ⁧בעלי צדקה⁩⁦,⁩ giving ⁧נדבות⁩
-with integrity to build a ⁧משכן לשם ולתפארת. יְהִי רָצוֹן מִלְּפָנֶיךָ שֶׁיִּבָּנֶה בֵּית הַמִּקְדָּשׁ בִּמְהֵרָה בְיָמֵינוּ⁩
+with integrity to build a ⁦⁧משכן לשם ולתפארת⁩. ⁧יְהִי רָצוֹן מִלְּפָנֶיךָ שֶׁיִּבָּנֶה בֵּית הַמִּקְדָּשׁ בִּמְהֵרָה בְיָמֵינוּ⁩⁩
 
 #pagebreak()
 
