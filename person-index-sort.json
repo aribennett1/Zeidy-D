@@ -91,10 +91,10 @@
       "mode": "F",
       "sortKey": "Bobbi D"
     },
-    "bracha": {
-      "displayName": "Bracha",
-      "mode": "F",
-      "sortKey": "Bracha"
+    "bracha-mandel": {
+      "displayName": "Bracha Mandel",
+      "mode": "L",
+      "sortKey": "Mandel Bracha"
     },
     "brisker-rav": {
       "displayName": "Brisker Rav",

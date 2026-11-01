@@ -305,10 +305,9 @@
       ],
       "createdAt": "2026-07-24T02:43:26.267Z"
     },
-    "bracha": {
-      "displayName": "Bracha",
+    "bracha-mandel": {
+      "displayName": "Bracha Mandel",
       "aliases": [
-        "Bracha",
         "Bracha Mandel"
       ],
       "createdAt": "2026-07-24T02:43:44.720Z"
@@ -369,7 +368,8 @@
       "displayName": "Chaim Mandel",
       "aliases": [
         "Chaim Mandel",
-        "R’ Chaim Mandel"
+        "R’ Chaim Mandel",
+        "Chaim and Bracha"
       ],
       "createdAt": "2026-07-24T02:45:47.895Z"
     },
