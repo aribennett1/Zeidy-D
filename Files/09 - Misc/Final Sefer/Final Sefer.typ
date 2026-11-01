@@ -10533,7 +10533,7 @@ you this incredible, exact ⁧סברא⁩ and thought process that goes into eac
 and every part of the Torah.
 
 Now, I'm going to bring a totally different ⁧הלכה⁩⁦,⁩ which is at the
-beginning of the ⁧פרשה⁩⁦,⁩ and that is the ⁧הלכה⁩ about ⁧ובֶּן הַשְּׂנוּאָה בֶּן הָאֲהוּבָה⁩.
+beginning of the ⁧פרשה⁩⁦,⁩ and that is the ⁧הלכה⁩ about ⁧בֶּן הָאֲהוּבָה וּבֶּן הַשְּׂנוּאָה⁩.
 It's really where we learn the ⁧הלכה⁩ of ⁧פי שנים⁩ for a ⁧בכור⁩. The ⁧בכור⁩ gets
 ⁧פי שנים⁩. It doesn't matter if he's from the ⁧שנואה⁩ or the ⁧אהובה⁩.
 Specifically, the Torah is telling us that if the ⁧שנואה⁩ child is the
