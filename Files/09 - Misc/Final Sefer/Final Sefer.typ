@@ -3509,7 +3509,7 @@ R’ Chaim Shmuelevitz#metadata(none) <person-index-r-chaim-shmuelevitz-224> off
 witnessed the oil flowing over ⁦אַהֲרֹן'⁩s head, down his face, and onto his
 beard. The ⁧מדרש⁩ describes how ⁧משה⁩ was so thrilled and joyous that it was
 as if the oil was being poured on his own head. ⁦משה'⁩s joy at his
-brother's elevation to ⁧כהן גדול⁩ was entirely genuine. From this ⁧מדרש, רבי יהושע בן קרחה'⁩s position becomes clear. Even though ⁧משה⁩ lost the
+brother's elevation to ⁧כהן גדול⁩ was entirely genuine. From this medrash, ⁦רבי יהושע בן קרחה'⁩s position becomes clear. Even though ⁧משה⁩ lost the
 opportunity to become ⁧כהן גדול⁩⁦,⁩ it wasn't considered a punishment. His
 ⁧שמחה⁩ for his brother's accomplishment was so deep and sincere that it
 was as if he himself had been appointed ⁧כהן גדול⁩. This is a tremendous
@@ -3919,19 +3919,18 @@ the ⁧חנוכה⁩ candles. When we light the ⁧נרות⁩⁦,⁩ we infuse 
 invisible to us, carries a special ⁧קדושה⁩. While we may not see it, many
 ⁧גדולים⁩ have perceived this hidden ⁧כח⁩ in the candles.
 
-Similarly, each ⁧מצוה⁩ we perform contains within it a similar ⁧כח⁩. ⁧רב גדליה⁩ brings a ⁧רְאָיָה⁩ from the ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-251> that the spiritual experience of ⁧יציאת מצרים⁩ is embedded in every ⁧מצוה⁩. The ⁦גר״א⁩, #metadata(none) <person-index-vilna-gaon-252> in his ⁧ספר אדרת אליהו⁩⁦,⁩ explains this using a ⁧פסוק⁩ in ⁧האזינו⁩ (32:11): ⁧כְּנֶשֶׁר יָעִיר קִנּוֹ עַל גּוֹזָלָיו יְרַחֵף⁩ - like an eagle who spreads over his wings over his little eagles, the little babies; ⁧יִפְרֹשׂ כְּנָפָיו יִקָּחֵהוּ יִשָּׂאֵהוּ עַל אֶבְרָתוֹ⁩. The ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-253> discusses
-four ⁧מצוות⁩ which are represented by this ⁧פסוק⁩: 1) ⁧מזוזה⁩⁦,⁩ 2) ⁧ציצית⁩⁦,⁩ 3)
-⁧תפילין של ראש⁩⁦,⁩ and 4) ⁧תפילין של יד⁩⁦,⁩ all of which surround and protect
-us, offering a glimpse of ⁧התגלות השכינה⁩. ⁧רב גדליה⁩ emphasizes that this
+Similarly, each ⁧מצוה⁩ we perform contains within it a similar ⁧כח⁩. ⁧רב גדליה⁩ brings a ⁧רְאָיָה⁩ from the ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-251> that the spiritual experience of ⁧יציאת מצרים⁩ is embedded in every ⁧מצוה⁩. The ⁦גר״א⁩, #metadata(none) <person-index-vilna-gaon-252> in his ⁧ספר אדרת אליהו⁩⁦,⁩ explains this using a ⁧פסוק⁩ in ⁧האזינו⁩ (32:11): ⁧כְּנֶשֶׁר יָעִיר קִנּוֹ עַל גּוֹזָלָיו יְרַחֵף⁩ - like an eagle who spreads his wings over his little eagles, the
+little babies; ⁧יִפְרֹשׂ כְּנָפָיו יִקָּחֵהוּ יִשָּׂאֵהוּ עַל אֶבְרָתוֹ⁩. The ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-253> discusses four
+⁧מצוות⁩ which are represented by this ⁧פסוק⁩: 1) ⁧מזוזה⁩⁦,⁩ 2) ⁧ציצית⁩⁦,⁩ 3) ⁧תפילין של ראש⁩⁦,⁩ and 4) ⁧תפילין של יד⁩⁦,⁩ all of which surround and protect us, offering a glimpse of ⁧התגלות השכינה⁩. ⁧רב גדליה⁩ emphasizes that this
 ⁧גילוי שכינה⁩ is present in all ⁧מצוות⁩⁦,⁩ not just these four.
 
 A fascinating insight into a particular part of a ⁧מצוה⁩ comes from the
-⁧ספר אפיריון⁩⁦,⁩ written the ⁧בעל קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-245> R’ Shlomo Ganzfried.#metadata(none) <person-index-r-shlomo-ganzfried-246> He
-says in this week's ⁧פרשה⁩ (12:39): ⁧וַיֹּאפוּ אֶת הַבָּצֵק⁩ - they baked the dough;
-⁧עֻגֹת מַצּוֹת כִּי לֹא חָמֵץ כִּי גֹרְשׁוּ מִמִּצְרַיִם⁩. We say in the ⁧הגדה של פסח⁩: ⁧מַצָּה זוֹ שֶׁאָנוּ אוֹכְלִים, עַל שׁוּם מַה⁩⁦?⁩ ⁧עַל שׁוּם שֶׁלֹּא הִסְפִּיק בְּצֵקָם שֶׁל אֲבוֹתֵינוּ לְהַחֲמִיץ⁩ - Why are we
-eating this ⁧מצה⁩? We're eating this ⁧מצה⁩ because of the ⁧מצה⁩ that they ate
-in ⁧מצרים⁩⁦,⁩ which they did in a big, fast hurry, and didn't have enough
-time for it to become ⁧חמץ⁩.
+⁧ספר אפיריון⁩⁦,⁩ written by the ⁧בעל קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-245> R’ Shlomo Ganzfried.#metadata(none) <person-index-r-shlomo-ganzfried-246>
+He says in this week's ⁧פרשה⁩ (12:39): ⁧וַיֹּאפוּ אֶת הַבָּצֵק⁩ - they baked the
+dough; ⁧עֻגֹת מַצּוֹת כִּי לֹא חָמֵץ כִּי גֹרְשׁוּ מִמִּצְרַיִם⁩. We say in the ⁧הגדה של פסח⁩: ⁧מַצָּה זוֹ שֶׁאָנוּ אוֹכְלִים, עַל שׁוּם מַה⁩⁦?⁩ ⁧עַל שׁוּם שֶׁלֹּא הִסְפִּיק בְּצֵקָם שֶׁל אֲבוֹתֵינוּ לְהַחֲמִיץ⁩ - Why
+are we eating this ⁧מצה⁩? We're eating this ⁧מצה⁩ because of the ⁧מצה⁩ that
+they ate in ⁧מצרים⁩⁦,⁩ which they did in a big, fast hurry, and didn't have
+enough time for it to become ⁧חמץ⁩.
 
 The ⁦רמב״ם⁩#metadata(none) <person-index-rambam-247> notes that ⁧מצה⁩ made with ⁧מי פירות⁩ (fruit juice) doesn't become
 ⁧חמץ⁩⁦,⁩ as it lacks the ability to ferment. However, certain liquids -
