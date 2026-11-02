@@ -11437,7 +11437,7 @@ would start off with something that people would understand. However, frequently
 complicated and halachic, and most of the people could not grasp what he
 was saying. Why would they do that?
 
-He answers with a fascinating ⁧משל⁩ from ⁧ח׳ ע״ב גמרא ראש השנה⁩. The ⁧גמרא⁩
+He answers with a fascinating ⁧משל⁩ from ⁧גמרא ראש השנה דף ח׳ ע״ב⁩. The ⁧גמרא⁩
 says, ⁧דְּאָמַר רַב חִסְדָּא מֶלֶךְ וְצִיבּוּר מֶלֶךְ נִכְנָס תְּחִילָּה לַדִּין⁩ - If there's a choice
 between the king going first or the ⁧ציבור⁩ going first for the ⁧דין⁩ before
 Hashem, the ⁧מלך⁩ goes first. There are many reasons given for why that
