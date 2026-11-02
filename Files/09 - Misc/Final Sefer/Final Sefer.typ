@@ -127,6 +127,9 @@
   block(above: 0pt, below: 16pt)[#it.body]
 }
 
+// Keep short parenthesized Hebrew citations intact across line wrapping.
+#show regex("\\([א-ת׳״'\" ]{1,60}:[א-ת׳״'\" \\-]{1,20}\\)"): it => box(text(dir: ltr, it))
+
 #show par: it => {
   it
 }
@@ -12626,8 +12629,8 @@ the 3,000th ⁧משל⁩⁦,⁩ then the people understood. What was that 3,000t
 That was ⁧שיר השירים⁩. It describes the union between ⁧הקדוש ברוך הוא⁩ and
 ⁧כלל ישראל⁩. That union came into being on ⁧שבועות⁩. Until then, ⁧עולם הבא⁩
 and ⁧שמים⁩ were always above, and we were down here in ⁧עולם הזה⁩. But on
-the sixth day of sivan, ⁦(שמות י״ט:כ׳)⁩ ⁧וַיֵּרֶד ה׳ עַל הַר סִינַי⁩. And at the
-same time, ⁧וְאֶל משֶׁה אָמַר עֲלֵה אֶל⁩ ⁦(שמות כ״ד:א׳)⁩ ⁧ה׳⁩. The joining of ⁧עולם הבא⁩
+the sixth day of sivan, ⁧וַיֵּרֶד ה׳ עַל הַר סִינַי ⁦(שמות י״ט:כ׳)⁩⁩. And at the
+same time, ⁧וְאֶל משֶׁה אָמַר עֲלֵה אֶל ה׳ ⁦(שמות כ״ד:א׳)⁩⁩. The joining of ⁧עולם הבא⁩
 and ⁧עולם הזה⁩.
 
 ⁧מתן תורה⁩ is clearly understood as a ⁧חתונה⁩. It's not that ⁧הר סיני⁩ is like
@@ -12941,17 +12944,17 @@ happiest days, if not the happiest day, of the year. It's a day when
 continue the ⁧דורות⁩ of ⁧כלל ישראל⁩. This day has a number of significances.
 The most famous one is that on ⁦ט״ו באב⁩, the people stopped dying in the
 ⁧מדבר⁩. But R’ Elimelech Biderman#metadata(none) <person-index-r-elimelech-biderman-986> ⁧זאל ער זיין געזונט און שטארק⁩ brings down
-another. The ⁧גמרא⁩ in ⁧בבא בתרא⁩ says that on ⁦ט״ו באב⁩ people noticed that
-the days were starting to get shorter. What's the significance of the
-days getting shorter that they were happy about it? Firstly, the longer
-the night is, the more we can learn. But also, that was the day that
-they finished cutting the ⁧עצים⁩ for the ⁧מערכה⁩⁦,⁩ because up until ⁦ט״ו באב⁩
-the days were hot and the wood would not have any worms in it. Now that
-the days would begin getting shorter, there was a chance that the wood
-would be infested, and you would not want to ⁧חס ושלום⁩ bring wormy, infested wood into the ⁧בית המקדש⁩. So from ⁦ט״ו באב⁩ on they stopped
-cutting. Since they were not doing the wood-cutting anymore, they had
-more time to learn. This shows us that learning ⁧תורה⁩ is even higher than
-preparing things for the ⁧בית המקדש⁩.
+another (#emph[Around the Year with Reb Meilech]. Permission granted by
+ArtScroll / Mesorah Publications). The ⁧גמרא⁩ in ⁧בבא בתרא⁩ says that on ⁦ט״ו
+באב⁩ people noticed that the days were starting to get shorter. What's
+the significance of the days getting shorter that they were happy about
+it? Firstly, the longer the night is, the more we can learn. But also, that was the day that they finished cutting the ⁧עצים⁩ for the ⁧מערכה⁩⁦,⁩ because up until ⁦ט״ו באב⁩ the days were hot and the wood would not have
+any worms in it. Now that the days would begin getting shorter, there
+was a chance that the wood would be infested, and you would not want to
+⁧חס ושלום⁩ bring wormy, infested wood into the ⁧בית המקדש⁩. So from ⁦ט״ו באב⁩
+on they stopped cutting. Since they were not doing the wood-cutting
+anymore, they had more time to learn. This shows us that learning ⁧תורה⁩
+is even higher than preparing things for the ⁧בית המקדש⁩.
 
 R’ Elimelech would always tell people, if you want to live a long life, learn two ⁧משניות⁩ in ⁧פרקי אבות⁩ before you go to sleep, it'll add years to
 your life. R’ Elimelech brings down that R’ Zundel Kroizer#metadata(none) <person-index-r-zundel-kroizer-987> was once
@@ -12971,7 +12974,8 @@ Now, from ⁦ט״ו באב⁩ until ⁧ראש השנה⁩ is 45 days. We can sta
 before ⁧ראש חודש אלול⁩ to be ⁧מקבל פני השכינה⁩⁦,⁩ to be ⁧מקבל הקדוש ברוך הוא⁩ as
 the ⁧מלך⁩ on ⁧ראש השנה⁩. In fact, R’ Elimelech brings down that there were
 those who started to say ⁧כתיבה וחתימה טובה⁩ starting from ⁧חמישה עשר באב⁩⁦,⁩ because they thought it was appropriate for that time. The pasuk says
-⁧וְעַתָּה יִשְׂרָאֵל מָה ה׳ אֱלֹקֶיךָ שֹׁאֵל מֵעִמָּךְ ⁦(דברים י׳:י״ב)⁩⁩ - What does ⁧הקדוש ברוך הוא⁩ ask from you? ⁧כִּי אִם לְיִרְאָה אֶת ה׳⁩. As my sister ⁧זאל זי זיין געזונט און שטארק⁩ said, for ⁧משה רבינו⁩⁦,⁩ it was a ⁧מילתא זוטרתא⁩⁦,⁩ it's a little thing to
+⁧וְעַתָּה יִשְׂרָאֵל מָה ה׳ אֱלֹקֶיךָ שֹׁאֵל מֵעִמָּךְ ⁦(דברים י׳:י״ב)⁩⁩ - What does ⁧הקדוש ברוך הוא⁩
+ask from you? ⁧כִּי אִם לְיִרְאָה אֶת ה׳⁩. As my sister ⁧זאל זי זיין געזונט און שטארק⁩ said, for ⁧משה רבינו⁩⁦,⁩ it was a ⁧מילתא זוטרתא⁩⁦,⁩ it's a little thing to
 be ⁧כִּי אִם לְיִרְאָה אֶת ה׳⁩. For us, ⁧יראת השם⁩ is a big deal. But for ⁧משה רבינו⁩⁦,⁩ it was ⁧מה⁩⁦,⁩ what? ⁧נחנו מה⁩⁦,⁩ what are we? However, you can change how you
 read it and say ⁧מָה ה׳ אֱלֹקֶיךָ שֹׁאֵל מֵעִמָּךְ⁩ - Hashem is asking from you ⁧מה⁩.
 What's ⁧מה⁩? ⁦מ״ה⁩, 45. These are the days that Hashem asks from us. Give

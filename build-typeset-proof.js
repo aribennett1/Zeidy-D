@@ -2460,6 +2460,9 @@ function renderTypstDocument(entries, options, indexState = null) {
   block(above: 0pt, below: 16pt)[#it.body]
 }
 
+// Keep short parenthesized Hebrew citations intact across line wrapping.
+#show regex(${typstString("\\([א-ת׳״'\" ]{1,60}:[א-ת׳״'\" \\-]{1,20}\\)")}): it => box(text(dir: ltr, it))
+
 #show par: it => {
   it
 }
