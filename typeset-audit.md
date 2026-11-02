@@ -77,19 +77,19 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0372.png](typeset-audit-pages/page-0372.png)
   - ט׳:ז׳)⁩⁩? Why should we be left out? Why
   - normalized: ט׳:ז׳)? Why should we be left out? Why
-- Typst source, page 379, Shavuos 5784, line 12551
+- Typst source, page 379, Shavuos 5784, line 12550
   - visual: [page-0379.png](typeset-audit-pages/page-0379.png), [page-0380.png](typeset-audit-pages/page-0380.png)
   - א:נ״ו)⁩ that at ⁧הר סיני⁩⁦,⁩ ⁧כלל ישראל⁩ was sleeping. They went to sleep that
   - normalized: א:נ״ו) that at הר סיני, כלל ישראל was sleeping. They went to sleep that
-- Typst source, page 396, Elul 5785, line 13093
+- Typst source, page 396, Elul 5785, line 13096
   - visual: [page-0396.png](typeset-audit-pages/page-0396.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 452, Krovitz, line 14990
+- Typst source, page 452, Krovitz, line 14993
   - visual: [page-0452.png](typeset-audit-pages/page-0452.png)
   - קי״ב:ב׳)⁩
   - normalized: קי״ב:ב׳)
-- Typst source, page 460, Purim 5785, line 15210
+- Typst source, page 460, Purim 5785, line 15213
   - visual: [page-0460.png](typeset-audit-pages/page-0460.png), [page-0461.png](typeset-audit-pages/page-0461.png)
   - this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩.
   - normalized: this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ.
