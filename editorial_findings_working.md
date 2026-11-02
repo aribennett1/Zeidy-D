@@ -2065,7 +2065,7 @@
 - **Printed p. 249 (archive p. 269), Historical/aggadic overstatement:** "They died every year on Yom Kippur because they didn't make it through the avodah" is not an accurate summary of Yoma 9a. The passage contrasts long tenures in the First Temple with the rapid turnover of many Second Temple high priests; do not claim each died during the Yom Kippur service.
 - **Printed p. 249 (archive p. 269), Unsupported exoneration:** The text says the Second Temple candidates sought the office not from prestige but from zeal for holiness. This contradicts sources that criticize purchase and corruption of the office unless a specific commentator supports the reinterpretation.
 - **Printed p. 249 (archive p. 269), Bidi/layout:** The *vav ketiah* transformation and gematria 380 cannot be followed in running prose. Show the altered spelling and arithmetic on separate RTL lines.
-- **Printed p. 249 (archive p. 269), Name consistency:** Verify **Rav Komornick** and the exact title *A Short Vort/The Short Vort*; the book is cited under varying English titles elsewhere.
+- **Printed p. 249 (archive p. 269), Name consistency:** Verify **Rav Kormornick** and the exact title *A Short Vort/The Short Vort*; the book is cited under varying English titles elsewhere.
 - **Printed p. 249 (archive p. 269), Redundant question:** "from where do we learn out all of the halachos of making a kinyan?" and the next two sentences repeat the same question. State the *kicha-kicha* derivation once and cite Kiddushin 2a.
 - **Printed p. 249 (archive p. 269), Incomplete legal explanation:** Marriage law is not generally derived from a burial's emotional "opposite." The Talmud derives the use of money through the shared word *kicha*. Explain the textual gezeirah shavah accurately.
 - **Printed p. 249 (archive p. 269), Dubious currency conversion:** "adjusted properly... four million dollars" needs a method, date, and source. Ancient shekel values cannot be converted to a modern dollar figure with that apparent precision.
@@ -2395,7 +2395,7 @@
 ### Re’eh 5785
 
 - **Printed p. 284 (archive p. 304), Verse translation:** Deuteronomy 15:7-8 commands opening one’s hand and lending sufficient for the person’s lack. “Extend to him any credit he requires” sounds commercial and does not capture the verse’s charitable obligation.
-- **Printed p. 284 (archive p. 304), Name consistency:** “Rav Kormornick” appears elsewhere as **Rav Komornick**. Verify the person’s name and standardize the title *A Short Vort*.
+- **Printed p. 284 (archive p. 304), Name consistency:** “Rav Kormornick” appears elsewhere as **Rav Kormornick**. Verify the person’s name and standardize the title *A Short Vort*.
 - **Printed p. 284 (archive p. 304), Redundant question:** The closed-heart/closed-hand question is stated, paraphrased, and then asked again. State it once.
 - **Printed p. 284 (archive p. 304), Source citation:** Give the precise Vilna Gaon source for the open-hand image; do not rely on a secondary quotation alone.
 - **Printed p. 284 (archive p. 304), Gendered default:** Repeated “him” can follow the verse, but the application should acknowledge recipients of any gender.

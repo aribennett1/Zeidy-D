@@ -512,21 +512,6 @@
       ],
       "reviewedAt": "2026-07-23T19:46:26.986Z"
     },
-    "komornick's": {
-      "word": "komornick's",
-      "status": "allow",
-      "correction": null,
-      "note": null,
-      "count": 1,
-      "files": 1,
-      "examples": [
-        {
-          "filePath": "Files/04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.docx",
-          "context": "...ew of this particular ברית שלום, I want to bring down a vort from Rav Komornick’s sefer A Short Vort: from where do we learn out all of the הלכות of making a קני..."
-        }
-      ],
-      "reviewedAt": "2026-07-23T19:46:30.001Z"
-    },
     "korban": {
       "word": "korban",
       "status": "allow",
@@ -547,12 +532,16 @@
       "status": "allow",
       "correction": null,
       "note": null,
-      "count": 1,
-      "files": 1,
+      "count": 2,
+      "files": 2,
       "examples": [
         {
           "filePath": "Files/06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).docx",
           "context": "... beautiful story which I’m sure you will appreciate. This is from Rav Kormornick’s second sefer of A Short Vort. The Homiler rav was dancing in shul on שמחת תורה...."
+        },
+        {
+          "filePath": "Files/04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.docx",
+          "context": "...ew of this particular ברית שלום, I want to bring down a vort from Rav Kormornick’s sefer A Short Vort: from where do we learn out all of the הלכות of making a קני..."
         }
       ],
       "reviewedAt": "2026-07-23T19:46:36.156Z"

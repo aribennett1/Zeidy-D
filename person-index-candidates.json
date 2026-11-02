@@ -25,7 +25,7 @@
         {
           "filePath": "Files/04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.docx",
           "source": "capitalized",
-          "context": "...is particular ברית שלום, I want to bring down a vort from Rav Komornick’s sefer A Short Vort: from where do we learn out all of the הלכות of making a קנין? We know when people get ma..."
+          "context": "...is particular ברית שלום, I want to bring down a vort from Rav Kormornick’s sefer A Short Vort: from where do we learn out all of the הלכות of making a קנין? We know when people get ma..."
         },
         {
           "filePath": "Files/05 - Devarim/04 - Re'eh/5785/Re'eh 5785.docx",
@@ -7010,27 +7010,38 @@
       ]
     },
     {
-      "key": "rav komornick's",
-      "value": "Rav Komornick's",
+      "key": "rav kormornick's",
+      "value": "Rav Kormornick's",
       "language": "english",
       "sources": [
         "capitalized",
         "english-honorific"
       ],
-      "count": 2,
+      "count": 4,
       "files": [
-        "Files/04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.docx"
+        "Files/04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.docx",
+        "Files/06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).docx"
       ],
       "examples": [
         {
           "filePath": "Files/04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.docx",
           "source": "english-honorific",
-          "context": "...m פנחס. In view of this particular ברית שלום, I want to bring down a vort from Rav Komornick’s sefer A Short Vort: from where do we learn out all of the הלכות of making a קנין? We know..."
+          "context": "...m פנחס. In view of this particular ברית שלום, I want to bring down a vort from Rav Kormornick’s sefer A Short Vort: from where do we learn out all of the הלכות of making a קנין? We know..."
         },
         {
           "filePath": "Files/04 - Bamidbar/09 - Pinchas/5783/Pinchas 5783.docx",
           "source": "capitalized",
-          "context": "...m פנחס. In view of this particular ברית שלום, I want to bring down a vort from Rav Komornick’s sefer A Short Vort: from where do we learn out all of the הלכות of making a קנין? We know..."
+          "context": "...m פנחס. In view of this particular ברית שלום, I want to bring down a vort from Rav Kormornick’s sefer A Short Vort: from where do we learn out all of the הלכות of making a קנין? We know..."
+        },
+        {
+          "filePath": "Files/06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).docx",
+          "source": "english-honorific",
+          "context": "...r שמחת תורה, a beautiful story which I’m sure you will appreciate. This is from Rav Kormornick’s second sefer of A Short Vort. The Homiler rav was dancing in shul on שמחת תורה. He notice..."
+        },
+        {
+          "filePath": "Files/06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).docx",
+          "source": "capitalized",
+          "context": "...r שמחת תורה, a beautiful story which I’m sure you will appreciate. This is from Rav Kormornick’s second sefer of A Short Vort. The Homiler rav was dancing in shul on שמחת תורה. He notice..."
         }
       ]
     },
@@ -7066,31 +7077,6 @@
           "filePath": "Files/05 - Devarim/04 - Re'eh/5785/Re'eh 5785.docx",
           "source": "capitalized",
           "context": "...have both of these phrases to teach us we have to give what that person needs. Rav Kormornick brings a tremendously heartbreaking and critically impressive example. This was fulfilled..."
-        }
-      ]
-    },
-    {
-      "key": "rav kormornick's",
-      "value": "Rav Kormornick's",
-      "language": "english",
-      "sources": [
-        "capitalized",
-        "english-honorific"
-      ],
-      "count": 2,
-      "files": [
-        "Files/06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).docx"
-      ],
-      "examples": [
-        {
-          "filePath": "Files/06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).docx",
-          "source": "english-honorific",
-          "context": "...r שמחת תורה, a beautiful story which I’m sure you will appreciate. This is from Rav Kormornick’s second sefer of A Short Vort. The Homiler rav was dancing in shul on שמחת תורה. He notice..."
-        },
-        {
-          "filePath": "Files/06 - Yom Tov/14 - Simchas Torah/5786/Simchas Torah (2)/Simchas Torah 5786 (2).docx",
-          "source": "capitalized",
-          "context": "...r שמחת תורה, a beautiful story which I’m sure you will appreciate. This is from Rav Kormornick’s second sefer of A Short Vort. The Homiler rav was dancing in shul on שמחת תורה. He notice..."
         }
       ]
     },

@@ -633,7 +633,7 @@ following writers to include selections of their work in this sefer: ]
 Rabbi Dovid Hoffman - Torah Tavlin]
 
 #align(center)[
-Rabbi Moshe Komornick - A Short Vort]
+Rabbi Moshe Kormornick - A Short Vort]
 
 #align(center)[
 Rabbi Pesach Krohn - The Maggid Series]
@@ -9104,7 +9104,7 @@ that symbolizes peace also alludes to the 380 ⁧כהנים גדולים⁩ who 
 ⁧פנחס⁩.
 
 In view of this particular ⁧ברית שלום⁩⁦,⁩ I want to bring down a vort from
-Rav Komornick's#metadata(none) <person-index-r-kormornick-670> sefer A Short Vort: #metadata(none) <person-index-a-short-vort-669> from where do we learn out all of
+Rav Kormornick's#metadata(none) <person-index-r-kormornick-670> sefer A Short Vort: #metadata(none) <person-index-a-short-vort-669> from where do we learn out all of
 the ⁧הלכות⁩ of making a ⁧קנין⁩? We know when people get married, there's a
 ⁧קנין⁩⁦,⁩ ⁧הרי את מקודשת לי⁩⁦,⁩ and the ⁧חתן⁩ has to give the ⁧כלה⁩ something to
 make the ⁧קנין⁩. Where do all of the ⁧הלכות⁩ of getting married, of making a

@@ -299,7 +299,7 @@ This is a review-only report. No source documents were edited.
 - `Rav Gifter`
 - `Rav Irving Bunim's`
 - `Rav Itzele Peterburger`
-- `Rav Komornick's`
+- `Rav Kormornick's`
 - `Rav Kormornick`
 - `Rav Kormornick's`
 - `Rav Meir Shapiro`
