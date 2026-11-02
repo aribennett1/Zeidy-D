@@ -12072,21 +12072,21 @@ of Bagdad, who's ⁧ספר⁩ was called, ⁧עוד יוסף חיים⁩⁦,⁩ 
 brings down a fascinating ⁧מעשה⁩⁦,⁩ which emphasizes and highlights the
 difference between a ⁧חכם⁩ and a ⁧נבון⁩.
 
-One day, a king was going to go for a walk, and he had along with him, ⁧זכותו יגן עלינו רב יונתן אייבשיץ⁩⁦,⁩ a ⁧מחבר⁩ of a tremendous number of
-⁧ספרים⁩⁦,⁩ a well-known genius, and the king asked him a question. “You Jews
-say that a ⁧חכם⁩ is greater than a ⁧נביא⁩. Tell me, I am going out for a
-walk now - when I return, which entrance will I use to re-enter the
-city? The larger entrance or the smaller entrance?” ⁧רב יונתן⁩ replied, “If I tell you, my master the king, that you will return through one
-entrance, you will surely try to outsmart me and use the other. So here
-is what I will do: I will write my answer on a piece of paper, seal it
-in an envelope, and after my master the king returns from his walk and
-is seated back on his throne, he may break the seal and read my answer.”
-The king liked the idea and agreed. He took the sealed envelope, placed
-it in his pocket, and went on his walk. As he was on his way back, he
-thought to himself, “I will not return through the usual large entrance;
-I will go through the small entrance instead.” But as he approached the
-small entrance, he reconsidered, “Surely, ⁧רב יונתן⁩ predicted that I
-would avoid the usual entrance, so he must have written that I will come
+One day, a king was going for a walk, and he had along with him, ⁧רב יונתן אייבשיץ זכותו יגן עלינו⁩⁦,⁩ a ⁧מחבר⁩ of a tremendous number of ⁧ספרים⁩⁦,⁩ a
+well-known genius, and the king asked him a question. “You Jews say that
+a ⁧חכם⁩ is greater than a ⁧נביא⁩. Tell me, I am going out for a walk now -
+when I return, which entrance will I use to re-enter the city? The
+larger entrance or the smaller entrance?” ⁧רב יונתן⁩ replied, “If I tell
+you, my master the king, that you will return through one entrance, you
+will surely try to outsmart me and use the other. So here is what I will
+do: I will write my answer on a piece of paper, seal it in an envelope, and after my master the king returns from his walk and is seated back on
+his throne, he may break the seal and read my answer.” The king liked
+the idea and agreed. He took the sealed envelope, placed it in his
+pocket, and went on his walk. As he was on his way back, he thought to
+himself, “I will not return through the usual large entrance; I will go
+through the small entrance instead.” But as he approached the small
+entrance, he reconsidered, “Surely, ⁧רב יונתן⁩ predicted that I would
+avoid the usual entrance, so he must have written that I will come
 through the small entrance. Therefore, I will go through the large
 entrance.” When he arrived at the large entrance, he again hesitated, “No, that clever Jew must have foreseen this as well!” He went back and
 forth, unable to decide, completely confused between the two options.
