@@ -2354,11 +2354,11 @@ test("docx: Naso 5784 repairs nested Tehillim source parenthesis", () => {
 });
 
 test("docx: Shavuos 5785 repairs nested Melachim source parenthesis", () => {
-  const typst = convertedDocx("/shavuos/5785/");
+  const typst = convertedDocx("/shavuos/5785/").replace(/\s+/g, " ");
 
   assertContains(
     typst,
-    `based on a pasuk in\n${LTR_ISOLATE}(מלכים א ה:י״ב)${POP_DIRECTIONAL_ISOLATE}, describing the vastness`,
+    `based on a pasuk in ${LTR_ISOLATE}(מלכים א ה:י״ב)${POP_DIRECTIONAL_ISOLATE}, describing the vastness`,
     "fixed Melachim source"
   );
   assertNotContains(typst, "(⁧מלכים א⁩ (⁧ה⁩", "nested Melachim source parenthesis");
