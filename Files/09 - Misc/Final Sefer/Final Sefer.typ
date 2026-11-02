@@ -11259,12 +11259,12 @@ our children and ⁧אייניקלעך⁩ will continue that ⁧מסורה עד 
 This week's ⁧פרשיות⁩ are ⁧ניצבים וילך⁩⁦,⁩ and include ⁧וילך⁩⁦,⁩ the shortest ⁧פרשה⁩
 in the Torah. Nevertheless, it has a powerhouse full of wonderful things
 to learn, one of which is what we will do now from the ⁧וילנא גאון⁩. In
-⁦פרק ל״א פסוק י״ד⁩, the pasuk says: ⁧וַיֹּאמֶר ה׳ אֶל מֹשֶׁה הֵן קָרְבוּ יָמֶיךָ לָמוּת קְרָא אֶת יְהוֹשֻׁעַ⁩. A ⁧מדרש ילקוט⁩⁦,⁩ brought down in ⁧חתם סופר⁩#metadata(none) <person-index-chasam-sofer-841> ⁧על התורה⁩⁦,⁩ says that the
+⁦פרק ל״א פסוק י״ד⁩, the pasuk says: ⁧וַיֹּאמֶר ה׳ אֶל מֹשֶׁה הֵן קָרְבוּ יָמֶיךָ לָמוּת קְרָא אֶת יְהוֹשֻׁעַ⁩. A ⁧מדרש ילקוט⁩⁦,⁩ brought down in ⁧חתם סופר#metadata(none) <person-index-chasam-sofer-841> על התורה⁩⁦,⁩ says that the
 day that ⁧משה רבינו⁩ was going to be ⁧נפטר⁩⁦,⁩ Hashem's ⁧שכינה⁩ moved over to
 Yehoshua and was speaking to Yehoshua. ⁧שאל לו משה⁩ - Moshe asked Yehoshua;
-⁧מה אמר לך ה׳⁩⁦?⁩ - What did Hashem tell you? ⁧אמר לו יהושע, וכי כל ארבעים שנה שאלתי אותך מה דיבר ה׳⁩⁦?⁩ - Yehoshua's answer to Moshe was, “And in all
-the 40 years, did I ever ask you what Hashem said?” Immediately ⁧משה רבינו⁩ said, ⁧טוב אלף מיתות מקנאה אחת⁩ - Better to die a thousand times than
-to have a moment of ⁧קנאה⁩. A ⁦פלא׳דיגע מדרש⁩ from beginning to the end.
+⁧מה אמר לך ה׳⁩ - What did Hashem tell you? ⁧אמר לו יהושע, וכי כל ארבעים שנה שאלתי אותך מה דיבר ה׳⁩ - Yehoshua's answer to Moshe was, “And in all the
+40 years, did I ever ask you what Hashem said?” Immediately ⁧משה רבינו⁩ said, ⁧טוב אלף מיתות מקנאה אחת⁩ - Better to die a thousand times than to
+have a moment of ⁧קנאה⁩. A ⁦פלא׳דיגע מדרש⁩ from beginning to the end.
 
 The first question is, is this the way that Yehoshua could possibly
 speak to ⁧משה רבינו⁩ under any circumstances? That's the obvious question.
@@ -11299,12 +11299,11 @@ Hershel Schachter, #metadata(none) <person-index-r-herschel-schachter-842> who t
 is ⁧דברי פי חכם חן⁩ - The words of a wise man are very pleasant, are very
 beautiful.
 
-So this is a tremendous ⁧וילנא גאון⁩ on the ⁧פרשה⁩ teaches us that
-everything is for our own good. ⁧הקדוש ברוך הוא פירט די וועלט⁩⁦,⁩ and no
-matter what happens to us, we have to be ⁧מקבל⁩ it. As it says in ⁧פרקי אבות⁩⁦,⁩ we have to be ⁧מקבל⁩ it with ⁧שמחה⁩. ⁧אם ירצה ה׳⁩⁦,⁩ we should have ⁧א גוט געבענטשט געזונט יאר⁩⁦,⁩ daven that Hashem should not send us ⁧נסיונות⁩⁦,⁩ and
-in fact give us ⁧אריכות ימים⁩⁦,⁩ ⁧נחת⁩ from the ⁧קינדער⁩⁦,⁩ opportunities to do
-more and more ⁧מצוות⁩⁦,⁩ and that we should be ⁧זוכה⁩ to see ⁧ביאת גואל צדק⁩
-this year.
+So this vort from the ⁧וילנא גאון⁩ teaches us that everything is for our
+own good. ⁧הקדוש ברוך הוא פירט די וועלט⁩⁦,⁩ and no matter what happens to
+us, we have to be ⁧מקבל⁩ it. As it says in ⁧פרקי אבות⁩⁦,⁩ we have to be ⁧מקבל⁩
+it with ⁧שמחה⁩. ⁧אם ירצה ה׳⁩⁦,⁩ we should have ⁧א גוט געבענטשט געזונט יאר⁩⁦,⁩ daven that Hashem should not send us ⁧נסיונות⁩⁦,⁩ and in fact give us ⁧אריכות ימים⁩⁦,⁩ ⁧נחת⁩ from the ⁧קינדער⁩⁦,⁩ opportunities to do more and more ⁧מצוות⁩⁦,⁩ and
+that we should be ⁧זוכה⁩ to see ⁧ביאת גואל צדק⁩ this year.
 
 #pagebreak()
 

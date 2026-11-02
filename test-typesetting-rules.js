@@ -2912,3 +2912,42 @@ test("docx: Naso 5785 keeps daf numbers and amud labels in the same RTL phrase",
     `${RTL_ISOLATE}ברכות דף ס״ד עמוד א׳${POP_DIRECTIONAL_ISOLATE}`,
     "the subsequent 64a reference stays together across source wrapping");
 });
+
+
+test("keeps Hebrew phrases intact across person-index markers", () => {
+  const marker = "#metadata(none) <person-index-chasam-sofer-1>";
+  for (const space of [" ", "\n"]) {
+    assert.equal(
+      applyTextRules(`in חתם סופר${marker}${space}על התורה says`),
+      `in ${RTL_ISOLATE}חתם סופר${marker}${space}על התורה${POP_DIRECTIONAL_ISOLATE} says`
+    );
+  }
+});
+
+test("preserves multiple index markers within one Hebrew phrase", () => {
+  const first = "#metadata(none) <person-index-one-1>";
+  const second = "#metadata(none) <person-index-two-2>";
+  assert.equal(
+    applyTextRules(`in חתם סופר${first} על התורה${second} הקדושה says`),
+    `in ${RTL_ISOLATE}חתם סופר${first} על התורה${second} הקדושה${POP_DIRECTIONAL_ISOLATE} says`
+  );
+});
+
+test("index markers do not merge Hebrew across sentences or paragraphs", () => {
+  const marker = "#metadata(none) <person-index-chasam-sofer-1>";
+  for (const separator of [". ", "\n\n"]) {
+    const result = applyTextRules(`חתם סופר${marker}${separator}על התורה`);
+    assert.equal((result.match(/\u2067/g) || []).length, 2);
+    assert.equal((result.match(/#metadata/g) || []).length, 1);
+  }
+});
+
+test("docx: indexed Nitzavim-Vayailech 5783 keeps Chasam Sofer Al HaTorah together", () => {
+  const typst = convertedDocxWithIndex("/nitzavim-vayailech/5783/", [{
+    id: "chasam-sofer", displayName: "Chasam Sofer", aliases: ["חתם סופר"],
+  }]);
+  assertContains(typst,
+    `${RTL_ISOLATE}חתם סופר#metadata(none) <person-index-chasam-sofer-1> על התורה${POP_DIRECTIONAL_ISOLATE}`,
+    "index marker preserves the full Hebrew title in one RTL isolate");
+  assert.equal((typst.match(/<person-index-chasam-sofer-1>/g) || []).length, 1);
+});

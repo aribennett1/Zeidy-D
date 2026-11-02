@@ -1766,11 +1766,26 @@ function repairHebrewIsolateContinuations(typstContent) {
   const softSeparator = `(["”]?)[\\t \\u00A0\\u202F]*(?:\\n(?!\\n)[\\t \\u00A0\\u202F]*)?`;
   const requiredSoftSpace = `[\\t \\u00A0\\u202F]+|[\\t \\u00A0\\u202F]*\\n(?!\\n)[\\t \\u00A0\\u202F]*`;
 
+  const indexedRtlRun = `([^${RTL_ISOLATE}${LTR_ISOLATE}${POP_DIRECTIONAL_ISOLATE}\\n]*${HEBREW_LETTERS}[^${RTL_ISOLATE}${LTR_ISOLATE}${POP_DIRECTIONAL_ISOLATE}\\n]*)`;
+  const indexMarker = `#metadata\\(none\\)[ \\t]*<person-index-[^>\\n]+>`;
+  const indexedContinuation = new RegExp(
+    `${RTL_ISOLATE}${indexedRtlRun}${POP_DIRECTIONAL_ISOLATE}((?:[ \\t]*${indexMarker})+(?:${requiredSoftSpace}))${RTL_ISOLATE}${indexedRtlRun}${POP_DIRECTIONAL_ISOLATE}`,
+    "gu"
+  );
+
   let repaired = typstContent;
   let previous;
   do {
     previous = repaired;
     repaired = repaired
+      // Index metadata has no visible text and must not divide an RTL phrase.
+      // Keep markers at the indexed names so page references stay accurate.
+      .replace(indexedContinuation, (match, left, markers, right, offset, fullText) => {
+        if (isInsideDirectionalIsolate(fullText, offset) || /[,.;:!?]\s*$/.test(left) || /^\s*[(“”"]/.test(right)) {
+          return match;
+        }
+        return `${RTL_ISOLATE}${left}${markers}${right}${POP_DIRECTIONAL_ISOLATE}`;
+      })
       .replace(
         new RegExp(`([“”])${hebrewIsolate}`, "gu"),
         (match, quote, hebrew, offset, fullText) => {
