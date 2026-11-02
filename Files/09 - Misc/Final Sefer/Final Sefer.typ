@@ -4192,7 +4192,7 @@ number of ⁧מצוות⁩⁦,⁩ but they are not ⁧עבדי ה׳⁩. In contr
   ))
 = Yisro 5784
 
-⁧וַיִּחַן שָׁם יִשְׂרָאֵל נֶגֶד הָהָר⁩\(19:2), possibly the most beautiful pasuk in the
+⁧וַיִּחַן שָׁם יִשְׂרָאֵל נֶגֶד הָהָר⁩ (19:2), possibly the most beautiful pasuk in the
 Torah. ⁦רש״י⁩#metadata(none) <person-index-rashi-283> comments ⁧כְּאִישׁ אֶחָד בְּלֵב אֶחָד⁩. However, people often overlook
 the next pasuk: ⁧וּמֹשֶׁה עָלָה אֶל הָאֱלֹקִים⁩. The ⁧ספר דרש והעיון⁩⁦,⁩ quoted in ⁧מעינה של תורה⁩⁦,⁩ #metadata(none) <person-index-m-eino-shel-torah-282> offers a profound insight: if ⁧כלל ישראל⁩ achieves this
 tremendous ⁧אחדות⁩ and can stand against the ⁧יצר הרע⁩⁦,⁩ symbolized by a ⁧הר⁩⁦,⁩ then their leaders, like ⁧משה⁩⁦,⁩ can ascend higher, reaching ⁧הקדוש ברוך הוא⁩
@@ -4212,7 +4212,7 @@ reach extraordinary spiritual levels.
 
 This theme ties into an enlightened teaching quoted by R’ Matis Blum#metadata(none) <person-index-r-blum-278>
 ⁦זצ״ל⁩, ⁦(known for his ⁧תורה לדעת⁩ sheets),⁩ from the sefer ⁧חנוכת התורה החדש⁩.#metadata(none) <person-index-chanukas-hatorah-hechadash-279>
-He references a Gemara in ⁦ע״ב שבת פח⁩: ⁧בְּשָׁעָה שֶׁעָלָה מֹשֶׁה לַמָּרוֹם⁩ - when ⁧משה⁩
+He references a Gemara in Shabbos (68b): ⁧בְּשָׁעָה שֶׁעָלָה מֹשֶׁה לַמָּרוֹם⁩ - when ⁧משה⁩
 went up to ⁧שמים⁩⁦;⁩ ⁧אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא⁩ - the ⁧מלאכי השרת⁩⁦,⁩ who serve before Hashem, complained. ⁧רִבּוֹנוֹ שֶׁל עוֹלָם, מַה לִּילוּד אִשָּׁה בֵּינֵינוּ⁩
 \- Why is a ⁧בשר ודם⁩⁦,⁩ a person born of flesh and blood, coming here
 amongst us? ⁧אָמַר לָהֶן⁩ - ⁧הקדוש ברוך הוא⁩ answered them; ⁧לְקַבֵּל תּוֹרָה בָּא⁩ - He
@@ -4305,7 +4305,7 @@ greatly diminish one's ⁧יצר הרע⁩. By focusing on ⁧יראת שמים�
 the ⁧גדלות הבורא⁩ and keeping in mind ⁧שִׁוִּיתִי ה׳ לְנֶגְדִּי תָמִיד⁩⁦,⁩ we can make the
 ⁧מצוה⁩ of ⁧לא תחמד⁩ more attainable; if not easy, then certainly easier.
 
-A pathway to achieve an inkling into Hashem's infinite greatness it to
+A pathway to achieve an inkling into Hashem's infinite greatness is to
 recognize His ability to know our thoughts. ⁦יתרו'⁩s story exemplifies
 this belief. ⁧יתרו⁩ said, “I witnessed ⁧פרעה⁩ and his advisors plotting in
 secret. Hashem repaid them ⁧מידה כנגד מידה⁩ with the exact punishments
@@ -4455,13 +4455,13 @@ fulfill this ⁧מצוה⁩. That's how we should approach all of our ⁧מצו�
 joy and excitement as if it were the first time.
 
 The ⁧גדולים⁩ exemplified this attitude. ⁧אהרן הכהן⁩ is described with the
-words ⁦(במדבר ח׳:ד׳)⁩ ⁧כֵּן עָשָׂה⁩ - he lit the ⁧מנורה⁩ with the same enthusiasm
-each time, even after doing it thousands of times. His ⁧שמחה⁩ and
-dedication never waned.
+words ⁦(במדבר ח׳:ג׳)⁩ ⁧וַיַּעַשׂ כֵּן אַהֲרֹן⁩ - he lit the ⁧מנורה⁩ with the same
+enthusiasm each time, even after doing it thousands of times. His ⁧שמחה⁩
+and dedication never waned.
 
 We should strive to do every ⁧מצוה⁩ with gratitude and joy, appreciating
 the tremendous ⁧זכות⁩ we have to serve ⁧הקדוש ברוך הוא⁩. These ⁧מצוות⁩ are
-opportunities, and we should be grabbing them, collecting like that the
+opportunities, and we should be grabbing them, collecting them like the
 jewels that they are. We Jews should be collecting the jewels so that we
 will benefit the most from our ⁧עבודת השם⁩.
 
