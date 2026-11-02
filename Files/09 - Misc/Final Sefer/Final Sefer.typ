@@ -889,12 +889,12 @@ there's a ⁧סתירה מיניה וביה⁩ in the pasuk. It says that Hashem
 his work, and in the same pasuk it says ⁧וַיִּשְׁבֹּת⁩ - he rested from his work.
 Did Hashem work or did He rest? The answer that's always given is, and
 I'll quote it now verbatim from ⁧בראשית רבה⁩ ⁦(י׳:ט׳)⁩: ⁧בָּשָׂר וָדָם שֶׁאֵינוֹ יוֹדֵעַ לֹא עִתָּיו וְלֹא רְגָעָיו וְלֹא שְׁעוֹתָיו, הוּא מוֹסִיף מֵחֹל עַל הַקֹּדֶשׁ⁩ - Since we cannot
-determine precisely when that moment when ⁧שבת⁩ comes in, we have to
-perforce add on from ⁧חול⁩ to ⁧קודש⁩⁦;⁩ ⁧אֲבָל הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהוּא יוֹדֵעַ רְגָעָיו וְעִתָּיו וּשְׁעוֹתָיו, נִכְנַס בּוֹ כְּחוּט הַשַּׂעֲרָה⁩ - ⁧הקדוש ברוך הוא⁩ knows precisely the
-way that time is running, Hashem created time, and therefore He knows
-exactly when ⁧שבת⁩ starts and when ⁧שבת⁩ ends. This ⁧בראשית רבה⁩ appears to be
-pointing out man's deficiencies, man's limited view of the world, man's
-inability to be as precise as ⁧כביכול הקדוש ברוך הוא⁩.
+determine the precise moment when ⁧שבת⁩ comes in, we have to perforce add
+on from ⁧חול⁩ to ⁧קודש⁩⁦;⁩ ⁧אֲבָל הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהוּא יוֹדֵעַ רְגָעָיו וְעִתָּיו וּשְׁעוֹתָיו, נִכְנַס בּוֹ כְּחוּט הַשַּׂעֲרָה⁩ - ⁧הקדוש ברוך הוא⁩ knows precisely the way that time is
+running, Hashem created time, and therefore He knows exactly when ⁧שבת⁩
+starts and when ⁧שבת⁩ ends. This ⁧בראשית רבה⁩ appears to be pointing out
+man's deficiencies, man's limited view of the world, man's inability to
+be as precise as ⁧כביכול הקדוש ברוך הוא⁩.
 
 The ⁧וילנא גאון⁩ changes the meaning of this ⁧בראשית רבה⁩ just a drop. To
 repeat: ⁧בָּשָׂר וָדָם שֶׁאֵינוֹ יוֹדֵעַ לֹא עִתָּיו וְלֹא רְגָעָיו וְלֹא שְׁעוֹתָיו⁩ - A man does not
@@ -2396,7 +2396,7 @@ question: how was such a transformation possible?
 
 The answer lies in the power of ⁧תפילה⁩⁦,⁩ which can accomplish anything.
 
-Many examples brought down in storybooks, or in ⁧מעשה בחולך⁩ as they say, illustrate this interesting concept. There are numerous stories about
+Many examples brought down in storybooks, or in ⁧מעשה ביכלעך⁩ as they say, illustrate this interesting concept. There are numerous stories about
 great personalities from the old ⁧ישוב⁩ in ⁧ארץ ישראל⁩ - giants of
 spirituality and character about whom we know very little. I had the
 ⁧זכות⁩ to meet the ⁧אלמנה⁩ of ⁧רב נחום דוד הרמן⁩⁦,⁩ #metadata(none) <person-index-r-nachum-dovid-herman-139> the son of the famous “All
@@ -2569,7 +2569,7 @@ deciding what to do as a specialty. He was mature enough, even at that
 young age, to realize that he would need advice as to what he should do
 with his life, and decided to go to the Lubavitcher Rebbe#metadata(none) <person-index-lubavitcher-rebbe-156> to ask for
 guidance. He put on his army uniform (he had been a lieutenant in the
-Public Health Service), and dressed up as a military officer went down
+Public Health Service), and, dressed up as a military officer, went down
 to 770. He said the ⁧חסידים⁩ took one look at him and thought he was a
 general, they took him right in to speak to the Rebbe to discuss his
 plans. He told the Rebbe that he wanted to be a thoracic surgeon, a
@@ -2584,8 +2584,8 @@ ear, nose and throat doctor, known for keeping his office open till the
 wee hours in the morning with an office jammed with people.
 
 Besides being a genius in learning, a talmid of R’ Yoshe Ber, #metadata(none) <person-index-r-yoshe-ber-159> and a
-colleague R’ Menachem Genack#metadata(none) <person-index-r-menachem-genack-146> of OU fame, Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-149> was also a master
-storyteller. When he was sitting ⁧שבעה⁩ for his mother ⁧ע״ה⁩⁦,⁩ he was
+colleague of R’ Menachem Genack#metadata(none) <person-index-r-menachem-genack-146> of OU fame, Dr. Goldstein#metadata(none) <person-index-dr-allen-goldstein-149> was also a
+master storyteller. When he was sitting ⁧שבעה⁩ for his mother ⁧ע״ה⁩⁦,⁩ he was
 regaling us with stories. One of his stories was about R’ Ovadia Yosef.#metadata(none) <person-index-r-ovadia-yosef-162>
 Quite a number of years ago, R’ Ovadia's#metadata(none) <person-index-r-ovadia-yosef-163> son developed an ear problem.
 When he sought medical attention, he was told that there was no one in
@@ -2622,7 +2622,7 @@ efforts be successful.
   ))
 = Vayaishev 5783
 
-We know that ⁧יוסף⁩ had two dreams. Regarding the first dream, the ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-166> points out that the ⁧פסוק⁩ says (37:8): ⁧וַיּוֹסִפוּ עוֹד שְׂנֹא אֹתוֹ עַל חֲלֹמֹתָיו וְעַל דְּבָרָיו⁩. The pasuk uses a ⁧לשון⁩ of ⁧שנאה⁩ - hatred him. By the second
+We know that ⁧יוסף⁩ had two dreams. Regarding the first dream, the ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-166> points out that the ⁧פסוק⁩ says (37:8): ⁧וַיּוֹסִפוּ עוֹד שְׂנֹא אֹתוֹ עַל חֲלֹמֹתָיו וְעַל דְּבָרָיו⁩. The pasuk uses a ⁧לשון⁩ of ⁧שנאה⁩ - hated him. By the second
 dream, however, it says (37:11): ⁧וַיְקַנְאוּ בוֹ אֶחָיו⁩ - the brothers were
 jealous of him.
 
@@ -2734,7 +2734,7 @@ in trouble who are being attacked by someone, it can be used as a ⁧תפילה�
 that the pursuers “forget” about them and move on to a different
 focus. I personally recite both of these ⁧פסוקים⁩ (39:23 & 40:23)
 regularly - sometimes daily, sometimes weekly - along with other ⁧פסוקים⁩⁦,⁩ and Im Yirtzeh Hashem these pesukim can help us in an ⁧עת צרה⁩. The best
-thing to so in an ⁧עת צרה⁩ is to keep in mind to ⁧אֵין עוֹד מִלְבַדּו #strong[ֹ]⁩, which I've said to you before, and I still believe and hold very shtark, is the right answer for all of our ⁧צרות⁩. All the efforts we make -
+thing to do in an ⁧עת צרה⁩ is to keep in mind to ⁧אֵין עוֹד מִלְבַדּו #strong[ֹ]⁩, which I've said to you before, and I still believe and hold very shtark, is the right answer for all of our ⁧צרות⁩. All the efforts we make -
 whether for ourselves, our communities, or ⁧ארץ ישראל⁩ - will only succeed
 if ⁧הקדוש ברוך הוא⁩ chooses to use them as His ⁧שליח⁩. Everything comes from
 Him, and our role is to focus on ⁧תשובה⁩⁦,⁩ and that, in turn should cause
@@ -2808,7 +2808,7 @@ This ⁧מדרש⁩ is cited in ⁦רש״י⁩.#metadata(none) <person-index-ras
 difficult to understand. On the one hand, ⁧יוסף⁩ is praised for his ⁧בטחון⁩
 in Hashem. On the other hand, he is criticized and punished for making a
 minimal effort - two simple statements to the ⁧שר המשקים⁩. A person is
-allowed to make ⁧השתדלות⁩⁦,⁩ as the ⁧פסוק⁩ says (⁧דברים⁩ 15:18): ⁧וּבֵרַכְךָ ה׳ אֱלֹקֶיךָ בְּכֹל אֲשֶׁר תַּעֲשֶׂה⁩ - Hashem give us a ⁧ברכה⁩ in all of our actions, and it also
+allowed to make ⁧השתדלות⁩⁦,⁩ as the ⁧פסוק⁩ says (⁧דברים⁩ 15:18): ⁧וּבֵרַכְךָ ה׳ אֱלֹקֶיךָ בְּכֹל אֲשֶׁר תַּעֲשֶׂה⁩ - Hashem gives us a ⁧ברכה⁩ in all of our actions, and it also
 says (⁧דברים⁩ 11:14): ⁧וְאָסַפְתָּ דְגָנֶךָ וְתִירֹשְׁךָ⁩ - you will gather your grain and
 wine. This implies that people must work - plant, nurture the fields, harvest - rather than sit back and passively rely on Hashem. So why is
 ⁧יוסף⁩ criticized for his ⁧השתדלות⁩?
@@ -2826,12 +2826,12 @@ of effort depends on where he stands. Someone on a lower ⁧מדרגה⁩ may
 require more ⁧השתדלות⁩ to maintain and grow his trust in Hashem. However, once someone reaches a very high ⁧מדרגה⁩ of ⁧בטחון⁩⁦,⁩ even minimal ⁧השתדלות⁩
 can be considered excessive.
 
-The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-175> that ⁧יוסף הצדיק⁩ is described as ⁧אֲשֶׁר שָׂם מִבְטַחֹו⁩⁦,⁩ someone on an
-extraordinary level of ⁧בטחון⁩. Since ⁧יוסף⁩ was on such an elevated ⁧מדרגה⁩⁦,⁩ even his minimal ⁧השתדלות⁩ - two short statements to the ⁧שר המשקים⁩ - was
-considered too much. To us, this level of sensitivity seems
-unfathomable; most people in his situation would naturally call for
-help. But ⁧יוסף⁩⁦,⁩ due to his unique level of ⁧בטחון⁩⁦,⁩ was held to a higher
-standard. Therefore, he was punished with two additional years in
+The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-175> explains that ⁧יוסף הצדיק⁩ is described as ⁧אֲשֶׁר שָׂם מִבְטַחֹו⁩⁦,⁩ someone on an extraordinary level of ⁧בטחון⁩. Since ⁧יוסף⁩ was on such an
+elevated ⁧מדרגה⁩⁦,⁩ even his minimal ⁧השתדלות⁩ - two short statements to the
+⁧שר המשקים⁩ - was considered too much. To us, this level of sensitivity
+seems unfathomable; most people in his situation would naturally call
+for help. But ⁧יוסף⁩⁦,⁩ due to his unique level of ⁧בטחון⁩⁦,⁩ was held to a
+higher standard. Therefore, he was punished with two additional years in
 prison.
 
 We should understand the greatness of ⁧יוסף הצדיק⁩ and his ⁧מדרגה⁩ of ⁧בטחון⁩⁦,⁩ and also work on our own ⁧בטחון⁩ to get to such a level; ⁧הלוואי⁩⁦,⁩ we should
@@ -2921,7 +2921,7 @@ lesson and use it to become better people.
 The ⁧ספר עיטורי תורה⁩#metadata(none) <person-index-iturei-torah-180> points out that ⁧חנוכה⁩ almost always coincides with
 ⁧פרשת מקץ⁩. There's more than meets the eye here with the ⁧פרשה⁩. Many ⁧רמזים⁩
 appear. His first example is when the scraggly ⁧פָּרוֹת⁩ and the ⁧שִׁבֳּלִים⁩
-consuming the ⁧שִּׁבֳּלִים הַבְּרִיאוֹת⁩ and the fat animals. This aligns with ⁧חנוכה⁩
+consume the ⁧שִּׁבֳּלִים הַבְּרִיאוֹת⁩ and the fat animals. This aligns with ⁧חנוכה⁩
 when we say ⁧מָסַרְתָּ גִבּוֹרִים בְּיַד חַלָּשִׁים⁩ - an interesting perspective.
 
 Something he does not mention but which came to mind is an idea that
