@@ -5065,7 +5065,8 @@ doubly careful to remember what ⁧עמלק⁩ is, what ⁧עמלק⁩ does, and
 own ⁧יצר הרע⁩ is capable of.
 
 In this ⁧זכות⁩⁦,⁩ may we be ⁧זוכה⁩ to have a ⁧ניצחון⁩ over the ⁧יצר הרע⁩⁦,⁩ and
-cause ⁧כלל ישראל⁩ a ⁧תשועה גדולה⁩⁦,⁩ in all aspects, and ⁧משיח⁩ should come ⁧אמן במהרה⁩!
+cause ⁧כלל ישראל⁩ a ⁧תשועה גדולה⁩⁦,⁩ in all aspects, and ⁧משיח⁩ should come
+⁧במהרה אמן⁩!
 
 #pagebreak()
 
