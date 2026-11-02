@@ -1099,7 +1099,7 @@ the effort to find it.
 ⁦אברהם אבינו'⁩s glorious beginning is hidden at the end of ⁧פרשת נח⁩. Hidden
 at the end of the parsha where nobody is looking. Everybody's looking at
 how wonderful ⁧נח⁩ is. And yet ⁧אברהם אבינו⁩ surpassed him in so many ways.
-We're not ⁧בני נח⁩⁦,⁩ we're ⁧בני אברהם⁩⁦,⁩ ⁧יצחק ויעקב⁩. And ⁧בעזרת השם⁩⁦,⁩ in that
+We're not ⁧בני נח⁩⁦,⁩ we're ⁧בני אברהם יצחק ויעקב⁩. And ⁧בעזרת השם⁩⁦,⁩ in that
 ⁧זכות⁩⁦,⁩ may we be ⁧זוכה⁩ to ⁧ביאת גואל צדק במהרה בימינו אמן⁩.
 
 #pagebreak()
@@ -1298,15 +1298,15 @@ the world is tied with a ⁧קשר⁩ to ⁧הקדוש ברוך הוא⁩.
 I recently came across a dvar torah from ⁧רבי יצחק טוביה וייס⁩⁦,⁩ the former
 ⁧אב בית דין⁩ in ⁧ירושלים⁩. It's a remarkable insight I'd like to share. If
 you open a ⁧תהילים⁩ and look at ⁧פרק קמ״ה⁩⁦,⁩ ⁧תְּהִלָּה לְדָוִד⁩⁦,⁩ known as ⁧אַשְׁרֵי⁩⁦,⁩ you'll
-notice that each ⁧פסוק⁩ contains a ⁧ו⁩⁦,⁩ a ⁧ו החיבור⁩ - a connecting ⁧ו⁩⁦,⁩ that
-connects the first half of the ⁧פסוק⁩ to the second half, except for one
-⁧פסוק⁩: ⁧קָרוֹב ה׳ לְכׇל קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת⁩. This unique ⁧פסוק⁩ has no ⁧ו⁩
+notice that each pasuk contains a ⁧ו⁩⁦,⁩ a ⁧ו החיבור⁩ - a connecting ⁧ו⁩⁦,⁩ that
+connects the first half of the pasuk to the second half, except for one
+pasuk: ⁧קָרוֹב ה׳ לְכׇל קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת⁩. This unique pasuk has no ⁧ו⁩
 connecting the two halves. ⁧רבי וייס⁩ explains that the ⁧ו החיבור⁩ in each
-⁧פסוק⁩ is a symbol of the deep bond between ⁧כלל ישראל⁩ and ⁧הקדוש ברוך הוא⁩.
-The ⁧פסוק⁩ of ⁧קֹרְאָיו קָרוֹב ה׳ לְכׇל⁩ represents an intrinsic ⁧חיבור⁩ that doesn't
-need a ⁧ו⁩ - it stands alone as a ⁧פסוק⁩ of pure connection.
+pasuk is a symbol of the deep bond between ⁧כלל ישראל⁩ and ⁧הקדוש ברוך הוא⁩.
+pasuk of ⁧קָרוֹב ה׳ לְכׇל קֹרְאָיו⁩ represents an intrinsic ⁧חיבור⁩ that doesn't
+need a ⁧ו⁩ - it stands alone as a pasuk of pure connection.
 
-Take a moment to look at ⁧תְּהִלָּה לְדָוִד⁩ and notice the ⁧ו⁩ in each ⁧פסוק⁩. I've
+Take a moment to look at ⁧תְּהִלָּה לְדָוִד⁩ and notice the ⁧ו⁩ in each pasuk. I've
 been saying ⁧אַשְׁרֵי⁩ all these years and never saw this! It's amazing how
 Hashem sometimes shows you something you've been doing all your life
 that you've never fully appreciated.

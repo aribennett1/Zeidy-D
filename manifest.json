@@ -436,7 +436,12 @@
     "Bentching": "Bentching",
     "Bloopers": null,
     "Bris": "Bris",
-    "Final Sefer": "Final Sefer",
+    "Final Sefer": {
+      "Final Sefer chunks": null,
+      "Final Sefer pages": null,
+      "chunks": null,
+      "__content": "Final Sefer"
+    },
     "Rabbi Oelbaum Shabbos": "Shabbos - The Gift of Olam Haba in This World"
   }
 }

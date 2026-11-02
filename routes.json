@@ -997,6 +997,18 @@
       "contentPath": "09 - Misc/Bris",
       "baseFilename": "Bris"
     },
+    "/final-sefer/final-sefer-chunks/": {
+      "contentPath": "09 - Misc/Final Sefer/Final Sefer chunks",
+      "baseFilename": null
+    },
+    "/final-sefer/final-sefer-pages/": {
+      "contentPath": "09 - Misc/Final Sefer/Final Sefer pages",
+      "baseFilename": null
+    },
+    "/final-sefer/chunks/": {
+      "contentPath": "09 - Misc/Final Sefer/chunks",
+      "baseFilename": null
+    },
     "/final-sefer/": {
       "contentPath": "09 - Misc/Final Sefer",
       "baseFilename": "Final Sefer"
@@ -1244,6 +1256,9 @@
     "09 - Misc/Bentching": "/bentching/",
     "09 - Misc/Bloopers": "/bloopers/",
     "09 - Misc/Bris": "/bris/",
+    "09 - Misc/Final Sefer/Final Sefer chunks": "/final-sefer/final-sefer-chunks/",
+    "09 - Misc/Final Sefer/Final Sefer pages": "/final-sefer/final-sefer-pages/",
+    "09 - Misc/Final Sefer/chunks": "/final-sefer/chunks/",
     "09 - Misc/Final Sefer": "/final-sefer/",
     "09 - Misc/Rabbi Oelbaum Shabbos": "/rabbi-oelbaum-shabbos/"
   }
