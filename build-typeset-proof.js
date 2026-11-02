@@ -906,7 +906,10 @@ async function loadPersonIndex() {
     .map(([id, person]) => ({
       id,
       displayName: String(person.displayName || "").trim(),
-      aliases: uniqueValues([person.displayName, ...(person.aliases || [])]),
+      aliases: uniqueValues([
+        ...(person.matchDisplayName === false ? [] : [person.displayName]),
+        ...(person.aliases || []),
+      ]),
     }))
     .filter((person) => person.displayName && person.aliases.length > 0)
     .sort((a, b) => sortIndexDisplayName(sortKey(a, sorting)).localeCompare(sortIndexDisplayName(sortKey(b, sorting)))

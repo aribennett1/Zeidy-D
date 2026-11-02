@@ -1573,8 +1573,8 @@
     },
     "rosh": {
       "displayName": "Rosh",
+      "matchDisplayName": false,
       "aliases": [
-        "Rosh",
         "הרא\"ש",
         "רא\"ש",
         "הרא״ש",
