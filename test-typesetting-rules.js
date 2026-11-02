@@ -2951,3 +2951,19 @@ test("docx: indexed Nitzavim-Vayailech 5783 keeps Chasam Sofer Al HaTorah togeth
     "index marker preserves the full Hebrew title in one RTL isolate");
   assert.equal((typst.match(/<person-index-chasam-sofer-1>/g) || []).length, 1);
 });
+
+
+test("keeps bare Tanach chapter and verse references in citation order", () => {
+  assert.equal(applyTextRules("in ישעיהו ו׳:ב׳. However"),
+    `in ${LTR_ISOLATE}ישעיהו ו׳:ב׳${POP_DIRECTIONAL_ISOLATE}. However`);
+  assert.equal(applyTextRules("in יחזקאל א׳:ו׳ which says"),
+    `in ${LTR_ISOLATE}יחזקאל א׳:ו׳${POP_DIRECTIONAL_ISOLATE} which says`);
+  assert.equal(applyTextRules("in תהלים קי״ט:ק״ה which says"),
+    `in ${LTR_ISOLATE}תהלים קי״ט:ק״ה${POP_DIRECTIONAL_ISOLATE} which says`);
+});
+
+test("docx: Mussaf Yom Tov 5783 preserves Yeshaya and Yechezkel chapter-verse order", () => {
+  const typst = convertedDocx("/pesach/5783/mussaf/");
+  assertContains(typst, `${LTR_ISOLATE}ישעיהו ו׳:ב׳${POP_DIRECTIONAL_ISOLATE}.`, "Yeshaya 6:2 is one reference");
+  assertContains(typst, `${LTR_ISOLATE}יחזקאל א׳:ו׳${POP_DIRECTIONAL_ISOLATE} which says`, "Yechezkel 1:6 is one reference");
+});

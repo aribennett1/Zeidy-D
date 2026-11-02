@@ -78,6 +78,13 @@ const HEBREW_BARE_REFERENCE_RE = new RegExp(
   `(?:${HEBREW_TOKEN}\\s+)?${HEBREW_REF_TOKEN}\\s*:\\s*${HEBREW_REF_TOKEN}(?=\\s*:)`,
   "gu"
 );
+// Named Tanach citations remain references even without parentheses or a
+// following quotation colon. Recognize book names rather than arbitrary prose.
+const TANACH_BOOK_NAME = "(?:בראשית|שמות|ויקרא|במדבר|דברים|יהושע|שופטים|שמואל|מלכים|ישעיהו|ירמיהו|יחזקאל|הושע|יואל|עמוס|עובדיה|יונה|מיכה|נחום|חבקוק|צפניה|חגי|זכריה|מלאכי|תהילים|תהלים|משלי|איוב|שיר השירים|רות|איכה|קהלת|אסתר|דניאל|עזרא|נחמיה|דברי הימים)";
+const NAMED_TANACH_REFERENCE_RE = new RegExp(
+  `(?<!${HEBREW_LETTERS})${TANACH_BOOK_NAME}\\s+${HEBREW_REF_TOKEN}\\s*:\\s*${HEBREW_REF_TOKEN}(?!${HEBREW_LETTERS})`,
+  "gu"
+);
 const HEBREW_LOOSE_CITATION_CLOSE_RE = new RegExp(
   `(^|\\s)((?:${HEBREW_TOKEN}\\s+)?${HEBREW_TOKEN}:${HEBREW_TOKEN})\\)\\)+(?=\\s+${HEBREW_TOKEN})`,
   "gu"
@@ -1440,7 +1447,11 @@ function isolateHebrewRuns(typstContent) {
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
-  const bareReferenceSafeContent = referenceSafeContent.replace(HEBREW_BARE_REFERENCE_RE, (match) => {
+  const namedReferenceSafeContent = referenceSafeContent.replace(NAMED_TANACH_REFERENCE_RE, (match) => {
+    return protect(`${LTR_ISOLATE}${normalizeInlineWhitespace(match).replace(/\s*:\s*/g, ":")}${POP_DIRECTIONAL_ISOLATE}`);
+  });
+
+  const bareReferenceSafeContent = namedReferenceSafeContent.replace(HEBREW_BARE_REFERENCE_RE, (match) => {
     return protect(`${LTR_ISOLATE}${match}${POP_DIRECTIONAL_ISOLATE}`);
   });
 
