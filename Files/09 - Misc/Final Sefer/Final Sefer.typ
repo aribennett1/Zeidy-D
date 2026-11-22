@@ -1474,7 +1474,7 @@ not because of his wanting to do what Avram does. It was a different
 In ⁧ספר דברים⁩ we have the famous pasuk (28:9) ⁧וְהָלַכְתָּ בִּדְרָכָיו⁩ - we have to
 go in the ways of ⁧הקדוש ברוך הוא⁩. We understand that we do everything
 that Hashem does because we cannot really understand Hashem, but we're
-following His ways. Hashem is a ⁧רחום⁩⁦,⁩ ⁧חנון⁩⁦,⁩ does ⁧חסד⁩. This pasuk
+following His ways. Hashem is a ⁧רחום⁩⁦,⁩ ⁧חנון⁩⁦,⁩ does ⁧חסד⁩. This pasuk was
 demonstrated by ⁧אברהם אבינו⁩ at the creation of ⁧כלל ישראל⁩ that ⁧והלכת בדרכיו⁩ meant that he went in Hashem's way because that's what Hashem
 told him to do. A literal translation of the words that we've always
 learned all these years.
