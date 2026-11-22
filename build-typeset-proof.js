@@ -1972,6 +1972,12 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
 }
 
 function applyTextRules(typstContent) {
+  // Tzav 5785 opens parentheses before both the quote and its source.
+  // Keep only the source parenthesized, before directional isolation.
+  typstContent = typstContent.replace(
+    /\(בשבילי\s+נברא\s+העולם\s+\(סנהדרין\s+לז/gu,
+    "בשבילי נברא העולם (סנהדרין לז)"
+  );
   // Teruma 5784 has two opening parentheses and no closing parenthesis in
   // this source citation. Repair it before applying directional isolation.
   typstContent = typstContent.replace(/\(ישעיה\s+\(ל״ג׃כ׳/gu, "(ישעיה ל״ג:כ׳)");

@@ -159,6 +159,26 @@ test("PDF internal link navigates through annotation layer", async ({
     .poll(() => page.evaluate(() => reader.active.viewer.currentPageNumber))
     .toBe(6);
 });
+test("link hover covers its text at different zoom levels", async ({ page }) => {
+  for (const scale of [1, 1.6]) {
+    await page.evaluate(async (scale) => {
+      reader.active.viewer.currentScale = scale;
+      await reader.renderPage(reader.active, 1);
+      reader.active.container.scrollTop = 0;
+    }, scale);
+    await expect.poll(async () => page.evaluate(() => {
+      const page = reader.active.viewer.getPageView(0).div;
+      const text = [...page.querySelectorAll('.textLayer span:not(.markedContent)')]
+        .find((span) => span.textContent === "Go to index destination");
+      const link = page.querySelector('.linkAnnotation > a');
+      if (!text || !link) return Infinity;
+      const a = text.getBoundingClientRect(), b = link.getBoundingClientRect();
+      return Math.max(Math.abs(a.top - b.top), Math.abs(a.bottom - b.bottom));
+    })).toBeLessThan(1);
+    await page.locator('.annotationLayer a').first().hover();
+  }
+});
+
 test("same version avoids reload; timer and visibility trigger checks", async ({
   page,
 }) => {

@@ -56,7 +56,7 @@ export class PDFReader {
     zoomGroup.setAttribute("aria-label", "Zoom");
     zoomGroup.append(zoomOut, zoomIn);
     this.toolbar.append(zoomGroup);
-    button("Go to Table of Contents", () => {
+    button("Go to TOC", () => {
       if (!this.active) return;
       this.generation = (this.generation || 0) + 1;
       this.active.container.scrollTo({ top: 0, behavior: "instant" });
@@ -169,6 +169,14 @@ export class PDFReader {
       isEvalSupported: false,
     });
     const view = { container, pages, bus, viewer, links, find, task, abort };
+    const alignHighlights = ({ pageNumber }) => {
+      requestAnimationFrame(() => {
+        if (!view.disposed && !abort.signal.aborted)
+          this.alignLinkHighlights(view, pageNumber);
+      });
+    };
+    bus.on("textlayerrendered", alignHighlights);
+    bus.on("annotationlayerrendered", alignHighlights);
     this.loading = view;
     const interact = () => {
       if (view !== this.active) return;
@@ -231,6 +239,27 @@ export class PDFReader {
     }
     await frame();
     await frame();
+  }
+  alignLinkHighlights(view, pageNumber) {
+    const page = view.viewer.getPageView(pageNumber - 1)?.div;
+    if (!page) return;
+    const text = [...page.querySelectorAll('.textLayer span:not(.markedContent)')]
+      .filter((span) => span.textContent.trim() && !span.classList.contains("markedContent"))
+      .map((span) => span.getBoundingClientRect())
+      .filter((rect) => rect.width && rect.height);
+    for (const link of page.querySelectorAll('.linkAnnotation:not(.hasBorder) > a')) {
+      const area = link.parentElement.getBoundingClientRect();
+      const matches = text.filter((rect) =>
+        rect.left < area.right && rect.right > area.left &&
+        rect.top < area.bottom && rect.bottom > area.top
+      );
+      if (!matches.length || !area.height) continue;
+      const top = Math.min(...matches.map((rect) => rect.top));
+      const bottom = Math.max(...matches.map((rect) => rect.bottom));
+      // Percentages also follow PDF.js's temporary CSS scaling during zoom.
+      link.style.top = `${100 * (top - area.top) / area.height}%`;
+      link.style.height = `${100 * (bottom - top) / area.height}%`;
+    }
   }
   spans(view, page) {
     return [
