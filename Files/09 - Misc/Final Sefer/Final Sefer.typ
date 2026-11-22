@@ -3884,7 +3884,7 @@ times.
 In ⁧פרשת בא⁩ it says (12:2): ⁧הַחֹדֶשׁ הַזֶּה לָכֶם רֹאשׁ חֳדָשִׁים⁩⁦,⁩ the first ⁧מצוה⁩ given
 to ⁧כלל ישראל⁩ as a nation: ⁧רִאשׁוֹן הוּא לָכֶם לְחׇדְשֵׁי הַשָּׁנָה⁩. The sefer ⁧שמחת התורה⁩
 by R’ Simcha Sheps#metadata(none) <person-index-r-simcha-sheps-244> offers a fascinating insight. He brings a ⁧גמרא⁩ in
-⁦מנחות כ״ט ע״א⁩: ⁧תנא דבי רבי ישמעאל שלשה דברים היו קשין לו למשה⁩ - There
+Menachos 29a: ⁧תנא דבי רבי ישמעאל שלשה דברים היו קשין לו למשה⁩ - There
 were three topics that ⁧משה רבינו⁩ found particularly difficult; ⁧עד שהראה לו הקב״ה באצבעו⁩ - until ⁧הקדוש ברוך הוא⁩ explicitly showed ⁧משה⁩ each one
 with an ⁧אצבע⁩⁦,⁩ pointing and clarifying, “This is what I mean, this is
 what I want.” ⁧ואלו הן מנורה וראש חדש ושרצים⁩. What is the ⁧גמרא⁩ conveying
