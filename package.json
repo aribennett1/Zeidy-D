@@ -17,9 +17,16 @@
     "replace-docx-text": "node replace-docx-text.js",
     "scan-bidi-risks": "node scan-bidi-risks.js",
     "test": "node test-person-index-sorting.js && node test-typesetting-rules.js",
-    "build": "npm run fix-docx-spacing -- --apply && npm run build-typeset-proof -- --all --output 'Final Sefer' && npm run audit-typeset -- --render-pages"
+    "build": "npm run fix-docx-spacing -- --apply && npm run build-typeset-proof -- --all --output 'Final Sefer' && npm run audit-typeset -- --render-pages",
+    "test:pdf": "node tests/generate-pdfs.cjs && playwright test",
+    "build:pdf-version": "node build-pdf-version.js"
   },
   "dependencies": {
+    "pdfjs-dist": "4.10.38",
     "qrcode": "1.5.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "pdf-lib": "^1.17.1"
   }
 }

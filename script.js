@@ -534,52 +534,16 @@ async function showContent(relativePath, baseFilename) {
     }
 
     function createPdfViewer() {
-      const isMobile = window.innerWidth <= 768;
-      const pdfWrap = el("div", { class: "pdf-wrap" });
-
-      if (isMobile) {
-        const mobilePdfPath = encodeURIComponent(
-          `${window.location.origin}/Files/${relativePath}/${pdfFilename}`
-        );
-        const pdfViewerUrl = `https://mozilla.github.io/pdf.js/web/viewer.html?file=${mobilePdfPath}`;
-
-        // Create mobile PDF container with iframe and download option
-        const mobileContainer = el("div", { class: "mobile-pdf-container" });
-
-        const pdfViewer = el("iframe", {
-          src: pdfViewerUrl,
-          class: "mobile-pdf-viewer",
-          title: "PDF Viewer",
-          allowfullscreen: "",
-        });
-
-        const downloadBtn = el(
-          "a",
-          {
-            href: `/Files/${relativePath}/${pdfFilename}`,
-            download: pdfFilename,
-            class: "pdf-download-btn",
-          },
-          "📄 Download PDF"
-        );
-
-        mobileContainer.appendChild(downloadBtn);
-        mobileContainer.appendChild(pdfViewer);
-        pdfWrap.appendChild(mobileContainer);
-      } else {
-        // Desktop: Use root-relative path
-        const desktopPdfPath = `/Files/${relativePath}/${pdfFilename}`;
-        const pdfPathWithParams = `${desktopPdfPath}#navpanes=0&scrollbar=1&toolbar=1&view=FitH`;
-        const pdfEmbed = el("embed", {
-          class: "pdf",
-          src: pdfPathWithParams,
-          type: "application/pdf",
-        });
-
-        pdfWrap.appendChild(pdfEmbed);
-      }
-
+      const pdfWrap = el("div");
       content.appendChild(pdfWrap);
+      import('/pdf-reader.mjs').then(({ PDFReader, autoUpdatesEnabled }) => {
+        if (pdfWrap.isConnected) new PDFReader(pdfWrap, pdfPath, {
+          autoUpdate: autoUpdatesEnabled(relativePath),
+        });
+      }).catch(error => {
+        console.error(error);
+        pdfWrap.appendChild(el("a", { href: pdfPath }, "Open PDF"));
+      });
     }
   }
 }

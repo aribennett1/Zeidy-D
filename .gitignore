@@ -22,3 +22,10 @@ Icon?
 
 # Node dependencies
 node_modules/
+
+# Deployment and browser test artifacts
+pdf-versions/
+pdf-version.json
+playwright-report/
+test-results/
+tests/fixtures/

@@ -1,0 +1,1 @@
+{"package":"pdfjs-dist","version":"4.10.38","build":"legacy","source":"https://github.com/mozilla/pdf.js","license":"Apache-2.0","files":"Legacy build/pdf.mjs, build/pdf.worker.mjs and web/pdf_viewer.mjs; web/pdf_viewer.css, web/images, cmaps, standard_fonts and LICENSE from the npm distribution."}
