@@ -3070,3 +3070,17 @@ test("closes English double quotes before invisible person index markers", () =>
     );
   }
 });
+
+test("docx: Eikev 5784 separates all numbered verses from their markers", () => {
+  const typst = convertedDocx("/eikev/5784/");
+  for (const [number, verse, source] of [
+    [1, "וַתְּהִי שָׂרַי עֲקָרָה אֵין לָהּ וָלָד", "בראשית י״א:ל׳"],
+    [2, "צִיֹּון הִיא דֹּרֵשׁ אֵין לָהּ", "ירמיהו ל׳:י״ז"],
+    [3, "אֵין לָהּ מְנַחֵם", "איכה א׳:ב׳"],
+  ]) {
+    assertContains(typst.replace(/\s+/g, " "),
+      `${number}) ${RTL_ISOLATE}${verse} ${LTR_ISOLATE}(${source})${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}`,
+      "space separates the numbered marker from the RTL verse and parenthesized source");
+    assertNotContains(typst, `${number})${RTL_ISOLATE}`, "marker must not touch the citation run");
+  }
+});

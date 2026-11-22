@@ -2226,6 +2226,10 @@ function convertDocxToTypst(entry, indexState = null) {
   );
   const indexedBody = indexState ? tagPersonIndexMentions(body, indexState) : body;
   const formattedBody = normalizeRtlBulletLists(applyTextRules(indexedBody));
+  if (entry.route === "/eikev/5784/") {
+    // Separate the English list marker from the RTL verse and its source.
+    return formattedBody.replace(/\b([123]\))(?=\u2067)/gu, "$1 ");
+  }
   if (entry.route === "/teruma/5783/") {
     // Two RTL phrases in English reading order; punctuation belongs to the
     // surrounding LTR text, with exactly one space after the period.
