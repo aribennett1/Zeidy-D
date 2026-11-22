@@ -2152,7 +2152,7 @@ what the ⁧מדרש⁩ is trying to tell us?
 
 The ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-117> in his inimitable style points out an interesting fact. The
 ⁧מדרש⁩ says, ⁧בזמן שהקול קול יעקב נשמע בבתי כנסיות⁩⁦,⁩ both of those ⁧קול⁩ s are
-⁧מלא⁩. When the ⁧קול קול יעקב⁩⁦,⁩ then ⁧אין הידים ידי עשו⁩.
+⁧מלא⁩. When the ⁧קול⁩ is ⁧קול יעקב⁩⁦,⁩ then ⁧אין הידים ידי עשו⁩.
 
 If you look in the pasuk carefully, which of course is what we should
 always do, it says ⁧וַיֹּאמֶר הַקֹּל קוֹל יַעֲקֹב⁩. The first ⁧קֹל⁩ is a ⁧חסר⁩⁦,⁩ it's
@@ -2783,7 +2783,7 @@ are many answers given. The most famous is that they viewed him as a
 ⁧ישמעאלים⁩ were coming, he saw a ⁧סימן⁩ from ⁧שמים⁩ to remember what it says
 about ⁧ישמעאל⁩. What does it say about ⁧ישמעאל⁩? ⁧באשר הוא שם⁩. We judge a
 person by where he is now. ⁧הקדוש ברוך הוא⁩ does not judge us for our
-future ⁧עבירות⁩ - thank God! He judges us based on where we are and what
+future ⁧עבירות⁩ - thank G-d! He judges us based on where we are and what
 we do now. Therefore, ⁧יהודה⁩ said ⁧מַה בֶּצַע⁩⁦,⁩ why should we kill ⁧יוסף⁩ because
 of someone who will descend from him ⁧דורות⁩ later? We cannot act on the
 ⁧עתיד⁩ for something that he is not responsible for now.
@@ -2924,9 +2924,10 @@ interpretations come from Hashem - was correct. This wasn't easy for
 him, but that is our job: to make a kiddush Hashem, to show the world
 that everything comes from Hashem. We have to constantly have the ⁧שם השם שגור בפינו⁩. That's our job: to make a kiddush Hashem. This one little
 ⁧שינוי⁩ in the ⁧לשון⁩ - how the ⁧פסוק⁩ changes from ⁧ויאמר⁩ to ⁧וידבר⁩ - drives
-this lesson home. I'm glad I once intuited this idea. It's fascinating
-to look at these ⁧לשונות⁩ and see what's right there beneath the surface, hiding, waiting to teach us a tremendous ⁧מוסר השכל⁩. Let's take this
-lesson and use it to become better people.
+this lesson home. It's fascinating to look at these ⁧לשונות⁩ and see
+what's right there beneath the surface, hiding, waiting to teach us a
+tremendous ⁧מוסר השכל⁩. Let's take this lesson and use it to become better
+people.
 
 #pagebreak()
 
