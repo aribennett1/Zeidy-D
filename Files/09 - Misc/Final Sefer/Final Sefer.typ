@@ -6105,7 +6105,7 @@ the chief of staff of the IDF, the Israeli Ministry of Defense, the head
 of the Mossad, the head of the Shin Bet, even the Prime Minister
 himself, not a single one of them would have been able to locate those
 shelters. There was only one person in all of Israel who could, Elyasaf
-Mariah. The ⁧גמרא⁩ teaches us, every person should always say, ⁧בשבילי נברא העולם⁩ (⁧סנהדרין לז⁩). We often struggle to believe this. Really? For
+Mariah. The ⁧גמרא⁩ teaches us, every person should always say, ⁧בשבילי נברא העולם (סנהדרין לז)⁩. We often struggle to believe this. Really? For
 me, the entire world was created? But Elyasaf's story proves it so.
 There was something only he could accomplish - something no one else in
 Israel, or even the world, could have done. We often see ourselves as

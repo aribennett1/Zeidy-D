@@ -1392,7 +1392,12 @@ function isolateHebrewRuns(typstContent) {
     /הכל\s+יודוך\s+והכל\s+ישבחוך\s+והכל\s+יאמרו\s+אין\s+קדוש\s+כה׳\s+הכל\s+ירוממוך\s+סלה\s+יוצר\s+הכל/gu,
     phrase => protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(phrase)}${POP_DIRECTIONAL_ISOLATE}`)
   );
-  const rtlReferenceSafeContent = protectMarkedRtlReferences(piyutSafeContent, protect);
+  // The source belongs to the left of the quote in Hebrew reading order.
+  const tzavQuoteSafeContent = piyutSafeContent.replace(
+    /בשבילי\s+נברא\s+העולם\s+\(סנהדרין\s+לז\)/gu,
+    phrase => protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(phrase)}${POP_DIRECTIONAL_ISOLATE}`)
+  );
+  const rtlReferenceSafeContent = protectMarkedRtlReferences(tzavQuoteSafeContent, protect);
 
   const protectHebrewTextWithReference = (_match, hebrewText, reference) => {
       const isRtlReference = hebrewText.endsWith(RTL_REFERENCE_MARKER);

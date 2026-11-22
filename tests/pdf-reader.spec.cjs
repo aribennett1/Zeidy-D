@@ -173,9 +173,13 @@ test("link hover covers its text at different zoom levels", async ({ page }) => 
       const link = page.querySelector('.linkAnnotation > a');
       if (!text || !link) return Infinity;
       const a = text.getBoundingClientRect(), b = link.getBoundingClientRect();
-      return Math.max(Math.abs(a.top - b.top), Math.abs(a.bottom - b.bottom));
+      return Math.max(
+        Math.abs(a.top - b.top), Math.abs(a.bottom - b.bottom),
+        Math.abs(a.left - b.left), Math.abs(a.right - b.right)
+      );
     })).toBeLessThan(1);
     await page.locator('.annotationLayer a').first().hover();
+    await expect(page.locator('.annotationLayer a').first()).toHaveCSS('box-shadow', 'none');
   }
 });
 

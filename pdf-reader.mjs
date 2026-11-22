@@ -177,6 +177,15 @@ export class PDFReader {
     };
     bus.on("textlayerrendered", alignHighlights);
     bus.on("annotationlayerrendered", alignHighlights);
+    // Font loading and CSS zoom can change text bounds after rendering.
+    // Measure again as a link is hovered or focused, before showing its fill.
+    const alignHoveredLink = (event) => {
+      const link = event.target.closest?.(".linkAnnotation > a");
+      const page = link?.closest(".page");
+      if (page) this.alignLinkHighlights(view, Number(page.dataset.pageNumber));
+    };
+    pages.addEventListener("pointerover", alignHoveredLink, { signal: abort.signal });
+    pages.addEventListener("focusin", alignHoveredLink, { signal: abort.signal });
     this.loading = view;
     const interact = () => {
       if (view !== this.active) return;
@@ -256,9 +265,13 @@ export class PDFReader {
       if (!matches.length || !area.height) continue;
       const top = Math.min(...matches.map((rect) => rect.top));
       const bottom = Math.max(...matches.map((rect) => rect.bottom));
+      const left = Math.max(area.left, Math.min(...matches.map((rect) => rect.left)));
+      const right = Math.min(area.right, Math.max(...matches.map((rect) => rect.right)));
       // Percentages also follow PDF.js's temporary CSS scaling during zoom.
       link.style.top = `${100 * (top - area.top) / area.height}%`;
       link.style.height = `${100 * (bottom - top) / area.height}%`;
+      link.style.left = `${100 * (left - area.left) / area.width}%`;
+      link.style.width = `${100 * (right - left) / area.width}%`;
     }
   }
   spans(view, page) {

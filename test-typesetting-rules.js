@@ -2885,7 +2885,7 @@ test("keeps ayin-heh attached across a soft line break and before English punctu
 });
 
 test("repairs Tzav 5785 quote and source parentheses before Hebrew isolation", () => {
-  const expected = `say, ${RTL_ISOLATE}בשבילי נברא העולם${POP_DIRECTIONAL_ISOLATE} (${RTL_ISOLATE}סנהדרין לז${POP_DIRECTIONAL_ISOLATE}). We often struggle`;
+  const expected = `say, ${RTL_ISOLATE}בשבילי נברא העולם (סנהדרין לז)${POP_DIRECTIONAL_ISOLATE}. We often struggle`;
   for (const gap of [" ", "\n"]) {
     assert.equal(
       applyTextRules(`say, (בשבילי${gap}נברא העולם (סנהדרין לז. We often struggle`),
@@ -2901,8 +2901,8 @@ test("repairs Tzav 5785 quote and source parentheses before Hebrew isolation", (
 test("docx: Tzav 5785 parentheses enclose only the Sanhedrin source", () => {
   const typst = convertedDocx("/tzav/5785/");
   assertContains(typst,
-    `${RTL_ISOLATE}בשבילי נברא העולם${POP_DIRECTIONAL_ISOLATE} (${RTL_ISOLATE}סנהדרין לז${POP_DIRECTIONAL_ISOLATE}). We often struggle`,
-    "quote followed by a balanced source citation and sentence period");
+    `${RTL_ISOLATE}בשבילי נברא העולם (סנהדרין לז)${POP_DIRECTIONAL_ISOLATE}. We often struggle`,
+    "quote and balanced citation share one RTL isolate so the source appears to the left");
   assertNotContains(typst, `(בשבילי`, "no opening parenthesis before the quote");
 });
 
