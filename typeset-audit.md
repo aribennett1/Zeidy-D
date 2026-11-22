@@ -25,27 +25,27 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: hardly fathom.) , ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר סה,...
 ## MEDIUM - missing space after colon before Hebrew in Typst source
 
-- Typst source, page 65, Chayai Sara 5787, line 1981
+- Typst source, page 65, Chayai Sara 5787, line 1980
   - visual: [page-0065.png](typeset-audit-pages/page-0065.png)
   - מ״ט:י״ז)⁩: ⁧אַל תִּירָא כִּי יַעֲשִׁר אִישׁ כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ⁩ - Don't be...
   - normalized: מ״ט:י״ז): אַל תִּירָא כִּי יַעֲשִׁר אִישׁ כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ - Don't be af...
-- Typst source, page 138, Mishpatim (1) 5784, line 4443
+- Typst source, page 138, Mishpatim (1) 5784, line 4442
   - visual: [page-0138.png](typeset-audit-pages/page-0138.png), [page-0139.png](typeset-audit-pages/page-0139.png)
   - כ״א:ל״ז)⁩: ⁧כִּי יִגְנֹב אִישׁ שׁוֹר אוֹ שֶׂה וּטְבָחוֹ אוֹ מְכָרוֹ חֲמִשָּׁה בָקָר י...
   - normalized: כ״א:ל״ז): כִּי יִגְנֹב אִישׁ שׁוֹר אוֹ שֶׂה וּטְבָחוֹ אוֹ מְכָרוֹ חֲמִשָּׁה בָקָר יְש...
-- Typst source, page 159, Ki Sisa 5783, line 5140
+- Typst source, page 159, Ki Sisa 5783, line 5139
   - visual: [page-0158.png](typeset-audit-pages/page-0158.png), [page-0159.png](typeset-audit-pages/page-0159.png)
   - ל״ד:ל״ג)⁩: ⁧וַיִּתֵּן עַל פָּנָיו מַסְוֶה⁩ - When ⁧משה רבינו⁩ spoke to the people, th...
   - normalized: ל״ד:ל״ג): וַיִּתֵּן עַל פָּנָיו מַסְוֶה - When משה רבינו spoke to the people, they
-- Typst source, page 178, Vayikra 5785, line 5798
+- Typst source, page 178, Vayikra 5785, line 5797
   - visual: [page-0178.png](typeset-audit-pages/page-0178.png), [page-0179.png](typeset-audit-pages/page-0179.png)
   - negative ⁧מצוות⁩. What is the ⁧רמז⁩ for this? The ⁧פסוק⁩ in ⁦שמות ג׳:ט״ו⁩
   - normalized: negative מצוות. What is the רמז for this? The פסוק in שמות ג׳:ט״ו
-- Typst source, page 178, Vayikra 5785, line 5809
+- Typst source, page 178, Vayikra 5785, line 5808
   - visual: [page-0178.png](typeset-audit-pages/page-0178.png), [page-0179.png](typeset-audit-pages/page-0179.png)
   - ⁧הקדוש ברוך הוא⁩ Himself, as the ⁧פסוק⁩ in ⁦דברים ל״ב:ט׳⁩ states: ⁧כִּי חֵלֶק ה׳ עַמּוֹ⁩. That ⁧חלק⁩ - the portion of Hashem - is...
   - normalized: הקדוש ברוך הוא Himself, as the פסוק in דברים ל״ב:ט׳ states: כִּי חֵלֶק ה׳ עַמּוֹ. That חלק - the portion of Hashem - is our נשמות....
-- Typst source, page 179, Vayikra 5785, line 5831
+- Typst source, page 179, Vayikra 5785, line 5830
   - visual: [page-0178.png](typeset-audit-pages/page-0178.png), [page-0179.png](typeset-audit-pages/page-0179.png), [page-0180.png](typeset-audit-pages/page-0180.png)
   - ⁧לבוש⁩⁦,⁩ a ⁧סכַך⁩⁦,⁩ for the ⁧נשמה⁩. The ⁧פסוק⁩ in ⁦איוב י׳:י״א⁩ describes this: ⁧עוֹר וּבָשָׂר תַּלְבִּישֵׁנִי וּבַעֲצָמוֹת וְג...
   - normalized: לבוש, a סכַך, for the נשמה. The פסוק in איוב י׳:י״א describes this: עוֹר וּבָשָׂר תַּלְבִּישֵׁנִי וּבַעֲצָמוֹת וְגִידִים תְּשֹׂכְ...
