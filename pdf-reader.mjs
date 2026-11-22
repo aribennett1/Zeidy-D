@@ -56,8 +56,7 @@ export class PDFReader {
     zoomGroup.setAttribute("aria-label", "Zoom");
     zoomGroup.append(zoomOut, zoomIn);
     this.toolbar.append(zoomGroup);
-    // if the route is full sefer, this button should show, otherwise it should not
-    if (window.location.pathname === "/full-sefer/") {
+    if (window.location.pathname === "/final-sefer/") {
       button("Go to Table of Contents", () => {
         if (!this.active) return;
         this.generation = (this.generation || 0) + 1;
