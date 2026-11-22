@@ -4281,8 +4281,8 @@ be able to learn ⁧תורה⁩ in purity without any ⁧עבירות⁩⁦,⁩ 
 
 We have both the ⁧בעלי תשובה⁩ and the ⁧הבל שבפיהם⁩. That's what the pasuk
 says ⁧מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז⁩ - The ⁧תינוקות של בית רבן⁩ are the answer
-to the ⁧מלאכים⁩ and enable to receive the ⁧תורה⁩. Im Yirtzeh Hashem, in the
-⁧זכות⁩ of ⁧קבלת תורה⁩⁦,⁩ may we all be ⁧זוכה⁩ to do ⁧תשובה⁩ and return back to
+to the ⁧מלאכים⁩ and enable us to receive the ⁧תורה⁩. Im Yirtzeh Hashem, in
+the ⁧זכות⁩ of ⁧קבלת תורה⁩⁦,⁩ may we all be ⁧זוכה⁩ to do ⁧תשובה⁩ and return back to
 being ⁧עוֹלְלִים וְיֹנְקִים⁩. Let us all be ⁧קינדערלאך⁩ in our childlike acceptance
 of ⁧הקדוש ברוך הוא⁩ with complete ⁧אמונה⁩ and ⁧בטחון⁩. In that ⁧זכות⁩⁦,⁩ let ⁧משיח⁩
 come quickly and everyone should have ⁧ישועות ונחמות⁩.
