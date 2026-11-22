@@ -2035,8 +2035,8 @@ when one uses it. ⁦רש״י⁩#metadata(none) <person-index-rashi-110> is tell
 a ⁧תם⁩. This concept of ⁧תם⁩⁦,⁩ interestingly enough, shows up in the ⁧ארבעה בנים⁩ on ⁧פסח⁩. Often, we picture the ⁧תם⁩ as a sweet, innocent child. But in
 ⁦תנ״ך⁩ and literature, ⁧תם⁩ can mean someone who is simple in a naive sense, someone who doesn't know how to navigate complex or crafty situations.
 
-However, the ⁧תורה⁩ doesn't call ⁧יעקב⁩ a ⁧תם⁩\; it calls him an ⁧#strong[איש] תם⁩. That detail is significant. ⁦רש״י⁩#metadata(none) <person-index-rashi-111> says, ⁧“מִי שֶׁאֵינוֹ חָרִיף לְרַמּוֹת⁩⁦,⁩”
-someone who isn't quick to deceive, is a ⁧תם⁩. But ⁧יעקב⁩ is described as an
+However, the ⁧תורה⁩ doesn't call ⁧יעקב⁩ a ⁧תם⁩\; it calls him an ⁧#strong[איש] תם⁩. That detail is significant. ⁦רש״י⁩#metadata(none) <person-index-rashi-111> says, ⁧מִי שֶׁאֵינוֹ חָרִיף לְרַמּוֹת⁩ - someone
+who isn't quick to deceive, is a ⁧תם⁩. But ⁧יעקב⁩ is described as an
 ⁧#strong[איש] תם⁩ - an ⁧איש⁩ who was master of his ⁧תמימות⁩⁦,⁩ who knew when to
 use it and when to restrain it.
 
