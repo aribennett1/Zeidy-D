@@ -11796,14 +11796,14 @@ phrase, ⁧אָבִינוּ מַלְכֵּנוּ גַּלֵּה כְּבוֹד �
 
 The ⁧כנסת ישראל⁩ machzor for Pesach brings the Vilna Gaon, #metadata(none) <person-index-vilna-gaon-879> who offers a
 fantastic vort on these ⁧פסוקים⁩ in our davening. He quotes a ⁧גמרא⁩ in
-⁦חגיגה י״ג ע״ב⁩, which says that all of the ⁧מלאכים⁩ in ⁧שמים⁩ have ⁧שֵׁשׁ כְּנָפַיִם שֵׁשׁ כְּנָפַיִם לְאֶחָד⁩ - six wings, as is brought down in ⁦ישעיהו ו׳:ב׳⁩. However, there is another pasuk in ⁦יחזקאל א׳:ו׳⁩ which says ⁧וְאַרְבָּעָה פָנִים לְאֶחָת⁩⁦,⁩ implying that they have only four wings. The ⁧גמרא⁩ asks it's a ⁧סתירה⁩⁦,⁩ do
-the ⁧מלאכים⁩ have four wings or six wings? The ⁧גמרא⁩ answers: ⁧כָּאן בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים, כָּאן בִּזְמַן שֶׁאֵין בֵּית הַמִּקְדָּשׁ קַיָּים⁩ - when the ⁧בית המקדש⁩ stood, the
+⁦חגיגה י״ג ע״ב⁩, which says that all of the ⁧מלאכים⁩ in ⁧שמים⁩ have ⁧שֵׁשׁ כְּנָפַיִם שֵׁשׁ כְּנָפַיִם לְאֶחָד⁩ - six wings, as is brought down in ⁦ישעיהו ו׳:ב׳⁩. However, there is another pasuk in ⁦יחזקאל א׳:ו׳⁩ which says ⁧וְאַרְבַּע כְּנָפַיִם לְאַחַת לָהֶם⁩⁦,⁩ that they have only four wings. The ⁧גמרא⁩ asks it's a ⁧סתירה⁩⁦,⁩ do the
+⁧מלאכים⁩ have four wings or six wings? The ⁧גמרא⁩ answers: ⁧כָּאן בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים, כָּאן בִּזְמַן שֶׁאֵין בֵּית הַמִּקְדָּשׁ קַיָּים⁩ - when the ⁧בית המקדש⁩ stood, the
 ⁧מלאכים⁩ had six wings, but when the ⁧בית המקדש⁩ was destroyed, they ⁧כביכול⁩
 lost two of their wings. This is incredible. What happens in ⁧העולם הזה⁩
 has enormous effects in ⁧העולם האמת⁩.
 
 The ⁧גמרא⁩ asks: Which two wings were lost? The ⁧גמרא⁩ brings ⁧רַב חֲנַנְאֵל אָמַר רַב⁩ who explains that the two lost wings were the middle wings, the ones
-used to say ⁧שירה⁩. Since we are unable to say ⁧שירה⁩ properly in ⁧גלות⁩⁦,⁩ they, too, cannot say ⁧שירה⁩. As it says ⁧וּבִשְׁתַּיִם יְעוֹפֵף וְקָרָא זֶה אֶל זֶה וְאָמַר ⁦(ישעיהו ו׳:ב׳ ־ ג׳)⁩⁩. Those are the two middle wings.
+used to say ⁧שירה⁩. Since we are unable to say ⁧שירה⁩ properly in ⁧גלות⁩⁦,⁩ they, too, cannot say ⁧שירה⁩. As it says ⁧וּבִשְׁתַּיִם יְעוֹפֵף וְקָרָא זֶה אֶל זֶה וְאָמַר ⁦(ישעיהו ו׳:ב׳ ג׳)⁩⁩. Those are the two middle wings.
 
 The ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-880> asks: What was written on those wings? He brings another ⁧מדרש⁩
 that states: On those six wings it says, ⁧בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד⁩.
@@ -12109,8 +12109,8 @@ paragraph ends with the famous words: ⁧הֲרֵי אָנוּ וּבָנֵינ�
 that question is, what is the difference between a ⁧חכם⁩ and a ⁧נבון⁩? ⁧חכם⁩
 means a wise man, and ⁧נבון⁩ is usually translated as a discerning man. It
 says ⁧וַאֲפִילוּ כֻּלָּנוּ חֲכָמִים כֻּלָּנוּ נְבוֹנִים⁩. What is the difference? So it's
-brought down in the ⁧ספר חיים שיש בהם⁩⁦,⁩ #metadata(none) <person-index-chaim-shyesh-bahem-914> in the name of a ⁧גדול רב יוסף חיים⁩
-of Bagdad, who's ⁧ספר⁩ was called, ⁧עוד יוסף חיים⁩⁦,⁩ appropriately enough. He
+brought down in the ⁧ספר חיים שיש בהם⁩⁦,⁩ #metadata(none) <person-index-chaim-shyesh-bahem-914> in the name of a ⁧גאון רב יוסף חיים⁩
+of Bagdad, whose sefer was called, ⁧עוד יוסף חי⁩⁦,⁩ appropriately enough. He
 brings down a fascinating ⁧מעשה⁩⁦,⁩ which emphasizes and highlights the
 difference between a ⁧חכם⁩ and a ⁧נבון⁩.
 
@@ -12720,7 +12720,7 @@ point in his life for which he prepares and on which his future depends.
 The same thing is true for the history of the world. That pivotal event
 is the coming of ⁧משיח⁩. The ⁧עקבתא דמשיחא⁩⁦,⁩ which we are now in, is the
 challenge of our time. The two ⁧מרגלים⁩ who succeeded in overcoming the
-challenges of ⁧תמוז⁩ ending up becoming the root of mashiach: ⁧משיח בן יוסף⁩
+challenges of ⁧תמוז⁩ ended up becoming the root of mashiach: ⁧משיח בן יוסף⁩
 comes from ⁧יהושע⁩⁦,⁩ and ⁧משיח בן דוד⁩ comes from ⁧כלב⁩. We can also bring ⁧משיח⁩
 by overcoming the challenges of ⁧תמוז⁩ and of ⁧אב⁩. Learning ⁧תורה⁩ now is
 critical. Raising our standards is critical. As we say every day in
@@ -12745,7 +12745,7 @@ were breached, ⁧אפוסטמוס ימח שמו⁩ burned the ⁧ספר תור�
 any ⁧ספר תורה⁩⁦,⁩ it was written by ⁧עזרא הסופר⁩⁦,⁩ and last, they put a ⁧געטשקע⁩
 in the ⁧בית המקדש⁩. A day of tragedies.
 
-However, as tragic ⁧שבעה עשר בתמוז⁩ is, there's an amazing surprise
+However, as tragic as ⁧שבעה עשר בתמוז⁩ is, there's an amazing surprise
 revealed by the ⁧חתם סופר⁩⁦,⁩ #metadata(none) <person-index-chasam-sofer-963> as brought down by Rav Moshe Wolfson#metadata(none) <person-index-r-moshe-wolfson-965> in his
 sefer (#emph[Festivals of Faith].#metadata(none) <person-index-festivals-of-faith-964> Permission granted by ArtScroll /
 Mesorah Publications): ⁧שבעה עשר בתמוז⁩ was the day that Boaz married Rus.
@@ -13518,7 +13518,7 @@ prosecution was apparently on the verge of triumph. Only ⁧תפילה⁩ and �
 could change the ominous verdict. The whole ⁧קהילה⁩ held its breath and
 waited with palpitations. A few moments later, the Rebbe suddenly came
 to. The color returned to his face, which now became radiant with joy.
-His voice shook with ecstasy and triumph as he recited, “To he who
+His voice shook with ecstasy and triumph as he recited, “To He Who
 acquires his servants ⁧בדין⁩ - ⁧לְקוֹנֶה עֲבָדָיו בַּדִּין⁩.
 
 After the ⁧תפילה⁩⁦,⁩ when the Rebbe was sitting at his festive table
@@ -14173,7 +14173,7 @@ showers him with ⁧ברכה והצלחה⁩⁦,⁩ he has to have exactly the s
 a misfortune befalls him. So Meir'l is ⁧מקבל⁩ all of this ⁧בשמחה⁩. But
 ⁧ריבונו של עולם⁩⁦,⁩ I have a ⁧שאלה⁩ for you. There is a ⁧הלכה פסוקה⁩ that ⁧אין מערבין שמחה בשמחה ⁦(שו״ע אבה״ע ב:ב)⁩⁩. How can I simultaneously have a ⁧שמחה של יום טוב⁩ and a ⁧שמחה⁩ of being ⁧מקבל⁩ the situation of my daughter?” They
 noticed that his daughter immediately began perspiring profusely, and a
-little while came back to her full state of health.
+little while later came back to her full state of health.
 
 The last words of this ⁧דבר תורה⁩ are: ⁧רְצוֹן יְרֵאָיו יַעֲשֶׂה⁩. ⁧יראת שמים⁩ is not a
 little thing. We want to have that level of being ⁧אוהבי ה׳⁩. But let's
