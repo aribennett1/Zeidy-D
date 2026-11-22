@@ -3,7 +3,6 @@ import {
   EventBus,
   PDFViewer,
   PDFLinkService,
-  PDFFindController,
 } from "./vendor/pdfjs/pdf_viewer.mjs";
 import { normalize, locateAnchor } from "./pdf-position.mjs";
 pdfjs.GlobalWorkerOptions.workerSrc = "/vendor/pdfjs/pdf.worker.mjs";
@@ -39,29 +38,23 @@ export class PDFReader {
       this.toolbar.append(b);
       return b;
     };
-    this.expand = button("Expand", () => this.toggleFullscreen());
-    button("−", () => this.zoom(1 / 1.2));
-    button("+", () => this.zoom(1.2));
-    const search = document.createElement("input");
-    search.type = "search";
-    search.placeholder = "Find in PDF";
-    search.setAttribute("aria-label", "Find in PDF");
-    const find = (again) =>
-      this.active?.bus.dispatch("find", {
-        source: this,
-        type: again ? "again" : "",
-        query: search.value,
-        caseSensitive: false,
-        entireWord: false,
-        highlightAll: true,
-        findPrevious: false,
-      });
-    search.oninput = () => find(false);
-    search.onkeydown = (e) => {
-      if (e.key === "Enter") find(true);
-    };
-    this.toolbar.append(search);
-    button("Next match", () => find(true));
+    this.toolbar.setAttribute("role", "toolbar");
+    this.toolbar.setAttribute("aria-label", "PDF controls");
+    this.expand = button("Fullscreen", () => this.toggleFullscreen());
+    this.expand.className = "pdf-fullscreen";
+    this.expand.setAttribute("aria-expanded", "false");
+    const zoomOut = button("−", () => this.zoom(1 / 1.2));
+    zoomOut.setAttribute("aria-label", "Zoom out");
+    zoomOut.title = "Zoom out";
+    const zoomIn = button("+", () => this.zoom(1.2));
+    zoomIn.setAttribute("aria-label", "Zoom in");
+    zoomIn.title = "Zoom in";
+    const zoomGroup = document.createElement("div");
+    zoomGroup.className = "pdf-zoom";
+    zoomGroup.setAttribute("role", "group");
+    zoomGroup.setAttribute("aria-label", "Zoom");
+    zoomGroup.append(zoomOut, zoomIn);
+    this.toolbar.append(zoomGroup);
     const download = document.createElement("a");
     download.href = url;
     download.download = "";
@@ -119,15 +112,13 @@ export class PDFReader {
     this.stage.append(container);
     const abort = new AbortController();
     const bus = new EventBus(),
-      links = new PDFLinkService({ eventBus: bus }),
-      find = new PDFFindController({ eventBus: bus, linkService: links });
+      links = new PDFLinkService({ eventBus: bus });
     const viewer = new PDFViewer({
       abortSignal: abort.signal,
       container,
       viewer: pages,
       eventBus: bus,
       linkService: links,
-      findController: find,
       annotationEditorMode: -1,
       maxCanvasPixels: 4096 * 4096,
       imageResourcesPath: "/vendor/pdfjs/images/",
@@ -140,7 +131,7 @@ export class PDFReader {
       standardFontDataUrl: "/vendor/pdfjs/standard_fonts/",
       isEvalSupported: false,
     });
-    const view = { container, pages, bus, viewer, links, find, task, abort };
+    const view = { container, pages, bus, viewer, links, task, abort };
     this.loading = view;
     const interact = () => {
       if (view !== this.active) return;
@@ -370,8 +361,12 @@ export class PDFReader {
     const anchor = this.capture();
     this.host.classList.toggle("expanded");
     this.expand.textContent = this.host.classList.contains("expanded")
-      ? "Collapse"
-      : "Expand";
+      ? "Exit fullscreen"
+      : "Fullscreen";
+    this.expand.setAttribute(
+      "aria-expanded",
+      String(this.host.classList.contains("expanded")),
+    );
     // A fixed overlay also works on iPhone; the same viewer and scroll element survive.
     await frame();
     await frame();

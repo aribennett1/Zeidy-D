@@ -33,6 +33,3 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
-      - run: npm ci
-      - run: npx playwright install --with-deps chromium webkit
-      - run: npm run test:pdf
