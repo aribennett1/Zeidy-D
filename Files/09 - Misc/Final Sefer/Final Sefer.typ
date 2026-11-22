@@ -598,7 +598,8 @@ a profound sense of ⁧הכרת הטוב⁩ to the ⁧רבונו של עולם�
 
 It was Ari's thought, (and Ari's alone), to publish these segments. I
 stand in awe of his technical expertise which brought this project to
-fruition.
+fruition. My granddaughter, Ari's wife, Rosa, encouraged Ari week in and
+week out, despite the many hours of toil, to complete the job.
 
 ⁦רב נח יצחק אולבאם שליט״א⁩, my ⁧מרא דאתרא⁩⁦,⁩ has been a beacon of ⁧תורה⁩⁦,⁩ ⁧חסד⁩⁦,⁩ and love of ⁧כלל ישראל⁩. His ⁧דברי תורה⁩ have inspired thousands throughout
 the world. Samples of his greatness are displayed in these pages.
@@ -647,15 +648,14 @@ Dedicated to the grandchildren ⁧שיחיו⁩.
 
 #divider()
 
-#align(center)[
 I would like to acknowledge permission graciously extended by the
-following writers to include selections of their work in this sefer: ]
+following writers to include selections of their work in this sefer:
 
 #align(center)[
 Rabbi Dovid Hoffman - Torah Tavlin]
 
 #align(center)[
-Rabbi Moshe Kormornick - A Short Vort]
+Rabbi Moshe Komornick - A Short Vort]
 
 #align(center)[
 Rabbi Pesach Krohn - The Maggid Series]
@@ -1325,8 +1325,8 @@ connects the first half of the pasuk to the second half, except for one
 pasuk: ⁧קָרוֹב ה׳ לְכׇל קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶאֱמֶת⁩. This unique pasuk has no ⁧ו⁩
 connecting the two halves. ⁧רבי וייס⁩ explains that the ⁧ו החיבור⁩ in each
 pasuk is a symbol of the deep bond between ⁧כלל ישראל⁩ and ⁧הקדוש ברוך הוא⁩.
-pasuk of ⁧קָרוֹב ה׳ לְכׇל קֹרְאָיו⁩ represents an intrinsic ⁧חיבור⁩ that doesn't
-need a ⁧ו⁩ - it stands alone as a pasuk of pure connection.
+The pasuk of ⁧קָרוֹב ה׳ לְכׇל קֹרְאָיו⁩ represents an intrinsic ⁧חיבור⁩ that
+doesn't need a ⁧ו⁩ - it stands alone as a pasuk of pure connection.
 
 Take a moment to look at ⁧תְּהִלָּה לְדָוִד⁩ and notice the ⁧ו⁩ in each pasuk. I've
 been saying ⁧אַשְׁרֵי⁩ all these years and never saw this! It's amazing how
@@ -1474,10 +1474,9 @@ In ⁧ספר דברים⁩ we have the famous pasuk (28:9) ⁧וְהָלַכְת
 go in the ways of ⁧הקדוש ברוך הוא⁩. We understand that we do everything
 that Hashem does because we cannot really understand Hashem, but we're
 following His ways. Hashem is a ⁧רחום⁩⁦,⁩ ⁧חנון⁩⁦,⁩ does ⁧חסד⁩. This pasuk
-started from the beginning of our creation of ⁧כלל ישראל⁩⁦,⁩ of ⁧אברהם אבינו⁩⁦,⁩ the first of the ⁧אבות⁩⁦,⁩ tells you ⁧והלכת בדרכיו⁩ means literally, ⁧אברהם⁩
-went in Hashem's way because that's what Hashem told him to do. A
-literal translation of the words that we've always learned for these
-years.
+demonstrated by ⁧אברהם אבינו⁩ at the creation of ⁧כלל ישראל⁩ that ⁧והלכת בדרכיו⁩ meant that he went in Hashem's way because that's what Hashem
+told him to do. A literal translation of the words that we've always
+learned all these years.
 
 ⁧וְהָלַכְתָּ בִּדְרָכָיו⁩ means you follow in Hashem's ways because that is the ⁧רצון השם⁩. We follow everything that Hashem tells us because we want to do
 ⁧רצון השם⁩. If we can get up to that ⁧מדרגה⁩⁦,⁩ which ⁧אברהם אבינו⁩ was, and we
@@ -1499,8 +1498,8 @@ level of ⁧אברהם אבינו⁩ and to be better people and to serve ⁧ה�
 = Lech Lecha 5786 (2)
 
 ⁧לך לך⁩. I heard this vort from my ⁧טייערע⁩ son-in-law Dovid Tribuch, #metadata(none) <person-index-dovid-tribuch-68> who
-heard it from R’ Ephraim Goldberg.#metadata(none) <person-index-r-ephraim-goldberg-65> When Avram leaves ⁧חרן⁩ and is coming
-to ⁧ארץ ישראל⁩⁦,⁩ Hashem gives him a tremendous ⁧הבטחה⁩: (12:3) ⁧וַאֲבָרְכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר⁩. Rabbi Goldberg asked an interesting question. ⁧וַאֲבָרְכָה⁩ - whoever benches you; ⁧מְבָרְכֶיךָ⁩ - will be benched, I will bench them. Both
+heard it from R’ Ephrem Goldberg.#metadata(none) <person-index-r-ephrem-goldberg-65> When Avram leaves ⁧חרן⁩ and is coming to
+⁧ארץ ישראל⁩⁦,⁩ Hashem gives him a tremendous ⁧הבטחה⁩: (12:3) ⁧וַאֲבָרְכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר⁩. Rabbi Goldberg asked an interesting question. ⁧וַאֲבָרְכָה⁩ - whoever benches you; ⁧מְבָרְכֶיךָ⁩ - will be benched, I will bench them. Both
 words are the same verb. However, ⁧וּמְקַלֶּלְךָ⁩ - if they curse you, it doesn't
 say ⁧אקלל⁩⁦,⁩ it says ⁧אָאֹר⁩⁦,⁩ a completely different verb. What do we learn
 from that?
@@ -1627,8 +1626,8 @@ In ⁧פרשת חיי שרה⁩⁦,⁩ as we discussed last year, we see how the
 But even before that, the ⁧תורה⁩ gives us another deeply insightful
 example of ⁧פיינקייט⁩ and the wisdom and ⁧מוסר⁩ to be learned from the ⁧עקדה⁩.
 
-At the end of the ⁧עקדה⁩⁦,⁩ the ⁧פסוק⁩ states (22:19), ⁧וַיָּשׇׁב אַבְרָהָם אֶל נְעָרָיו וַיָּקֻמוּ וַיֵּלְכוּ יַחְדָּו⁩⁦,⁩ a ⁧פסוק⁩ whose simplicity belies its depth. ⁦רש״י⁩#metadata(none) <person-index-rashi-74>
-explains on the beginning of the ⁧עקדה⁩⁦,⁩ in the ⁧וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו פסוק⁩
+At the end of the ⁧עקדה⁩⁦,⁩ the ⁧פסוק⁩ states (22:19), ⁧וַיָּשׇׁב אַבְרָהָם אֶל נְעָרָיו וַיָּקֻמוּ וַיֵּלְכוּ יַחְדָּו⁩⁦,⁩ a pasuk whose simplicity belies its depth. ⁦רש״י⁩#metadata(none) <person-index-rashi-74>
+explains on the beginning of the ⁧עקדה⁩⁦,⁩ in the pasuk ⁧וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו⁩
 (22:8), that ⁧אברהם⁩ and ⁧יצחק⁩ went together in precisely the same way.
 ⁧אברהם⁩ knew he was going to offer his son as a ⁧קרבן⁩⁦,⁩ yet he went ⁧בשמחה⁩
 and ⁧ברצון⁩⁦,⁩ just as ⁧יצחק⁩⁦,⁩ who thought he was going to witness a ⁧קרבן⁩⁦,⁩ went ⁧בשמחה⁩ and ⁧ברצון⁩. The ⁧יחדו⁩ there teaches us that both father and son
@@ -15754,8 +15753,6 @@ faith in the ultimate truth of ⁧להגיד כי ישר ה׳ צורי ולא ע
 
 #index-row(("Gesheid, R’ Reuven",), (label("person-index-rabbi-reuven-gesheid-480"),))
 
-#index-row(("Goldberg, R’ Ephraim",), (label("person-index-r-ephraim-goldberg-65"),))
-
 #index-row(("Goldstein, Dr. Allen",), (label("person-index-dr-allen-goldstein-147"), label("person-index-dr-allen-goldstein-148"), label("person-index-dr-allen-goldstein-149"), label("person-index-dr-allen-goldstein-150"), label("person-index-dr-allen-goldstein-151"), label("person-index-dr-allen-goldstein-152"), label("person-index-dr-allen-goldstein-153"), label("person-index-dr-allen-goldstein-154")))
 
 #index-row(("Goldstein, R’ Yosef Shlomo",), (label("person-index-r-yosef-shlomo-goldstein-556"), label("person-index-r-yosef-shlomo-goldstein-557")))
@@ -15933,6 +15930,8 @@ faith in the ultimate truth of ⁧להגיד כי ישר ה׳ צורי ולא ע
 #index-row(("R’ Elimelech of Lizhensk",), (label("person-index-r-elimelech-of-lizhensk-477"), label("person-index-r-elimelech-of-lizhensk-1054")))
 
 #index-row(("R’ Elyashiv",), (label("person-index-r-elyashiv-294"), label("person-index-r-elyashiv-353"), label("person-index-r-elyashiv-354"), label("person-index-r-elyashiv-355"), label("person-index-r-elyashiv-356"), label("person-index-r-elyashiv-357")))
+
+#index-row(("R’ Ephrem Goldberg",), (label("person-index-r-ephrem-goldberg-65"),))
 
 #index-row(("R’ Gesheid",), (label("person-index-rabbi-gesheid-481"), label("person-index-rabbi-gesheid-482"), label("person-index-rabbi-gesheid-483")))
 
