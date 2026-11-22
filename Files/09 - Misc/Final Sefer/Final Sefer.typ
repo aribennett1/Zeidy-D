@@ -3857,7 +3857,7 @@ The ⁦חידושי הרי״ם⁩, #metadata(none) <person-index-chidushei-harim
 phrase ⁧לֹא רָאוּ אִישׁ אֶת אָחִיו⁩. He teaches ⁧הַחשֵׁךְ הַגָּרוּעַ בְּיוֹתֵר⁩ - What is the
 greatest ⁧חשך⁩ that we experience in our lives in ⁧עולם הזה⁩⁦?⁩
 
-#align(center)[
+#align(right)[
 ⁧כַּאֲשֶׁר אִישׁ אֵינוֹ רוֹצֶה לִרְאוֹת אֶת אָחִיו בְּצַעֲרוֹ וּלְהוֹשִׁיט לוֹ עֶזְרָה⁩ - ⁧לֹא רָאוּ אִישׁ אֶת אָחִיו⁩]
 
 This pasuk is a ⁧מוסר⁩ statement. What is the greatest ⁧חשך⁩? ⁧לֹא רָאוּ אִישׁ אֶת אָחִיו⁩ - if you don't see your friend when he's having difficulty, he's
@@ -3867,9 +3867,9 @@ is uninterested in his friend's difficulty; ⁧אֵין הוּא עַצְמוֹ 
 He'll have his own ⁧צָרות⁩⁦,⁩ and he'll be stricken with exactly the same
 issues. He will have a problem, and nobody will help him, ⁧וְלֹא קָמוּ אִישׁ מִתַּחְתָּיו⁩. When we see anybody having difficulty, we should extend a hand, and help in whatever way we can.
 
-The day that I'm recording this is the ⁧שלושים⁩ for my ⁧תיירה ברידער⁩⁦,⁩ and
-that's exactly who he was, a man who always ran to help people at all
-times.
+The day that I'm recording this is the ⁧שלושים⁩ for my ⁧תיירה ברידער⁩⁦,⁩ Dr.
+Allen Bennett ⁧ע״ה⁩⁦,⁩ and that's exactly who he was, a man who always ran
+to help people at all times.
 
 #pagebreak()
 
@@ -4022,11 +4022,12 @@ is the ⁧מנהיג העולם⁩ and that everything occurs ⁧בהשגחת ה
   ))
 = Beshalach 5783 (2)
 
-Right before ⁧קריעת ים סוף, הקדוש ברוך הוא⁩ commanded ⁧בני ישראל⁩ to turn
-back so that ⁧פרעה⁩ would think they were wandering aimlessly. The pasuk
-says (14:2): ⁧דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְיָשֻׁבוּ וְיַחֲנוּ לִפְנֵי פִּי הַחִירֹת⁩. As we know, there are four different methods of explaining a dvar torah, represented
-by the acronym ⁧פרדס⁩: ⁧פשט⁩⁦,⁩ ⁧רמז⁩⁦,⁩ ⁧דרש⁩⁦,⁩ ⁧סוד⁩. Pshat is the ⁧פשוט פשט⁩⁦,⁩ and ⁧רמז⁩
-is a hint.
+Right before ⁧קריעת ים סוף⁩⁦,⁩ Hashem commanded ⁧בני ישראל⁩ to turn back so
+that ⁧פרעה⁩ would think they were wandering aimlessly. The pasuk says
+(14:2): ⁧דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְיָשֻׁבוּ וְיַחֲנוּ לִפְנֵי פִּי הַחִירֹת⁩. As we know, there
+are four different methods of explaining a dvar torah, represented by
+the acronym ⁧פרדס⁩: ⁧פשט⁩⁦,⁩ ⁧רמז⁩⁦,⁩ ⁧דרש⁩⁦,⁩ ⁧סוד⁩. Pshat is the ⁧פשוט פשט⁩⁦,⁩ and ⁧רמז⁩ is
+a hint.
 
 The Apter Rav, #metadata(none) <person-index-apter-rav-255> R’ Avraham Yehoshua Heshel#metadata(none) <person-index-apter-rav-256> ⁦זצ״ל⁩, also known as the ⁧אוהב ישראל⁩⁦,⁩ uses this pasuk as a ⁧רמז⁩ to a beautiful ⁧מידה⁩ that a person would
 be wise to adopt throughout life: ⁧וְיָשֻׁבוּ וְיַחֲנוּ לִפְנֵי פִּי הַחִירֹת⁩. ⁧פִּי⁩ means
@@ -5186,7 +5187,7 @@ we've done them our whole lives. Rabbi Oelbaum, #metadata(none) <person-index-r-
 enlighten us as to how much deeper and more profound they really are.
 
 One of the things we do every single ⁧שבת⁩ - found in ⁧פרשת כי תשא⁩ - is
-recite the following ⁧פסוקים⁩ (31:16-18):
+recite the following ⁧פסוקים⁩ (31:16-17):
 
 #align(right)[
 ⁧וְשָׁמְרוּ בְנֵי יִשְׂרָאֵל אֶת הַשַּׁבָּת לַעֲשׂוֹת אֶת הַשַּׁבָּת לְדֹרֹתָם בְּרִית עוֹלָם׃ בֵּינִי וּבֵין בְּנֵי יִשְׂרָאֵל אוֹת הִוא לְעֹלָם כִּי שֵׁשֶׁת יָמִים עָשָׂה ה׳ אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ וּבַיּוֹם הַשְּׁבִיעִי שָׁבַת וַיִּנָּפַשׁ⁩.]
@@ -5280,23 +5281,25 @@ to get ⁧קדושה⁩ on time, but I manage to get it done.
 Now, on a completely separate topic, since this year ⁧שבת כי תשא⁩ is smack
 dab in the middle of ⁧פורים משולש⁩⁦,⁩ I want to refer back to a previous ⁧דבר תורה⁩ I shared and add a ⁧קנייטש⁩ from R’ Yosef Chaim Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-358> that I
 think you will find interesting. As we all know, this week's ⁧פרשה⁩
-discusses two things, ⁧שמן המשחה⁩ and the ⁧קטורת⁩. In the ⁧קטורת⁩ it says
+discusses two things, ⁧שמן המשחה⁩ and the ⁧קטורת⁩. In the ⁧שמן המשחה⁩ it says
 (30:23) ⁧וְאַתָּה קַח לְךָ בְּשָׂמִים רֹאשׁ מׇר דְּרוֹר⁩ - You should take the best, the
 nicest of the spices, and that is ⁧מׇר דְּרוֹר⁩ - pure ⁧מׇר⁩. ⁧מׇר⁩ is supposed to
-be the number one most beautiful spice that was used in the ⁧קטורת⁩⁦,⁩ and
-which was apparently known to those people at that time. As we have
+be the number one most beautiful spice that was used in the ⁧שמן המשחה⁩⁦,⁩ and which was apparently known to those people at that time. As we have
 mentioned, ⁧אונקלוס⁩ translates ⁧מׇר דְּרוֹר⁩ as ⁧מֵירָא דַכְיָא⁩⁦,⁩ which has almost
 identical letters as ⁧מרדכי⁩. This shows that the ⁧צדיקים⁩ are compared to
-the most beautiful spices, which is brought down in the ⁦גמרא מגילה י״ג
-ע״א⁩. The choicest spice was used to show that ⁧מרדכי⁩ was ⁧ראש וראשון⁩ among
-the ⁧אנשי כנסת הגדולה⁩ - he was the ⁧גדול הדור⁩. Now, here's something
-fascinating. R’ Chaim adds another insight. While discussing the ⁧קטורת⁩⁦,⁩ he asks, “Where do we find ⁧המן⁩ in all of these items?” And guess what?
-The word for ⁧חלבנה⁩ in the ⁧קטורת⁩⁦,⁩ that's the crummy smelling spice. What
-is the ⁧גימטריה⁩ for ⁧חלבנה⁩? Look it up. It's 95. Guess what the ⁧גימטריה⁩
-for ⁧המן⁩ is? 95. So we know that it's a bitter, horrible, terrible spice, which is included in the ⁧קטורת⁩ to teach us that we have to have ⁧רחמנות⁩
-and everybody in ⁧כלל ישראל⁩ and include them in our ⁧עבדוה⁩ just like the
-⁧ערבה⁩ in the ⁧ארבע מינים⁩⁦,⁩ but we certainly don't have to have ⁧רחמנות⁩ for
-⁧המן⁩.
+the most beautiful spices, which is brought down in the ⁦גמרא מגילה דף י׳
+ע״ב⁩. The choicest spice was used to show that ⁧מרדכי⁩ was ⁧ראש וראשון⁩ among
+the ⁧אנשי כנסת הגדולה⁩ - he was the ⁧גדול הדור⁩.
+
+Now, here's something fascinating. R’ Chaim adds another insight. While
+discussing the ⁧קטורת⁩⁦,⁩ he asks, “Where do we find ⁧המן⁩ in all of these
+items?” And guess what? The word for ⁧חלבנה⁩ in the ⁧קטורת⁩⁦,⁩ that's the
+crummy smelling spice. What is the ⁧גימטריה⁩ for ⁧חלבנה⁩? Look it up. It's
+\95. Guess what the ⁧גימטריה⁩ for ⁧המן⁩ is? 95. So we know that it's a
+bitter, horrible, terrible spice, which is included in the ⁧קטורת⁩ to
+teach us that we have to have ⁧רחמנות⁩ and everybody in ⁧כלל ישראל⁩ and
+include them in our ⁧עבדוה⁩ just like the ⁧ערבה⁩ in the ⁧ארבע מינים⁩⁦,⁩ but we
+certainly don't have to have ⁧רחמנות⁩ for ⁧המן⁩.
 
 May all of ⁧עמלק⁩ be destroyed in this ⁧זכות⁩ of our keeping this ⁧יום טוב⁩ of
 ⁧פורים⁩⁦,⁩ may we see the immediate and quick downfall of all of the ⁧עמלקים⁩
