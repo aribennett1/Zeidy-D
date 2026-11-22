@@ -10168,19 +10168,19 @@ the seemingly straightforward phrase ⁧לֹא יְשִׂימָם בָּךְ ו�
 are two terms here - ⁧שימה⁩ and ⁧נתינה⁩ - and he immediately notes the
 distinction. He says that ⁧שימה⁩ refers to something temporary, not meant
 to stay forever. He brings a proof from ⁧פרשת ראה⁩⁦,⁩ where the Torah
-commands the destruction of all avodah zara upon entering Eretz Yisrael:
-⁧וְנִתַּצְתֶּם אֶת מִזְבְּחֹתָם⁩... ⁧וְאִבַּדְתֶּם אֶת שְׁמָם מִן הַמָּקוֹם הַהוּא⁩. The next pasuk there
-says: ⁧כִּי אִם אֶל הַמָּקוֹם אֲשֶׁר יִבְחַר ה׳⁩... ⁧לָשׂוּם אֶת שְׁמוֹ שָׁם⁩. The ⁧כלי יקר⁩#metadata(none) <person-index-kli-yakar-759> explains
-that this is referring to ⁧משכן שילה⁩⁦,⁩ not the ⁧בית המקדש⁩⁦,⁩ which we hope
-will be permanent. Even ⁧משכן שילה⁩ was not permanent because of our
-⁧עבירות⁩. This is another proof that ⁧שימה⁩ is temporary. Other uses of ⁧שימה⁩
-in Tanach similarly indicate something that exists only for a set time.
-However, ⁧נתינה⁩ is permanent. For example (7:15) ⁧וּנְתָנָם בְּכׇל שֹׂנְאֶיךָ⁩ - that
-is ongoing. They do not retain all their illnesses or all the ⁧קללות⁩.
-When Hashem says ⁧ונתתי גשמיכם בעיתם⁩⁦,⁩ or in shema ⁧ונתתי מטר ארצכם בעיתו⁩⁦,⁩ these are permanent commitments. ⁧נתינת התורה, מתן תורה⁩ - these are
-lasting. There are many ⁧ראיות⁩ to this distinction. In a negative
-example, ⁧ונתן בידה⁩ in the case of a ⁧גט⁩ - once given, it is permanent. It
-completely severs the marriage. The same point holds: ⁧נתינה⁩ is enduring.
+commands the destruction of all avodah zara upon entering Eretz
+Yisrael: ⁧וְנִתַּצְתֶּם אֶת מִזְבְּחֹתָם \... וְאִבַּדְתֶּם אֶת שְׁמָם מִן הַמָּקוֹם הַהוּא⁩. The next
+pasuk there says: ⁧כִּי אִם אֶל הַמָּקוֹם אֲשֶׁר יִבְחַר ה׳ \... לָשׂוּם אֶת שְׁמוֹ שָׁם⁩. The
+⁧כלי יקר⁩#metadata(none) <person-index-kli-yakar-759> explains that this is referring to ⁧משכן שילה⁩⁦,⁩ not the ⁧בית המקדש⁩⁦,⁩ which we hope will be permanent. Even ⁧משכן שילה⁩ was not permanent
+because of our ⁧עבירות⁩. This is another proof that ⁧שימה⁩ is temporary.
+Other uses of ⁧שימה⁩ in Tanach similarly indicate something that exists
+only for a set time. However, ⁧נתינה⁩ is permanent. For example (7:15)
+⁧וּנְתָנָם בְּכׇל שֹׂנְאֶיךָ⁩ - that is ongoing. They do not retain all their
+illnesses or all the ⁧קללות⁩. When Hashem says ⁧ונתתי גשמיכם בעיתם⁩⁦,⁩ or in
+shema ⁧ונתתי מטר ארצכם בעיתו⁩⁦,⁩ these are permanent commitments. ⁧נתינת התורה, מתן תורה⁩ - these are lasting. There are many ⁧ראיות⁩ to this
+distinction. In a negative example, ⁧ונתן בידה⁩ in the case of a ⁧גט⁩ - once
+given, it is permanent. It completely severs the marriage. The same
+point holds: ⁧נתינה⁩ is enduring.
 
 When ⁧הקדוש ברוך הוא⁩ gives us something, we must appreciate that it is
 forever.
@@ -10221,8 +10221,8 @@ first pasuk has a velt of torah: ⁧רְאֵה אָנֹכִי נֹתֵן לִפ�
 There's so much to be said about it. In my medical practice, and even in
 my ⁧רוחניות⁩ practice, I read the pasuk just a little bit differently, and
 I tell many patients, almost weekly, ⁧רְאֵה אָנֹכִי נֹתֵן לִפְנֵיכֶם הַיּוֹם⁩ - What is
-one of the biggest brachos that ⁧ברכות הקדוש ברוך הוא⁩ gives us? Today.
-This day that Hashem gave us is a tremendous bracha.
+one of the biggest brachos that ⁧הקדוש ברוך הוא⁩ gives us? Today. This day
+that Hashem gave us is a tremendous bracha.
 
 The famous joke in English is that every day is a gift, that's why it's
 called the present. We have the opportunity to use each and every day to
@@ -10240,11 +10240,14 @@ reward for every single ⁧מעשה⁩ that we do, which is a gift from Hashem.
 All of the rewards that we get in ⁧עולם הזה⁩ are only the ⁧פירות⁩⁦,⁩ only the
 small little parts of the additional ⁧שכר⁩ that we get. The ⁧שכר⁩ is really
 ⁧מקיים⁩ for ⁧עולם הבא⁩. That's what the ⁧פסוק⁩ is saying, ⁧ברכה וקללה⁩. What
-does ⁧וקללה⁩ mean? ⁧והקרן קיימת לו לעולם הבא⁩: \
-⁧ו⁩ - ⁧והקרן⁩ \ ⁧ק⁩ - ⁧קיימת⁩ \ ⁧ל⁩ - ⁧לו⁩ \ ⁧ל⁩ - ⁧לעולם⁩ \ ⁧ה⁩ - ⁧הבא⁩ \ ⁧והקרן קיימת לו לעולם הבא⁩ is the ⁧ראשי תיבות⁩ represented by ⁧וקללה⁩. So we see we're
-getting a ⁧ברכה⁩ from ⁧עולם הזה⁩ and ⁧עולם הבא⁩ in this very pasuk, and in the
-⁧זכות⁩ of doing the ⁧מצוות⁩⁦,⁩ we should continue to grow and do more and more
-and get all of those ⁧ברכות⁩ and ⁧והקרן קיימת לו לעולם הבא⁩.
+does ⁧וקללה⁩ mean? ⁧והקרן קיימת לו לעולם הבא⁩:
+
+#align(right)[
+⁧ו⁩ - ⁧והקרן⁩ \ ⁧ק⁩ - ⁧קיימת⁩ \ ⁧ל⁩ - ⁧לו⁩ \ ⁧ל⁩ - ⁧לעולם⁩ \ ⁧ה⁩ - ⁧הבא⁩]
+
+⁧והקרן קיימת לו לעולם הבא⁩ is the ⁧ראשי תיבות⁩ represented by ⁧וקללה⁩. So we
+see we're getting a ⁧ברכה⁩ from ⁧עולם הזה⁩ and ⁧עולם הבא⁩ in this very pasuk, and in the ⁧זכות⁩ of doing the ⁧מצוות⁩⁦,⁩ we should continue to grow and do
+more and more and get all of those ⁧ברכות⁩ and ⁧והקרן קיימת לו לעולם הבא⁩.
 
 #pagebreak()
 
@@ -10481,8 +10484,8 @@ the ⁧לשון⁩ of ⁧יָמִין וּשְׂמֹאל⁩⁦?⁩ I'll quote Ra
 ⁧וְכָל שֶׁכֵּן שֶׁאוֹמֵר לְךָ עַל יָמִין יָמִין וְעַל שְׂמֹאל שְׂמֹאל⁩. That is difficult to
 understand. What does that mean? The ⁧קול התורה⁩#metadata(none) <person-index-kol-hatorah-786> Torah Journal from ⁦תשפ״ב⁩
 quotes R’ Pesach Eliyahu Falk#metadata(none) <person-index-r-pesach-eliyahu-falk-784> from Gateshead, from his sefer ⁧מחזה אליהו⁩.
-He explain that if somebody tells you, go down that block over there and
-the bakery's on the right side, so your obvious question is, which
+He explains that if somebody tells you, go down that block over there
+and the bakery's on the right side, so your obvious question is, which
 direction are you coming from? Are you coming from this end of the
 street or that end of the street? The right-sidedness of the bakery
 depends on which end of the street you are going to enter, it depends on
@@ -11358,8 +11361,8 @@ that we should be ⁧זוכה⁩ to see ⁧ביאת גואל צדק⁩ this year
 (29:9) ⁧אַתֶּם נִצָּבִים הַיּוֹם כֻּלְּכֶם לִפְנֵי ה׳ אֱלֹקֵיכֶם⁩. Rashi#metadata(none) <person-index-rashi-842> points out that this
 parsha was written immediately after the terrifying ⁧תוכחה⁩ in ⁧כי תבוא⁩. He
 asks why is it here? Because ⁧כלל ישראל⁩ came to ⁧משה⁩ after they heard all
-of those terrible things and said, “How can we bear to stand? We're
-won't be able to survive.” ⁧משה רבינו⁩ answered them, ⁧אַתֶּם נִצָּבִים הַיּוֹם כֻּלְּכֶם⁩.
+of those terrible things and said, “How can we bear to stand? We won't
+be able to survive.” ⁧משה רבינו⁩ answered them, ⁧אַתֶּם נִצָּבִים הַיּוֹם כֻּלְּכֶם⁩.
 Number one, yes, you're still standing. But number two, why is it that
 we're still standing? Because it's ⁧כֻּלְּכֶם⁩. The merit of the ⁧ציבור⁩ is what
 enabled each and every individual to survive. We all know that. We all
