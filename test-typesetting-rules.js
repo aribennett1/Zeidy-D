@@ -3084,3 +3084,13 @@ test("docx: Eikev 5784 separates all numbered verses from their markers", () => 
     assertNotContains(typst, `${number})${RTL_ISOLATE}`, "marker must not touch the citation run");
   }
 });
+
+test("17 Tamuz 5785 keeps arah li before et haam in the pasuk", () => {
+  const expected = `${RTL_ISOLATE}אָרָה לִּי אֶת הָעָם${POP_DIRECTIONAL_ISOLATE} - Curse that nation`;
+  for (const phrase of ["אֶת הָעָם אָרָה לִּי", "אֶת הָעָם\nאָרָה לִּי", "אָרָה לִּי אֶת הָעָם"]) {
+    assert.equal(applyTextRules(`${phrase} - Curse that nation`), expected);
+  }
+  const typst = convertedDocx("/17-tamuz/5785/");
+  assertContains(typst, expected, "the converted DOCX preserves the pasuk's Hebrew word order");
+  assertNotContains(typst, "אֶת הָעָם אָרָה לִּי", "no transposed word groups");
+});

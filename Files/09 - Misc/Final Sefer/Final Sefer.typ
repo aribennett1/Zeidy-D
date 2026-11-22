@@ -12569,10 +12569,11 @@ on a higher ⁧מדרגה⁩⁦,⁩ because they are without ⁧חטא⁩. So we
 have the concept of ⁧תשובה⁩⁦,⁩ and we also have the ⁧הבל שאין בו חטא⁩⁦,⁩ we have
 those ⁧קינדערלאך⁩ who are giving us the ability to accept the Torah, as it
 says in the pasuk, ⁧מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז ⁦(תהילים ח׳:ג׳)⁩⁩. It was only
-in the ⁧זכות⁩ of those little ⁧קינדערלאך⁩ that were able to get the Torah, not in the ⁧זכות⁩ of the ⁧אבות⁩⁦,⁩ not in the ⁧זכות⁩ of our ⁧מצוות⁩⁦,⁩ not in the
-⁧זכות⁩ of our Torah or even of our ⁧גמילות חסדים⁩. It was in the ⁧זכות⁩ of the
-⁧תינוקות של בית רבן⁩. All of our ⁧קינדערלאך⁩ - they should all live and be
-well and ⁧געזונט⁩ - are what gave us the ability to get the ⁧תורה⁩ at ⁧הר סיני⁩ and for ⁧דור דורות⁩.
+in the ⁧זכות⁩ of those little ⁧קינדערלאך⁩ that we were able to get the
+Torah, not in the ⁧זכות⁩ of the ⁧אבות⁩⁦,⁩ not in the ⁧זכות⁩ of our ⁧מצוות⁩⁦,⁩ not in
+the ⁧זכות⁩ of our Torah or even of our ⁧גמילות חסדים⁩. It was in the ⁧זכות⁩ of
+the ⁧תינוקות של בית רבן⁩. All of our ⁧קינדערלאך⁩ - they should all live and
+be well and ⁧געזונט⁩ - are what gave us the ability to get the ⁧תורה⁩ at ⁧הר סיני⁩ and for ⁧דור דורות⁩.
 
 #pagebreak()
 
@@ -12759,7 +12760,7 @@ What did he mean by ⁧כִּי רַב הוּא⁩⁦?⁩
 
 What is ⁧רַב⁩? ⁧רַב⁩ stands for ⁧רות⁩ and ⁧בועז⁩. Balak was scared that the spark
 of ⁧משיח⁩ would be released. What did he do? This is brilliant, the guy
-was brilliant. He said to ⁧בלעם⁩⁦,⁩ go and curse ⁧כלל ישראל⁩. ⁧אֶת הָעָם אָרָה לִּי⁩ - Curse that nation so that we will not be able to join them. Why? Because
+was brilliant. He said to ⁧בלעם⁩⁦,⁩ go and curse ⁧כלל ישראל⁩. ⁧אָרָה לִּי אֶת הָעָם⁩ - Curse that nation so that we will not be able to join them. Why? Because
 it says in the Torah ⁧לא יבוא עמוני ומואבי בקהל השם⁩ - Whoever curses ⁧כלל ישראל⁩ will be ⁧אסור לבוא בקהל⁩. Balak said, “If we can't join ⁧כלל ישראל⁩⁦,⁩ Rus and Boaz can't get married. If they can't get married, ⁧משיח⁩ can't
 come. I want to keep that ⁧משיח⁩ spark here. I don't want to let it go.
 Therefore, let's curse the Jews and they will be forbidden to marry the
@@ -14769,7 +14770,8 @@ deep into our ⁧נשמות⁩⁦,⁩ and give us a tremendous ⁧ישועה⁩ 
     top: 0.68in,
     bottom: 0.82in,
   ))
-#heading(level: 1)[10 Teves 5785 \
+#place[#hide[#heading(level: 1)[10 Teves 5785]]]
+#heading(level: 1, outlined: false, bookmarked: false)[10 Teves 5785 \
 (Erev Shabbos)]
 
 The ⁧אבודרהם⁩⁦,⁩ #metadata(none) <person-index-avudraham-1118> as quoted in the ⁧בית יוסף⁩#metadata(none) <person-index-bais-yosef-1119> and brought down by R’ Elimelech

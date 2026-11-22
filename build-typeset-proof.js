@@ -1997,6 +1997,11 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
 }
 
 function applyTextRules(typstContent) {
+  // 17 Tamuz 5785: DOCX RTL run normalization transposes these two groups.
+  typstContent = typstContent.replace(
+    /אֶת\s+הָעָם\s+אָרָה\s+לִּי/gu,
+    "אָרָה לִּי אֶת הָעָם"
+  );
   // Tzav 5785 opens parentheses before both the quote and its source.
   // Keep only the source parenthesized, before directional isolation.
   typstContent = typstContent.replace(
@@ -2593,7 +2598,9 @@ function renderTypstDocument(entries, options, indexState = null) {
       : "none";
     const headingTitle = typstHeadingContent(entry.title);
     const headingAnchor = entry.anchor ? ` <${entry.anchor}>` : "";
-    const heading = entry.isHaskama || entry.isPdfPage
+    const heading = entry.route === "/10-teves/5785/"
+      ? `#place[#hide[#heading(level: 1)[10 Teves 5785]]]${headingAnchor}\n#heading(level: 1, outlined: false, bookmarked: false)[${headingTitle}]`
+      : entry.isHaskama || entry.isPdfPage
       ? `#place[#hide[#heading(level: 1)[${headingTitle}]]]`
       : isFrontMatter
       ? `#heading(level: 1)[${headingTitle}]`
