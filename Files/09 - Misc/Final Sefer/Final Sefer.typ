@@ -235,23 +235,6 @@ continue through your children, your ⁧אייניקלעך⁩⁦,⁩ and your �
 #pagebreak()
 
 #set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
-#place[#hide[#heading(level: 1)[100% Coverage Poem]]]
-
-#block(width: 100%, height: 100%)[
-  #align(center + horizon)[
-    #image("../../07 - Haskamos/03 TEMP/100% Coverage Poem.pdf", page: 1, width: 100%, height: 100%, fit: "contain")
-  ]
-]
-#pagebreak()
-#block(width: 100%, height: 100%)[
-  #align(center + horizon)[
-    #image("../../07 - Haskamos/03 TEMP/100% Coverage Poem.pdf", page: 2, width: 100%, height: 100%, fit: "contain")
-  ]
-]
-
-#pagebreak()
-
-#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Biale Rebbe Haskama]]]
 
 #block(width: 100%, height: 100%)[
