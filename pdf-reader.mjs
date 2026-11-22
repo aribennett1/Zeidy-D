@@ -56,7 +56,7 @@ export class PDFReader {
     zoomGroup.setAttribute("aria-label", "Zoom");
     zoomGroup.append(zoomOut, zoomIn);
     this.toolbar.append(zoomGroup);
-    button("Go to TOC", () => {
+    button("Go to Table of Contents", () => {
       if (!this.active) return;
       this.generation = (this.generation || 0) + 1;
       this.active.container.scrollTo({ top: 0, behavior: "instant" });
