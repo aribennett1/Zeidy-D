@@ -3450,7 +3450,7 @@ to, sons who were ⁧זָרִים⁩. ⁧כְּשֶׁמֵּת יוֹסֵף הצ�
 should be like ⁧מצרים⁩⁦;⁩ ⁧מִכָּאן אַתָּה לָמֵד שֶׁמשֶׁה מָלָן בִּיצִיאָתָן מִמִּצְרַיִם⁩ - Here we
 find out why ⁧משה רבינו⁩ had to ⁧מל⁩ them again when they went out of
 ⁧מצרים⁩⁦;⁩ ⁧וְכֵיוָן שֶׁעָשׂוּ כֵן⁩ - Since they were ⁧מפר⁩ the ⁧ברית⁩⁦;⁩ ⁧הָפַךְ הַקָּדוֹשׁ בָּרוּךְ הוּא הָאַהֲבָה שֶׁהָיוּ הַמִּצְרִיִּים אוֹהֲבִין אוֹתָן לְשִׂנְאָה⁩ - ⁧ה׳⁩ caused ⁧מצרים⁩ to start to
-hate them; ⁧לְהִתְנַכֵּל בַּעֲבָדָיו שֶׁנֶּאֱמַר: הָפַךְ לִבָּם לִשְׂנֹא עַמּוֹ⁩ - the ⁧פסוק⁩ we just said
+hate them; ⁧שֶׁנֶּאֱמַר הָפַךְ לִבָּם לִשְׂנֹא עַמּוֹ לְהִתְנַכֵּל בַּעֲבָדָיו⁩ - the pasuk we just said
 in ⁧תהלים⁩.
 
 The questions are 1) What did ⁧כלל ישראל⁩ do? And 2) Why did Hashem do
