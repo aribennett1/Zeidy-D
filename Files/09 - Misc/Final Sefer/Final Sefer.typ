@@ -4762,7 +4762,7 @@ me, made me think, and I'm delighted to share it with you. It says in
 understand what that means, but that's what the ⁧גמרא⁩ says\]; ⁧עד שהראה לו הקב״ה באצבעו⁩ - until ⁧הקב״ה⁩ showed him with a finger. \[We don't
 understand what that means either. It's ⁧כביכול⁩⁦,⁩ of course, Hashem has no
 fingers, but it says ⁧באצבע⁩. That's what it says\], and what are they?
-The first one we know, ⁧מנורה⁩. The second one, which we also know, is ⁧ראש חודש⁩. The third one, not quite as famous, is ⁧שרצים⁩⁦,⁩ it's a ⁧בפרש הגמרא⁩⁦,⁩ as Casey said, you could look it up.
+The first one we know, ⁧מנורה⁩. The second one, which we also know, is ⁧ראש חודש⁩. The third one, not quite as famous, is ⁧שרצים⁩⁦,⁩ it's a ⁧בפירוש הגמרא⁩⁦,⁩ as Casey said, you could look it up.
 
 Now, what happened with the ⁧מנורה⁩? ⁧משה רבינו⁩ threw a ⁧כיכר⁩ of gold into a
 fire, and the ⁧מנורה נעשה מאליה⁩ - The ⁧מנורה⁩ made itself, as ⁧מדרש תנחומא⁩
@@ -4866,8 +4866,8 @@ introduction of ⁧הכותב⁩⁦,⁩ a ⁧פירוש⁩ on ⁧עין יעקב
 
 ⁧בן זומא⁩ says it's ⁦(דברים ו:ד)⁩ ⁧שְׁמַע יִשְׂרָאֵל ה׳ אֱלֹקֵינוּ ה׳ אֶחָד⁩⁦,⁩ where we are
 ⁧מקבל אחדות השם⁩ and ⁧עול מלכות שמים⁩. ⁧בן ננס⁩ says it's ⁦(ויקרא י״ט:י״ח)⁩ ⁧וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ⁩ which pertains to ⁧בין אדם לחבירו⁩⁦,⁩ a tremendously important
-⁧יסוד⁩. Finally, ⁧שמעון בן פזי⁩ brings down the ⁧פסוק⁩ from our ⁧פרשה⁩: ⁧אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם ⁦(שמות כ״ט:ל״ט)⁩⁩, referring
-to the ⁧קרבן תמיד⁩.
+⁧יסוד⁩. Finally, ⁧שמעון בן פזי⁩ brings down the ⁧פסוק⁩ from our parsha: ⁧אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם ⁦(שמות כ״ט:ל״ט)⁩⁩ referring to
+the ⁧קרבן תמיד⁩.
 
 \[⁦רש״י⁩#metadata(none) <person-index-rashi-333> points out that ⁧תמיד⁩ does not mean it was brought continuously
 without interruption, but rather that it was brought every single day
@@ -4880,8 +4880,8 @@ everything, orchestrates all situations, and no matter what circumstance
 we find ourselves in, it comes from ⁧הקב״ה⁩. ⁧מצוות⁩ such as ⁧שבת⁩⁦,⁩ ⁧יום טוב⁩⁦,⁩ ⁧ממונות⁩⁦,⁩ ⁧נזיקין⁩⁦,⁩ and ⁧קרבנות⁩ all teach and reinforce this ⁧יסוד⁩.
 
 Why do we specifically have two ⁧קרבנות⁩ each day - one in the morning and
-one at night? Many ⁧פשטים⁩ are offered, but one of the simplest yet most
-meaningful comes from ⁧ספר מעינה של תורה⁩⁦,⁩ #metadata(none) <person-index-m-eino-shel-torah-332> quoting the ⁧הדרש והעיון⁩. A
+one in the evening? Many ⁧פשטים⁩ are offered, but one of the simplest yet
+most meaningful comes from ⁧ספר מעינה של תורה⁩⁦,⁩ #metadata(none) <person-index-m-eino-shel-torah-332> quoting the ⁧הדרש והעיון⁩. A
 person's life can be divided into two phases: the first half is a time
 of ascent, and the second half is a time of descent.
 
