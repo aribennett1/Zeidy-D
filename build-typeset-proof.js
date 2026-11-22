@@ -1397,7 +1397,13 @@ function isolateHebrewRuns(typstContent) {
     /בשבילי\s+נברא\s+העולם\s+\(סנהדרין\s+לז\)/gu,
     phrase => protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(phrase)}${POP_DIRECTIONAL_ISOLATE}`)
   );
-  const rtlReferenceSafeContent = protectMarkedRtlReferences(tzavQuoteSafeContent, protect);
+  // Behaloscha 5784: keep the verse before its commentary in RTL reading
+  // order, including the quotation marks and the separating dash.
+  const behaloschaQuoteSafeContent = tzavQuoteSafeContent.replace(
+    /(תָּנוּ\s+רַבָּנַן:\s+״וַיְהִי\s+בִּנְסוֹעַ\s+הָאָרוֹן\s+וַיֹּאמֶר\s+מֹשֶׁה״)\s+(פָּרָשָׁה\s+זוֹ\s+עָשָׂה\s+לָהּ\s+הַקָּדוֹשׁ\s+בָּרוּךְ\s+הוּא\s+סִימָנִיּוֹת)/gu,
+    (_match, verse, commentary) => protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(verse)} - ${normalizeInlineWhitespace(commentary)}${POP_DIRECTIONAL_ISOLATE}`)
+  );
+  const rtlReferenceSafeContent = protectMarkedRtlReferences(behaloschaQuoteSafeContent, protect);
 
   const protectHebrewTextWithReference = (_match, hebrewText, reference) => {
       const isRtlReference = hebrewText.endsWith(RTL_REFERENCE_MARKER);

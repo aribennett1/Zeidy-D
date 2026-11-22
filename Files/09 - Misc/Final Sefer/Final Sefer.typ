@@ -7397,8 +7397,9 @@ these ⁧מצוות⁩ very quickly when ⁧משיח⁩ will come ⁧במהרה 
   ))
 = Bamidbar 5783
 
-⁧פרשת במדבר⁩ always is the ⁧שבת⁩ before the ⁧יום טוב⁩ of ⁧שבועות⁩. As an aside, my quiz question for everyone I've come into contact with for the last
-two weeks is, if the ⁧שבת⁩ before ⁧פסח⁩ is ⁧שבת הגדול⁩ and the ⁧שבת⁩ before ⁧יום כיפור⁩ is ⁧שבת שובה⁩⁦,⁩ what is the name of the ⁧שבת⁩ before ⁧שבועות⁩? Everyone
+⁧פרשת במדבר⁩ is always read before the ⁧יום טוב⁩ of ⁧שבועות⁩. As an aside, my
+quiz question for everyone I've come into contact with for the last two
+weeks is, if the ⁧שבת⁩ before ⁧פסח⁩ is ⁧שבת הגדול⁩ and the ⁧שבת⁩ before ⁧יום כיפור⁩ is ⁧שבת שובה⁩⁦,⁩ what is the name of the ⁧שבת⁩ before ⁧שבועות⁩? Everyone
 looks at me with a glazed look and I answer them ⁧שבת דרך ארץ⁩ because ⁧דרך ארץ קדמה לתורה⁩. It's in the ⁦חידושי הרי״ם⁩.#metadata(none) <person-index-chidushei-harim-511>
 
 But that is not the thrust of this week's talk. Many of the ⁧מפרשים⁩⁦,⁩ from
@@ -7424,10 +7425,12 @@ follows: ⁧וְאֵרַשְׂתִּיךְ לִי לְעוֹלָם⁩ - I will b
 justice, with kindness, and with mercy. ⁧וְאֵרַשְׂתִּיךְ לִי בֶּאֱמוּנָה⁩ - I will
 betroth you with ⁧אמונה⁩⁦,⁩ with faith; ⁧וְיָדַעַתְּ אֶת ה׳⁩ - and then you will know
 Hashem. These ⁧פסוקים⁩⁦,⁩ which we say every day when we put on our ⁧תפילין⁩ - and if we're looking forward to our ⁧בר מצוה⁩ when we're not yet 13, we
-start learning it ahead of time - reflects the tremendous excitement, the enthusiasm, and the happiness we feel in drawing closer to Hashem, just like a ⁧חתן⁩ and ⁧כלה⁩ who are in the stage of ⁧אירוסין⁩. The ⁧מפרשים⁩
-explain that is why the pasuk uses ⁧אֵרַשְׂתִּיךְ⁩ and not ⁧נישואין⁩ - because this
-is the period of anticipation. They're looking forward with enthusiasm
-to that happy day when they'll become a ⁧בית נאמן בישראל⁩.
+start learning it ahead of time - reflect the tremendous excitement, the
+enthusiasm, and the happiness we feel in drawing closer to Hashem, just
+like a ⁧חתן⁩ and ⁧כלה⁩ who are in the stage of ⁧אירוסין⁩. The ⁧מפרשים⁩ explain
+that is why the pasuk uses ⁧אֵרַשְׂתִּיךְ⁩ and not ⁧נישואין⁩ - because this is the
+period of anticipation. They're looking forward with enthusiasm to that
+happy day when they'll become a ⁧בית נאמן בישראל⁩.
 
 That is what ⁧הר סיני⁩ was. It is so appropriate that this is the ⁧שבת⁩ of
 ⁧במדבר⁩⁦,⁩ right before ⁧שבועות⁩ - to infuse us with that same excitement and
@@ -7807,11 +7810,11 @@ well know, the ⁧הלכה⁩ is that things become ⁧בטל בשישים⁩. S
 one-sixtieth of what a ⁧נבואה⁩ is, and ⁧ברכת כהנים⁩ represents a ⁧נבואה⁩⁦,⁩ the
 dreamer is nullifying the bad dream in the positive effect of the ⁧נבואה⁩
 of ⁧ברכת כהנים⁩. ⁧ברכת כהנים⁩ is a ⁧נבואה⁩⁦,⁩ it's a full ⁧נבואה⁩⁦,⁩ and a ⁧חלום⁩ is
-one-sixtieth of a ⁧נבואה⁩. So one-sixtieth plus sixty is sixty-one. It's
-⁧בטל בשישים⁩. By the way, he brings down, how many letters in ⁧ברכת כהנים⁩⁦?⁩
-You can ask this of all your friends and neighbors. Sixty letters. So
-therefore, it has the ability through the ⁧כח⁩ of being a ⁧נבואה⁩ of being
-⁧מבטל⁩ the bad ⁧חלום⁩ in ⁧שישים⁩.
+one-sixtieth of a ⁧נבואה⁩. So one part plus sixty parts is sixty-one
+parts. It's ⁧בטל בשישים⁩. By the way, he brings down, how many letters in
+⁧ברכת כהנים⁩⁦?⁩ You can ask this of all your friends and neighbors. Sixty
+letters. So therefore, it has the ability through the ⁧כח⁩ of being a
+⁧נבואה⁩ of being ⁧מבטל⁩ the bad ⁧חלום⁩ in ⁧שישים⁩.
 
 Another ⁧שטיקל⁩ from R’ Chaim. One of his sons completed ⁧ששה סדרי משנה⁩
 when he was ten and a half years old. For the celebration, R’ Chaim
@@ -7955,7 +7958,7 @@ the ⁧תורה⁩ - the famous section of ⁧וַיְהִי בִּנְסֹעַ 
 two upside-down ⁧נ'⁩s. Nothing else in the ⁧תורה⁩ is remotely similar to
 that. The ⁧ספר אפריון⁩ from ⁧ר' שלמה גאנצפריד⁩⁦,⁩ has a short but interesting
 essay regarding this ⁧פרשה⁩ of ⁧וַיְהִי בִּנְסֹעַ הָאָרֹן⁩. He brings a Gemara ⁦(שבת דף
-קט״ו ע״ב)⁩: ⁧תָּנוּ רַבָּנַן⁩: ⁦״וַיְהִי בִּנְסוֹעַ הָאָרוֹן וַיֹּאמֶר מֹשֶׁה״⁩ ⁧פָּרָשָׁה זוֹ עָשָׂה לָהּ הַקָּדוֹשׁ בָּרוּךְ הוּא סִימָנִיּוֹת⁩ - The ⁧גמרא⁩ says that ⁧הקדוש ברוך הוא⁩ made a ⁧סימן מִלְּמַעְלָה וּלְמַטָּה⁩ - at the beginning and at the end, to tell you that this is not in
+קט״ו ע״ב)⁩: ⁧תָּנוּ רַבָּנַן: ״וַיְהִי בִּנְסוֹעַ הָאָרוֹן וַיֹּאמֶר מֹשֶׁה״ - פָּרָשָׁה זוֹ עָשָׂה לָהּ הַקָּדוֹשׁ בָּרוּךְ הוּא סִימָנִיּוֹת⁩ - The ⁧גמרא⁩ says that ⁧הקדוש ברוך הוא⁩ made a ⁧סימן מִלְּמַעְלָה וּלְמַטָּה⁩ - at the beginning and at the end, to tell you that this is not in
 its right place. ⁧רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל⁩ says, ⁧עֲתִידָה פָּרָשָׁה זוֹ שֶׁתֵּיעָקֵר מִכָּאן וְתִכָּתֵב בִּמְקוֹמָהּ⁩ - that this is not the right place. In the future these
 pesukim will be moved. However, why was it put here now? ⁧כְּדֵי לְהַפְסִיק בֵּין פּוּרְעָנוּת רִאשׁוֹנָה לְפוּרְעָנוּת שְׁנִיָּיה⁩ - To separate the ⁧פורעניות⁩ that they
 shouldn't be together. ⁦רש״י⁩#metadata(none) <person-index-rashi-554> says that ⁧לעתיד לבוא⁩⁦,⁩ in ⁧ימות המשיח⁩⁦,⁩ all the

@@ -3027,3 +3027,14 @@ test("docx: Mussaf Yom Tov 5783 preserves Yeshaya and Yechezkel chapter-verse or
   assertContains(typst, `${LTR_ISOLATE}ישעיהו ו׳:ב׳${POP_DIRECTIONAL_ISOLATE}.`, "Yeshaya 6:2 is one reference");
   assertContains(typst, `${LTR_ISOLATE}יחזקאל א׳:ו׳${POP_DIRECTIONAL_ISOLATE} which says`, "Yechezkel 1:6 is one reference");
 });
+
+test("Behaloscha 5784 keeps the verse before commentary in one RTL phrase", () => {
+  const verse = "תָּנוּ רַבָּנַן: ״וַיְהִי בִּנְסוֹעַ הָאָרוֹן וַיֹּאמֶר מֹשֶׁה״";
+  const commentary = "פָּרָשָׁה זוֹ עָשָׂה לָהּ הַקָּדוֹשׁ בָּרוּךְ הוּא סִימָנִיּוֹת";
+  const expected = `${RTL_ISOLATE}${verse} - ${commentary}${POP_DIRECTIONAL_ISOLATE} - The`;
+  for (const gap of [" ", "\n"]) {
+    assert.equal(applyTextRules(`${verse}${gap}${commentary} - The`), expected);
+  }
+  assertContains(convertedDocx("/behaloscha/5784/"), expected,
+    "the verse, quotes, dash, and commentary stay in Hebrew reading order with original vocalization");
+});
