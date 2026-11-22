@@ -2232,6 +2232,13 @@ function convertDocxToTypst(entry, indexState = null) {
   );
   const indexedBody = indexState ? tagPersonIndexMentions(body, indexState) : body;
   const formattedBody = normalizeRtlBulletLists(applyTextRules(indexedBody));
+  if (entry.route === "/mishpatim/5783/") {
+    // These are separate items in an English list: preserve LTR item order.
+    return formattedBody.replace(
+      /\u2067שִׁעבּוּד\s+מצרים,\s+יציאת\s+מצרים\u2069/gu,
+      `${LTR_ISOLATE}${RTL_ISOLATE}שִׁעבּוּד מצרים${POP_DIRECTIONAL_ISOLATE}, ${RTL_ISOLATE}יציאת מצרים${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}`
+    );
+  }
   if (entry.route === "/eikev/5784/") {
     // Separate the English list marker from the RTL verse and its source.
     return formattedBody.replace(/\b([123]\))(?=\u2067)/gu, "$1 ");

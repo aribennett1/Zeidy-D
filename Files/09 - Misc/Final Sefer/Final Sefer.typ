@@ -4284,8 +4284,7 @@ says ⁧מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתּ�
 to the ⁧מלאכים⁩ and enable us to receive the ⁧תורה⁩. Im Yirtzeh Hashem, in
 the ⁧זכות⁩ of ⁧קבלת תורה⁩⁦,⁩ may we all be ⁧זוכה⁩ to do ⁧תשובה⁩ and return back to
 being ⁧עוֹלְלִים וְיֹנְקִים⁩. Let us all be ⁧קינדערלאך⁩ in our childlike acceptance
-of ⁧הקדוש ברוך הוא⁩ with complete ⁧אמונה⁩ and ⁧בטחון⁩. In that ⁧זכות⁩⁦,⁩ let ⁧משיח⁩
-come quickly and everyone should have ⁧ישועות ונחמות⁩.
+of ⁧הקדוש ברוך הוא⁩ with complete ⁧אמונה⁩ and ⁧בטחון⁩.
 
 #pagebreak()
 
@@ -4357,7 +4356,7 @@ event before ⁧מתן תורה⁩⁦?⁩
 
 A possible answer is connected to the sequence of the ⁧פרשיות⁩ known as
 ⁧שובבים⁩⁦,⁩ which concludes with ⁧משפטים⁩. These ⁧פרשיות⁩ cover some of the most
-dramatic events in history: ⁧שִׁעבּוּד מצרים, יציאת מצרים⁩, and ⁧קבלת התורה⁩.
+dramatic events in history: ⁦⁧שִׁעבּוּד מצרים⁩, ⁧יציאת מצרים⁩⁩, and ⁧קבלת התורה⁩.
 One might think that ⁧מתן תורה⁩ represents the ultimate climax of this
 narrative. However, Rabbi Oelbaum#metadata(none) <person-index-r-noach-isaac-oelbaum-292> explained that the true climax is
 actually ⁧פרשת משפטים⁩.
@@ -4786,14 +4785,13 @@ We don't see that they were made by themselves by a ⁧נס⁩⁦,⁩ just like 
 
 He says ⁧על דרך דרוש⁩ that we learn from this a tremendous ⁧מוסר השכל⁩
 regarding ⁧חינוך הבנים⁩⁦,⁩ educating our children. What were the ⁧כרובים⁩? The
-⁧כרובים⁩ had a ⁧דְמוּת⁩ of two ⁧תינוקות⁩⁦,⁩ a ⁧בפרש גמרא⁩ in ⁧סוכה דף ה׳⁩. The ⁧תורה⁩ is
-⁧מרמז⁩ to us in this tremendous accomplishment of making this ⁧כלי⁩ of the
-⁧בית המקדש⁩⁦,⁩ a ⁧יסוד גדול לחינוך התינוקות: שאין הבנים גדלים בתורה וביראת שמים מאליהם⁩ - The kids can't grow up by themselves. You can't say “Let
-them figure it out themselves. They'll do it by themselves.” Only after
-tremendous effort, ⁧עמל רב⁩⁦,⁩ with tremendous ⁧תפילות⁩⁦,⁩ ⁧תהילים און טרערן⁩.
-It's always said that the Jewish mothers would cry by the ⁧לכט⁩ Friday
-night, and daven for their children's ⁧הצלחה⁩. Only then, will we be able
-to see ⁧דורות ישרים⁩.
+⁧כרובים⁩ had a ⁧דְמוּת⁩ of two ⁧תינוקות⁩⁦,⁩ a ⁧בפירוש גמרא⁩ in ⁧סוכה דף ה׳⁩. The ⁧תורה⁩
+is ⁧מרמז⁩ to us in this tremendous accomplishment of making this ⁧כלי⁩ of
+the ⁧בית המקדש⁩⁦,⁩ a ⁧יסוד גדול לחינוך התינוקות: שאין הבנים גדלים בתורה וביראת שמים מאליהם⁩ - The kids can't grow up by themselves. You can't say
+“Let them figure it out themselves. They'll do it by themselves.” Only
+after tremendous effort, ⁧עמל רב⁩⁦,⁩ with tremendous ⁧תפילות⁩⁦,⁩ ⁧תהילים און טרערן⁩. It's always said that the Jewish mothers would cry by the ⁧לכט⁩
+Friday night, and daven for their children's ⁧הצלחה⁩. Only then, will we
+be able to see ⁧דורות ישרים⁩.
 
 A famous proof of this, and this was what sealed the greatness of this
 vort. What does it say in the ⁧הגדה⁩? Look it up. ⁧עֲמָלֵנוּ⁩ - ⁧אֵלּוּ הַבָּנִים⁩. Our

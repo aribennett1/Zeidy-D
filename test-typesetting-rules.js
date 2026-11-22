@@ -3101,3 +3101,12 @@ test("corrects every הקודש ברוך הוא to הקדוש ברוך הוא du
     `${RTL_ISOLATE}הקדוש ברוך הוא${POP_DIRECTIONAL_ISOLATE} and ${RTL_ISOLATE}הקדוש ברוך הוא${POP_DIRECTIONAL_ISOLATE} and ${RTL_ISOLATE}הקדוש ברוך הוא${POP_DIRECTIONAL_ISOLATE}`
   );
 });
+
+test("docx: Mishpatim 5783 lists shibud before yetziyas Mitzrayim left to right", () => {
+  const typst = convertedDocx("/mishpatim/5783/");
+  assertContains(typst,
+    `dramatic events in history: ${LTR_ISOLATE}${RTL_ISOLATE}שִׁעבּוּד מצרים${POP_DIRECTIONAL_ISOLATE}, ${RTL_ISOLATE}יציאת מצרים${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}, and ${RTL_ISOLATE}קבלת התורה${POP_DIRECTIONAL_ISOLATE}`,
+    "LTR list wrapper keeps the two Hebrew items in English reading order");
+  assertNotContains(typst, `${RTL_ISOLATE}שִׁעבּוּד מצרים, יציאת מצרים${POP_DIRECTIONAL_ISOLATE}`,
+    "the items must not merge into one RTL list");
+});
