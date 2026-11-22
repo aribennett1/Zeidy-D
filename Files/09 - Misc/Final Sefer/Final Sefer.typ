@@ -4704,7 +4704,7 @@ curtains only secured at the top and their weight held them down? So
 away and reveals what their purpose was, and what their use was; ⁧שֶׁהֵם תְּקוּעִים בָּאָרֶץ⁩ - That they were fastened into the ground, stuck into the
 ground; ⁧לְכָךְ נִקְרְאוּ יְתֵדוֹת⁩ - That's what they're called ⁧יְתֵדוֹת⁩⁦,⁩ which means
 pins. And then he brings down a ⁧פסוק⁩ from ⁧ישעיה⁩: ⁧וּמִקְרָא זֶה מְסַיְּעֵנִי⁩. That's
-what I thought was quite fascinating. And the ⁧פסוק⁩ in (⁧ישעיה⁩ (⁦ל״ג׃כ׳⁩
+what I thought was quite fascinating. And the ⁧פסוק⁩ in ⁦(ישעיה ל״ג:כ׳)⁩
 that ⁦רש״י⁩#metadata(none) <person-index-rashi-306> brings is: ⁧אֹהֶל בַּל יִצְעָן⁩ - a tent shall not be removed; ⁧בַּל יִסַּע יְתֵדֹתָיו⁩ - And the ⁧יתדות⁩ will never be taken out; ⁧לָנֶצַח⁩ - forever. So the
 last ⁦רש״י⁩#metadata(none) <person-index-rashi-307> in ⁧תרומה⁩⁦,⁩ the last word of that ⁦רש״י⁩#metadata(none) <person-index-rashi-308> is ⁧לָנֶצַח⁩⁦,⁩ forever, and I
 thought this is quite fascinating ⁦(This is my vort, ⁧לענית דעתי⁩⁦,⁩ I hope

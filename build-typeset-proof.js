@@ -1972,6 +1972,9 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
 }
 
 function applyTextRules(typstContent) {
+  // Teruma 5784 has two opening parentheses and no closing parenthesis in
+  // this source citation. Repair it before applying directional isolation.
+  typstContent = typstContent.replace(/\(ישעיה\s+\(ל״ג׃כ׳/gu, "(ישעיה ל״ג:כ׳)");
   // The source places two opening brackets around different parts of this
   // quote. Only the explanatory final word belongs in brackets.
   typstContent = typstContent.replace(
