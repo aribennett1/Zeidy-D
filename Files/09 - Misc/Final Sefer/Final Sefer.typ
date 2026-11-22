@@ -4822,7 +4822,7 @@ words.
 
 He cites ⁦רב דוד אלעווסקי שליט״א⁩, a ⁧ראש ישיבה⁩ of ⁧בית ישראל⁩ of Ger in
 Brooklyn, who shared a beautiful insight from the ⁧שם משמואל⁩.#metadata(none) <person-index-shem-mishmuel-329> The ⁧שם משמואל⁩⁦,⁩ #metadata(none) <person-index-shem-mishmuel-330> quoting the ⁦חידושי הרי״ם⁩, #metadata(none) <person-index-chidushei-harim-313> explains that every language reflects
-the essence of the nation that speaks it. The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-314> states: ⁧לשון צרפת היא משחת לניאוף⁩ - The French language, he argues, is inherently
+the essence of the nation that speaks it. The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-314> states: ⁧לשון צרפת היא מושכת לניאוף⁩ - The French language, he argues, is inherently
 associated with immorality, reflecting the culture of France, which is
 often steeped in ⁧טומאה⁩ and ⁧ניאוף⁩. The ⁦חידושי הרי״ם⁩#metadata(none) <person-index-chidushei-harim-315> says, this is ⁧פּונקט פאַרקערט⁩ from ⁧לשון הקודש⁩. ⁧לשון הקודש⁩ can transform dirt into clean, ⁧הפכת את הרע לטובה⁩⁦,⁩ from the ⁧כח⁩ of the ⁧קדושה⁩ of the ⁧תורה⁩⁦,⁩ and from the
 tremendous ⁧קדושה⁩ that's embedded within its words. Based on this ⁧יסוד⁩⁦,⁩ the ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-320> suggests that perhaps ⁦רש״י⁩#metadata(none) <person-index-rashi-326> incorporated French
@@ -5766,8 +5766,7 @@ if I do not succeed, it is not the ⁦אפריון'⁩s fault, but mine. He quot
 ⁧ספר⁩⁦,⁩ which I had never heard of - though that is not unusual - called
 ⁧שפע טל⁩⁦,⁩ “The Bounty of Dew.” He brings it down in the name of ⁧מקובלים⁩⁦,⁩ so we immediately know that this is a ⁧קבלה⁩ - based idea rather than a
 simple ⁧פשט⁩. ⁧הקדוש ברוך הוא, מלך מלכי המלכים⁩⁦,⁩ is understood through His
-⁧מעשים⁩ and through His ⁧מצוות⁩. His name consists of ⁦רמ״ח מצוות עשה ושס״ה⁩
-⁧מצוות לא תעשה⁩ - the 613 ⁧מצוות⁩⁦,⁩ broken into 248 positive ⁧מצוות⁩ and 365
+⁧מעשים⁩ and through His ⁧מצוות⁩. His name consists of ⁧רמ״ח מצוות עשה ושס״ה מצוות לא תעשה⁩ - the 613 ⁧מצוות⁩⁦,⁩ broken into 248 positive ⁧מצוות⁩ and 365
 negative ⁧מצוות⁩. What is the ⁧רמז⁩ for this? The ⁧פסוק⁩ in ⁦שמות ג׳:ט״ו⁩
 states: ⁧זֶה שְּׁמִי לְעֹלָם וְזֶה זִכְרִי לְדֹר דֹּר⁩. If you take the ⁧גמטריא⁩ of the word
 ⁧שמי⁩ along with the first half of Hashem's name - ⁧י׳, ה׳, ו׳, ה׳⁩ - it
@@ -6148,7 +6147,7 @@ is ⁧אסור⁩ to do the ⁧עבודה⁩. ⁧משה⁩ immediately acknowled
 admitted, “You're right, I forgot.” He was not embarrassed to admit he
 was wrong.
 
-Now let's focus on the first half of the ⁧פסוק⁩⁦,⁩ ⁧וְאֵת שְׂעִיר הַחַטָּאת דָּרֹשׁ דָּרַשׁ מֹשֶׁה⁩. Everyone knows that this phrase is unique in the ⁧חומש⁩. In my ⁧חומש⁩⁦,⁩ it notes: ⁧חצי התורה בתיבות⁩- ⁧דרש מכאן⁩⁦,⁩ ⁧ודרש מכאן⁩. This means that ⁧דָּרֹשׁ דָּרַשׁ⁩
+Now let's focus on the first half of the ⁧פסוק⁩⁦,⁩ ⁧וְאֵת שְׂעִיר הַחַטָּאת דָּרֹשׁ דָּרַשׁ מֹשֶׁה⁩. Everyone knows that this phrase is unique in the ⁧חומש⁩. In my ⁧חומש⁩⁦,⁩ it notes: ⁧דרש מכאן, ודרש מכאן - חצי התורה בתיבות⁩. This means that ⁧דָּרֹשׁ דָּרַשׁ⁩
 marks the exact midpoint of the ⁧תורה⁩ in terms of words. The ⁧ספר דגל מחנה אפרים⁩ brings a ⁧גיוועלדיק דבר תורה⁩ on this phrase. He quotes the ⁧מסורה⁩
 that states ⁧כאן חצי התורה⁩⁦,⁩ and he explains as follows. ⁧תורה שבכתב⁩ and
 ⁧תורה שבעל פה⁩ are one entity. Together, they form a complete and unified
@@ -6844,7 +6843,7 @@ casual behavior - right into the ⁧בית השלישי⁩. We have to train our
 to properly honor a ⁧בית הכנסת⁩. Then we'll truly understand what the
 ⁧קדושה⁩ of the ⁧בית המקדש⁩ is.”
 
-The ⁦סמ״ק⁩, the ⁧ספר מצוות קטנות⁩⁦,⁩ writes that a shul is a miniature ⁧בית המקדש⁩. The ⁧קב הישר⁩ says that the walls of a shul are so holy, people
+The ⁦סמ״ק⁩, the ⁧ספר מצוות קטן⁩⁦,⁩ writes that a shul is a miniature ⁧בית המקדש⁩. The ⁧קב הישר⁩ says that the walls of a shul are so holy, people
 used to kiss them. The ⁧שכינה⁩ is there.
 
 We have to appreciate that. We must learn to respect and honor the place
@@ -7143,7 +7142,7 @@ think ⁧שמיטה⁩ is just about sitting back and doing nothing, in reality,
 are coming closer to Hashem by stepping away from our ⁧גשמיות⁩ and
 focusing more on ⁧רוחניות⁩. And of course, the poor can come in and take
 whatever they want. So there are a lot of aspects here which tie ⁧פרשת בהר⁩ to a shidduch, and therefore the following story from “The Weekly
-Vort"#metadata(none) <person-index-the-weekly-vort-484> is relevant.
+Vort”#metadata(none) <person-index-the-weekly-vort-484> is relevant.
 
 A widow, who we're going to call Mrs. Mandel, had a daughter who was
 undergoing treatment in Tel HaShomer hospital in Tel Aviv, and requested
@@ -7969,7 +7968,7 @@ So why the letter ⁧נ⁩ and not any other letter? The ⁧אפריון⁩ answ
 there are two ⁧תוכחה/פורעניות⁩ sections in the ⁧תורה⁩⁦,⁩ one in ⁧בחקתי⁩ and the
 other in ⁧כי תבוא⁩. There are 98 ⁧קללות⁩ in the major ⁧תוכחה⁩ in ⁧כי תבוא⁩.
 However, the ⁧אפריון⁩ writes that in addition to these 98, there's also
-the phrase ⁧גַּם כׇּל חֳלִי וְכׇל מַכָּה⁩. The ⁧חֳלִי⁩ and ⁧מַכָּה⁩ adds another two to 98 for
+the phrase ⁧גַּם כׇּל חֳלִי וְכׇל מַכָּה⁩. The ⁧חֳלִי⁩ and ⁧מַכָּה⁩ add another two to 98 for
 a total of 100. Therefore, ⁦חז״ל⁩ were ⁧מתקן⁩ to say ⁧מאה ברכות⁩ every day to
 protect us from those 100 ⁧פורעניות⁩ and ⁧קללות⁩.
 

@@ -1229,6 +1229,9 @@ function normalizeHebrewQuotePlacement(typstContent) {
 function smartenStraightDoubleQuotes(typstContent) {
   const hebrewClass = HEBREW_LETTERS.slice(1, -1);
   return normalizeHebrewQuotePlacement(typstContent)
+    // Index metadata is invisible; a quote after an English word still
+    // closes that word's quotation when the marker immediately follows it.
+    .replace(/([A-Za-z])\\?"(?=#metadata\(none\)\s*<person-index-[^>\n]+>)/gu, "$1”")
     .replace(new RegExp(`(${HEBREW_LETTERS})\\\\?"(?=${HEBREW_LETTERS})`, "gu"), "$1״")
     .replace(new RegExp(`(^|[\\s([{\\-])\\\\?"(?=(?:${HEBREW_LETTERS}|[\\u2066\\u2067]))`, "gu"), "$1“")
     .replace(new RegExp(`(${HEBREW_LETTERS})“(?=(?:\\s+[A-Za-z])|$|[,.;:!?)}\\]]|\\u2069)`, "gu"), "$1”")
@@ -1403,7 +1406,18 @@ function isolateHebrewRuns(typstContent) {
     /(תָּנוּ\s+רַבָּנַן:\s+״וַיְהִי\s+בִּנְסוֹעַ\s+הָאָרוֹן\s+וַיֹּאמֶר\s+מֹשֶׁה״)\s+(פָּרָשָׁה\s+זוֹ\s+עָשָׂה\s+לָהּ\s+הַקָּדוֹשׁ\s+בָּרוּךְ\s+הוּא\s+סִימָנִיּוֹת)/gu,
     (_match, verse, commentary) => protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(verse)} - ${normalizeInlineWhitespace(commentary)}${POP_DIRECTIONAL_ISOLATE}`)
   );
-  const rtlReferenceSafeContent = protectMarkedRtlReferences(behaloschaQuoteSafeContent, protect);
+  // Vayikra 5785: keep both counts and their descriptions in one RTL run.
+  const vayikraEnumerationSafeContent = behaloschaQuoteSafeContent.replace(
+    /רמ״ח\s+מצוות\s+עשה\s+ושס״ה\s+מצוות\s+לא\s+תעשה/gu,
+    phrase => protect(`${RTL_ISOLATE}${normalizeInlineWhitespace(phrase)}${POP_DIRECTIONAL_ISOLATE}`)
+  );
+  // Shmini 5783: put the two clauses first and keep the entire note in
+  // Hebrew reading order, including its comma and explanatory ending.
+  const shminiNoteSafeContent = vayikraEnumerationSafeContent.replace(
+    /חצי\s+התורה\s+בתיבות\s*-\s*דרש\s+מכאן,\s*ודרש\s+מכאן/gu,
+    () => protect(`${RTL_ISOLATE}דרש מכאן, ודרש מכאן - חצי התורה בתיבות${POP_DIRECTIONAL_ISOLATE}`)
+  );
+  const rtlReferenceSafeContent = protectMarkedRtlReferences(shminiNoteSafeContent, protect);
 
   const protectHebrewTextWithReference = (_match, hebrewText, reference) => {
       const isRtlReference = hebrewText.endsWith(RTL_REFERENCE_MARKER);

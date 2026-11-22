@@ -1801,8 +1801,8 @@ test("docx: Behar 5784 keeps indexed quoted title tight to its closing quote", (
 
   assertContains(
     typst,
-    `Vort"#metadata(none) <person-index-the-weekly-vort-1> is relevant`,
-    "index marker follows the closing quote"
+    `Vort”#metadata(none) <person-index-the-weekly-vort-1> is relevant`,
+    "index marker follows an explicit closing curly quote"
   );
   assertNotContains(
     typst,
@@ -3037,4 +3037,36 @@ test("Behaloscha 5784 keeps the verse before commentary in one RTL phrase", () =
   }
   assertContains(convertedDocx("/behaloscha/5784/"), expected,
     "the verse, quotes, dash, and commentary stay in Hebrew reading order with original vocalization");
+});
+
+test("Vayikra 5785 keeps mitzvah counts with their descriptions in Hebrew order", () => {
+  const phrase = "רמ״ח מצוות עשה ושס״ה מצוות לא תעשה";
+  const expected = `His name consists of ${RTL_ISOLATE}${phrase}${POP_DIRECTIONAL_ISOLATE} - the 613`;
+  for (const text of [phrase, phrase.replace(/ /g, "\n")]) {
+    assert.equal(applyTextRules(`His name consists of ${text} - the 613`), expected);
+  }
+  assertContains(convertedDocx("/vayikra/5785/"), expected,
+    "one RTL phrase keeps מצוות לא תעשה after ושס״ה in Hebrew reading order");
+});
+
+test("Shmini 5783 keeps the Masoretic note clauses in Hebrew reading order", () => {
+  const expected = `${RTL_ISOLATE}דרש מכאן, ודרש מכאן - חצי התורה בתיבות${POP_DIRECTIONAL_ISOLATE}. This means`;
+  for (const note of [
+    "חצי התורה בתיבות- דרש מכאן, ודרש מכאן",
+    "חצי התורה\nבתיבות - דרש מכאן,\nודרש מכאן",
+  ]) {
+    assert.equal(applyTextRules(`${note}. This means`), expected);
+  }
+  assertContains(convertedDocx("/shmini/5783/"), expected,
+    "דרש precedes ודרש and the explanatory ending stays in the same RTL isolate");
+});
+
+test("closes English double quotes before invisible person index markers", () => {
+  const marker = "#metadata(none) <person-index-the-weekly-vort-1>";
+  for (const quote of ['"', '\\"']) {
+    assert.equal(
+      applyTextRules(`from "The Weekly\nVort${quote}${marker} is relevant.`),
+      `from “The Weekly\nVort”${marker} is relevant.`
+    );
+  }
 });
