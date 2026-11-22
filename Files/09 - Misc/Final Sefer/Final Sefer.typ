@@ -7082,7 +7082,8 @@ can't do it because you're a ⁧כהן⁩.
 
 Later in his life, the ⁧לבושי שרד⁩ moved to ⁧ארץ ישראל⁩ and became a rav in
 ⁧צפת⁩. Another person came in and took his place. I'll use the words that
-the ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-475> uses: ⁧רב אחר אשר חשב עצמו כחכם בעיניו ועז לאותו להפך⁩ - He thought he was a genius, and that his predecessor was not that
+the ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-475> uses: ⁧רב אחר אשר חשב עצמו כחכם בעיניו ועל זולתו להפך⁩
+\- He thought he was a genius, and that his predecessor was not that
 terribly smart. Soon enough, the ⁧עשיר⁩ came to the new rav saying, “I
 want to be ⁧מגרש⁩ my wife.” The rav replied, “Okay”, and sat him down to
 write him a ⁧גט⁩. The ⁧עשיר⁩ asked him, “But how can you do that? It's
