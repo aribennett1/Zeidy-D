@@ -3165,12 +3165,11 @@ the road. However, ⁧יוסף⁩⁦,⁩ a maven on the brothers’ enormous cap
 scale the heights of torah scholarship, cautioned them with the words ⁧אַל תִּרְגְּזוּ בַּדָּרֶךְ⁩⁦,⁩ advising them that the dangers of the road outweighed the
 benefits of their heightened learning.
 
-The Brisker Rav#metadata(none) <person-index-brisker-rav-190> complements the above. He brings ⁦רש״י⁩#metadata(none) <person-index-rashi-197> from ⁦מסכת תענית דף
-י ע״ב⁩, which says: ⁧אַל תִּתְעַסְּקוּ בִּדְבַר הֲלָכָה, שֶׁמָּא תְּרַגְּזוּ עֲלֵיכֶם הַדֶּרֶךְ⁩ - that the
-road should not be a danger to you, that you should not get lost. The
-⁧גמרא⁩ continues: ⁧אָמַר רַבִּי אִלְעַאי בַּר בֶּרֶכְיָה: שְׁנֵי תַּלְמִידֵי חֲכָמִים שֶׁמְּהַלְּכִים בַּדֶּרֶךְ וְאֵין בֵּינֵיהֶן דִּבְרֵי תוֹרָה רְאוּיִין לִישָּׂרֵף⁩ - If two ⁧תַּלְמִידֵי חֲכָמִים⁩ are walking and
-don't learn ⁧תורה⁩⁦,⁩ they have to be destroyed. This directly contradicts
-what ⁧יוסף⁩ was telling them?
+The Brisker Rav#metadata(none) <person-index-brisker-rav-190> further develops the above. He brings ⁦רש״י⁩#metadata(none) <person-index-rashi-197> from ⁦מסכת
+תענית דף י ע״ב⁩, which says: ⁧אַל תִּתְעַסְּקוּ בִּדְבַר הֲלָכָה, שֶׁמָּא תְּרַגְּזוּ עֲלֵיכֶם הַדֶּרֶךְ⁩ - that the road should not be a danger to you, that you should not get
+lost. The ⁧גמרא⁩ continues: ⁧אָמַר רַבִּי אִלְעַאי בַּר בֶּרֶכְיָה: שְׁנֵי תַּלְמִידֵי חֲכָמִים שֶׁמְּהַלְּכִים בַּדֶּרֶךְ וְאֵין בֵּינֵיהֶן דִּבְרֵי תוֹרָה רְאוּיִין לִישָּׂרֵף⁩ - If two ⁧תַּלְמִידֵי חֲכָמִים⁩
+are walking and don't learn ⁧תורה⁩⁦,⁩ they have to be destroyed. This
+directly contradicts what ⁧יוסף⁩ was telling them?
 
 The Brisker Rav#metadata(none) <person-index-brisker-rav-191> resolves the apparent contradiction: ⁦יוסף'⁩s warning
 specifically addressed ⁧לימוד בעיון⁩⁦,⁩ an intense and absorbing level of
@@ -3479,10 +3478,12 @@ belongings. Yet the next ⁧פסוק⁩ reveals: ⁧וַה׳ נָתַן אֶת �
 with the ⁧מצריים⁩. How could this be? The answer lies in Hashem's control
 over events. Once ⁧כלל ישראל⁩ separated themselves by performing the ⁧קרבן פסח⁩⁦,⁩ the ⁧שִׂנאָה⁩ of the ⁧מצריים⁩ was no longer required. The ⁧פסוק⁩ is showing
 us that the whole purpose of giving the ⁧מצריים⁩ this ⁧שִׂנאָה⁩ was to keep us
-as the ⁧עם הנבחר⁩⁦,⁩ to keep us separate. B’ezras Hashem, we should keep
-doing all of our ⁧מצוות⁩ especially ⁧ברית מילה⁩. We should have many more of
-them in our family, we should have a lot of ⁧שמחות⁩⁦,⁩ and we should see the
-⁧גאולה שלמה במהרה בימינו אמן⁩!
+as the ⁧עם הנבחר⁩⁦,⁩ to keep us separate. By doing Hashem's command, the
+entire situation was turned on its head, and instantaneously, the ⁧שנאה⁩
+of the ⁧מצריים⁩ was converted to ⁧אהבה⁩. Only ⁧הקב״ה⁩ could do that. B’ezras
+Hashem, we should keep doing all of our ⁧מצוות⁩ especially ⁧ברית מילה⁩. We
+should have many more of them in our family, we should have a lot of
+⁧שמחות⁩⁦,⁩ and we should see the ⁧גאולה שלמה במהרה בימינו אמן⁩!
 
 #pagebreak()
 
@@ -4234,7 +4235,7 @@ reach extraordinary spiritual levels.
 
 This theme ties into an enlightened teaching quoted by R’ Matis Blum#metadata(none) <person-index-r-blum-278>
 ⁦זצ״ל⁩, ⁦(known for his ⁧תורה לדעת⁩ sheets),⁩ from the sefer ⁧חנוכת התורה החדש⁩.#metadata(none) <person-index-chanukas-hatorah-hechadash-279>
-He references a Gemara in Shabbos (68b): ⁧בְּשָׁעָה שֶׁעָלָה מֹשֶׁה לַמָּרוֹם⁩ - when ⁧משה⁩
+He references a Gemara in Shabbos (88b): ⁧בְּשָׁעָה שֶׁעָלָה מֹשֶׁה לַמָּרוֹם⁩ - when ⁧משה⁩
 went up to ⁧שמים⁩⁦;⁩ ⁧אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא⁩ - the ⁧מלאכי השרת⁩⁦,⁩ who serve before Hashem, complained. ⁧רִבּוֹנוֹ שֶׁל עוֹלָם, מַה לִּילוּד אִשָּׁה בֵּינֵינוּ⁩
 \- Why is a ⁧בשר ודם⁩⁦,⁩ a person born of flesh and blood, coming here
 amongst us? ⁧אָמַר לָהֶן⁩ - ⁧הקדוש ברוך הוא⁩ answered them; ⁧לְקַבֵּל תּוֹרָה בָּא⁩ - He
@@ -4587,7 +4588,7 @@ judgment.
 
 \(Now what's fascinating is that where is this ⁧הוה אמינא⁩ that they would
 take steps to the point of being ⁧מגלה ערוה⁩⁦?⁩ There's a famous ⁧גמרא⁩ in
-⁧ברכות⁩⁦,⁩ that they used a ⁧גורל⁩ in the ⁧בית המקדש⁩ to pick which ⁧כהנים⁩ did
+⁧יומא⁩⁦,⁩ that they used a ⁧גורל⁩ in the ⁧בית המקדש⁩ to pick which ⁧כהנים⁩ did
 which ⁧עבודה⁩. Why? Because before they had a ⁧גורל⁩⁦,⁩ one time they were
 rushing up to do ⁧תרומת הדשן⁩ and one ⁧כהן⁩ was running after the other one
 in such a hurry to do this ⁧מצוה⁩ that he pushed the other ⁧כהן⁩⁦,⁩ and he
