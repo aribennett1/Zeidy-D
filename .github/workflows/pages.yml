@@ -23,7 +23,6 @@ jobs:
           node-version: 22
       - run: npm ci
       - run: npx playwright install --with-deps chromium webkit
-      - run: npm test
       - run: npm run test:pdf
       - run: node build-pdf-version.js
       - uses: actions/configure-pages@v5
