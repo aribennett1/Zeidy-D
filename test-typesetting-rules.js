@@ -2616,7 +2616,7 @@ test("docx: Tetzaveh 5783 preserves the approved citation placement", () => {
   );
   assertContains(
     typst,
-    `${RTL_ISOLATE}אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם ${LTR_ISOLATE}(שמות כ״ט:ל״ט)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE}, referring`,
+    `${RTL_ISOLATE}אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם ${LTR_ISOLATE}(שמות כ״ט:ל״ט)${POP_DIRECTIONAL_ISOLATE}${POP_DIRECTIONAL_ISOLATE} referring`,
     "Shimon ben Pazi citation remains attached after the quote regardless of line wrapping"
   );
 });

@@ -5,3 +5,4 @@ Build Sefer: npm run build
 Redo Done Index: npm run review-person-index-candidates -- --candidate "Alter of Slabodka" --include-reviewed
 Find & Replace: node replace-docx-text.js --from <text> --to <text> (-- apply)
 Full Sefer PDF to PNG: pdftoppm -png -r 180 'Files/09 - Misc/Final Sefer/Final Sefer.pdf' 'Final Sefer pages/page'
+Index Sorting: node review-person-index-sorting

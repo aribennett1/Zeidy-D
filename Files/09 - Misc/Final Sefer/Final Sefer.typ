@@ -3766,10 +3766,10 @@ counterargument: “How is ⁧פרעה⁩ going to listen to me? ⁧בני יש�
 listen to me!” But Hashem reassures him, “⁧פרעה⁩ will listen to you.”
 
 In the midst of all this preparation, amidst this intense unfolding of
-the story, the narrative suddenly pauses, and we find a ⁧ספר יחוס⁩ by 2nd
-aliya. It goes through ⁧ראובן⁩⁦,⁩ ⁧שמעון⁩⁦,⁩ and ⁧לוי⁩⁦,⁩ detailing the lineage of
-⁧שבט לוי⁩⁦,⁩ including ⁧אהרן⁩ and all the family branches, and culminates with
-(6:26-27):
+the story, the narrative suddenly pauses, and we find a ⁧ספר יחוס⁩ in the
+second aliya. It goes through ⁧ראובן⁩⁦,⁩ ⁧שמעון⁩⁦,⁩ and ⁧לוי⁩⁦,⁩ detailing the
+lineage of ⁧שבט לוי⁩⁦,⁩ including ⁧אהרן⁩ and all the family branches, and
+culminates with (6:26-27):
 
 #align(right)[
 ⁧הוּא אַהֲרֹן וּמֹשֶׁה אֲשֶׁר אָמַר ה׳ לָהֶם הוֹצִיאוּ אֶת בְּנֵי יִשְׂרָאֵל מֵאֶרֶץ מִצְרַיִם עַל צִבְאֹתָם׃⁩ \
@@ -3810,7 +3810,7 @@ level of ⁧קדושה⁩ without compromise. We live in a time of deal making -
 some areas of life, it has no place when it comes to our ⁧יסודות⁩. True
 leaders like ⁧מרדכי⁩ in ⁧פורים⁩ and ⁧מתתיהו⁩ in ⁧חנוכה⁩ never wavered in their
 principles. The same applies to all the great leaders of ⁧כלל ישראל⁩
-throughout history, and even in our time, R’ Yosef Chaim Sonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-242> was
+throughout history, and even in our time, R’ Yosef Chaim Zonnenfeld#metadata(none) <person-index-r-yosef-chaim-sonnenfeld-242> was
 bitterly criticized by the other members of certainly the anti-⁧דתי⁩⁦,⁩ but
 even the ⁧דתי⁩⁦,⁩ to “give a little bit”, but he refused to compromise any
 one of his principles.
@@ -15755,6 +15755,8 @@ faith in the ultimate truth of ⁧להגיד כי ישר ה׳ צורי ולא ע
 
 #index-row(("Gesheid, R’ Reuven",), (label("person-index-rabbi-reuven-gesheid-480"),))
 
+#index-row(("Goldberg, R’ Ephrem",), (label("person-index-r-ephrem-goldberg-65"),))
+
 #index-row(("Goldstein, Dr. Allen",), (label("person-index-dr-allen-goldstein-147"), label("person-index-dr-allen-goldstein-148"), label("person-index-dr-allen-goldstein-149"), label("person-index-dr-allen-goldstein-150"), label("person-index-dr-allen-goldstein-151"), label("person-index-dr-allen-goldstein-152"), label("person-index-dr-allen-goldstein-153"), label("person-index-dr-allen-goldstein-154")))
 
 #index-row(("Goldstein, R’ Yosef Shlomo",), (label("person-index-r-yosef-shlomo-goldstein-556"), label("person-index-r-yosef-shlomo-goldstein-557")))
@@ -15932,8 +15934,6 @@ faith in the ultimate truth of ⁧להגיד כי ישר ה׳ צורי ולא ע
 #index-row(("R’ Elimelech of Lizhensk",), (label("person-index-r-elimelech-of-lizhensk-477"), label("person-index-r-elimelech-of-lizhensk-1054")))
 
 #index-row(("R’ Elyashiv",), (label("person-index-r-elyashiv-294"), label("person-index-r-elyashiv-353"), label("person-index-r-elyashiv-354"), label("person-index-r-elyashiv-355"), label("person-index-r-elyashiv-356"), label("person-index-r-elyashiv-357")))
-
-#index-row(("R’ Ephrem Goldberg",), (label("person-index-r-ephrem-goldberg-65"),))
 
 #index-row(("R’ Gesheid",), (label("person-index-rabbi-gesheid-481"), label("person-index-rabbi-gesheid-482"), label("person-index-rabbi-gesheid-483")))
 

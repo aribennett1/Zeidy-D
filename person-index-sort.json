@@ -546,11 +546,6 @@
       "mode": "F",
       "sortKey": "R’ Elyashiv"
     },
-    "r-ephraim-goldberg": {
-      "displayName": "R’ Ephraim Goldberg",
-      "mode": "L",
-      "sortKey": "Goldberg R’ Ephraim"
-    },
     "r-erez-chazani": {
       "displayName": "R’ Erez Chazani",
       "mode": "L",
@@ -1295,6 +1290,11 @@
       "displayName": "Zev Wolf Zicherman",
       "mode": "L",
       "sortKey": "Zicherman Zev Wolf"
+    },
+    "r-ephrem-goldberg": {
+      "displayName": "R’ Ephrem Goldberg",
+      "mode": "L",
+      "sortKey": "Goldberg, R’ Ephrem"
     }
   }
 }
