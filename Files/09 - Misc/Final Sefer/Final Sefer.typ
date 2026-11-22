@@ -4076,19 +4076,19 @@ realized through their experiences, including the suffering of ⁧שיעבוד �
 ⁧שיעבוד⁩ which came before. The connection is clear: ⁧באז חטאתי⁩ - Moshe
 previously was complaining about the ⁧כובד השיעבוד⁩⁦,⁩ now he sang ⁧שירה⁩ to
 explain that when he said ⁧אז⁩ then, it was not a complaint, rather, he
-was thanking Hashem that through the modality of ⁧שיעבוד מצרים⁩ and ⁧גאולת מצרים⁩ we became the means by which Hashem's name received greatness in
+was thanking Hashem that through the modality of ⁧שיעבוד מצרים⁩ and ⁧גאולת מצרים⁩ we became the means by which Hashem's name attained greatness in
 this world. The ⁧בית הלוי⁩#metadata(none) <person-index-bais-halevi-260> also explains a phrase we recite in ⁧הלל⁩: ⁧אוֹדְךָ כִּי עֲנִיתָנִי וַתְּהִי לִי לִישׁוּעָה⁩. While commonly understood as “Thank You for
 answering me,” ⁧עֲנִיתָנִי⁩ actually refers to suffering. ⁧אוֹדְךָ כִּי עֲנִיתָנִי⁩ - Hashem, I am praising you for my ⁧עינוי⁩⁦,⁩ for the suffering that I had, Why? ⁧וַתְּהִי לִי לִישׁוּעָה⁩ - because I am giving you thanks both on the ⁧עינוי⁩
 which came before, and the ⁧ישועה⁩ which came afterwards, through which we
 had the great ⁧זכות⁩ to be ⁧מקדש⁩ the name of ⁧הקדוש ברוך הוא ברבים⁩.
 
-Are we on such a ⁧מדרגה⁩? I don't know about you, but I am not. It takes a
-tremendous amount of ⁧בטחון⁩⁦,⁩ ⁧אמונה⁩⁦,⁩ and courage to say “Thank you Hashem
-for all of this pain. I don't know why I'm going through all of this, and yet there's a reason for it.” Rarely do we have the opportunity to
-appreciate what the purpose of it was, in our own limited vision and
-lifetime, but we will one day understand that all of it was for good.
-Everything Hashem does is for good, and we just have to have absolute
-bedrock ⁧אמונה⁩ that that is the truth.
+Are we on such a ⁧מדרגה⁩? It takes a tremendous amount of ⁧בטחון⁩⁦,⁩ ⁧אמונה⁩⁦,⁩ and courage to say “Thank you Hashem for all of this pain. I don't know
+why I'm going through all of this, and yet there's a reason for it.”
+Rarely do we have the opportunity to appreciate what the purpose of it
+was, in our own limited vision and lifetime, but we will one day
+understand that all of it was for good. Everything Hashem does is for
+good, and we just have to have absolute bedrock ⁧אמונה⁩ that that is the
+truth.
 
 #pagebreak()
 
