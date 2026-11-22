@@ -1746,12 +1746,11 @@ have a ⁧רפואה שלמה⁩. All the ⁧חולים⁩ in ⁧כלל ישרא
 I was looking at the end of ⁧וַיֵּרָא⁩ for a vort on the ⁧עקדה⁩ because it's the
 ⁧עקדה⁩. The ⁧ספר אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-87> brings a fascinating question: Did ⁧יצחק אבינו⁩ bentch ⁧גומל⁩ after the ⁧עקדה⁩? Did you ever think of that?
 
-The ⁦חיד״א⁩#metadata(none) <person-index-chida-84> in his ⁧ספר⁩ called ⁧מחזיק ברכה⁩ brings down a dream that a ⁧גאון⁩
-whose name was ⁧חזון נחום⁩ had, in which he saw the father of the ⁦חיד״א⁩, #metadata(none) <person-index-chida-85>
-his name was ⁧רבי יצחק זרחיה אזולאי⁩. ⁧חזון נחום⁩ asked him, “Did ⁧יצחק אבינו⁩
-bentch ⁧גומל⁩ after the ⁧עקדה⁩?” The ⁦חיד״א⁩#metadata(none) <person-index-chida-86> writes that his father did not
-give him any answer, however, when he woke up, he himself came to his
-own conclusion that it was not necessary for ⁧יצחק⁩ to bentch ⁧גומל⁩⁦,⁩ even
+The ⁦חיד״א⁩, #metadata(none) <person-index-chida-84> in the sefer ⁧מחזיק ברכה⁩⁦,⁩ relates a ⁧מעשה⁩ of a ⁧גאון⁩ whose name
+was the ⁧חזון נחום⁩. He had a dream in which he saw ⁧רבי יצחק זרחיה אזולאי⁩⁦,⁩ the father of the ⁦חיד״א⁩.#metadata(none) <person-index-chida-85> He asked ⁧רבי יצחק זרחיה⁩⁦,⁩ “Did ⁧יצחק אבינו⁩ bentch
+⁧גומל⁩ after the ⁧עקדה⁩?” The ⁦חיד״א⁩#metadata(none) <person-index-chida-86> writes that his father did not give him
+any answer, however, when he woke up, he himself came to his own
+conclusion that it was not necessary for ⁧יצחק⁩ to bentch ⁧גומל⁩⁦,⁩ even
 though he was face-to-face with death. It would be appropriate to bentch
 ⁧גומל⁩⁦,⁩ but the ⁧עקדה⁩ was done as a direct ⁧מצוה⁩ of ⁧הקדוש ברוך הוא⁩. It was
 being ⁧מקיים דבר המלך ודתו⁩⁦,⁩ and you don't have to bentch ⁧גומל⁩ for that.
