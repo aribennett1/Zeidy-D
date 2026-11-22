@@ -21,9 +21,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npm ci
-      - run: npx playwright install --with-deps chromium webkit
-      - run: npm run test:pdf
       - run: node build-pdf-version.js
       - uses: actions/configure-pages@v5
       - name: Prepare public assets
@@ -36,3 +33,6 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium webkit
+      - run: npm run test:pdf
