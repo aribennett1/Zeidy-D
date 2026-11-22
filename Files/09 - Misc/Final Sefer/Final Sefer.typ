@@ -5440,7 +5440,7 @@ look it up. ⁧תוספות⁩ says this in ⁧שבועות, דף ג ע״א, ד�
 
 #pagebreak()
 
-#set page(header: page-number-header(), footer: none, foreground: none, margin: (
+#set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/vayakhel/5787/", "../../02 - Shemos/10 - Vayakhel/5787/Vayakhel 5787.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
     top: 0.68in,
