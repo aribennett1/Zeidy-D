@@ -3,6 +3,7 @@ import {
   EventBus,
   PDFViewer,
   PDFLinkService,
+  PDFFindController,
 } from "./vendor/pdfjs/pdf_viewer.mjs";
 import { normalize, locateAnchor } from "./pdf-position.mjs";
 pdfjs.GlobalWorkerOptions.workerSrc = "/vendor/pdfjs/pdf.worker.mjs";
@@ -60,6 +61,35 @@ export class PDFReader {
       this.generation = (this.generation || 0) + 1;
       this.active.container.scrollTo({ top: 0, behavior: "instant" });
     });
+    const searchGroup = document.createElement("div");
+    searchGroup.className = "pdf-search";
+    const search = document.createElement("input");
+    search.type = "search";
+    search.placeholder = "Find in PDF";
+    search.setAttribute("aria-label", "Find in PDF");
+    const find = (again) => {
+      if (!this.active) return;
+      this.generation = (this.generation || 0) + 1;
+      this.active.bus.dispatch("find", {
+        source: this,
+        type: again ? "again" : "",
+        query: search.value,
+        caseSensitive: false,
+        entireWord: false,
+        highlightAll: true,
+        findPrevious: false,
+      });
+    };
+    search.oninput = () => find(false);
+    search.onkeydown = (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        find(true);
+      }
+    };
+    const nextMatch = button("Next match", () => find(true));
+    searchGroup.append(search, nextMatch);
+    this.toolbar.append(searchGroup);
     const download = document.createElement("a");
     download.href = url;
     download.download = "";
@@ -117,13 +147,15 @@ export class PDFReader {
     this.stage.append(container);
     const abort = new AbortController();
     const bus = new EventBus(),
-      links = new PDFLinkService({ eventBus: bus });
+      links = new PDFLinkService({ eventBus: bus }),
+      find = new PDFFindController({ eventBus: bus, linkService: links });
     const viewer = new PDFViewer({
       abortSignal: abort.signal,
       container,
       viewer: pages,
       eventBus: bus,
       linkService: links,
+      findController: find,
       annotationEditorMode: -1,
       maxCanvasPixels: 4096 * 4096,
       imageResourcesPath: "/vendor/pdfjs/images/",
@@ -136,7 +168,7 @@ export class PDFReader {
       standardFontDataUrl: "/vendor/pdfjs/standard_fonts/",
       isEvalSupported: false,
     });
-    const view = { container, pages, bus, viewer, links, task, abort };
+    const view = { container, pages, bus, viewer, links, find, task, abort };
     this.loading = view;
     const interact = () => {
       if (view !== this.active) return;

@@ -60,9 +60,30 @@
 }
 
 .pdf-toolbar button:focus-visible,
-.pdf-toolbar a:focus-visible {
+.pdf-toolbar a:focus-visible,
+.pdf-search input:focus-visible {
   outline: 2px solid #2563eb;
   outline-offset: 2px;
+}
+
+.pdf-search {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.pdf-search input {
+  width: 160px;
+  min-width: 0;
+  min-height: 40px;
+  padding: 0 10px;
+  border: 1px solid #dce1e7;
+  border-radius: 7px;
+  background: #f8fafc;
+  color: inherit;
+  font: inherit;
 }
 
 .pdf-toolbar .pdf-fullscreen {
@@ -170,6 +191,10 @@
   }
   .pdf-zoom button {
     width: 36px;
+  }
+  .pdf-search input {
+    min-height: 44px;
+    font-size: 16px;
   }
   .pdf-reader .pdfViewer {
     padding: 8px 0;
