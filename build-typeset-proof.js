@@ -2385,6 +2385,17 @@ function renderTypstDocument(entries, options, indexState = null) {
   }
 }
 
+// Full-page PDFs have zero page margins. Recreate the normal header area
+// in the foreground so the source image cannot cover the page number.
+#let pdf-page-number-header() = context {
+  let left-margin = if calc.odd(here().page()) { ${settings.inside} } else { ${settings.outside} }
+  place(top + left, dx: left-margin,
+    box(width: ${settings.width} - ${settings.inside} - ${settings.outside}, height: ${settings.top} * 0.7)[
+      #align(bottom)[#page-number-header()]
+    ],
+  )
+}
+
 #let article-footer(url, qr) = context {
   let link-text = text(size: 7.2pt, fill: rgb("#222222"))[
     #link(url)[#url]
@@ -2516,10 +2527,10 @@ function renderTypstDocument(entries, options, indexState = null) {
       parts.push('#counter(page).update(1)\n');
     }
 
-    const header = (entry.isPdfPage && entry.isHaskama)
+    const header = entry.isPdfPage
       ? "none" : "page-number-header()";
-    const foreground = entry.isPdfPage && entry.isHaskama
-      ? 'context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }'
+    const foreground = entry.isPdfPage
+      ? "pdf-page-number-header()"
       : "none";
     const footer = entry.hasFooter && !entry.isPdfPage
       ? `article-footer(${typstString(entry.url)}, ${typstString(qrRelativePath)})`

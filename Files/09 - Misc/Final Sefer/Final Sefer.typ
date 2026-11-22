@@ -49,6 +49,17 @@
   }
 }
 
+// Full-page PDFs have zero page margins. Recreate the normal header area
+// in the foreground so the source image cannot cover the page number.
+#let pdf-page-number-header() = context {
+  let left-margin = if calc.odd(here().page()) { 0.78in } else { 0.62in }
+  place(top + left, dx: left-margin,
+    box(width: 6in - 0.78in - 0.62in, height: 0.68in * 0.7)[
+      #align(bottom)[#page-number-header()]
+    ],
+  )
+}
+
 #let article-footer(url, qr) = context {
   let link-text = text(size: 7.2pt, fill: rgb("#222222"))[
     #link(url)[#url]
@@ -144,7 +155,7 @@
 
 #counter(page).update(1)
 
-#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Rabbi Oelbaum Haskama]]]
 
 #block(width: 100%, height: 100%)[
@@ -212,7 +223,18 @@ continue through your children, your ⁧אייניקלעך⁩⁦,⁩ and your �
 
 #pagebreak()
 
-#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
+#place[#hide[#heading(level: 1)[Rabbi Hershel Schachter Haskama]]]
+
+#block(width: 100%, height: 100%)[
+  #align(center + horizon)[
+    #image("../../07 - Haskamos/02 - Rabbi Hershel Schachter/Rabbi Hershel Schachter.pdf", width: 100%, height: 100%, fit: "contain")
+  ]
+]
+
+#pagebreak()
+
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Biale Rebbe Haskama]]]
 
 #block(width: 100%, height: 100%)[
@@ -295,7 +317,7 @@ Dovid Yoel Hoffman
 
 #pagebreak()
 
-#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Rabbi Dovid Weinberger Haskama]]]
 
 #block(width: 100%, height: 100%)[
@@ -353,7 +375,7 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Rabbi Menachem Genack Haskama]]]
 
 #block(width: 100%, height: 100%)[
@@ -364,7 +386,7 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Rabbi Peretz Steinberg Haskama]]]
 
 #block(width: 100%, height: 100%)[
@@ -375,7 +397,7 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Rabbi Pesach Krohn Haskama]]]
 
 #block(width: 100%, height: 100%)[
@@ -386,7 +408,7 @@ New: ] #emph[Pearls from the Torah]
 
 #pagebreak()
 
-#set page(header: none, footer: none, foreground: context { place(top + left, dx: 0.18in, dy: 0.18in, box(width: 100% - 0.36in)[#page-number-header()]) }, margin: 0in)
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Rabbi Yaakov Gibber Haskama]]]
 
 #block(width: 100%, height: 100%)[

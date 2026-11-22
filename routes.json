@@ -922,6 +922,12 @@
         }
       }
     },
+    "/rabbi-hershel-schachter/": {
+      "contentPath": "07 - Haskamos/02 - Rabbi Hershel Schachter",
+      "baseFilename": "Rabbi Hershel Schachter",
+      "title": "Rabbi Hershel Schachter Haskama",
+      "pdfPage": "Rabbi Hershel Schachter.pdf"
+    },
     "/biale-rebbe/": {
       "contentPath": "07 - Haskamos/Biale Rebbe",
       "baseFilename": "Biale Rebbe",
@@ -1229,6 +1235,7 @@
     "06 - Yom Tov/19 - Purim/5785": "/purim/5785/",
     "06 - Yom Tov/20 - Rosh Chodesh": "/rosh-chodesh/",
     "07 - Haskamos/01 - Rabbi Oelbaum": "/rabbi-oelbaum/",
+    "07 - Haskamos/02 - Rabbi Hershel Schachter": "/rabbi-hershel-schachter/",
     "07 - Haskamos/Biale Rebbe": "/biale-rebbe/",
     "07 - Haskamos/Rabbi Dovid Hoffman": "/rabbi-dovid-hoffman/",
     "07 - Haskamos/Rabbi Dovid Weinberger": "/rabbi-dovid-weinberger/",
