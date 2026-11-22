@@ -5297,8 +5297,8 @@ items?” And guess what? The word for ⁧חלבנה⁩ in the ⁧קטורת⁩�
 crummy smelling spice. What is the ⁧גימטריה⁩ for ⁧חלבנה⁩? Look it up. It's
 \95. Guess what the ⁧גימטריה⁩ for ⁧המן⁩ is? 95. So we know that it's a
 bitter, horrible, terrible spice, which is included in the ⁧קטורת⁩ to
-teach us that we have to have ⁧רחמנות⁩ and everybody in ⁧כלל ישראל⁩ and
-include them in our ⁧עבדוה⁩ just like the ⁧ערבה⁩ in the ⁧ארבע מינים⁩⁦,⁩ but we
+teach us that we have to have ⁧רחמנות⁩ on everybody in ⁧כלל ישראל⁩ and
+include them in our ⁧עבודה⁩ just like the ⁧ערבה⁩ in the ⁧ארבע מינים⁩⁦,⁩ but we
 certainly don't have to have ⁧רחמנות⁩ for ⁧המן⁩.
 
 May all of ⁧עמלק⁩ be destroyed in this ⁧זכות⁩ of our keeping this ⁧יום טוב⁩ of
