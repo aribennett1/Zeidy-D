@@ -1972,6 +1972,12 @@ function normalizeIsolatedPunctuationSpacing(typstContent) {
 }
 
 function applyTextRules(typstContent) {
+  // The source places two opening brackets around different parts of this
+  // quote. Only the explanatory final word belongs in brackets.
+  typstContent = typstContent.replace(
+    /\\\[(תַּלְמִיד\s+חָכָם\s+צָרִיךְ\s+שֶׁיְּהֵא\s+בּוֹ\s+אֶחָד\s+מִשְּׁמוֹנָה\s+בִּשְׁמִינִית)\s+\\\[שֶבְּגַאוָה/g,
+    "$1 \\[שֶבְּגַאוָה\\]"
+  );
   const protectedParagraphBreaks = [];
   const paragraphBreakSafeContent = typstContent.replace(/[,;:]\n{2,}(?=[A-Z])/g, (match) => {
     const marker = `\uE100${protectedParagraphBreaks.length}\uE101`;
@@ -2014,6 +2020,12 @@ function applyTextRules(typstContent) {
     )
   ));
   return result
+    // Keep the bracketed gloss in the quote's RTL run, including when the
+    // line wraps. Separate isolates would put the gloss after it visually.
+    .replace(
+      `${RTL_ISOLATE}תַּלְמִיד חָכָם צָרִיךְ שֶׁיְּהֵא בּוֹ אֶחָד מִשְּׁמוֹנָה בִּשְׁמִינִית${POP_DIRECTIONAL_ISOLATE} \\[${RTL_ISOLATE}שֶבְּגַאוָה${POP_DIRECTIONAL_ISOLATE}\\]`,
+      `${RTL_ISOLATE}תַּלְמִיד חָכָם צָרִיךְ שֶׁיְּהֵא בּוֹ אֶחָד מִשְּׁמוֹנָה בִּשְׁמִינִית \\[שֶבְּגַאוָה\\]${POP_DIRECTIONAL_ISOLATE}`
+    )
     .replace(new RegExp(PRESERVED_HEBREW_COMMA_MARKER, "g"), "")
     .replace(/\uE100(\d+)\uE101/g, (_match, index) => protectedParagraphBreaks[Number(index)]);
 }

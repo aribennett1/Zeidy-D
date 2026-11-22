@@ -2345,7 +2345,7 @@ ourselves and all of ⁧כלל ישראל⁩⁦,⁩ and b’ezras Hashem, furthe
   ))
 = Vayishlach 5783
 
-Our ⁧חכמים⁩ tell us in ⁧מסכת סוטה⁩ (5a): \[⁧תַּלְמִיד חָכָם צָרִיךְ שֶׁיְּהֵא בּוֹ אֶחָד מִשְּׁמוֹנָה בִּשְׁמִינִית⁩ \[⁧שֶבְּגַאוָה⁩. This is a cryptic statement. Even though ⁧גאוה⁩ is
+Our ⁧חכמים⁩ tell us in ⁧מסכת סוטה⁩ (5a): ⁧תַּלְמִיד חָכָם צָרִיךְ שֶׁיְּהֵא בּוֹ אֶחָד מִשְּׁמוֹנָה בִּשְׁמִינִית \[שֶבְּגַאוָה\]⁩. This is a cryptic statement. Even though ⁧גאוה⁩ is
 generally considered a distasteful and disfavored ⁧מידה⁩⁦,⁩ nevertheless, a
 ⁧תלמיד חכם⁩ should have this “one-eighth of one-eighth” of ⁧גאוה⁩.
 
@@ -2960,10 +2960,9 @@ confrontation between ⁧יוסף⁩ and his brothers reaches its climax at the
 end of this ⁧פרשה⁩ and is resolved in ⁧פרשת ויגש⁩. What can we learn from
 this?
 
-What we learn is that all confrontations in the world stem from ⁧הקדוש ברוך הוא. הקדוש ברוך הוא⁩ sets these things up for our benefit if we
-recognize they are His doing. We must respond properly to them and learn
-what we can from them. What can we do in our lives, as individuals and
-as a people, when we encounter these ⁧ניסיונות⁩?
+What we learn is that all confrontations in the world stem from ⁧הקדוש ברוך הוא⁩. He sets these things up for our benefit if we recognize they
+are His doing. We must respond properly to them and learn what we can
+from them. What can we do in our lives, as individuals and as a people, when we encounter these ⁧ניסיונות⁩?
 
 Here's an interesting vort ascribed to the Gerrer Rebbe. One of the
 Gerrer Rebbes, R’ Avraham Mordechai, #metadata(none) <person-index-gerrer-rebbe-r-avraham-mordechai-179> passed away very young. It was said

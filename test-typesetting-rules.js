@@ -1981,6 +1981,22 @@ test("docx: Ha'azinu 5785 keeps the opening pasuk across a nonbreaking space", (
   );
 });
 
+test("docx: Vayishlach 5783 brackets only the final word of the Sotah quote", () => {
+  const typst = convertedDocx("/vayishlach/5783/");
+  const plain = typst.replace(/[\u2066-\u2069\u202A-\u202E]/g, "").replace(/\s+/g, " ");
+  assertContains(
+    plain,
+    "(5a): תַּלְמִיד חָכָם צָרִיךְ שֶׁיְּהֵא בּוֹ אֶחָד מִשְּׁמוֹנָה בִּשְׁמִינִית \\[שֶבְּגַאוָה\\]. This is a cryptic statement.",
+    "Sotah quote with brackets around only its final word"
+  );
+  assertNotContains(plain, "\\[תַּלְמִיד", "no bracket before the full quote");
+  assertContains(
+    typst,
+    `${RTL_ISOLATE}תַּלְמִיד חָכָם צָרִיךְ שֶׁיְּהֵא בּוֹ אֶחָד מִשְּׁמוֹנָה בִּשְׁמִינִית \\[שֶבְּגַאוָה\\]${POP_DIRECTIONAL_ISOLATE}`,
+    "quote and bracketed gloss share one RTL run so the gloss follows on the left"
+  );
+});
+
 test("docx: Pesach 5784 keeps the Rabbi Chanina statement in source order", () => {
   const typst = convertedDocx("/pesach/5784/");
 
