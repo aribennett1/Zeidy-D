@@ -1271,6 +1271,7 @@ function normalizeEditorialReplacements(typstContent) {
     .replace(/\bbezras\b/giu, preserveInitialCase("b’ezras"))
     .replace(/\bmidrash\b/giu, preserveInitialCase("medrash"))
     .replace(/\bArtscroll\b/g, "ArtScroll")
+    .replace(/הקודש\s+ברוך\s+הוא/gu, "הקדוש ברוך הוא")
     .replace(/קושיה/g, "קשיא");
 }
 

@@ -3094,3 +3094,10 @@ test("17 Tamuz 5785 keeps arah li before et haam in the pasuk", () => {
   assertContains(typst, expected, "the converted DOCX preserves the pasuk's Hebrew word order");
   assertNotContains(typst, "אֶת הָעָם אָרָה לִּי", "no transposed word groups");
 });
+
+test("corrects every הקודש ברוך הוא to הקדוש ברוך הוא during the build", () => {
+  assert.equal(
+    applyTextRules("הקודש ברוך הוא and הקודש\nברוך הוא and הקדוש ברוך הוא"),
+    `${RTL_ISOLATE}הקדוש ברוך הוא${POP_DIRECTIONAL_ISOLATE} and ${RTL_ISOLATE}הקדוש ברוך הוא${POP_DIRECTIONAL_ISOLATE} and ${RTL_ISOLATE}הקדוש ברוך הוא${POP_DIRECTIONAL_ISOLATE}`
+  );
+});

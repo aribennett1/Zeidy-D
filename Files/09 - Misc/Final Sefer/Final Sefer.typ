@@ -4853,7 +4853,7 @@ will be proud of us.
 Any time a person goes up to daven, he will see a sign in front of him
 in any shul, anywhere around the world: ⁧שויתי ה׳ לנגדי תמיד⁩. This is a
 great ⁧זכות⁩⁦,⁩ a tremendous obligation, and a remarkable opportunity to
-constantly keep ⁧הקודש ברוך הוא⁩ in front of us at all times.
+constantly keep ⁧הקדוש ברוך הוא⁩ in front of us at all times.
 
 This concept is brought down in this week's ⁧פרשה⁩⁦,⁩ ⁧פרשת תצוה⁩⁦,⁩ through an
 interesting ⁧פסוק⁩. In fact, a ⁧מדרש פליאה⁩ uses this ⁧פסוק⁩ to make a
@@ -4873,7 +4873,7 @@ the ⁧קרבן תמיד⁩.
 \[⁦רש״י⁩#metadata(none) <person-index-rashi-333> points out that ⁧תמיד⁩ does not mean it was brought continuously
 without interruption, but rather that it was brought every single day
 without ⁧הפסק⁩\.\] Morning and evening, every single day, the ⁧קרבן תמיד⁩
-was offered. Through this ⁧קרבן⁩⁦,⁩ we represent, signify, and declare ⁧שויתי ה׳ לנגדי תמיד⁩⁦,⁩ that ⁧הקודש ברוך הוא⁩ is constantly before us.
+was offered. Through this ⁧קרבן⁩⁦,⁩ we represent, signify, and declare ⁧שויתי ה׳ לנגדי תמיד⁩⁦,⁩ that ⁧הקדוש ברוך הוא⁩ is constantly before us.
 
 In fact, this is the ultimate purpose of all ⁧מצוות⁩. Every ⁧מצוה⁩ is
 designed to remind us that Hashem is always in front of us. He creates
@@ -4890,7 +4890,7 @@ In youth, a person is full of ⁧כח⁩ but lacks the maturity of mind and
 wisdom of experience. As he ages, wisdom increases while physical ⁧כח⁩
 declines. In all phases of our lives, no matter what we have, we should
 constantly use the ⁧כוחות⁩ that we have, the abilities that we have, the
-blessings that ⁧הקודש ברוך הוא⁩ gave us, to fulfill the ⁧מצוה⁩ of the ⁧קרבן תמיד⁩⁦,⁩ through which we fulfill ⁧שויתי ה׳ לנגדי תמיד⁩.
+blessings that ⁧הקדוש ברוך הוא⁩ gave us, to fulfill the ⁧מצוה⁩ of the ⁧קרבן תמיד⁩⁦,⁩ through which we fulfill ⁧שויתי ה׳ לנגדי תמיד⁩.
 
 #pagebreak()
 
@@ -5208,17 +5208,17 @@ say a ⁧ברכה⁩ on ⁧בשמים⁩ when ⁧יום טוב⁩ ends and we tr
 when ⁧יום טוב⁩ leads into ⁧חול המועד⁩⁦,⁩ which is also ⁧חול⁩?
 
 The ⁧שפת אמת⁩#metadata(none) <person-index-sfas-emes-345> offers an incredible ⁧חידוש⁩. Yes, there is a ⁧נשמה יתרה⁩ on ⁧יום טוב⁩⁦,⁩ but unlike the one on ⁧שבת⁩⁦,⁩ it does not leave us. Why? Because ⁧יום טוב⁩⁦,⁩ as we all know, is ⁧החודש הזה לכם⁩ - it is ⁧מקודש⁩ by us. ⁧שבת⁩⁦,⁩ on the
-other hand, receives its ⁧קדושה⁩ directly from ⁧הקודש ברוך הוא⁩. Every
+other hand, receives its ⁧קדושה⁩ directly from ⁧הקדוש ברוך הוא⁩. Every
 seventh day is ⁧שבת⁩⁦,⁩ from ⁧מעשה בראשית⁩ until today. But ⁧יום טוב⁩ is
 different - ⁧ישראל⁩ are ⁧מקדשים את הזמנים⁩. And here comes his bomb ⁧חידוש⁩: ⁧קדושה⁩ that comes through our ⁧מעשה⁩ never leaves. It stays with us
 forever! This is an astonishing concept. It reminds me of the famous
-debate between ⁧טורנוס רופוס⁩ and ⁧רבי עקיבא⁩ about whether ⁦הקודש ברוך הוא'⁩s
+debate between ⁧טורנוס רופוס⁩ and ⁧רבי עקיבא⁩ about whether ⁦הקדוש ברוך הוא'⁩s
 actions are greater than Man's. ⁧רבי עקיבא⁩ answered that Man's actions
 are greater. ⁧טורנוס רופוס⁩ responded, “Oh, good answer! Because if you
-had said that ⁦הקודש ברוך הוא'⁩s actions are greater, I would have
-punished you for performing ⁧ברית מילה⁩ on ⁦הקודש ברוך הוא'⁩s creation. But
+had said that ⁦הקדוש ברוך הוא'⁩s actions are greater, I would have
+punished you for performing ⁧ברית מילה⁩ on ⁦הקדוש ברוך הוא'⁩s creation. But
 since you said man's actions are greater, you proclaim that man has the
-ability to enhance and improve ⁦הקודש ברוך הוא'⁩s infinite creation.” (I
+ability to enhance and improve ⁦הקדוש ברוך הוא'⁩s infinite creation.” (I
 had the ⁧זכות⁩ to hear this ⁧מדרש⁩ from R’ Ahron Soloveichik#metadata(none) <person-index-r-ahron-soloveichik-348> ⁦זצ״ל⁩).
 
 According to this ⁧שפת אמת⁩⁦,⁩ #metadata(none) <person-index-sfas-emes-346> the ⁧קדושה⁩ that we instill into ⁧יום טוב⁩⁦,⁩ through our human effort, lasts forever! In contrast, the ⁧קדושה⁩ of ⁧שבת⁩
@@ -5227,7 +5227,7 @@ departs each week, and we need ⁧בשמים⁩ to compensate for the loss - ⁧
 In a real sense, ⁧פרשת כי תשא⁩ is a ⁧פרשה⁩ of ⁧קדושה⁩. It discusses the ⁧לוחות⁩⁦,⁩ their breaking, the ⁧קדושה⁩ of ⁧שבת⁩⁦,⁩ and ⁧קדושה⁩ in various forms. ⁧שבת⁩ itself
 is a ⁧מקור קדושה⁩. We always thought of ⁧שבת⁩ as the ultimate ⁧מקור קדושה⁩ - after all, the ⁧פסוק⁩ says (31:13) ⁧כִּי אֲנִי ה׳ מְקַדִּשְׁכֶם⁩ - talking about ⁧שבת⁩.
 And yet, we have been given an extraordinary opportunity, granted to us
-by ⁧הקודש ברוך הוא⁩⁦,⁩ to generate ⁧קדושה⁩ on our own, to such an extent that
+by ⁧הקדוש ברוך הוא⁩⁦,⁩ to generate ⁧קדושה⁩ on our own, to such an extent that
 it lasts forever.
 
 #pagebreak()
@@ -6565,7 +6565,7 @@ him to go to the store and buy a pair. Not knowing any better, he
 accidentally bought ⁧תפילין⁩ with the ⁧ש׳⁩ the other way. His father told
 him it was fine, ⁧אלו ואלו⁩⁦,⁩ and so for generations, my generation, your
 generation, the next generation, all of our male offspring are going to
-wear ⁧תפילין⁩ the way my father ⁧ע״ה⁩ did. There's nothing wrong with it, ⁧הקודש ברוך הוא⁩ wanted us to wear ⁧תפילין⁩ this way, but it shows how one
+wear ⁧תפילין⁩ the way my father ⁧ע״ה⁩ did. There's nothing wrong with it, ⁧הקדוש ברוך הוא⁩ wanted us to wear ⁧תפילין⁩ this way, but it shows how one
 small decision can shape the future.
 
 Every choice, particularly those made during pregnancy, can have a
@@ -7483,7 +7483,7 @@ His memory should be a ⁧ברכה⁩⁦,⁩ and he should be a ⁧מליץ יו
 = Bamidbar 5784
 
 ⁧פרשת במדבר⁩ starts off with the story of ⁧כלל ישראל⁩ over their 40-year
-sojourn. Right at the very beginning ⁧הקודש ברוך הוא⁩ tells ⁧משה רבינו⁩ that
+sojourn. Right at the very beginning ⁧הקדוש ברוך הוא⁩ tells ⁧משה רבינו⁩ that
 he has to choose people from each ⁧שבט⁩ to accompany him in his ⁧עבודה⁩⁦,⁩ whether it was the census or in doing that which was required to lead
 ⁧כלל ישראל⁩. The pasuk says (1:4) ⁧וְאִתְּכֶם יִהְיוּ אִישׁ אִישׁ לַמַּטֶּה⁩⁦,⁩ which would be
 a fine way to conclude. But the pasuk continues: ⁧אִישׁ רֹאשׁ לְבֵית אֲבֹתָיו הוּא⁩.
@@ -7493,7 +7493,7 @@ accomplished in learning? If ⁧יחס⁩ is, in fact, an important factor, ther
 Vort#metadata(none) <person-index-a-short-vort-512> brings the following point:
 
 Everybody is born into circumstances that can shape and support the
-development of their unique relationship with ⁧הקודש ברוך הוא⁩. One who is
+development of their unique relationship with ⁧הקדוש ברוך הוא⁩. One who is
 not born with any particular ⁧יחס⁩ has to build that relationship from
 scratch. And even someone who does have ⁧יחס⁩ must still work on that
 relationship himself.
@@ -7510,7 +7510,7 @@ The answer is that Hashem preferred ⁦יצחק'⁩s ⁧תפילות⁩ not simp
 was a ⁧צדיק בן צדיק⁩⁦,⁩ but because he didn't merely copy his father's ⁧דרך⁩
 in ⁧עבודת השם⁩. That would have been easy. Instead, he forged his own ⁧דרך⁩.
 We know that each of the ⁧אבות⁩ had his own unique method, his own form of
-⁧עבודה⁩⁦,⁩ in his relationship with ⁧הקודש ברוך הוא⁩. That is why each one is
+⁧עבודה⁩⁦,⁩ in his relationship with ⁧הקדוש ברוך הוא⁩. That is why each one is
 referred to as an ⁧עבודה⁩⁦,⁩ because each individually crafted a unique path
 in serving Hashem.
 
@@ -15120,7 +15120,7 @@ What was the beautiful jewel in the ⁧חשן⁩ worn by the ⁧כהן גדול�
 represented ⁧בנימין⁩? ⁧ישפה⁩. ⁧ישפה⁩ means ⁧יש פה⁩ - there is a mouth. When you
 need to use it, you use it. When it's better to be quiet, you be quiet.
 If you speak up now, we will know that you are in control, that you
-understand how to use the ⁧מדות⁩ that ⁧הקודש ברוך הוא⁩ gave you and the
+understand how to use the ⁧מדות⁩ that ⁧הקדוש ברוך הוא⁩ gave you and the
 circumstances in which He placed you. But if you stay silent, your ⁦שבט'⁩s
 legacy will be lost forever. Have a ⁧פריילעכן פורים⁩!
 
