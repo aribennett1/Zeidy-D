@@ -11320,9 +11320,9 @@ Hashem said to Yehoshua. But that one moment was enough to give him the
 
 Then he has at the end of this ⁧וילנא גאון⁩⁦,⁩ ⁧דפח״ח⁩. I did not know what
 those four letters were, so I asked a few people and ended up calling R’
-Hershel Schachter, #metadata(none) <person-index-r-herschel-schachter-842> who told me, and I wrote it in my sefer here, ⁦דפח״ח⁩
-is ⁧דברי פי חכם חן⁩ - The words of a wise man are very pleasant, are very
-beautiful.
+Hershel Schachter, #metadata(none) <person-index-r-herschel-schachter-842> who told me, and I wrote it in my sefer of Peninim
+Mishulchan HaGra, ⁦דפח״ח⁩ is ⁧דברי פי חכם חן⁩ - The words of a wise man are
+very pleasant, are very beautiful.
 
 So this vort from the ⁧וילנא גאון⁩ teaches us that everything is for our
 own good. ⁧הקדוש ברוך הוא פירט די וועלט⁩⁦,⁩ and no matter what happens to

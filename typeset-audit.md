@@ -4,7 +4,7 @@ This is a review-only scan for likely visual punctuation and bidi issues in the 
 
 PDF scanned: `Files/09 - Misc/Final Sefer/Final Sefer.pdf`
 Typst scanned: `Files/09 - Misc/Final Sefer/Final Sefer.typ`
-Findings: 49 (4 high, 45 medium)
+Findings: 48 (3 high, 45 medium)
 Visual pages rendered: `typeset-audit-pages`
 
 The PDF scan uses extracted visual text, so it is useful for catching rendered punctuation surprises. The Typst scan catches raw source patterns before rendering.
@@ -15,10 +15,6 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0008.png](typeset-audit-pages/page-0008.png)
   - children, your ⁧‫אייניקלעך‬,⁩ and your ⁧‫עיר אייניקלעך‬,⁩ all following ⁧,‫ בנים ובני בנים עוסקים בתורה ובמצוות‬,‫בדרך השם‬
   - normalized: children, your אייניקלעך, and your עיר אייניקלעך, all following , בנים ובני בנים עוסקים בתורה ובמצוותב,דרך השם
-- PDF visual text, page 9, אמונה ובטחון ,  ידידי יקירי ד״ר יששכר בנימין בענעט שיחי׳ הראה לי כמה וכמה מאמרי תורה (בענייני השקפה , לכל מאן דבעי, line 8
-  - visual: [page-0009.png](typeset-audit-pages/page-0009.png)
-  - .‫ ראש חודש כסלו תשפ״ז‬,‫ צבי שכטר‬,‫ בכבוד‬.‫אלא לכל ישראל‬
-  - normalized: . ראש חודש כסלו תשפ״ז, צבי שכטר, בכבודא.לא לכל ישראל
 - PDF visual text, page 170, deeply embarrassed. Not only had I failed to be   דן לכף זכות ,  but I had also not, line 19
   - visual: [page-0170.png](typeset-audit-pages/page-0170.png)
   - could have stood with the ⁧‫ ⁩מנין‬and mumbled under his breath ⁧,‫ ה׳ ָלָקח‬,‫ה׳ ָנַת ן‬
@@ -29,77 +25,77 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: hardly fathom.) , ַאל ִּת ְהיּו ַכֲעָבִד ים ַהְמַׁשְּמִׁשין ֶאת ָהַר ב ַעל ְמָנת ְלַקֵּבל ְּפָר סה,...
 ## MEDIUM - missing space after colon before Hebrew in Typst source
 
-- Typst source, page 65, Chayai Sara 5787, line 1971
+- Typst source, page 65, Chayai Sara 5787, line 1982
   - visual: [page-0065.png](typeset-audit-pages/page-0065.png)
   - מ״ט:י״ז)⁩: ⁧אַל תִּירָא כִּי יַעֲשִׁר אִישׁ כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ⁩ - Don't be...
   - normalized: מ״ט:י״ז): אַל תִּירָא כִּי יַעֲשִׁר אִישׁ כִּי יִרְבֶּה כְּבוֹד בֵּיתוֹ - Don't be af...
-- Typst source, page 138, Mishpatim (1) 5784, line 4431
+- Typst source, page 138, Mishpatim (1) 5784, line 4442
   - visual: [page-0138.png](typeset-audit-pages/page-0138.png), [page-0139.png](typeset-audit-pages/page-0139.png)
   - כ״א:ל״ז)⁩: ⁧כִּי יִגְנֹב אִישׁ שׁוֹר אוֹ שֶׂה וּטְבָחוֹ אוֹ מְכָרוֹ חֲמִשָּׁה בָקָר י...
   - normalized: כ״א:ל״ז): כִּי יִגְנֹב אִישׁ שׁוֹר אוֹ שֶׂה וּטְבָחוֹ אוֹ מְכָרוֹ חֲמִשָּׁה בָקָר יְש...
-- Typst source, page 159, Ki Sisa 5783, line 5129
+- Typst source, page 159, Ki Sisa 5783, line 5140
   - visual: [page-0158.png](typeset-audit-pages/page-0158.png), [page-0159.png](typeset-audit-pages/page-0159.png)
   - ל״ד:ל״ג)⁩: ⁧וַיִּתֵּן עַל פָּנָיו מַסְוֶה⁩ - When ⁧משה רבינו⁩ spoke to the people, th...
   - normalized: ל״ד:ל״ג): וַיִּתֵּן עַל פָּנָיו מַסְוֶה - When משה רבינו spoke to the people, they
-- Typst source, page 177, Vayikra 5785, line 5756
+- Typst source, page 177, Vayikra 5785, line 5767
   - visual: [page-0177.png](typeset-audit-pages/page-0177.png), [page-0178.png](typeset-audit-pages/page-0178.png)
   - negative ⁧מצוות⁩. What is the ⁧רמז⁩ for this? The ⁧פסוק⁩ in ⁦שמות ג׳:ט״ו⁩
   - normalized: negative מצוות. What is the רמז for this? The פסוק in שמות ג׳:ט״ו
-- Typst source, page 177, Vayikra 5785, line 5767
+- Typst source, page 177, Vayikra 5785, line 5778
   - visual: [page-0177.png](typeset-audit-pages/page-0177.png), [page-0178.png](typeset-audit-pages/page-0178.png)
   - ⁧הקדוש ברוך הוא⁩ Himself, as the ⁧פסוק⁩ in ⁦דברים ל״ב:ט׳⁩ states: ⁧כִּי חֵלֶק ה׳ עַמּוֹ⁩. That ⁧חלק⁩ - the portion of Hashem - is...
   - normalized: הקדוש ברוך הוא Himself, as the פסוק in דברים ל״ב:ט׳ states: כִּי חֵלֶק ה׳ עַמּוֹ. That חלק - the portion of Hashem - is our נשמות....
-- Typst source, page 178, Vayikra 5785, line 5789
+- Typst source, page 178, Vayikra 5785, line 5800
   - visual: [page-0177.png](typeset-audit-pages/page-0177.png), [page-0178.png](typeset-audit-pages/page-0178.png), [page-0179.png](typeset-audit-pages/page-0179.png)
   - ⁧לבוש⁩⁦,⁩ a ⁧סכַך⁩⁦,⁩ for the ⁧נשמה⁩. The ⁧פסוק⁩ in ⁦איוב י׳:י״א⁩ describes this: ⁧עוֹר וּבָשָׂר תַּלְבִּישֵׁנִי וּבַעֲצָמוֹת וְג...
   - normalized: לבוש, a סכַך, for the נשמה. The פסוק in איוב י׳:י״א describes this: עוֹר וּבָשָׂר תַּלְבִּישֵׁנִי וּבַעֲצָמוֹת וְגִידִים תְּשֹׂכְ...
-- Typst source, page 281, Pinchas 5785, line 9258
+- Typst source, page 281, Pinchas 5785, line 9269
   - visual: [page-0281.png](typeset-audit-pages/page-0281.png), [page-0282.png](typeset-audit-pages/page-0282.png)
   - א׳:ג׳)⁩: ⁧וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ⁩ -...
   - normalized: א׳:ג׳): וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ - I'...
-- Typst source, page 288, Matos-Maasei 5785, line 9473
+- Typst source, page 288, Matos-Maasei 5785, line 9484
   - visual: [page-0288.png](typeset-audit-pages/page-0288.png), [page-0289.png](typeset-audit-pages/page-0289.png)
   - shouldn't daven that her son would die. It's brought down in ⁦מכות ב:ו⁩:
   - normalized: shouldn't daven that her son would die. It's brought down in מכות ב:ו:
-- Typst source, page 292, Devarim 5784, line 9650
+- Typst source, page 292, Devarim 5784, line 9661
   - visual: [page-0292.png](typeset-audit-pages/page-0292.png)
   - pasuk in ⁦זכריה א׳:ט״ז⁩: ⁧שַׁבְתִּי לִירוּשָׁלַם בְּרַחֲמִים⁩. Another is what we say three
   - normalized: pasuk in זכריה א׳:ט״ז: שַׁבְתִּי לִירוּשָׁלַם בְּרַחֲמִים. Another is what we say three
-- Typst source, page 304, Eikev 5784, line 10061
+- Typst source, page 304, Eikev 5784, line 10072
   - visual: [page-0304.png](typeset-audit-pages/page-0304.png), [page-0305.png](typeset-audit-pages/page-0305.png)
   - א׳:ב׳)⁩⁩, and then it says ⁧אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם ⁦(ישעיהו נ״א:י״ב)⁩⁩ lat...
   - normalized: א׳:ב׳), and then it says אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם                  later on
-- Typst source, page 357, Mussaf Yom Tov 5783, line 11771
+- Typst source, page 357, Mussaf Yom Tov 5783, line 11782
   - visual: [page-0357.png](typeset-audit-pages/page-0357.png)
   - ...⁧שֵׁשׁ כְּנָפַיִם שֵׁשׁ כְּנָפַיִם לְאֶחָד⁩ - six wings, as is brought down in ⁦ישעיהו ו׳:ב׳⁩. However, there is another pasuk in ⁦יחזקאל א׳:ו׳⁩ which says ⁧וְאַר...
   - normalized: ...כְּנָפַיִם שֵׁשׁ כְּנָפַיִם לְאֶחָד - six wings, as is brought down in ישעיהו ו׳:ב׳. However, there is another pasuk in יחזקאל א׳:ו׳ which says וְאַרְבָּעָה פָנִי...
-- Typst source, page 366, Dvar Torah Pesach 5785, line 12112
+- Typst source, page 366, Dvar Torah Pesach 5785, line 12123
   - visual: [page-0365.png](typeset-audit-pages/page-0365.png), [page-0366.png](typeset-audit-pages/page-0366.png)
   - ...en a single line from the ⁧משנה⁩ in ‪‫מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ‬ ‫:סנהדרין‬ (ב׳:ד׳)‬ - A king has the right to break
   - normalized: ...en a single line from the משנה in מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ :סנהדרין         - A king has the right to break
-- Typst source, page 372, Pesach Sheini 5785, line 12319
+- Typst source, page 372, Pesach Sheini 5785, line 12330
   - visual: [page-0372.png](typeset-audit-pages/page-0372.png)
   - ט׳:ז׳)⁩⁩? Why should we be left out? Why
   - normalized: ט׳:ז׳)? Why should we be left out? Why
-- Typst source, page 379, Shavuos 5784, line 12565
+- Typst source, page 379, Shavuos 5784, line 12576
   - visual: [page-0379.png](typeset-audit-pages/page-0379.png), [page-0380.png](typeset-audit-pages/page-0380.png)
   - א:נ״ו)⁩ that at ⁧הר סיני⁩⁦,⁩ ⁧כלל ישראל⁩ was sleeping. They went to sleep that
   - normalized: א:נ״ו) that at הר סיני, כלל ישראל was sleeping. They went to sleep that
-- Typst source, page 396, Elul 5785, line 13112
+- Typst source, page 396, Elul 5785, line 13123
   - visual: [page-0396.png](typeset-audit-pages/page-0396.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 452, Krovitz, line 15011
+- Typst source, page 452, Krovitz, line 15022
   - visual: [page-0452.png](typeset-audit-pages/page-0452.png)
   - קי״ב:ב׳)⁩
   - normalized: קי״ב:ב׳)
-- Typst source, page 460, Purim 5785, line 15231
+- Typst source, page 460, Purim 5785, line 15242
   - visual: [page-0460.png](typeset-audit-pages/page-0460.png), [page-0461.png](typeset-audit-pages/page-0461.png)
   - this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩.
   - normalized: this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ.
 ## MEDIUM - quote surrounded by spaces
 
-- PDF visual text, page 10, יעקב מנחם רבינוביץ, line 19
+- PDF visual text, page 10, יעקב מנחם רבינוביץ, line 17
   - visual: [page-0010.png](typeset-audit-pages/page-0010.png)
   - ‫נ"י‪ ,‬אחדשכ"ט החו"ש‪ ,‬מאוד שמח ליבי בעת שקבלתי העלים מספר אשר יכונה " הדבר בי"‬
   - normalized: נ"י א,חדשכ"ט החו"ש מ,אוד שמח ליבי בעת שקבלתי העלים מספר אשר יכונה " הדבר בי"
@@ -181,7 +177,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: answer “ קרובץis קרובץ לפורים, it’s the thing that we say on פורים.” But what
 ## MEDIUM - space before punctuation in Typst source
 
-- Typst source, page 366, Dvar Torah Pesach 5785, line 12112
+- Typst source, page 366, Dvar Torah Pesach 5785, line 12123
   - visual: [page-0365.png](typeset-audit-pages/page-0365.png), [page-0366.png](typeset-audit-pages/page-0366.png)
   - ...tten a single line from the ⁧משנה⁩ in ‪‫מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ‬ ‫:סנהדרין‬ (ב׳:ד׳)‬ - A king has the right to break
   - normalized: ...tten a single line from the משנה in מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ :סנהדרין (ב׳:ד׳) - A king has the right to break
