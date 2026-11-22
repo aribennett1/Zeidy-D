@@ -1622,6 +1622,18 @@ test("docx: Vayigash 5785 keeps comma after R' Shlomo Ganzfried", () => {
   );
 });
 
+test("docx: Vayairah 5786 (1) keeps English possessives after Hebrew names", () => {
+  const typst = convertedDocx("/vayairah/5786/(1)/");
+  for (const name of ["אברם", "אברהם אבינו"]) {
+    assertContains(
+      typst,
+      `${LTR_ISOLATE}${RTL_ISOLATE}${name}${POP_DIRECTIONAL_ISOLATE}’s${POP_DIRECTIONAL_ISOLATE} name`,
+      `English possessive follows ${name} on the right`
+    );
+    assertNotContains(typst, `${name}'${POP_DIRECTIONAL_ISOLATE}s`, "apostrophe must stay outside the Hebrew isolate");
+  }
+});
+
 test("docx: Vayairah 5786 keeps comma after Otzer Pla'os HaTorah before who", () => {
   const typst = convertedDocx("/vayairah/5786/(2)/");
 

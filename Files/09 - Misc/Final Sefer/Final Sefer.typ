@@ -1675,9 +1675,9 @@ it.
 
 ⁧פרשת וירא⁩. If we look at the ⁧פרשה⁩ in the context of the parshiyos that
 surround it, there's a remarkable difference between the three ⁧פרשיות⁩ of
-⁧לך לך⁩⁦,⁩ ⁧וירא⁩⁦,⁩ and ⁧חיי שרה⁩. The first few words of ⁧לך לך⁩ are ⁧וַיֹּאמֶר ה׳ אֶל אַבְרָם⁩. The first three words of ⁧פרשת חיי שרה⁩ are ⁧וַיִּהְיוּ חַיֵּי שָׂרָה⁩. However, ⁧פרשת וירא⁩ starts off without mentioning ⁦אברהם אבינו'⁩s name: ⁧וַיֵּרָא אֵלָיו ה׳ בְּאֵלֹנֵי מַמְרֵא⁩. That's a rather unusual way to start a ⁧פרשה⁩. Who are we
+⁧לך לך⁩⁦,⁩ ⁧וירא⁩⁦,⁩ and ⁧חיי שרה⁩. The first few words of ⁧לך לך⁩ are ⁧וַיֹּאמֶר ה׳ אֶל אַבְרָם⁩. The first three words of ⁧פרשת חיי שרה⁩ are ⁧וַיִּהְיוּ חַיֵּי שָׂרָה⁩. However, ⁧פרשת וירא⁩ starts off without mentioning ⁦⁧אברהם אבינו⁩’s⁩ name: ⁧וַיֵּרָא אֵלָיו ה׳ בְּאֵלֹנֵי מַמְרֵא⁩. That's a rather unusual way to start a ⁧פרשה⁩. Who are we
 talking about? We're talking about ⁧אברהם⁩. If you go back to the end of
-⁧לך לך⁩⁦,⁩ ⁧אברם'⁩s name is not even in the last pasuk, it's in second-to-last
+⁧לך לך⁩⁦,⁩ ⁦⁧אברם⁩’s⁩ name is not even in the last pasuk, it's in second-to-last
 pasuk, ⁧בְּעֶצֶם הַיּוֹם הַזֶּה נִמּוֹל אַבְרָהָם⁩. Then it says ⁧וַיֵּרָא אֵלָיו⁩. Why do we use a
 pronoun?
 
@@ -1720,12 +1720,12 @@ our shul changed our ⁧מנהג⁩ to not say the word ⁧החולה⁩⁦,⁩ 
 label this person as a ⁧חולה⁩. The sefer ⁧דרכי חיים ושלום⁩ brings that
 Chazal say in ⁧מסכת שבת⁩ that a person should always be ⁧מבקש רחמים⁩ that he
 should not get sick, and if, ⁧חס ושלום⁩⁦,⁩ someone does get sick, we say to
-him, ⁧הוי זכות והיפטר⁩ - Find a ⁧זכות⁩. However, once we label him a ⁧חולה⁩⁦,⁩ we're being ⁧מקיים⁩ that this is his status. That's not a ⁧זכות⁩⁦,⁩ that's
-cementing him into that category of ⁧חולה⁩. Therefore, it's an excellent
-suggestion to leave out the word when you say the ⁧מי שברך⁩⁦,⁩ which we've
-done in our shul for many years. Whoever's a ⁧גבאי⁩ who hears that, you're
-more than welcome to follow this ⁧מנהג⁩ or at least bring it up with your
-local Orthodox rabbi.
+him, ⁧הָבֵא זְכוּת וְהִפָּטֵר⁩ - Find a ⁧זכות⁩ (Shabbos 32a). However, once we label
+him a ⁧חולה⁩⁦,⁩ we're being ⁧מקיים⁩ that this is his status. That's not a
+⁧זכות⁩⁦,⁩ that's cementing him into that category of ⁧חולה⁩. Therefore, it's
+an excellent suggestion to leave out the word when you say the ⁧מי שברך⁩⁦,⁩ which we've done in our shul for many years. Whoever's a ⁧גבאי⁩ who hears
+that, you're more than welcome to follow this ⁧מנהג⁩ or at least bring it
+up with your local Orthodox rabbi.
 
 The point is a person's name is that person. We know that it's a very
 important ⁧ענין⁩ when a baby is born to give a name that's appropriate and
@@ -2367,7 +2367,8 @@ acknowledges the tremendous kindnesses ⁧הקדוש ברוך הוא⁩ has done
 However, there seems to be a ⁧קשיא⁩ here: how could ⁧יעקב⁩ imply that he
 merited all of these ⁧חסדים⁩ on his own? After all, we know that all the
 ⁧חסדים⁩ and goodness we receive from ⁧הקדוש ברוך הוא⁩ are in the ⁧זכות⁩ of the
-⁧אבות⁩. For instance, when ⁧דוד המלך⁩ sought to build the ⁧בית המקדש⁩⁦,⁩ ⁧שלמה המלך⁩ could not get the doors to open until he invoked the ⁧זכות⁩ of ⁧דוד המלך⁩.
+⁧אבות⁩. For instance, ⁧שלמה המלך⁩ could not get the doors to the ⁧בית המקדש⁩
+to open until he invoked the ⁧זכות⁩ of ⁧דוד המלך⁩.
 
 The ⁧תירוץ⁩ given is based on this very ⁧פסוק⁩. When ⁧יעקב אבינו⁩ reflects on
 the ⁧חסדים⁩ of the past, he says ⁧קָטֹנְתִּי מִכֹּל הַחֲסָדִים⁩⁦,⁩ expressing gratitude

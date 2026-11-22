@@ -2020,6 +2020,12 @@ function applyTextRules(typstContent) {
     )
   ));
   return result
+    // These English possessives straddle the Hebrew isolate in the source.
+    // Put the full name and suffix in an LTR wrapper, with only the name RTL.
+    .replace(
+      /[\u2066\u2067](אברם|אברהם אבינו)'\u2069s(?= name)/gu,
+      (_match, name) => `${LTR_ISOLATE}${RTL_ISOLATE}${name}${POP_DIRECTIONAL_ISOLATE}’s${POP_DIRECTIONAL_ISOLATE}`
+    )
     // Keep the bracketed gloss in the quote's RTL run, including when the
     // line wraps. Separate isolates would put the gloss after it visually.
     .replace(
