@@ -5440,6 +5440,36 @@ look it up. ⁧תוספות⁩ says this in ⁧שבועות, דף ג ע״א, ד�
 
 #pagebreak()
 
+#set page(header: page-number-header(), footer: none, foreground: none, margin: (
+    inside: 0.78in,
+    outside: 0.62in,
+    top: 0.68in,
+    bottom: 0.82in,
+  ))
+= Vayakhel 5787
+
+Parshas Vayakhel, the story of the building of the Mishkan in all of its
+details, is introduced to us by the pasuk (35:2) ⁧שֵׁשֶׁת יָמִים תֵּעָשֶׂה מְלָאכָה וּבַיּוֹם הַשְּׁבִיעִי יִהְיֶה לָכֶם קֹדֶשׁ שַׁבַּת שַׁבָּתוֹן לַה׳⁩. Shmiras Shabbos preceded the
+building of the ⁧משכן⁩ to instruct ⁧כלל ישראל⁩ that, as important as the
+building of the ⁧משכן⁩ was, ⁧שמירת שבת⁩ took precedence, and even this
+monumental undertaking could not override the sanctity of Shabbos.
+
+It reminds me of the interesting story of my own father ⁧עליו השלום⁩⁦,⁩ whose ⁧שמירת שבת⁩ was legendary. As a little kid, I was used to hearing my
+father coming home every Friday afternoon saying, “I lost my job today!”
+I thought it was a song for Friday. When I got a little older and
+realized what he was saying, I asked him, “Daddy, what are you going to
+do? You lost your job?” He said, “Don't worry. I'll get a better one on
+Monday.”
+
+This happened week after week. His steadfastness in ⁧שמירת שבת⁩ was never
+in question. Every week he lost a job, and every week he found another
+one. His commitment to ⁧שמירת שבת⁩ was untouchable, and through that
+unwavering ⁧אמונה⁩ and ⁧ביטחון⁩⁦,⁩ he was able to succeed and raise ⁧דורות⁩ of
+children who followed in his footsteps. We are all here today because of
+his extraordinary dedication to ⁧שמירת שבת⁩.
+
+#pagebreak()
+
 #set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/pekudei/5784/", "../../02 - Shemos/11 - Pekudei/5784/Pekudei 5784.png"), foreground: none, margin: (
     inside: 0.78in,
     outside: 0.62in,
