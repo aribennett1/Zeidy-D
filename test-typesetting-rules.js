@@ -2909,7 +2909,7 @@ test("docx: Tzav 5785 parentheses enclose only the Sanhedrin source", () => {
 test("docx: Tzav 5784 keeps the full mother's name and ayin-heh in one RTL phrase", () => {
   const typst = convertedDocx("/tzav/5784/");
   assertContains(typst,
-    `${RTL_ISOLATE}טהרה מאמא תמר רייזל בת מרדכי צבי ע״ה${POP_DIRECTIONAL_ISOLATE}`,
+    `${RTL_ISOLATE}תיירה מאמא תמר רייזל בת מרדכי צבי ע״ה${POP_DIRECTIONAL_ISOLATE}`,
     "entire name and suffix in one RTL isolate");
   assertNotContains(typst, `${LTR_ISOLATE}רייזל בת מרדכי צבי`,
     "suffix must not move the end of the name into a new LTR phrase");
