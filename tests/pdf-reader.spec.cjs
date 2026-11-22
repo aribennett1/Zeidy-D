@@ -189,10 +189,21 @@ test("same version avoids reload; timer and visibility trigger checks", async ({
   const initial = downloads;
   await page.clock.fastForward(20001);
   await expect.poll(() => checks).toBe(2);
-  await page.evaluate(() =>
-    document.dispatchEvent(new Event("visibilitychange")),
-  );
+  // The route counter records request arrival, before fetch/JSON parsing finishes.
+  // Wait for the timer check to release its lock before testing a separate event.
+  await expect.poll(() => page.evaluate(() => reader.busy)).toBe(false);
+  await page.evaluate(() => {
+    // Dispatching a synthetic event does not change headless WebKit's visibility.
+    Object.defineProperty(document, "hidden", { configurable: true, value: true });
+    document.dispatchEvent(new Event("visibilitychange"));
+  });
+  expect(checks).toBe(2);
+  await page.evaluate(() => {
+    Object.defineProperty(document, "hidden", { configurable: true, value: false });
+    document.dispatchEvent(new Event("visibilitychange"));
+  });
   await expect.poll(() => checks).toBe(3);
+  await expect.poll(() => page.evaluate(() => reader.busy)).toBe(false);
   expect(downloads).toBe(initial);
   await page.evaluate(() => reader.destroy());
   await page.clock.fastForward(40000);
