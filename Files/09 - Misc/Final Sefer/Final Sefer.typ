@@ -648,8 +648,9 @@ Dedicated to the grandchildren ⁧שיחיו⁩.
 
 #divider()
 
+#align(center)[
 I would like to acknowledge permission graciously extended by the
-following writers to include selections of their work in this sefer:
+following writers to include selections of their work in this sefer: ]
 
 #align(center)[
 Rabbi Dovid Hoffman - Torah Tavlin]
