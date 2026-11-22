@@ -9525,17 +9525,15 @@ davening to save ⁧כלל ישראל⁩\.”
 A little story from Rabbi Y.Y. Jacobson from the Torah Anytimes#metadata(none) <person-index-torah-anytimes-700>
 illustrates this thought. Rabbi Jacobson's brother received an email
 from a man who identified himself as a musician living in upstate New
-York, who primarily performed secular rock music. On Thursday, June 12, 2025, he was scheduled to play a concert in a bar in Poughkeepsie. At
-that night, in the early hours of Friday morning, Israel time about 3
-a.m., the news broke that Israel had launched a surprise military
-operation against Iran. It was still early evening in New York. The
-musician says, “As I stood performing on stage, the news began to
-circulate. Israel had struck Iran. I looked around the room. No one
-appeared to be Jewish. Something stirred in me. I could not remain
-silent. I paused the music and spoke from the heart. I told the audience
-what had just happened and asked everyone, regardless of background, to
-pray in their own way for peace. I then asked them to commit to one act
-of kindness to help heal a fractured world.
+York, who primarily performed secular rock music. On Thursday, June 12, 2025, he was scheduled to play a concert in a bar in Poughkeepsie. That
+night, in the early hours of Friday morning, Israel time about 3 a.m., the news broke that Israel had launched a surprise military operation
+against Iran. It was still early evening in New York. The musician says, “As I stood performing on stage, the news began to circulate. Israel had
+struck Iran. I looked around the room. No one appeared to be Jewish.
+Something stirred in me. I could not remain silent. I paused the music
+and spoke from the heart. I told the audience what had just happened and
+asked everyone, regardless of background, to pray in their own way for
+peace. I then asked them to commit to one act of kindness to help heal a
+fractured world.
 
 “The next night, Friday night, this fellow, this musician, had a vivid
 and unusual dream. In this dream appeared Rabbi Leibel Groner, #metadata(none) <person-index-rabbi-leibel-groner-697> the
@@ -12737,7 +12735,7 @@ davening, ⁧וְתֶחֱזֶינָה עֵינֵינוּ בְּשׁוּבְךָ 
   ))
 = 17 Tamuz 5785
 
-Five ⁧פרוניות⁩⁦,⁩ five tragedies occurred on ⁧שבעה עשר בתמוז⁩. They're all
+Five ⁧פורעניות⁩⁦,⁩ five tragedies occurred on ⁧שבעה עשר בתמוז⁩. They're all
 listed in ⁧משנה ברורה⁩. The ⁧לוחות⁩ were broken, the ⁧קרבן תמיד⁩ was
 discontinued in the first ⁧בית המקדש⁩⁦,⁩ in the second ⁧בית המקדש⁩ the walls
 were breached, ⁧אפוסטמוס ימח שמו⁩ burned the ⁧ספר תורה⁩ - it was not just
@@ -13197,18 +13195,18 @@ and saw hordes of people starting to walk towards the ocean. Even though
 I was very far away from ⁧יהדות⁩⁦,⁩ and for years and years I did not go to
 shul, I remembered that we had the minhag of ⁧תשליך⁩⁦,⁩ where we go down to
 the ⁧ים⁩ and daven there to Hashem. My father used to take me when I was a
-little kid. And I said, “You know what? I'm going to with these people.
-I'm going to go down and join them to go to the shore. And I went. I was
-standing in this group of Yidden, everybody was holding their machzorim
-and davening. A gentleman came over to me, gave me a siddur, and showed
-me what paragraph to say. I said the psukim of ⁧תשליך⁩ with intense
-concentration, and then ⁧תשליך⁩ was over. I turned to go back to my house.
-Then I noticed someone standing by my side. I turned around and I saw a
-tall, handsome, chashuv Yid. He smiled at me with a radiance on his face
-and asked, “Tell me my friend, have you heard ⁧תקיעת שופר⁩ today?” I replied that no, I had not. He took out from his pocket a little small
-⁧שופר⁩. He told me to listen carefully and to have ⁧כוונה⁩ to be ⁧יוצא⁩⁦,⁩ and
-he blew 30 ⁧קולות⁩ for me. When he finished, he said to me, “My name is
-Moshe Katz”, #metadata(none) <person-index-moshe-katz-995> and he went on his way.
+little kid. And I said, “You know what? I'm going to go with these
+people. I'm going to go down and join them to go to the shore. And I
+went. I was standing in this group of Yidden, everybody was holding
+their machzorim and davening. A gentleman came over to me, gave me a
+siddur, and showed me what paragraph to say. I said the psukim of ⁧תשליך⁩
+with intense concentration, and then ⁧תשליך⁩ was over. I turned to go back
+to my house. Then I noticed someone standing by my side. I turned around
+and I saw a tall, handsome, chashuv Yid. He smiled at me with a radiance
+on his face and asked, “Tell me my friend, have you heard ⁧תקיעת שופר⁩
+today?” I replied that no, I had not. He took out from his pocket a
+little small ⁧שופר⁩. He told me to listen carefully and to have ⁧כוונה⁩ to
+be ⁧יוצא⁩⁦,⁩ and he blew 30 ⁧קולות⁩ for me. When he finished, he said to me, “My name is Moshe Katz”, #metadata(none) <person-index-moshe-katz-995> and he went on his way.
 
 I came back home and I was sort of astonished. I told my wife exactly
 what happened at ⁧תשליך⁩. I described to her the man who spoke to me. I
@@ -13229,8 +13227,8 @@ here I am today.”
 
 So Rav Zilberstein#metadata(none) <person-index-r-yitzchok-zilberstein-999> said, “I told this story over to R’ Chaim Kanievsky, #metadata(none) <person-index-r-chaim-kanievsky-994>
 and he said that without a doubt this was a ⁧גילוי משמים⁩ to this couple
-so that they should do ⁧תשובה⁩. And we see that these things are mentioned
-in ⁦חז״ל⁩ many times.
+so that they should do ⁧תשובה⁩. We see that these things are mentioned in
+⁦חז״ל⁩ many times.”
 
 This story has always remained with me since I first read it a number of
 years ago, and I said what a beautiful story, a classic story of R’
@@ -13238,7 +13236,7 @@ Chaim which is ⁧למעלה מן הטבע⁩. To me the moral of the story is h
 one step in the direction of doing something for himself. He went to
 ⁧תשליך⁩ and the rest of the story followed through. We all should learn a
 lesson, try to do whatever we can to help ourselves, be it small. No
-matter what ever we do, it should be successful.
+matter whatever we do, it should be successful.
 
 #pagebreak()
 
@@ -13421,7 +13419,7 @@ thing for everyone to have, so I wanted to quote it here:
 
 + What's a good way to do ⁧תשובה⁩? Say ⁧אמן יהא שמיה רבא⁩ with all the
   concentration that you can, and put your whole heart into it. Hashem
-  will ⁧מוחל⁩ be all of your ⁧עבירות⁩. It's a ⁧גמרא⁩ in ⁧שבת⁩.
+  will be ⁧מוחל⁩ be all of your ⁧עבירות⁩. It's a ⁧גמרא⁩ in ⁧שבת⁩.
 
 + Anyone who is ⁧מעביר על מידותיו⁩⁦,⁩ to look away and let the other person
   succeed, let them win. It's not good to always be right. No one ever
@@ -14053,7 +14051,7 @@ a moment's thought, at least one moment.
   ))
 = Hoshana Raba 5786
 
-Rabbi Moshe Wolfson's#metadata(none) <person-index-r-moshe-wolfson-1055> shoomzen have been translated into English. He has
+Rabbi Moshe Wolfson's#metadata(none) <person-index-r-moshe-wolfson-1055> shmoozen have been translated into English. He has
 a beautiful shmooze which he quotes from the ⁧אמרי אמת⁩⁦,⁩ #metadata(none) <person-index-imrei-emes-1054> the Gerrer Rebbe, on ⁧הושענא רבה⁩.
 
 ⁧הושענא רבה⁩ commemorates the final ⁧חותם⁩ of the year. On ⁧ראש השנה⁩⁦,⁩ the ⁧גזר דין⁩ is written, on ⁧יום כיפור⁩ it is sealed. Now, there are certain
@@ -14076,8 +14074,8 @@ going up. ⁧דוד המלך⁩ did an ⁧עבירה⁩ as a ⁧יחיד⁩. He 
 from the ⁧ציבור⁩ because of the enormity of his ⁧עבירה⁩⁦,⁩ and he did ⁧תשובה⁩
 for that ⁧עבירה⁩. He did so much ⁧תשובה⁩ for that ⁧עבירה⁩ that he took that
 ⁧ערבה⁩ that we use to do ⁧תשובה⁩ and reconnected it to ⁧כלל ישראל⁩. As the
-⁧מדרש⁩ says, on ⁧הושענא רבה⁩ we reattach ourselves to the ⁧נשמות⁩ of one of
-the greatest people, ⁧בן ישי⁩⁦,⁩ and we can pour out our hearts and attain
+⁧מדרש⁩ says, on ⁧הושענא רבה⁩ we reattach ourselves to the ⁧נשמה⁩ of one of the
+greatest people, ⁧בן ישי⁩⁦,⁩ and we can pour out our hearts and attain
 ⁧תשובה⁩. As we climb up in ⁧תשרי⁩⁦,⁩ Rosh Hashana brings us up to a mountain, Yom Kippur allows us to climb up higher. On ⁧הושענא רבה⁩⁦,⁩ we go above the
 level of Yom Kippur to the level of ⁧משיח⁩⁦,⁩ so high that we are able to go
 down to the lowest of the low and show them the path to ⁧תשובה⁩.
@@ -14170,9 +14168,9 @@ too. You also told us to be ⁧משמח⁩ on ⁧שמחת תורה⁩⁦,⁩ and
 this situation ⁧בשמחה⁩⁦,⁩ as ⁦חז״ל⁩ say ⁦(ברכות נ״ד ע״א)⁩, ⁧חַיָּיב אָדָם לְבָרֵךְ עַל הָרָעָה כְּשֵׁם שֶׁמְּבָרֵךְ עַל הַטּוֹבָה⁩ - The same way that a person is ⁧שמח⁩ when Hashem
 showers him with ⁧ברכה והצלחה⁩⁦,⁩ he has to have exactly the same ⁧שמחה⁩ when
 a misfortune befalls him. So Meir'l is ⁧מקבל⁩ all of this ⁧בשמחה⁩. But
-⁧ריבונו של עולם⁩⁦,⁩ I have a ⁧שאלה⁩ for you. There is a ⁧הלכה פסוקה⁩ that ⁧אין מערבין שמחה בשמחה ⁦(שו״ע אבה״ע ב:ב)⁩⁩. How can I simultaneously have a ⁧שמחה של יום טוב⁩ and a ⁧שמחה⁩ of being ⁧מקבל⁩ the situation of my daughter?” They
-noticed that his daughter immediately began perspiring profusely, and a
-little while later came back to her full state of health.
+⁧ריבונו של עולם⁩⁦,⁩ I have a ⁧שאלה⁩ for you. There is a ⁧הלכה פסוקה⁩ that ⁧אין מערבין שמחה בשמחה ⁦(שו״ע אבה״ע סב:ב)⁩⁩. How can I simultaneously have a
+⁧שמחה של יום טוב⁩ and a ⁧שמחה⁩ of being ⁧מקבל⁩ the situation of my daughter?”
+They noticed that his daughter immediately began perspiring profusely, and a little while later came back to her full state of health.
 
 The last words of this ⁧דבר תורה⁩ are: ⁧רְצוֹן יְרֵאָיו יַעֲשֶׂה⁩. ⁧יראת שמים⁩ is not a
 little thing. We want to have that level of being ⁧אוהבי ה׳⁩. But let's
@@ -15193,7 +15191,7 @@ writing and dispatch of the evil decrees in the first half, and the
 writing and dispatch of ⁦מרדכי'⁩s letters in the second half that
 counteracted the first ones, the same words are employed. You can look
 it up. Number three: After the promulgation of ⁦המן'⁩s decree, the ⁧מגילה⁩
-describes the bewilderment of the Jews of ⁧שושן⁩ by saying (3:15) ⁧וְהָעִיר שׁוּשָׁן נָבוֹכָה⁩⁦,⁩ When it describes their elation at the news of the letters
+describes the bewilderment of the Jews of ⁧שושן⁩ by saying (3:15) ⁧וְהָעִיר שׁוּשָׁן נָבוֹכָה⁩. When it describes their elation at the news of the letters
 that ⁧מרדכי⁩ sent, it says in opposite words (8:15) ⁧וְהָעִיר שׁוּשָׁן צָהֲלָה וְשָׂמֵחָה⁩.
 Number four: When describing how the Jewish people throughout the empire
 reacted in mourning to word of the evil decree, the ⁧מגילה⁩ says (4:3)
