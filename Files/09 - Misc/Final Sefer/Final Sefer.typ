@@ -6180,8 +6180,11 @@ and fulfill all of Hashem's ⁧ציוויים⁩.
   ))
 = Shmini 5784
 
-In ⁧פרשת שמיני⁩⁦,⁩ the ⁧ספר אפריון⁩⁦,⁩ written by ⁧רב שלמה גאנצפריד⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-410> the ⁧בעל קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-411> brings down a well-known ⁧גמרא⁩ in ⁧מסכת מגילה דף י״ב ע״ב⁩. He quotes a ⁧ברייתא⁩ that explains the phrase ⁧וַיְהִי בַּיּוֹם הַשְּׁמִינִי⁩⁦,⁩ comparing it to the ⁧שמחה⁩ that ⁧הקדוש ברוך הוא⁩ had when He created ⁧שמים וארץ⁩. Just as there was ⁧שמחה⁩ at the beginning of creation, so too there
-was ⁧שמחה⁩ on the eighth day, when the ⁧משכן⁩ was inaugurated.
+In ⁧פרשת שמיני⁩⁦,⁩ the ⁧ספר אפריון⁩⁦,⁩ written by ⁧רב שלמה גאנצפריד⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-410> the ⁧בעל קיצור שולחן ערוך⁩⁦,⁩ #metadata(none) <person-index-r-shlomo-ganzfried-411> brings down a well-known ⁧גמרא⁩ in ⁦מסכת מגילה דף י׳ ע״ב⁩.
+He quotes a ⁧ברייתא⁩ that explains the phrase ⁧וַיְהִי בַּיּוֹם הַשְּׁמִינִי⁩⁦,⁩ comparing
+it to the ⁧שמחה⁩ that ⁧הקדוש ברוך הוא⁩ had when He created ⁧שמים וארץ⁩. Just
+as there was ⁧שמחה⁩ at the beginning of creation, so too there was ⁧שמחה⁩ on
+the eighth day, when the ⁧משכן⁩ was inaugurated.
 
 It connects this idea to ⁧בראשית⁩⁦,⁩ where it says: ⁧וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד⁩. The question arises: how do these two events compare? We know that
 the ⁧מקדש⁩ is considered ⁧בריאת עולם מעט⁩⁦,⁩ a microcosm of creation. However, the ⁧מדרש⁩ he brings adds an even deeper and more meaningful perspective.
@@ -6498,13 +6501,15 @@ to ⁧רבי⁩⁦,⁩ ⁧רב יהודה הנשיא⁩⁦,⁩ and he instructed
 to withstand the hunger pangs. When she gave birth, the baby was ⁧רַבִּי יוֹחָנָן⁩. Another ⁧אשה מעוברת⁩ had the same experience - she was fainting and
 starving. They whispered in her ear, but she could not overcome her
 hunger, and they gave her to eat on ⁧יום כיפור⁩. From her came a famous
-⁧רשע, שַׁבְּתַאי אָצַר פֵּירֵי⁩.
+rasha, ⁧שַׁבְּתַאי אָצַר פֵּירֵי⁩.
 
 The ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-429> explained that this is the connection between the two ⁧פסוקים⁩.
 ⁧לְהַבְדִּיל בֵּין הַטָּמֵא וּבֵין הַטָּהֹר⁩ refers to ⁧רַבִּי יוֹחָנָן⁩⁦,⁩ who was ⁧טהור⁩⁦,⁩ and ⁧שַׁבְּתַאי אָצַר פֵּירֵי⁩⁦,⁩ who was ⁧טמא⁩. How was this differentiation made? ⁧בֵין הַחַיָּה הַנֶּאֱכֶלֶת⁩⁦,⁩ a play on words. In the ⁧פסוק⁩⁦,⁩ ⁧חַיָּה הַנֶּאֱכֶלֶת⁩ refers to animals that
 are ⁧כשר⁩ to eat. Ordinarily, ⁧כשרות⁩ and ⁧טומאה⁩ are not directly related, but here, the ⁦גר״א⁩#metadata(none) <person-index-vilna-gaon-430> used it to illustrate that even the food we eat
 affects our level of ⁧טהרה⁩. He explained that ⁧בֵין הַחַיָּה הַנֶּאֱכֶלֶת⁩ refers to
-the woman who refrained from eating on ⁧יום כיפור⁩ and gave birth to ⁧רַבִּי יוֹחָנָן⁩⁦,⁩ while the other woman, who ate on ⁧יום כיפור⁩⁦,⁩ gave birth to ⁧שַׁבְּתַאי אָצַר פֵּירֵי⁩. It was all within her ability to control herself. The
+the woman who ate on ⁧יום כיפור⁩ and gave birth to ⁧שַׁבְּתַאי אָצַר פֵּירֵי⁩⁦,⁩ while
+the other woman, who refrained from eating on ⁧יום כיפור⁩⁦,⁩ gave birth to
+⁧רַבִּי יוֹחָנָן⁩. It was all within her ability to control herself. The
 connection to ⁧אִשָּׁה כִּי תַזְרִיעַ וְיָלְדָה זָכָר⁩ is that a mother's actions during
 pregnancy have an impact on her child.
 

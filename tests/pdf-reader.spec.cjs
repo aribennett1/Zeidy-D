@@ -160,6 +160,7 @@ test("PDF internal link navigates through annotation layer", async ({
     .toBe(6);
 });
 test("link hover covers its text at different zoom levels", async ({ page }) => {
+  await page.addStyleTag({ url: '/styles.css' });
   for (const scale of [1, 1.6]) {
     await page.evaluate(async (scale) => {
       reader.active.viewer.currentScale = scale;
@@ -169,8 +170,8 @@ test("link hover covers its text at different zoom levels", async ({ page }) => 
     await expect.poll(async () => page.evaluate(() => {
       const page = reader.active.viewer.getPageView(0).div;
       const text = [...page.querySelectorAll('.textLayer span:not(.markedContent)')]
-        .find((span) => span.textContent === "Go to index destination");
-      const link = page.querySelector('.linkAnnotation > a');
+        .find((span) => span.textContent.startsWith("Line 0020 "));
+      const link = [...page.querySelectorAll('.linkAnnotation > a')].at(-1);
       if (!text || !link) return Infinity;
       const a = text.getBoundingClientRect(), b = link.getBoundingClientRect();
       return Math.max(
@@ -178,8 +179,34 @@ test("link hover covers its text at different zoom levels", async ({ page }) => 
         Math.abs(a.left - b.left), Math.abs(a.right - b.right)
       );
     })).toBeLessThan(1);
-    await page.locator('.annotationLayer a').first().hover();
-    await expect(page.locator('.annotationLayer a').first()).toHaveCSS('box-shadow', 'none');
+    await page.locator('.annotationLayer a').last().hover();
+    await expect(page.locator('.annotationLayer a').last()).toHaveCSS('box-shadow', 'none');
+    const ink = await page.evaluate(() => {
+      const pdfPage = reader.active.viewer.getPageView(0).div;
+      const canvas = pdfPage.querySelector('canvas');
+      const link = [...pdfPage.querySelectorAll('.linkAnnotation > a')].at(-1).getBoundingClientRect();
+      const bounds = canvas.getBoundingClientRect();
+      const sx = canvas.width / bounds.width, sy = canvas.height / bounds.height;
+      const x = Math.max(0, Math.floor((link.left - bounds.left) * sx));
+      const y = Math.max(0, Math.floor((link.top - bounds.top - 3) * sy));
+      const width = Math.floor(link.width * sx);
+      const height = Math.floor((link.height + 6) * sy);
+      const pixels = canvas.getContext('2d').getImageData(x, y, width, height).data;
+      const rows = [];
+      for (let row = 0; row < height; row++) {
+        for (let col = 0; col < width; col++) {
+          const i = (row * width + col) * 4;
+          if (pixels[i + 3] > 128 && Math.max(pixels[i], pixels[i + 1], pixels[i + 2]) < 100) {
+            rows.push(bounds.top + (y + row) / sy);
+            break;
+          }
+        }
+      }
+      return { count: rows.length, above: link.top - Math.min(...rows), below: Math.max(...rows) - link.bottom };
+    });
+    expect(ink.count).toBeGreaterThan(0);
+    expect(ink.above).toBeLessThanOrEqual(1);
+    expect(ink.below).toBeLessThanOrEqual(1);
   }
 });
 

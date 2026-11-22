@@ -148,6 +148,12 @@
   padding: 16px 0;
 }
 
+/* PDF.js sizes pages by their content; the site's border-box reset would
+   shrink the canvas relative to its text and annotation layers. */
+.pdf-reader .pdfViewer .page {
+  box-sizing: content-box;
+}
+
 .pdf-reader .annotationLayer .linkAnnotation:not(.hasBorder) > a:hover {
   opacity: 1;
   background-color: rgb(135 206 250 / 0.3);

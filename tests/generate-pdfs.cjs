@@ -41,7 +41,13 @@ async function generate(name, offset = 0, edit = false, deleted = false) {
       Dest: [dest.ref, PDFName.of("XYZ"), 0, 660, 0],
     }),
   );
-  first.node.set(PDFName.of("Annots"), doc.context.obj([link]));
+  // A link low on the page exposes canvas/overlay scaling mismatches that
+  // are barely visible near the top border.
+  const lowerLink = doc.context.register(doc.context.obj({
+    Type: "Annot", Subtype: "Link", Rect: [40, 240, 450, 248],
+    Border: [0, 0, 0], Dest: [dest.ref, PDFName.of("XYZ"), 0, 660, 0],
+  }));
+  first.node.set(PDFName.of("Annots"), doc.context.obj([link, lowerLink]));
   fs.mkdirSync("tests/fixtures", { recursive: true });
   fs.writeFileSync(`tests/fixtures/${name}.pdf`, await doc.save());
 }
