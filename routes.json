@@ -1007,6 +1007,10 @@
       "contentPath": "09 - Misc/Bris",
       "baseFilename": "Bris"
     },
+    "/cover/": {
+      "contentPath": "09 - Misc/Cover",
+      "baseFilename": "Cover"
+    },
     "/final-sefer/": {
       "contentPath": "09 - Misc/Final Sefer",
       "baseFilename": "Final Sefer"
@@ -1256,6 +1260,7 @@
     "09 - Misc/Bentching": "/bentching/",
     "09 - Misc/Bloopers": "/bloopers/",
     "09 - Misc/Bris": "/bris/",
+    "09 - Misc/Cover": "/cover/",
     "09 - Misc/Final Sefer": "/final-sefer/",
     "09 - Misc/Rabbi Oelbaum Shabbos": "/rabbi-oelbaum-shabbos/"
   }
