@@ -15,14 +15,14 @@
 #nav #sheet-query::placeholder { color: #7c8b81; }
 #nav .search-status { margin: 18px 2px 14px; color: #66796b; font-size: 13px; line-height: 1.6; }
 #nav .search-results { display: grid; gap: 12px; }
-#nav .search-result { display: block; cursor: pointer; text-decoration: none; color: inherit; margin: 0; padding: 18px; border: 1px solid #dfe6e0; border-radius: 12px; background: #fff; box-shadow: 0 2px 5px #193b2505; }
+#nav .search-result { direction: ltr; text-align: left; display: block; cursor: pointer; text-decoration: none; color: inherit; margin: 0; padding: 18px; border: 1px solid #dfe6e0; border-radius: 12px; background: #fff; box-shadow: 0 2px 5px #193b2505; }
 #nav .search-result:hover { border-color: #a5b9ac; box-shadow: 0 3px 10px #193b2510; }
 #nav .search-result h3 { display: block; margin: 0 0 6px; padding: 0; font-size: 18px; font-weight: 650; line-height: 1.35; opacity: 1; background: none; cursor: inherit; color: #285a3c; }
 #nav .search-result h3::after { content: none; }
 #nav .search-result:visited { color: inherit; }
 #nav .search-result:hover h3 { text-decoration: underline; text-underline-offset: 3px; }
 #nav .search-breadcrumb { margin: 0; color: #7b867e; font-size: 12px; line-height: 1.5; }
-#nav .search-excerpt { margin: 13px 0 0; color: #3e4b42; font-size: 14px; line-height: 1.8; white-space: pre-line; overflow-wrap: anywhere; }
+#nav .search-excerpt { text-align: justify; text-align-last: left; direction: ltr; margin: 13px 0 0; color: #3e4b42; font-size: 14px; line-height: 1.8; white-space: pre-line; overflow-wrap: anywhere; }
 #nav .search-excerpt mark { background: #f8e6a4; color: #263b2c; border-radius: 3px; padding: 1px 2px; box-decoration-break: clone; }
 #nav .search-results > button { padding: 10px 16px; border: 1px solid #afc2b4; border-radius: 8px; background: #fff; color: #285a3c; font: inherit; cursor: pointer; }
 #nav .site-search button:focus-visible, #nav .search-result:focus-visible { outline: 3px solid #7c9d85; outline-offset: 3px; }

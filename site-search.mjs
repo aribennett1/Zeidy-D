@@ -76,7 +76,7 @@ async function search() {
         const snippet = excerpt(texts[hit.id], hit.highlights);
         const paragraph = document.createElement('p');
         paragraph.className = 'search-excerpt';
-        paragraph.dir = 'auto';
+        paragraph.dir = 'ltr';
         if (snippet.before) paragraph.append('…');
         for (const piece of snippet.pieces) {
           if (piece.match) { const mark = document.createElement('mark'); mark.textContent = piece.text; paragraph.append(mark); }
