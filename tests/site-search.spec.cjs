@@ -89,3 +89,21 @@ test('English translations and transliterations include Hebrew matches and expla
   await expect(explanation).toBeHidden();
   await expect(page.locator('.search-status')).toContainText('No sheets found');
 });
+
+test('misspelled aliases find Hebrew and all results follow sidebar TOC order', async ({ page }) => {
+  await page.goto('/');
+  const query = await focusSearch(page);
+  await query.fill('taivah');
+  await expect(page.locator('.search-spelling')).toContainText('teivah');
+  await expect(page.locator('.search-excerpt mark').filter({ hasText: /תיבה|תבה/ }).first()).toBeVisible();
+  const positions = await page.evaluate(async () => {
+    const routes = await (await fetch('/routes.json')).json();
+    const toc = [...document.querySelectorAll('#nav-tree li')].map(li => routes.byContentPath[li.dataset.contentPath]);
+    return [...document.querySelectorAll('.search-result')].map(card => toc.indexOf(card.getAttribute('href')));
+  });
+  expect(positions.length).toBeGreaterThan(0);
+  expect(positions.every(i => i >= 0)).toBe(true);
+  expect(positions).toEqual([...positions].sort((a, b) => a - b));
+  await query.fill('faith');
+  await expect(page.locator('.search-spelling')).toBeHidden();
+});

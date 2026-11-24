@@ -2,6 +2,33 @@ import { tokenize } from './search-text.mjs?v=2';
 
 const key = text => tokenize(text).join(' ');
 
+// Bounded adjacent-transposition distance for misspelled English aliases.
+function distance(a, b, limit) {
+  if (Math.abs(a.length - b.length) > limit) return limit + 1;
+  const rows = [Array.from({ length: b.length + 1 }, (_, i) => i)];
+  for (let i = 1; i <= a.length; i++) {
+    const row = [i];
+    for (let j = 1; j <= b.length; j++) {
+      row[j] = Math.min(rows[i - 1][j] + 1, row[j - 1] + 1, rows[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) row[j] = Math.min(row[j], rows[i - 2][j - 2] + 1);
+    }
+    rows.push(row);
+  }
+  return rows[a.length][b.length];
+}
+function phraseDistance(words, candidate) {
+  let total = 0, changed = 0;
+  for (let i = 0; i < words.length; i++) {
+    if (words[i] === candidate[i]) continue;
+    if (!/^[a-z]{5,64}$/.test(words[i]) || !/^[a-z]+$/.test(candidate[i])) return 3;
+    const limit = words[i].length >= 8 ? 2 : 1;
+    const difference = distance(words[i], candidate[i], limit);
+    if (difference > limit || ++changed > 1) return 3;
+    total += difference;
+  }
+  return total;
+}
+
 // Review flags describe ambiguity; all supplied meanings remain searchable.
 export function compileAliases(source) {
   if (source.schemaVersion !== 1 || !Array.isArray(source.entries)) throw new Error('Invalid search alias dictionary');
@@ -25,9 +52,16 @@ export function compileAliases(source) {
   return [...aliases].map(([alias, terms]) => [alias, [...terms]]);
 }
 
-export function createAliasSearch(engine, texts, compiled) {
+export function createAliasSearch(engine, texts, compiled, tocOrder = Object.keys(texts)) {
   const aliases = new Map(compiled);
   const maxWords = Math.max(1, ...[...aliases.keys()].map(s => s.split(' ').length));
+  const order = new Map(tocOrder.map((id, i) => [id, i]));
+  const byLength = new Map();
+  for (const [alias, terms] of aliases) {
+    const words = alias.split(' ');
+    if (!byLength.has(words.length)) byLength.set(words.length, []);
+    byLength.get(words.length).push({ alias, words, terms });
+  }
   const searchable = new Map();
   function contains(hit, phrase) {
     if (!searchable.has(hit.id)) searchable.set(hit.id,
@@ -35,12 +69,26 @@ export function createAliasSearch(engine, texts, compiled) {
     return searchable.get(hit.id).some(field => field.includes(` ${key(phrase)} `));
   }
   return query => {
-    const words = tokenize(query), groups = [], expanded = new Set();
+    const words = tokenize(query), groups = [], expanded = new Set(), spellingMatches = [];
     for (let i = 0; i < words.length;) {
       let size = Math.min(maxWords, words.length - i);
       while (size > 1 && !aliases.has(words.slice(i, i + size).join(' '))) size--;
-      const original = words.slice(i, i + size).join(' ');
-      const equivalents = aliases.get(original) || [];
+      let original = words.slice(i, i + size).join(' ');
+      let equivalents = aliases.get(original) || [];
+      if (!equivalents.length) {
+        for (let count = Math.min(maxWords, words.length - i); count >= 1; count--) {
+          const portion = words.slice(i, i + count);
+          const nearby = (byLength.get(count) || []).map(candidate => ({ ...candidate, distance: phraseDistance(portion, candidate.words) })).filter(c => c.distance > 0 && c.distance <= 2);
+          if (!nearby.length) continue;
+          const best = Math.min(...nearby.map(c => c.distance));
+          const selected = nearby.filter(c => c.distance === best).slice(0, 3);
+          equivalents = selected.flatMap(c => c.terms.map(([term]) => [term, 3]));
+          spellingMatches.push(...selected.map(c => ({ spelling: c.alias, hebrew: c.terms.map(([term]) => term) })));
+          size = count;
+          original = portion.join(' ');
+          break;
+        }
+      }
       groups.push({ original, equivalents });
       for (const [hebrew] of equivalents) expanded.add(hebrew);
       i += size;
@@ -80,8 +128,9 @@ export function createAliasSearch(engine, texts, compiled) {
       if (!combined.size) break;
     }
     return {
-      hits: [...(combined?.values() || [])].sort((a, b) => a.tier - b.tier || b.score - a.score || a.id.localeCompare(b.id)),
+      hits: [...(combined?.values() || [])].sort((a, b) => (order.get(a.id) ?? Infinity) - (order.get(b.id) ?? Infinity) || a.id.localeCompare(b.id)),
       expanded: [...expanded],
+      spellingMatches,
     };
   };
 }

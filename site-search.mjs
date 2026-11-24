@@ -1,6 +1,6 @@
 import MiniSearch from './vendor/minisearch/index.js';
 import { tokenize, excerpt } from './search-text.mjs?v=2';
-import { createAliasSearch } from './search-aliases.mjs';
+import { createAliasSearch } from './search-aliases.mjs?v=2';
 
 const nav = document.getElementById('nav');
 const panel = nav.querySelector('.site-search');
@@ -36,13 +36,14 @@ function load() {
   }).then(data => {
     engine = MiniSearch.loadJSON(JSON.stringify(data.index), { fields: ['title', 'breadcrumb', 'text'], storeFields: ['title', 'breadcrumb'], tokenize });
     texts = data.texts;
-    findSheets = createAliasSearch(engine, texts, data.aliases || []);
+    findSheets = createAliasSearch(engine, texts, data.aliases || [], data.tocOrder);
   }).catch(error => { pending = null; throw error; });
   return pending;
 }
 async function search() {
   const query = input.value.trim();
   results.replaceChildren();
+  body.querySelector('.search-spelling')?.remove();
   expansion.hidden = true;
   expansion.replaceChildren();
   if (!query) { status.textContent = 'Search all sheets, including their full text.'; return; }
@@ -50,7 +51,7 @@ async function search() {
   try {
     await load();
     if (query !== input.value.trim() || !expanded()) return;
-    const { hits, expanded: equivalents } = findSheets(query);
+    const { hits, expanded: equivalents, spellingMatches } = findSheets(query);
     if (equivalents.length) {
       const summary = document.createElement('summary');
       summary.textContent = `Also searched: ${equivalents.slice(0, 4).join(' · ')}${equivalents.length > 4 ? ` (+${equivalents.length - 4} more)` : ''}`;
@@ -58,6 +59,12 @@ async function search() {
       list.dir = 'auto';
       list.textContent = equivalents.join(' · ');
       expansion.append(summary, list);
+      if (spellingMatches.length) {
+        const spellings = document.createElement('p');
+        spellings.className = 'search-spelling';
+        spellings.textContent = `Matched spelling: ${spellingMatches.map(match => `${match.spelling} → ${match.hebrew.join(', ')}`).join(' · ')}`;
+        expansion.before(spellings);
+      }
       expansion.hidden = false;
     }
     status.textContent = hits.length ? `${hits.length} matching ${hits.length === 1 ? 'sheet' : 'sheets'}` : 'No sheets found. Try fewer words or another spelling.';

@@ -38,10 +38,25 @@ for (const [route, entry] of Object.entries(routes.byRoute)) {
   const breadcrumb = entry.contentPath.split('/').map(p => p.replace(/^\d+\s*-\s*/, '')).join(' / ');
   documents.push({ id: route, title: entry.title || entry.baseFilename, breadcrumb, text });
 }
+// Mirror renderNav: sorted keys, with branch content before its children.
+const manifest = JSON.parse(await fs.readFile(path.join(root, 'manifest.json'), 'utf8'));
+const tocOrder = [];
+function visit(data, parts = []) {
+  for (const name of Object.keys(data).sort()) {
+    if (name === '__content') continue;
+    const value = data[name], current = [...parts, name];
+    if (typeof value === 'string' || value === null || Object.hasOwn(value, '__content')) {
+      const route = routes.byContentPath[current.join('/')];
+      if (route) tocOrder.push(route);
+    }
+    if (value && typeof value === 'object') visit(value, current);
+  }
+}
+visit(manifest);
 const aliases = compileAliases(JSON.parse(await fs.readFile(path.join(root, 'torah_search_aliases.json'), 'utf8')));
 const index = new MiniSearch({ fields: ['title', 'breadcrumb', 'text'], storeFields: ['title', 'breadcrumb'], tokenize });
 index.addAll(documents);
-await fs.writeFile(path.join(root, 'search-index.json'), JSON.stringify({ aliases, index: index.toJSON(), texts: Object.fromEntries(documents.map(d => [d.id, d.text])), missing }));
+await fs.writeFile(path.join(root, 'search-index.json'), JSON.stringify({ aliases, tocOrder, index: index.toJSON(), texts: Object.fromEntries(documents.map(d => [d.id, d.text])), missing }));
 await fs.mkdir(path.join(root, 'vendor/minisearch'), { recursive: true });
 await fs.copyFile(path.join(root, 'node_modules/minisearch/dist/es/index.js'), path.join(root, 'vendor/minisearch/index.js'));
 await fs.copyFile(path.join(root, 'node_modules/minisearch/LICENSE.txt'), path.join(root, 'vendor/minisearch/LICENSE.txt'));
