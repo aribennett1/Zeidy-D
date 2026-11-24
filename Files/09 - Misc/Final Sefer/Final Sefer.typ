@@ -354,7 +354,7 @@ Dovid Yoel Hoffman
     top: 0.68in,
     bottom: 0.82in,
   ))
-#place[#hide[#heading(level: 1)[Eliyahu Safran Haskama]]]
+#place[#hide[#heading(level: 1)[Rabbi Eliyahu Safran Haskama]]]
 
 It is with great pride and pleasure that I share my accolades and praise
 with my long time friend Dr. Leslie Bennett, whom I have known since our
