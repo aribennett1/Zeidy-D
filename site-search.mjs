@@ -24,10 +24,6 @@ function expand() {
   document.getElementById('nav-tree').inert = true;
   search();
 }
-const expansion = document.createElement('details');
-expansion.className = 'search-expansion';
-expansion.hidden = true;
-body.insertBefore(expansion, results);
 let pending, engine, texts, timer, findSheets;
 function load() {
   if (!pending) pending = fetch('/search-index.json').then(response => {
@@ -43,30 +39,12 @@ function load() {
 async function search() {
   const query = input.value.trim();
   results.replaceChildren();
-  body.querySelector('.search-spelling')?.remove();
-  expansion.hidden = true;
-  expansion.replaceChildren();
   if (!query) { status.textContent = 'Search all sheets, including their full text.'; return; }
   status.textContent = 'Searching…';
   try {
     await load();
     if (query !== input.value.trim() || !expanded()) return;
-    const { hits, expanded: equivalents, spellingMatches } = findSheets(query);
-    if (equivalents.length) {
-      const summary = document.createElement('summary');
-      summary.textContent = `Also searched: ${equivalents.slice(0, 4).join(' · ')}${equivalents.length > 4 ? ` (+${equivalents.length - 4} more)` : ''}`;
-      const list = document.createElement('p');
-      list.dir = 'auto';
-      list.textContent = equivalents.join(' · ');
-      expansion.append(summary, list);
-      if (spellingMatches.length) {
-        const spellings = document.createElement('p');
-        spellings.className = 'search-spelling';
-        spellings.textContent = `Matched spelling: ${spellingMatches.map(match => `${match.spelling} → ${match.hebrew.join(', ')}`).join(' · ')}`;
-        expansion.before(spellings);
-      }
-      expansion.hidden = false;
-    }
+    const { hits } = findSheets(query);
     status.textContent = hits.length ? `${hits.length} matching ${hits.length === 1 ? 'sheet' : 'sheets'}` : 'No sheets found. Try fewer words or another spelling.';
     for (const hit of hits) {
       const item = document.createElement('a');

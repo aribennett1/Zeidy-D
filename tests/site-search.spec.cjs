@@ -68,25 +68,18 @@ test('Done and outside clicks restore navigation without losing the search', asy
   await expect(page.locator('#nav')).not.toHaveClass(/search-expanded/);
 });
 
-test('English translations and transliterations include Hebrew matches and explanations', async ({ page }) => {
+test('English translations and transliterations include Hebrew matches', async ({ page }) => {
   await page.goto('/');
   const query = await focusSearch(page);
   await query.fill('faith');
-  const explanation = page.locator('.search-expansion');
-  await expect(explanation).toBeVisible();
-  await expect(explanation.locator('summary')).toContainText('אמונה');
   await expect(page.locator('.search-excerpt mark').filter({ hasText: 'אמונה' }).first()).toBeVisible();
   const destinations = await page.locator('.search-result').evaluateAll(cards => cards.map(c => c.getAttribute('href')));
   expect(new Set(destinations).size).toBe(destinations.length);
   await query.fill('teva');
-  await expect(explanation.locator('summary')).toContainText('טבע');
-  await expect(explanation.locator('summary')).toContainText('תיבה');
   await expect(page.locator('.search-excerpt mark').first()).toBeVisible();
   await query.fill('free will');
-  await expect(explanation.locator('summary')).toContainText('בחירה');
   await expect(page.locator('.search-result').first()).toBeVisible();
   await query.fill('zzzznonexistentzzzz');
-  await expect(explanation).toBeHidden();
   await expect(page.locator('.search-status')).toContainText('No sheets found');
 });
 
@@ -94,7 +87,6 @@ test('misspelled aliases find Hebrew and all results follow sidebar TOC order', 
   await page.goto('/');
   const query = await focusSearch(page);
   await query.fill('taivah');
-  await expect(page.locator('.search-spelling')).toContainText('teivah');
   await expect(page.locator('.search-excerpt mark').filter({ hasText: /תיבה|תבה/ }).first()).toBeVisible();
   const positions = await page.evaluate(async () => {
     const routes = await (await fetch('/routes.json')).json();
@@ -105,5 +97,4 @@ test('misspelled aliases find Hebrew and all results follow sidebar TOC order', 
   expect(positions.every(i => i >= 0)).toBe(true);
   expect(positions).toEqual([...positions].sort((a, b) => a - b));
   await query.fill('faith');
-  await expect(page.locator('.search-spelling')).toBeHidden();
 });
