@@ -45,11 +45,10 @@ async function search() {
     const hits = engine.search(query, { prefix: true, fuzzy: term => term.length >= 5 ? 0.15 : false, combineWith: 'AND', boost: { title: 4, breadcrumb: 2 } });
     status.textContent = hits.length ? `${hits.length} matching ${hits.length === 1 ? 'sheet' : 'sheets'}${hits.length > 50 ? ' · Showing the first 50' : ''}` : 'No sheets found. Try fewer words or another spelling.';
     for (const hit of hits.slice(0, 50)) {
-      const item = document.createElement('article');
+      const item = document.createElement('a');
       item.className = 'search-result';
-      const link = document.createElement('a');
+      const link = item;
       link.href = hit.id;
-      link.textContent = hit.title;
       link.addEventListener('click', event => {
         if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
         event.preventDefault();
@@ -64,7 +63,9 @@ async function search() {
         }
       });
       const heading = document.createElement('h3');
-      heading.append(link);
+      heading.textContent = hit.title;
+      heading.id = `search-result-${results.childElementCount}`;
+      link.setAttribute('aria-labelledby', heading.id);
       const crumb = document.createElement('p');
       crumb.className = 'search-breadcrumb';
       crumb.textContent = hit.breadcrumb;

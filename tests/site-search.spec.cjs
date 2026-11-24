@@ -21,9 +21,9 @@ test('sidebar expands on focus, styles results, opens sheet, and retains query',
   const width = await page.locator('#nav').evaluate(n => n.getBoundingClientRect().width);
   expect(width).toBeGreaterThan(280);
   await page.screenshot({ path: testInfo.outputPath('sidebar-search.png') });
-  const link = result.locator('a');
+  const link = result;
   const destination = await link.getAttribute('href');
-  await link.click();
+  await result.locator('.search-excerpt').click();
   await expect(page.locator('#nav')).not.toHaveClass(/search-expanded/);
   expect(new URL(page.url()).pathname).toBe(destination);
   await focusSearch(page);
