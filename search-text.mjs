@@ -14,12 +14,30 @@ export function excerpt(text, terms, radius = 140) {
     const part = normalize(text[i]);
     for (const char of part) { folded += char; offsets.push(i); }
   }
+  const words = [...folded.matchAll(/[\p{L}\p{N}]+/gu)];
+  const wanted = [...new Set(terms)].map(tokenize).filter(parts => parts.length);
+  const ranges = [];
+  for (let i = 0; i < words.length; i++) {
+    for (const phrase of wanted) {
+      if (i + phrase.length > words.length) continue;
+      const found = phrase.length === 1
+        ? words[i][0].startsWith(phrase[0])
+        : phrase.every((part, j) => words[i + j][0] === part);
+      if (!found) continue;
+      const last = words[i + phrase.length - 1];
+      const start = offsets[words[i].index];
+      let end = offsets[last.index + last[0].length - 1] + 1;
+      while (end < text.length && /\p{M}/u.test(text[end])) end++;
+      ranges.push([start, end]);
+    }
+  }
+  // Overlapping aliases should render one highlight, without duplicating text.
+  ranges.sort((a, b) => a[0] - b[0] || b[1] - a[1]);
   const matches = [];
-  const wanted = [...new Set(terms.map(normalize).filter(Boolean))];
-  const words = folded.matchAll(/[\p{L}\p{N}]+/gu);
-  for (const word of words) {
-    const term = wanted.find(t => word[0].startsWith(t));
-    if (term) matches.push([offsets[word.index], offsets[word.index + word[0].length - 1] + 1]);
+  for (const range of ranges) {
+    const previous = matches.at(-1);
+    if (previous && range[0] <= previous[1]) previous[1] = Math.max(previous[1], range[1]);
+    else matches.push(range);
   }
   // Choose the window with the most matches, preferring earlier passages on ties.
   let best = matches[0]?.[0] || 0, score = -1;
@@ -27,7 +45,7 @@ export function excerpt(text, terms, radius = 140) {
     const count = matches.filter(([p]) => p >= position - radius && p <= position + radius).length;
     if (count > score) { best = position; score = count; }
   }
-  let start = Math.max(0, best - radius), end = Math.min(text.length, best + radius + 100);
+  let start = Math.max(0, best - radius), end = Math.min(text.length, Math.max(best + radius + 100, matches.find(([p]) => p === best)?.[1] || 0));
   while (start > 0 && start < best && !/\s/.test(text[start - 1])) start++;
   while (end < text.length && !/\s/.test(text[end])) end++;
   const pieces = [];

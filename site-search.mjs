@@ -1,5 +1,6 @@
 import MiniSearch from './vendor/minisearch/index.js';
-import { tokenize, excerpt } from './search-text.mjs';
+import { tokenize, excerpt } from './search-text.mjs?v=2';
+import { createAliasSearch } from './search-aliases.mjs';
 
 const nav = document.getElementById('nav');
 const panel = nav.querySelector('.site-search');
@@ -23,7 +24,11 @@ function expand() {
   document.getElementById('nav-tree').inert = true;
   search();
 }
-let pending, engine, texts, timer;
+const expansion = document.createElement('details');
+expansion.className = 'search-expansion';
+expansion.hidden = true;
+body.insertBefore(expansion, results);
+let pending, engine, texts, timer, findSheets;
 function load() {
   if (!pending) pending = fetch('/search-index.json').then(response => {
     if (!response.ok) throw new Error('Search index unavailable');
@@ -31,20 +36,32 @@ function load() {
   }).then(data => {
     engine = MiniSearch.loadJSON(JSON.stringify(data.index), { fields: ['title', 'breadcrumb', 'text'], storeFields: ['title', 'breadcrumb'], tokenize });
     texts = data.texts;
+    findSheets = createAliasSearch(engine, texts, data.aliases || []);
   }).catch(error => { pending = null; throw error; });
   return pending;
 }
 async function search() {
   const query = input.value.trim();
   results.replaceChildren();
+  expansion.hidden = true;
+  expansion.replaceChildren();
   if (!query) { status.textContent = 'Search all sheets, including their full text.'; return; }
   status.textContent = 'Searching…';
   try {
     await load();
     if (query !== input.value.trim() || !expanded()) return;
-    const hits = engine.search(query, { prefix: true, fuzzy: term => term.length >= 5 ? 0.15 : false, combineWith: 'AND', boost: { title: 4, breadcrumb: 2 } });
-    status.textContent = hits.length ? `${hits.length} matching ${hits.length === 1 ? 'sheet' : 'sheets'}${hits.length > 50 ? ' · Showing the first 50' : ''}` : 'No sheets found. Try fewer words or another spelling.';
-    for (const hit of hits.slice(0, 50)) {
+    const { hits, expanded: equivalents } = findSheets(query);
+    if (equivalents.length) {
+      const summary = document.createElement('summary');
+      summary.textContent = `Also searched: ${equivalents.slice(0, 4).join(' · ')}${equivalents.length > 4 ? ` (+${equivalents.length - 4} more)` : ''}`;
+      const list = document.createElement('p');
+      list.dir = 'auto';
+      list.textContent = equivalents.join(' · ');
+      expansion.append(summary, list);
+      expansion.hidden = false;
+    }
+    status.textContent = hits.length ? `${hits.length} matching ${hits.length === 1 ? 'sheet' : 'sheets'}` : 'No sheets found. Try fewer words or another spelling.';
+    for (const hit of hits) {
       const item = document.createElement('a');
       item.className = 'search-result';
       const link = item;
@@ -71,7 +88,7 @@ async function search() {
       crumb.textContent = hit.breadcrumb;
       item.append(heading, crumb);
       if (texts[hit.id]) {
-        const snippet = excerpt(texts[hit.id], [...tokenize(query), ...Object.keys(hit.match || {})]);
+        const snippet = excerpt(texts[hit.id], hit.highlights);
         const paragraph = document.createElement('p');
         paragraph.className = 'search-excerpt';
         paragraph.dir = 'auto';

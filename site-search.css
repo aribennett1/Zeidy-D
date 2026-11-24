@@ -33,3 +33,8 @@
 @media (prefers-reduced-motion: reduce) {
   #nav { transition: none; }
 }
+
+#nav .search-expansion { margin: -3px 2px 16px; color: #536c5a; font-size: 12px; line-height: 1.7; overflow-wrap: anywhere; }
+#nav .search-expansion summary { cursor: pointer; }
+#nav .search-expansion p { margin: 8px 0 0; padding: 10px 12px; border-radius: 8px; background: #e9efe9; }
+#nav .search-expansion summary:focus-visible { outline: 3px solid #7c9d85; outline-offset: 3px; }

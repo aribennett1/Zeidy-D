@@ -21,7 +21,7 @@
     "test:pdf": "node tests/generate-pdfs.cjs && playwright test",
     "build:pdf-version": "node build-pdf-version.js",
     "build:search": "node build-search.mjs",
-    "test:search": "npm run build:search && node --test tests/search-text.test.mjs && playwright test tests/site-search.spec.cjs"
+    "test:search": "npm run build:search && node --test tests/search-text.test.mjs tests/search-aliases.test.mjs && playwright test tests/site-search.spec.cjs"
   },
   "dependencies": {
     "fast-xml-parser": "^5.12.1",
