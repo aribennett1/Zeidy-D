@@ -98,3 +98,41 @@ test('misspelled aliases find Hebrew and all results follow sidebar TOC order', 
   expect(positions).toEqual([...positions].sort((a, b) => a - b));
   await query.fill('faith');
 });
+
+test('empty search has no subtext and mixed Hebrew excerpts keep English reading order', async ({ page }) => {
+  await page.goto('/');
+  const query = await focusSearch(page);
+  await expect(page.locator('.search-status')).toBeHidden();
+  await expect(page.getByText('Search all sheets, including their full text.')).toHaveCount(0);
+  await query.fill('לוי');
+  const excerpt = page.locator('.search-result').filter({ has: page.getByRole('heading', { name: 'Vayaitzei 5783', exact: true }) }).locator('.search-excerpt');
+  await expect(excerpt).toBeVisible();
+  await expect(excerpt).toHaveCSS('direction', 'ltr');
+  await expect(excerpt).toHaveCSS('unicode-bidi', 'isolate');
+  // Measure rendered words, since a CSS direction assertion alone misses visual reordering.
+  const words = await excerpt.evaluate(p => {
+    const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
+    const positions = {};
+    while (walker.nextNode()) {
+      const node = walker.currentNode;
+      for (const word of ['First', 'לאה', 'gives']) {
+        const start = node.textContent.indexOf(word);
+        if (start < 0 || positions[word]) continue;
+        const range = document.createRange();
+        range.setStart(node, start);
+        range.setEnd(node, start + word.length);
+        const rect = range.getBoundingClientRect();
+        positions[word] = { x: rect.x, y: rect.y };
+      }
+    }
+    return positions;
+  });
+  expect(words.First).toBeDefined();
+  expect(words['לאה']).toBeDefined();
+  expect(words.gives).toBeDefined();
+  const precedes = (a, b) => a.y < b.y - 5 || (Math.abs(a.y - b.y) <= 5 && a.x < b.x);
+  expect(precedes(words.First, words['לאה'])).toBe(true);
+  expect(precedes(words['לאה'], words.gives)).toBe(true);
+  await query.fill('');
+  await expect(page.locator('.search-status')).toBeHidden();
+});

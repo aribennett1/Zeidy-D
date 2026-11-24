@@ -39,7 +39,7 @@ function load() {
 async function search() {
   const query = input.value.trim();
   results.replaceChildren();
-  if (!query) { status.textContent = 'Search all sheets, including their full text.'; return; }
+  if (!query) { status.textContent = ''; return; }
   status.textContent = 'Searching…';
   try {
     await load();
