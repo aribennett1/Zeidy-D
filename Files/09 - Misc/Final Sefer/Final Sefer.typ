@@ -4713,17 +4713,18 @@ curtains only secured at the top and their weight held them down? So
 away and reveals what their purpose was, and what their use was; ⁧שֶׁהֵם תְּקוּעִים בָּאָרֶץ⁩ - That they were fastened into the ground, stuck into the
 ground; ⁧לְכָךְ נִקְרְאוּ יְתֵדוֹת⁩ - That's what they're called ⁧יְתֵדוֹת⁩⁦,⁩ which means
 pins. And then he brings down a ⁧פסוק⁩ from ⁧ישעיה⁩: ⁧וּמִקְרָא זֶה מְסַיְּעֵנִי⁩. That's
-what I thought was quite fascinating. And the ⁧פסוק⁩ in ⁦(ישעיה ל״ג:כ׳)⁩
-that ⁦רש״י⁩#metadata(none) <person-index-rashi-305> brings is: ⁧אֹהֶל בַּל יִצְעָן⁩ - a tent shall not be removed; ⁧בַּל יִסַּע יְתֵדֹתָיו⁩ - And the ⁧יתדות⁩ will never be taken out; ⁧לָנֶצַח⁩ - forever. So the
-last ⁦רש״י⁩#metadata(none) <person-index-rashi-306> in ⁧תרומה⁩⁦,⁩ the last word of that ⁦רש״י⁩#metadata(none) <person-index-rashi-307> is ⁧לָנֶצַח⁩⁦,⁩ forever, and I
-thought this is quite fascinating ⁦(This is my vort, ⁧לענית דעתי⁩⁦,⁩ I hope
-I'm not wrong).⁩ ⁦רש״י⁩'s#metadata(none) <person-index-rashi-308> implication here is that all this ⁧נדיבת לב⁩⁦,⁩ all
-the heartfelt generosity, was given for what? A ⁧משכן⁩ - a temporary
-structure that would only exist during the time ⁧בני ישראל⁩ were in the
-⁧מדבר⁩. How could people be enthusiastic about contributing to something
-with such a finite lifespan? Typically, we donate to causes we believe
-will last for ⁧נצחיות⁩. We want our contributions to have lasting value.
-What is ⁦רש״י⁩#metadata(none) <person-index-rashi-309> teaching us by quoting this ⁧פסוק⁩?
+what I thought was quite fascinating. And the ⁧פסוק⁩ in ⁦ישעיה ל״ג׃כ׳⁩ that
+⁦רש״י⁩#metadata(none) <person-index-rashi-305> brings is: ⁧אֹהֶל בַּל יִצְעָן⁩ - a tent shall not be removed; ⁧בַּל יִסַּע יְתֵדֹתָיו⁩
+\- And the ⁧יתדות⁩ will never be taken out; ⁧לָנֶצַח⁩ - forever. So the last
+⁦רש״י⁩#metadata(none) <person-index-rashi-306> in ⁧תרומה⁩⁦,⁩ the last word of that ⁦רש״י⁩#metadata(none) <person-index-rashi-307> is ⁧לָנֶצַח⁩⁦,⁩ forever, and I
+thought this is quite fascinating ⁦(This is my vort, ⁧לענית דעתי⁩).⁩ ⁦רש״י⁩'s#metadata(none) <person-index-rashi-308>
+implication here is that all this ⁧נדיבת לב⁩⁦,⁩ all the heartfelt
+generosity, was given for what? A ⁧משכן⁩ - a temporary structure that
+would only exist during the time ⁧בני ישראל⁩ were in the ⁧מדבר⁩. How could
+people be enthusiastic about contributing to something with such a
+finite lifespan? Typically, we donate to causes we believe will last for
+⁧נצחיות⁩. We want our contributions to have lasting value. What is ⁦רש״י⁩#metadata(none) <person-index-rashi-309>
+teaching us by quoting this ⁧פסוק⁩?
 
 Yes, the ⁧משכן⁩ was temporary, but it was the forerunner of both ⁧בתי מקדש⁩.
 Many elements of the ⁧משכן⁩ - the ⁧מנורה⁩⁦,⁩ the ⁧ארון⁩⁦,⁩ ⁧מזבח הזהב⁩⁦,⁩ and even
@@ -4761,17 +4762,20 @@ about one, but the second was so fascinating that I had to include it.
 Although unrelated, they both discuss parts of the ⁧משכן⁩.
 
 The first topic relates to the ⁧פסוק⁩ (25:18): ⁧וְעָשִׂיתָ שְׁנַיִם כְּרֻבִים זָהָב מִקְשָׁה תַּעֲשֶׂה אֹתָם מִשְּׁנֵי קְצוֹת הַכַּפֹּרֶת⁩. As we all know, the most important, most holy
-feature of the ⁧משכן⁩ was the ⁧ארון⁩⁦,⁩ in which were the ⁧עשרת הדיברות⁩⁦,⁩ which
-were in the ⁧קודש הקדשים⁩⁦,⁩ which were visited once a year by the ⁧כהן גדול⁩
-when he did the ⁧עבודה⁩ of ⁧יום כיפור⁩. The ⁧ארון⁩ consisted of three boxes, and on its top was a gold slab called the ⁧כפרת⁩. From this slab emerged
-the two ⁧כרובים⁩. There's a tremendous amount of ⁧תורה⁩ concerning these
-⁧כרובים⁩. The ⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-317> raises a startling question that floored
-me, made me think, and I'm delighted to share it with you. It says in
-⁦מסכת מנחות כ״ט ע״א⁩: ⁧תנא דבי רבי ישמעאל שלשה דברים היו קשין לו למשה⁩ - There were three things that ⁧משה⁩ had difficulty with. \[We don't
-understand what that means, but that's what the ⁧גמרא⁩ says\]; ⁧עד שהראה לו הקב״ה באצבעו⁩ - until ⁧הקב״ה⁩ showed him with a finger. \[We don't
-understand what that means either. It's ⁧כביכול⁩⁦,⁩ of course, Hashem has no
-fingers, but it says ⁧באצבע⁩. That's what it says\], and what are they?
-The first one we know, ⁧מנורה⁩. The second one, which we also know, is ⁧ראש חודש⁩. The third one, not quite as famous, is ⁧שרצים⁩⁦,⁩ it's a ⁧בפירוש הגמרא⁩⁦,⁩ as Casey said, you could look it up.
+feature of the ⁧משכן⁩ was the ⁧ארון⁩⁦,⁩ in which were the ⁧לוחות⁩⁦,⁩ which were in
+the ⁧קודש הקדשים⁩⁦,⁩ which were visited once a year by the ⁧כהן גדול⁩ when he
+did the ⁧עבודה⁩ of ⁧יום כיפור⁩. The ⁧ארון⁩ consisted of three boxes, and on
+its top was a gold slab called the ⁧כפרת⁩. From this slab emerged the two
+⁧כרובים⁩. There's a tremendous amount of ⁧תורה⁩ concerning these ⁧כרובים⁩. The
+⁧אוצר פלאות התורה⁩#metadata(none) <person-index-otzer-plo-os-hatorah-317> raises a startling question that floored me, made me
+think, and I'm delighted to share it with you. It says in ⁦מסכת מנחות כ״ט
+ע״א⁩: ⁧תנא דבי רבי ישמעאל שלשה דברים היו קשין לו למשה⁩ - There were three
+things that ⁧משה⁩ had difficulty with. \[We don't understand what that
+means, but that's what the ⁧גמרא⁩ says\]; ⁧עד שהראה לו הקב״ה באצבעו⁩ - until
+⁧הקב״ה⁩ showed him with a finger. \[We don't understand what that means
+either. It's ⁧כביכול⁩⁦,⁩ of course, Hashem has no fingers, but it says
+⁧באצבע⁩. That's what it says\], and what are they? The first one we know, ⁧מנורה⁩. The second one, which we also know, is ⁧ראש חודש⁩. The third one, not quite as famous, is ⁧שרצים⁩⁦,⁩ it's a ⁧בפירוש הגמרא⁩⁦,⁩ as Casey said, you
+could look it up.
 
 Now, what happened with the ⁧מנורה⁩? ⁧משה רבינו⁩ threw a ⁧כיכר⁩ of gold into a
 fire, and the ⁧מנורה נעשה מאליה⁩ - The ⁧מנורה⁩ made itself, as ⁧מדרש תנחומא⁩
@@ -5209,10 +5213,9 @@ There is an interesting discussion in ⁧תוספות⁩⁦,⁩ brought down by 
 or not? We know that there is one on ⁧שבת⁩. But what about ⁧יום טוב⁩⁦?⁩
 
 ⁧תוספות⁩ asks: If ⁧יום טוב⁩ falls on a Sunday, we do not make a ⁧ברכה⁩ on
-⁧בשמים⁩ in ⁧הבדלה⁩. Why not? Because ⁧יום טוב⁩ also has a ⁧נשמה יתרה⁩⁦,⁩ so we
-haven't lost it. However, if ⁧יום טוב⁩ has a ⁧נשמה יתרה⁩⁦,⁩ then why don't we
-say a ⁧ברכה⁩ on ⁧בשמים⁩ when ⁧יום טוב⁩ ends and we transition into ⁧חול⁩? Or
-when ⁧יום טוב⁩ leads into ⁧חול המועד⁩⁦,⁩ which is also ⁧חול⁩?
+⁧בשמים⁩ in ⁧הבדלה⁩ on ⁧מוצאי שבת⁩. Why not? Because ⁧יום טוב⁩ also has a ⁧נשמה יתרה⁩⁦,⁩ so we haven't lost it. However, if ⁧יום טוב⁩ has a ⁧נשמה יתרה⁩⁦,⁩ then
+why don't we say a ⁧ברכה⁩ on ⁧בשמים⁩ when ⁧יום טוב⁩ ends and we transition
+into ⁧חול⁩? Or when ⁧יום טוב⁩ leads into ⁧חול המועד⁩⁦,⁩ which is also ⁧חול⁩?
 
 The ⁧שפת אמת⁩#metadata(none) <person-index-sfas-emes-344> offers an incredible ⁧חידוש⁩. Yes, there is a ⁧נשמה יתרה⁩ on ⁧יום טוב⁩⁦,⁩ but unlike the one on ⁧שבת⁩⁦,⁩ it does not leave us. Why? Because ⁧יום טוב⁩⁦,⁩ as we all know, is ⁧החודש הזה לכם⁩ - it is ⁧מקודש⁩ by us. ⁧שבת⁩⁦,⁩ on the
 other hand, receives its ⁧קדושה⁩ directly from ⁧הקדוש ברוך הוא⁩. Every

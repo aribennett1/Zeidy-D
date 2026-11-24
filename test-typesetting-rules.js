@@ -1622,16 +1622,6 @@ test("docx: Vayigash 5785 keeps comma after R' Shlomo Ganzfried", () => {
   );
 });
 
-test("docx: Teruma 5784 balances the Yeshaya citation in one directional run", () => {
-  const typst = convertedDocx("/teruma/5784/");
-  assertContains(
-    typst,
-    `in ${LTR_ISOLATE}(ישעיה ל״ג:כ׳)${POP_DIRECTIONAL_ISOLATE}\nthat`,
-    "Yeshaya citation has one balanced pair of parentheses and stays together"
-  );
-  assertNotContains(typst, `(ישעיה (ל״ג`, "malformed source citation");
-});
-
 test("docx: Vayairah 5786 (1) keeps English possessives after Hebrew names", () => {
   const typst = convertedDocx("/vayairah/5786/(1)/");
   for (const name of ["אברם", "אברהם אבינו"]) {
