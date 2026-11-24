@@ -150,6 +150,9 @@
   title: [Contents],
   target: heading.where(level: 1),
 )
+// Reserve an unnumbered blank page after the contents.
+#pagebreak()
+#box()
 
 #pagebreak()
 

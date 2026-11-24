@@ -2124,7 +2124,7 @@ async function loadEntries(options) {
     ...allRoutes.filter(
       (route) =>
         !frontMatterRouteSet.has(route) &&
-        route !== "/bloopers/" && route !== "/final-sefer/" &&
+        route !== "/bloopers/" && route !== "/cover/" && route !== "/final-sefer/" &&
         byRoute[route]?.baseFilename
     ),
   ];
@@ -2559,6 +2559,9 @@ function renderTypstDocument(entries, options, indexState = null) {
   title: [Contents],
   target: heading.where(level: 1),
 )
+// Reserve an unnumbered blank page after the contents.
+#pagebreak()
+#box()
 `);
   }
 
