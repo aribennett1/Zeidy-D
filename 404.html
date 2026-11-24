@@ -5,7 +5,8 @@
     <meta charset="UTF-8" />
     <title>Zeidy D's Parsha Sheets</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="/styles.css?v=2" />
+    <link rel="stylesheet" href="/site-search.css?v=2" />
     <link rel="icon" href="/favicon.png" />
     <link rel="stylesheet" href="/pdf-reader.css" />
   </head>
@@ -22,12 +23,18 @@
           <span></span>
         </button>
         <h1>Zeidy D's Parsha Sheets</h1>
-        <button type="button" id="site-search-open" class="site-search-open" aria-haspopup="dialog">Search sheets</button>
       </header>
 
       <div class="main-wrapper">
         <div class="nav-overlay" id="nav-overlay"></div>
-        <nav id="nav" aria-label="Navigation"></nav>
+        <nav id="nav" aria-label="Navigation">
+          <section class="site-search" aria-label="Search sheets">
+            <div class="search-toolbar"><label for="sheet-query">Search the sheets</label><button type="button" class="search-close" aria-label="Close search" hidden>Done <span aria-hidden="true">×</span></button></div>
+            <div class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><input id="sheet-query" type="search" aria-label="Search by topic, name, parsha, or year" placeholder="Topic, name, parsha…" autocomplete="off" aria-controls="sheet-search-results"></div>
+            <div class="search-body" hidden><p class="search-status" role="status" aria-live="polite"></p><div class="search-results" id="sheet-search-results"></div></div>
+          </section>
+          <div id="nav-tree"></div>
+        </nav>
         <main>
           <header>
             <h1 id="title">Select a Parsha</h1>
@@ -43,7 +50,7 @@
       </div>
     </div>
 
-    <script src="/script.js"></script>
-    <script type="module" src="/site-search.mjs"></script>
+    <script src="/script.js?v=2"></script>
+    <script type="module" src="/site-search.mjs?v=2"></script>
   </body>
 </html>

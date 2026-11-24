@@ -1,0 +1,35 @@
+/* Dedicated stylesheet so search does not depend on an older cached site theme. */
+#nav { transition: width 220ms ease, transform 220ms ease; }
+#nav.search-expanded { width: min(560px, 48vw); background: #f5f7f5; }
+#nav.search-expanded #nav-tree { display: none; }
+#nav .site-search { margin: 0 0 18px; padding: 4px 0 18px; border-bottom: 1px solid #dce3de; color: #213b2d; }
+#nav .search-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 32px; margin-bottom: 9px; }
+#nav .search-toolbar label { font-size: 12px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: #54675a; }
+#nav .search-close { border: 0; background: transparent; color: #45634f; font: inherit; font-size: 13px; padding: 6px 8px; cursor: pointer; border-radius: 6px; }
+#nav .search-close:hover { background: #e2eae4; }
+#nav .search-close span { margin-left: 7px; font-size: 19px; vertical-align: -1px; }
+#nav .search-field { display: flex; align-items: center; gap: 10px; padding: 0 12px; background: #fff; border: 1px solid #cdd7cf; border-radius: 10px; box-shadow: 0 2px 5px #193b2510; }
+#nav .search-field:focus-within { border-color: #487357; box-shadow: 0 0 0 3px #48735720; }
+#nav .search-field svg { width: 19px; height: 19px; flex-shrink: 0; fill: none; stroke: #6b8172; stroke-width: 1.7; }
+#nav #sheet-query { display: block; width: 100%; min-width: 0; height: 46px; border: 0; outline: none; background: transparent; color: #1c3426; font: inherit; font-size: 16px; }
+#nav #sheet-query::placeholder { color: #7c8b81; }
+#nav .search-status { margin: 18px 2px 14px; color: #66796b; font-size: 13px; line-height: 1.6; }
+#nav .search-results { display: grid; gap: 12px; }
+#nav .search-result { margin: 0; padding: 18px; border: 1px solid #dfe6e0; border-radius: 12px; background: #fff; box-shadow: 0 2px 5px #193b2505; }
+#nav .search-result:hover { border-color: #a5b9ac; box-shadow: 0 3px 10px #193b2510; }
+#nav .search-result h3 { display: block; margin: 0 0 6px; padding: 0; font-size: 18px; font-weight: 650; line-height: 1.35; opacity: 1; background: none; cursor: default; }
+#nav .search-result h3::after { content: none; }
+#nav .search-result a, #nav .search-result a:visited { color: #285a3c; text-decoration: none; }
+#nav .search-result a:hover { text-decoration: underline; text-underline-offset: 3px; }
+#nav .search-breadcrumb { margin: 0; color: #7b867e; font-size: 12px; line-height: 1.5; }
+#nav .search-excerpt { margin: 13px 0 0; color: #3e4b42; font-size: 14px; line-height: 1.8; white-space: pre-line; overflow-wrap: anywhere; }
+#nav .search-excerpt mark { background: #f8e6a4; color: #263b2c; border-radius: 3px; padding: 1px 2px; box-decoration-break: clone; }
+#nav .search-results > button { padding: 10px 16px; border: 1px solid #afc2b4; border-radius: 8px; background: #fff; color: #285a3c; font: inherit; cursor: pointer; }
+#nav .site-search button:focus-visible, #nav .search-result a:focus-visible { outline: 3px solid #7c9d85; outline-offset: 3px; }
+#nav .site-search [hidden] { display: none; }
+@media (max-width: 1024px) {
+  #nav.search-expanded { width: min(560px, 100vw); }
+}
+@media (prefers-reduced-motion: reduce) {
+  #nav { transition: none; }
+}

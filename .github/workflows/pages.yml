@@ -28,7 +28,7 @@ jobs:
       - name: Prepare public assets
         run: |
           mkdir _site
-          cp -R index.html 404.html .nojekyll CNAME styles.css script.js site-search.mjs search-text.mjs search-index.json pdf-reader.css pdf-reader.mjs pdf-position.mjs pdf-version.json pdf-versions vendor Files manifest.json routes.json favicon.png Thumbnail.jpg 404.mp4 _site/
+          cp -R index.html 404.html .nojekyll CNAME styles.css script.js site-search.mjs site-search.css search-text.mjs search-index.json pdf-reader.css pdf-reader.mjs pdf-position.mjs pdf-version.json pdf-versions vendor Files manifest.json routes.json favicon.png Thumbnail.jpg 404.mp4 _site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

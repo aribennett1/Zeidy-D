@@ -198,7 +198,7 @@ function createSwitchableVideoEmbeds(
 }
 
 function renderNav(manifest, routes) {
-  const nav = document.getElementById("nav");
+  const nav = document.getElementById("nav-tree");
   nav.innerHTML = "";
   const listItems = [];
 
