@@ -740,3 +740,38 @@ iframe {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+
+/* Search across the sheet archive. */
+.top-header { position: relative; }
+.site-search-open {
+  position: absolute; right: 20px; bottom: 12px; z-index: 3;
+  border: 1px solid #fff9; border-radius: 8px; padding: 9px 16px;
+  color: #fff; background: #15251ee6; font: inherit; cursor: pointer;
+}
+.site-search {
+  width: min(760px, calc(100% - 32px)); max-height: 85dvh;
+  padding: 28px; border: 1px solid var(--border); border-radius: 16px;
+  color: #18221d; background: #fff; box-shadow: 0 20px 80px #0004;
+}
+.site-search::backdrop { background: #14251e99; }
+.search-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.search-top h2 { margin: 0 0 18px; font-size: 24px; }
+.search-close { align-self: flex-start; border: 0; background: #f1f4f2; border-radius: 50%; width: 36px; height: 36px; cursor: pointer; }
+.search-label { display: block; margin-bottom: 8px; font-size: 14px; color: #536158; }
+#sheet-query { width: 100%; padding: 14px 16px; border: 1px solid #9baea1; border-radius: 9px; font: inherit; font-size: 18px; }
+.site-search :focus-visible, .site-search-open:focus-visible { outline: 3px solid #487d5f; outline-offset: 3px; }
+.search-status { font-size: 14px; color: #536158; margin: 16px 0; }
+.search-result { border-top: 1px solid var(--border); padding: 19px 0; }
+.search-result h3 { margin: 0 0 5px; font-size: 19px; }
+.search-result a { color: #23583c; text-decoration: none; }
+.search-result a:hover { text-decoration: underline; }
+.search-breadcrumb { margin: 0; color: #68746b; font-size: 13px; }
+.search-excerpt { white-space: pre-line; margin: 12px 0 0; line-height: 1.7; overflow-wrap: anywhere; }
+.search-excerpt mark { background: #f7e6a1; color: #18221d; border-radius: 2px; }
+@media (max-width: 600px) {
+  .top-header { height: 108px; min-height: 108px; padding-bottom: 44px; }
+  .top-header h1 { margin-left: 34px; font-size: 20px; }
+  nav { top: 108px; max-height: calc(100dvh - 108px); }
+  .site-search-open { bottom: 8px; right: 14px; padding: 7px 13px; }
+  .site-search { width: 100%; max-width: 100%; height: 100dvh; max-height: 100dvh; margin: 0; border: 0; border-radius: 0; padding: 20px; }
+}
