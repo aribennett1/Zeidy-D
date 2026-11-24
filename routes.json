@@ -932,6 +932,12 @@
       "title": "Rabbi Hershel Schachter Haskama",
       "pdfPage": "Rabbi Hershel Schachter.pdf"
     },
+    "/rabbi-peretz-steinberg/": {
+      "contentPath": "07 - Haskamos/03 - Rabbi Peretz Steinberg",
+      "baseFilename": "Rabbi Peretz Steinberg",
+      "title": "Rabbi Peretz Steinberg Haskama",
+      "pdfPage": "Rabbi Peretz Steinberg.pdf"
+    },
     "/biale-rebbe/": {
       "contentPath": "07 - Haskamos/Biale Rebbe",
       "baseFilename": "Biale Rebbe",
@@ -959,12 +965,6 @@
       "baseFilename": "Rabbi Menachem Genack",
       "title": "Rabbi Menachem Genack Haskama",
       "pdfPage": "Rabbi Menachem Genack.pdf"
-    },
-    "/rabbi-peretz-steinberg/": {
-      "contentPath": "07 - Haskamos/Rabbi Peretz Steinberg",
-      "baseFilename": "Rabbi Peretz Steinberg",
-      "title": "Rabbi Peretz Steinberg Haskama",
-      "pdfPage": "Rabbi Peretz Steinberg.pdf"
     },
     "/rabbi-pesach-krohn/": {
       "contentPath": "07 - Haskamos/Rabbi Pesach Krohn",
@@ -1245,12 +1245,12 @@
     "06 - Yom Tov/20 - Rosh Chodesh": "/rosh-chodesh/",
     "07 - Haskamos/01 - Rabbi Oelbaum": "/rabbi-oelbaum/",
     "07 - Haskamos/02 - Rabbi Hershel Schachter": "/rabbi-hershel-schachter/",
+    "07 - Haskamos/03 - Rabbi Peretz Steinberg": "/rabbi-peretz-steinberg/",
     "07 - Haskamos/Biale Rebbe": "/biale-rebbe/",
     "07 - Haskamos/Rabbi Dovid Hoffman": "/rabbi-dovid-hoffman/",
     "07 - Haskamos/Rabbi Dovid Weinberger": "/rabbi-dovid-weinberger/",
     "07 - Haskamos/Rabbi Eliyahu Safran": "/rabbi-eliyahu-safran/",
     "07 - Haskamos/Rabbi Menachem Genack": "/rabbi-menachem-genack/",
-    "07 - Haskamos/Rabbi Peretz Steinberg": "/rabbi-peretz-steinberg/",
     "07 - Haskamos/Rabbi Pesach Krohn": "/rabbi-pesach-krohn/",
     "07 - Haskamos/Rabbi Yaakov Gibber": "/rabbi-yaakov-gibber/",
     "07 - Haskamos/Rabbi Yossi Bennett": "/rabbi-yossi-bennett/",

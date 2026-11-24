@@ -238,6 +238,17 @@ continue through your children, your ⁧אייניקלעך⁩⁦,⁩ and your �
 #pagebreak()
 
 #set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
+#place[#hide[#heading(level: 1)[Rabbi Peretz Steinberg Haskama]]]
+
+#block(width: 100%, height: 100%)[
+  #align(center + horizon)[
+    #image("../../07 - Haskamos/03 - Rabbi Peretz Steinberg/Rabbi Peretz Steinberg.pdf", width: 100%, height: 100%, fit: "contain")
+  ]
+]
+
+#pagebreak()
+
+#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
 #place[#hide[#heading(level: 1)[Biale Rebbe Haskama]]]
 
 #block(width: 100%, height: 100%)[
@@ -384,17 +395,6 @@ New: ] #emph[Pearls from the Torah]
 #block(width: 100%, height: 100%)[
   #align(center + horizon)[
     #image("../../07 - Haskamos/Rabbi Menachem Genack/Rabbi Menachem Genack.pdf", width: 100%, height: 100%, fit: "contain")
-  ]
-]
-
-#pagebreak()
-
-#set page(header: none, footer: none, foreground: pdf-page-number-header(), margin: 0in)
-#place[#hide[#heading(level: 1)[Rabbi Peretz Steinberg Haskama]]]
-
-#block(width: 100%, height: 100%)[
-  #align(center + horizon)[
-    #image("../../07 - Haskamos/Rabbi Peretz Steinberg/Rabbi Peretz Steinberg.pdf", width: 100%, height: 100%, fit: "contain")
   ]
 ]
 
@@ -798,6 +798,13 @@ the Torah he has given over to me.
 My hope is that these vertlach will continue to be learned, repeated, and shared, and that the enthusiasm for Torah with which Zeidy gave them
 over will continue with his children, grandchildren, great-grandchildren, and, b'ezras Hashem, for generations to come.
 
+#pagebreak()
+#set page(header: none, footer: none, foreground: none, margin: 0in)
+#box()
+#pagebreak()
+#image("../../../Cover/Half Title Page.png", width: 100%, height: 100%, fit: "cover")
+#pagebreak()
+#box()
 #pagebreak(to: "odd")
 
 #set page(header: page-number-header(), footer: article-footer("https://zeidyd.com/bereshis/5784/", "../../01 - Bereshis/01 - Bereshis/5784/Bereshis 5784.png"), foreground: none, margin: (

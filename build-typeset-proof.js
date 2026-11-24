@@ -2586,7 +2586,15 @@ function renderTypstDocument(entries, options, indexState = null) {
       ? renderPdfPage(entry, qrRelativePath, pdfTextOverlay)
       : convertDocxToTypst(entry, isFrontMatter ? null : indexState);
     if (options.all && !startedMainMatter && !isFrontMatter) {
-      parts.push(`#pagebreak(to: "odd")
+      const halfTitlePath = path.relative(OUTPUT_DIR, path.join(ROOT_DIR, "Cover/Half Title Page.png")).split(path.sep).join("/");
+      parts.push(`#pagebreak()
+#set page(header: none, footer: none, foreground: none, margin: 0in)
+#box()
+#pagebreak()
+#image(${typstString(halfTitlePath)}, width: 100%, height: 100%, fit: "cover")
+#pagebreak()
+#box()
+#pagebreak(to: "odd")
 `);
       startedMainMatter = true;
     } else if (entry.pdfPageSpread && (index > 0 || options.all)) {

@@ -95,8 +95,8 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ.
 ## MEDIUM - quote surrounded by spaces
 
-- PDF visual text, page 11, יעקב מנחם רבינוביץ, line 17
-  - visual: [page-0011.png](typeset-audit-pages/page-0011.png)
+- PDF visual text, page 12, יעקב מנחם רבינוביץ, line 17
+  - visual: [page-0012.png](typeset-audit-pages/page-0012.png)
   - ‫נ"י‪ ,‬אחדשכ"ט החו"ש‪ ,‬מאוד שמח ליבי בעת שקבלתי העלים מספר אשר יכונה " הדבר בי"‬
   - normalized: נ"י א,חדשכ"ט החו"ש מ,אוד שמח ליבי בעת שקבלתי העלים מספר אשר יכונה " הדבר בי"
 - PDF visual text, page 24, About the Name, line 30
@@ -187,8 +187,8 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0009.png](typeset-audit-pages/page-0009.png)
   - children, your ⁧‫אייניקלעך‬,⁩ and your ⁧‫עיר אייניקלעך‬,⁩ all following ⁧,‫ בנים ובני בנים עוסקים בתורה ובמצוות‬,‫בדרך השם‬
   - normalized: children, your אייניקלעך, and your עיר אייניקלעך, all following , בנים ובני בנים עוסקים בתורה ובמצוותב,דרך השם
-- PDF visual text, page 14, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 9
-  - visual: [page-0014.png](typeset-audit-pages/page-0014.png)
+- PDF visual text, page 15, May all of Klal Yisroel merit a Ksiva V’chasima Tova, and may this Sefer, line 9
+  - visual: [page-0015.png](typeset-audit-pages/page-0015.png)
   - “Hakadosh Boruch Hu Y’shalem S’charam .….”
 - PDF visual text, page 173, deeply embarrassed. Not only had I failed to be   דן לכף זכות ,  but I had also not, line 19
   - visual: [page-0173.png](typeset-audit-pages/page-0173.png)
