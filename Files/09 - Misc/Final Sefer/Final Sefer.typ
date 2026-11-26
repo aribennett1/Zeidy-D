@@ -7995,7 +7995,7 @@ opportunities are.
 
 ⁧פרשת בהעלותך⁩ contains one of the most unusual, if not unique, parts of
 the ⁧תורה⁩ - the famous section of ⁧וַיְהִי בִּנְסֹעַ הָאָרֹן⁩⁦,⁩ which is surrounded by
-two upside-down ⁧נ'⁩s. Nothing else in the ⁧תורה⁩ is remotely similar to
+two upside-down ⁦⁧נ⁩’s⁩. Nothing else in the ⁧תורה⁩ is remotely similar to
 that. The ⁧ספר אפריון⁩ from ⁧ר' שלמה גאנצפריד⁩⁦,⁩ has a short but interesting
 essay regarding this ⁧פרשה⁩ of ⁧וַיְהִי בִּנְסֹעַ הָאָרֹן⁩. He brings a Gemara ⁦(שבת דף
 קט״ו ע״ב)⁩: ⁧תָּנוּ רַבָּנַן: ״וַיְהִי בִּנְסוֹעַ הָאָרוֹן וַיֹּאמֶר מֹשֶׁה״ - פָּרָשָׁה זוֹ עָשָׂה לָהּ הַקָּדוֹשׁ בָּרוּךְ הוּא סִימָנִיּוֹת⁩ - The ⁧גמרא⁩ says that ⁧הקדוש ברוך הוא⁩ made a ⁧סימן מִלְּמַעְלָה וּלְמַטָּה⁩ - at the beginning and at the end, to tell you that this is not in
@@ -8013,14 +8013,14 @@ the phrase ⁧גַּם כׇּל חֳלִי וְכׇל מַכָּה⁩. The ⁧ח
 a total of 100. Therefore, ⁦חז״ל⁩ were ⁧מתקן⁩ to say ⁧מאה ברכות⁩ every day to
 protect us from those 100 ⁧פורעניות⁩ and ⁧קללות⁩.
 
-The two ⁧נ'⁩s are used because two ⁧נ'⁩s is gematria 100. ⁧בזמן הזה⁩ there are
+The two ⁦⁧נ⁩’s⁩ are used because two ⁦⁧נ⁩’s⁩ is gematria 100. ⁧בזמן הזה⁩ there are
 100 ⁧קללות⁩ which have the potential to affect us. Therefore, this ⁧פרשה⁩
 was written between the ⁧תוכחות⁩ of ⁧בחקתי⁩ and ⁧כי תבוא⁩⁦,⁩ not in its proper
 place, to be ⁧מפסיק⁩ between the first ⁧פורעניות⁩ and the second ⁧פורעניות⁩.
-Why are the ⁧נ'⁩s upside down? Because in the future ⁧הקדוש ברוך הוא⁩ will
+Why are the ⁦⁧נ⁩’s⁩ upside down? Because in the future ⁧הקדוש ברוך הוא⁩ will
 switch all the ⁧קללות⁩ into ⁧ברכות⁩. They will then be put in their proper
 place and become ⁧ברכות⁩. So we shouldn't worry about them at all. The two
-⁧נ'⁩s are there to protect us and Im Yirtzeh Hashem, the ⁧יצר הרע⁩ will be
+⁦⁧נ⁩’s⁩ are there to protect us and Im Yirtzeh Hashem, the ⁧יצר הרע⁩ will be
 ⁧בטל⁩. And that will be, as the ⁧אפריון⁩ says in his last four words, ⁧לטוב לנו במהרה בימינו⁩.
 
 Im Yirtzeh Hashem, we should hear only good news. As I'm taping this, it

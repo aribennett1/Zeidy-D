@@ -3100,3 +3100,12 @@ test("docx: Mishpatim 5783 lists shibud before yetziyas Mitzrayim left to right"
   assertNotContains(typst, `${RTL_ISOLATE}שִׁעבּוּד מצרים, יציאת מצרים${POP_DIRECTIONAL_ISOLATE}`,
     "the items must not merge into one RTL list");
 });
+
+test("docx: Behaloscha 5784 displays nun before its apostrophe-s suffix", () => {
+  const typst = convertedDocx("/behaloscha/5784/");
+  assertContains(typst,
+    `upside-down ${LTR_ISOLATE}${RTL_ISOLATE}נ${POP_DIRECTIONAL_ISOLATE}’s${POP_DIRECTIONAL_ISOLATE}. Nothing`,
+    "LTR wrapper keeps the apostrophe-s after the Hebrew nun");
+  assertNotContains(typst, `${RTL_ISOLATE}נ'${POP_DIRECTIONAL_ISOLATE}s`,
+    "apostrophe must not remain inside the RTL letter run");
+});

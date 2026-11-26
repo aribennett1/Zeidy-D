@@ -2229,6 +2229,13 @@ function convertDocxToTypst(entry, indexState = null) {
   );
   const indexedBody = indexState ? tagPersonIndexMentions(body, indexState) : body;
   const formattedBody = normalizeRtlBulletLists(applyTextRules(indexedBody));
+  if (entry.route === "/behaloscha/5784/") {
+    // The English suffix belongs after the Hebrew letter in LTR order.
+    return formattedBody.replace(
+      /\u2067נ['’]\u2069s/gu,
+      `${LTR_ISOLATE}${RTL_ISOLATE}נ${POP_DIRECTIONAL_ISOLATE}’s${POP_DIRECTIONAL_ISOLATE}`
+    );
+  }
   if (entry.route === "/mishpatim/5783/") {
     // These are separate items in an English list: preserve LTR item order.
     return formattedBody.replace(
