@@ -9010,16 +9010,19 @@ than that, he knew ⁧הלכה⁩ and he knew the Torah cold. He knew that there
 is a ⁧מדת הרחמים⁩ and he knew that there's a ⁧מדת הדין⁩. Exactly correlating
 with the ⁧מדת הרחמים⁩ and ⁧מדת הדין⁩ are the names of ⁧הקדוש ברוך הוא⁩. He
 wanted to be ⁧מעורר דין על כלל ישראל⁩ and use the names of Hashem which
-are ⁧מעורר דין⁩. The two names which are the most famous for ⁧דין⁩⁦,⁩ we all
-know ⁧אלקים⁩. ⁧אלקים⁩ is ⁧מדת הדין⁩. And believe it or not, the name ⁧קה, י-ה⁩, also is ⁧מדת הדין⁩. He brings ⁧ראיות⁩ for that, we'll skip those for the
-moment. When ⁧בלעם⁩ wanted to say ⁧אלקים⁩⁦,⁩ Hashem stopped him mid-sentence, and knocked off his ⁧אלקים⁩ as if he had a bridle in his mouth and it came
-out ⁧קל⁩. ⁧קל⁩ is a ⁧שם⁩ of ⁧רחמים⁩. When he wanted to say the name of ⁧קה⁩⁦,⁩ which is another ⁧שם⁩ of ⁧דין⁩⁦,⁩ Hashem pulled his tongue and added on the
-⁧ו-ה⁩ and made it ⁧י-ק-ו-ק⁩, which is ⁧מדת הרחמים⁩. So that's what ⁧בלעם⁩ says
-(23:8), ⁧מָה אֶקֹּב לֹא קַבֹּה קֵל וּמָה אֶזְעֹם לֹא זָעַם ה׳, י-ק-ו-ק⁩. The two names of
-⁧רחמים⁩. ⁧בלעם⁩ was saying “How can I possibly bring a ⁧קללה⁩ on ⁧כלל ישראל⁩
-when the names of ⁧קל⁩ and ⁦הוי״ה⁩ which come to my mouth are a ⁧לשון של חבה⁩⁦,⁩ of loving. ⁧הקדוש ברוך הוא⁩ loves ⁧כלל ישראל⁩. That's what ⁧בלעם⁩ was
-saying. ⁧לֹא אוּכַל לַעֲבֹר אֶת פִּי ה׳ אֱלֹקׇי לַעֲשׂוֹת קְטַנָּה אוֹ גְדוֹלָה⁩ - If I want to use
-a longer name of Hashem that was a ⁧מדת הדין⁩⁦,⁩ Hashem would chop my
+are ⁧מעורר דין⁩. Of the two names which are the most famous for ⁧דין⁩⁦,⁩ we
+all know ⁧אלקים⁩. ⁧אלקים⁩ is ⁧מדת הדין⁩. And believe it or not, the name ⁧קה, י-ה⁩, also is ⁧מדת הדין⁩. He brings ⁧ראיות⁩ for that, we'll skip those for
+the moment. When ⁧בלעם⁩ wanted to say ⁧אלקים⁩⁦,⁩ Hashem stopped him
+mid-sentence, and knocked off his ⁧אלקים⁩ as if he had a bridle in his
+mouth and it came out ⁧קל⁩. ⁧קל⁩ is a ⁧שם⁩ of ⁧רחמים⁩. When he wanted to say
+the name of ⁧קה⁩⁦,⁩ which is another ⁧שם⁩ of ⁧דין⁩⁦,⁩ Hashem pulled his tongue and
+added on the ⁧ו-ה⁩ and made it ⁧י-ק-ו-ק⁩, which is ⁧מדת הרחמים⁩. So that's
+what ⁧בלעם⁩ says (23:8), ⁧מָה אֶקֹּב לֹא קַבֹּה קֵל וּמָה אֶזְעֹם לֹא זָעַם ה׳, י-ק-ו-ק⁩. The
+two names of ⁧רחמים⁩. ⁧בלעם⁩ was saying “How can I possibly bring a ⁧קללה⁩ on
+⁧כלל ישראל⁩ when the names of ⁧קל⁩ and ⁦הוי״ה⁩ which come to my mouth are a
+⁧לשון של חבה⁩⁦,⁩ of loving. ⁧הקדוש ברוך הוא⁩ loves ⁧כלל ישראל⁩. That's what ⁧בלעם⁩
+was saying. ⁧לֹא אוּכַל לַעֲבֹר אֶת פִּי ה׳ אֱלֹקׇי לַעֲשׂוֹת קְטַנָּה אוֹ גְדוֹלָה⁩ - If I want to
+use a longer name of Hashem that was a ⁧מדת הדין⁩⁦,⁩ Hashem would chop my
 tongue off. If I want to use the shorter name, Hashem will pull my
 tongue and make it into the longer name of ⁧רחמים⁩.
 

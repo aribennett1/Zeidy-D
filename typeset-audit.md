@@ -49,47 +49,47 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - visual: [page-0182.png](typeset-audit-pages/page-0182.png), [page-0183.png](typeset-audit-pages/page-0183.png), [page-0184.png](typeset-audit-pages/page-0184.png)
   - ⁧לבוש⁩⁦,⁩ a ⁧סכַך⁩⁦,⁩ for the ⁧נשמה⁩. The ⁧פסוק⁩ in ⁦איוב י׳:י״א⁩ describes this: ⁧עוֹר וּבָשָׂר תַּלְבִּישֵׁנִי וּבַעֲצָמוֹת וְג...
   - normalized: לבוש, a סכַך, for the נשמה. The פסוק in איוב י׳:י״א describes this: עוֹר וּבָשָׂר תַּלְבִּישֵׁנִי וּבַעֲצָמוֹת וְגִידִים תְּשֹׂכְ...
-- Typst source, page 286, Pinchas 5785, line 9323
+- Typst source, page 286, Pinchas 5785, line 9326
   - visual: [page-0286.png](typeset-audit-pages/page-0286.png), [page-0287.png](typeset-audit-pages/page-0287.png)
   - א׳:ג׳)⁩: ⁧וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ⁩ -...
   - normalized: א׳:ג׳): וַיְצַו אֶת שְׁלֹמֹה בְנוֹ לֵאמֹר אָנֹכִי הֹלֵךְ בְּדֶרֶךְ כׇּל הָאָרֶץ - I'...
-- Typst source, page 293, Matos-Maasei 5785, line 9538
+- Typst source, page 293, Matos-Maasei 5785, line 9541
   - visual: [page-0293.png](typeset-audit-pages/page-0293.png), [page-0294.png](typeset-audit-pages/page-0294.png)
   - shouldn't daven that her son would die. It's brought down in ⁦מכות ב:ו⁩:
   - normalized: shouldn't daven that her son would die. It's brought down in מכות ב:ו:
-- Typst source, page 297, Devarim 5784, line 9713
+- Typst source, page 297, Devarim 5784, line 9716
   - visual: [page-0297.png](typeset-audit-pages/page-0297.png)
   - pasuk in ⁦זכריה א׳:ט״ז⁩: ⁧שַׁבְתִּי לִירוּשָׁלַם בְּרַחֲמִים⁩. Another is what we say three
   - normalized: pasuk in זכריה א׳:ט״ז: שַׁבְתִּי לִירוּשָׁלַם בְּרַחֲמִים. Another is what we say three
-- Typst source, page 309, Eikev 5784, line 10124
+- Typst source, page 309, Eikev 5784, line 10127
   - visual: [page-0309.png](typeset-audit-pages/page-0309.png), [page-0310.png](typeset-audit-pages/page-0310.png)
   - א׳:ב׳)⁩⁩, and then it says ⁧אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם ⁦(ישעיהו נ״א:י״ב)⁩⁩ lat...
   - normalized: א׳:ב׳), and then it says אָנֹכִי אָנֹכִי הוּא מְנַחֶמְכֶם                  later on
-- Typst source, page 362, Mussaf Yom Tov 5783, line 11836
+- Typst source, page 362, Mussaf Yom Tov 5783, line 11839
   - visual: [page-0362.png](typeset-audit-pages/page-0362.png)
   - ...⁧שֵׁשׁ כְּנָפַיִם שֵׁשׁ כְּנָפַיִם לְאֶחָד⁩ - six wings, as is brought down in ⁦ישעיהו ו׳:ב׳⁩. However, there is another pasuk in ⁦יחזקאל א׳:ו׳⁩ which says ⁧וְאַר...
   - normalized: ...כְּנָפַיִם שֵׁשׁ כְּנָפַיִם לְאֶחָד - six wings, as is brought down in ישעיהו ו׳:ב׳. However, there is another pasuk in יחזקאל א׳:ו׳ which says וְאַרְבַּע כְּנָפַ...
-- Typst source, page 371, Dvar Torah Pesach 5785, line 12177
+- Typst source, page 371, Dvar Torah Pesach 5785, line 12180
   - visual: [page-0370.png](typeset-audit-pages/page-0370.png), [page-0371.png](typeset-audit-pages/page-0371.png)
   - ...en a single line from the ⁧משנה⁩ in ‪‫מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ‬ ‫:סנהדרין‬ (ב׳:ד׳)‬ - A king has the right to break
   - normalized: ...en a single line from the משנה in מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ :סנהדרין         - A king has the right to break
-- Typst source, page 377, Pesach Sheini 5785, line 12384
+- Typst source, page 377, Pesach Sheini 5785, line 12387
   - visual: [page-0377.png](typeset-audit-pages/page-0377.png)
   - ט׳:ז׳)⁩⁩? Why should we be left out? Why
   - normalized: ט׳:ז׳)? Why should we be left out? Why
-- Typst source, page 384, Shavuos 5784, line 12631
+- Typst source, page 384, Shavuos 5784, line 12634
   - visual: [page-0384.png](typeset-audit-pages/page-0384.png), [page-0385.png](typeset-audit-pages/page-0385.png)
   - א:נ״ו)⁩ that at ⁧הר סיני⁩⁦,⁩ ⁧כלל ישראל⁩ was sleeping. They went to sleep that
   - normalized: א:נ״ו) that at הר סיני, כלל ישראל was sleeping. They went to sleep that
-- Typst source, page 401, Elul 5785, line 13178
+- Typst source, page 401, Elul 5785, line 13181
   - visual: [page-0401.png](typeset-audit-pages/page-0401.png)
   - כ״ז:ד׳)⁩⁩. What does ⁧דוד המלך⁩ mean by ⁧כׇּל יְמֵי חַיַּי⁩⁦?⁩
   - normalized: כ״ז:ד׳). What does דוד המלך mean by כׇּל יְמֵי חַיַּי?
-- Typst source, page 457, Krovitz, line 15078
+- Typst source, page 457, Krovitz, line 15081
   - visual: [page-0457.png](typeset-audit-pages/page-0457.png)
   - קי״ב:ב׳)⁩
   - normalized: קי״ב:ב׳)
-- Typst source, page 465, Purim 5785, line 15298
+- Typst source, page 465, Purim 5785, line 15301
   - visual: [page-0465.png](typeset-audit-pages/page-0465.png), [page-0466.png](typeset-audit-pages/page-0466.png)
   - this connection mean? He brings a ⁧פסוק⁩ from ⁦שמות ד:י״ד⁩: ⁧וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ⁩.
   - normalized: this connection mean? He brings a פסוק from שמות ד:י״ד: וְרָאֲךָ וְשָׂמַח בְּלִבּוֹ.
@@ -177,7 +177,7 @@ The PDF scan uses extracted visual text, so it is useful for catching rendered p
   - normalized: answer “ קרובץis קרובץ לפורים, it’s the thing that we say on פורים.” But what
 ## MEDIUM - space before punctuation in Typst source
 
-- Typst source, page 371, Dvar Torah Pesach 5785, line 12177
+- Typst source, page 371, Dvar Torah Pesach 5785, line 12180
   - visual: [page-0370.png](typeset-audit-pages/page-0370.png), [page-0371.png](typeset-audit-pages/page-0371.png)
   - ...tten a single line from the ⁧משנה⁩ in ‪‫מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ‬ ‫:סנהדרין‬ (ב׳:ד׳)‬ - A king has the right to break
   - normalized: ...tten a single line from the משנה in מֶּלֶךְ פוֹרֵץ \[גֶדֶר\] לַעֲשׂוֹת לוֹ דֶרֶךְ :סנהדרין (ב׳:ד׳) - A king has the right to break
